@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Tricks"
+    url: /tricks/
+  - title: "Fodboldrytmer"
+    url: /fodboldrytmer/
+  - title: "Blog"
+    url: /blog/
+  - title: "Om"
+    url: /om/

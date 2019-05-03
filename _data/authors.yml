@@ -1,0 +1,36 @@
+lsolesen:
+  name: "Lars Olesen"
+  bio: "Lars Olesen underviser til daglig i fodbold på Vejle Idrætshøjskole og for Dansk Boldspil-Union som C-instruktør. Han har i ti år været med i beskrivergruppen til DBUs Fodboldskole og står bl.a. bag konceptet Fodboldens Legestue med tricks, driblinger og fodboldrytmer."
+  avatar: "/assets/images/authors/default-profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lars@vih.dk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://larsolesen.dk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lsolesen"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lsolesen/"
+nicklas.pyrdol:
+  name: "Nicklas Pyrdol"
+  bio: "Nicklas Pyrdol er en passioneret sportspsykologisk konsulent uddannet fra Syddansk Universitet."
+  avatar: "/assets/images/authors/default-profile.png"
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://dk.linkedin.com/in/nicklas-pyrdol/da"
+mads.davidsen:
+  name: "Mads Davidsen"
+  bio: "Mads Davidsen er director for Ebbe Sand Soccer Academy i Shanghai og UEFA A-licens træner. Læs mere på madsdavidsen.com."
+  avatar: "/assets/images/authors/default-profile.png"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://madsdavidsen.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/madsrdavidsen"
