@@ -6,10 +6,11 @@ header:
   overlay_image: /assets/images/img_7.jpg
   teaser: /assets/images/img_7.jpg
 tags:
+  - fodboldens træningshjælper
 last_modified_at: 2013-02-20T10:48:35Z
 ---
 
-### - Bliv topspiller med Fodboldens Træningshjælper
+## Bliv topspiller med Fodboldens Træningshjælper
 
 > "I denne måned vil jeg blive bedre til at skrue bolden på frispark lige uden for feltet ligesom Beckham."
 

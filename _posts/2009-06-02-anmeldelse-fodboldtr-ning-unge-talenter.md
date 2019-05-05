@@ -38,4 +38,4 @@ Alt det tekniske virkede efter hensigten i min gennemgang, så man sidder ikke t
 Læs mere
 --------
 
-Du kan læse mere om produktet på [All-Round Sport](http://www.all-roundsport.dk/DK-ProdFUTCD.htm)s hjemmeside, hvor du også kan finde videoeksempler fra cd-rommen. Cd-rommen koster 349 kroner. En cd-rom både for begyndertræneren og elitetræneren.
+Du kan læse mere om produktet på [All-Round Sport](http://www.all-roundsport.dk/)s hjemmeside, hvor du også kan finde videoeksempler fra cd-rommen. Cd-rommen koster 349 kroner. En cd-rom både for begyndertræneren og elitetræneren.

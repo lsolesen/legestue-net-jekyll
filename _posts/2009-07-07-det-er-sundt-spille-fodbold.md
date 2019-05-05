@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2009-07-07T08:42:29Z
 ---
 
-Det er efterhånden ved at være gamle nyheder, men det er alligevel værd at nævne igen. Det er sundt at spille fodbold. [Institut for Idræt i København har undersøgt motionsfodbolds effekt på sundheden](http://www.ifi.ku.dk/Forskning/projekter/integreret_fysiologi/pk_fodbold_maend/motionsfodbold/).
+Det er efterhånden ved at være gamle nyheder, men det er alligevel værd at nævne igen. Det er sundt at spille fodbold. [Institut for Idræt i København har undersøgt motionsfodbolds effekt på sundheden](http://www.ifi.ku.dk/).
 
 14 utrænede mænd mellem 20 og 40 år trænede to-tre gange om ugen i tre måneder. I den periode fik de målt nogle sundhedsindikatorer, som fx kondital, styrke, muskelmasse, fedtprocent, kolesterol, insulinfølsomhed og balanceevne. Efter træningsforløbet var alt hvad forskerne målte på blevet bedre.
 

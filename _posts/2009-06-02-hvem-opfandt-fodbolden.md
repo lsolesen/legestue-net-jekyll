@@ -29,6 +29,6 @@ I takt med den engelske kolonisering spredte interessen for spillet sig hastigt 
 Kilder
 ------
 
-- Fodbold og dens fascinerende historie kan findes mange steder, men jeg vil anbefale FIFA’s hjemmeside, hvor en detaljeret engelsk artikel fortæller om [fødslen af verdens bedste spil](http://www.fifa.com/en/history/history/0,1283,1,00.html).
+- Fodbold og dens fascinerende historie kan findes mange steder, men jeg vil anbefale FIFA’s hjemmeside, hvor en detaljeret engelsk artikel fortæller om [fødslen af verdens bedste spil](http://www.fifa.com/).
 - DBU har også deres egen historie om fodbold, men her er der mest fokus på den danske historie og udviklingen herhjemme.
 - Den store danske Encyklopædi (leksikon fra Gyldendal) har også et par glimrende uddybende sider om fodbold.

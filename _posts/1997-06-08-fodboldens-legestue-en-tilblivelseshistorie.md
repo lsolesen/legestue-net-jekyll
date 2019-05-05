@@ -6,6 +6,9 @@ header:
   overlay_image: /assets/images/p20070614_215734a.jpg
   teaser: /assets/images/p20070614_215734a.jpg
 tags:
+  - fodboldens legestue
+  - trick
+  - fodboldens tricks
 last_modified_at: 2013-02-17T10:28:47Z
 ---
 
