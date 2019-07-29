@@ -5,19 +5,21 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.16.4"
-minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes@4.16.5"
+minimal_mistakes_skin    : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
-future: true
+future                   : true
 
 # Site Settings
 locale                   : "da"
 title                    : "Fodboldens Legestue"
 title_separator          : "-"
+subtitle                 : "Fodboldtricks, fodboldrytmer, fodboldlege og fodboldøvelser"
+logo                     : "/android-chrome-192x192.png"
 name                     : "Fodboldens Legestue"
-description              : "Fodboldens Legestue"
-url                      : "https://www.legestue.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Fodboldtricks, fodboldrytmer, fodboldlege og fodboldøvelser"
+url                      : # "https://www.legestue.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/legestue-net-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -81,7 +83,7 @@ analytics:
 author:
   name: "Fodboldens Legestue"
   bio: "Fodboldens Legestues ambition er at gøre fodbold sjovere at spille og kigge på. Det startede med et hæfte med tricks, som vandt Kinnarpsprisen på DBUs Fodboldskole 1996, men er nu blevet et koncept, som er en måde at tænke fodbold på."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "/assets/images/authors/kick.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

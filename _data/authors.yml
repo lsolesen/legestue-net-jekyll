@@ -1,7 +1,7 @@
 lsolesen:
   name: "Lars Olesen"
   bio: "Lars Olesen underviser til daglig i fodbold på Vejle Idrætshøjskole og for Dansk Boldspil-Union som C-instruktør. Han har i ti år været med i beskrivergruppen til DBUs Fodboldskole og står bl.a. bag konceptet Fodboldens Legestue med tricks, driblinger og fodboldrytmer."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "/assets/images/authors/larsolesen.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -18,7 +18,7 @@ lsolesen:
 nicklas.pyrdol:
   name: "Nicklas Pyrdol"
   bio: "Nicklas Pyrdol er en passioneret sportspsykologisk konsulent uddannet fra Syddansk Universitet."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "/assets/images/authors/nicklas-pyrdol.png"
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
@@ -26,7 +26,7 @@ nicklas.pyrdol:
 mads.davidsen:
   name: "Mads Davidsen"
   bio: "Mads Davidsen er director for Ebbe Sand Soccer Academy i Shanghai og UEFA A-licens træner. Læs mere på madsdavidsen.com."
-  avatar: "/assets/images/authors/default-profile.png"
+  avatar: "/assets/images/authors/mads-davidsen.jpg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
