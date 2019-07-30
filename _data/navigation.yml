@@ -6,5 +6,7 @@ main:
     url: /fodboldrytmer/
   - title: "Blog"
     url: /blog/
+  - title: "Inspiration"
+    url: /inspiration/
   - title: "Om"
     url: /om/
