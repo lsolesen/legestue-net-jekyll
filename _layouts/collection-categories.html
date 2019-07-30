@@ -4,20 +4,23 @@ layout: archive
 
 {{ content }}
 
-{% assign tags =  site.tricks | map: 'tags'| uniq %}
+{% assign tags = site[page.collection] | map: 'categories'| uniq %}
 
 <ul class="taxonomy__index">
   {% for tag in tags %}
-    {% for post in site.tricks %}
-      {% if post.tags contains tag %}
+    {% assign i = 0 %}
+    {% for post in site[page.collection] %}
+      {% if post.category contains tag %}
         {% assign i = i | plus:1 %}
       {% endif %}
     {% endfor %}
+    {% if i > 0 %}
     <li>
       <a href="#{{ tag | slugify }}">
         <strong>{{ tag }}</strong> <span class="taxonomy__count">{{ i }}</span>
       </a>
     </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
@@ -25,8 +28,8 @@ layout: archive
   <section id="{{ tag | slugify | downcase }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ tag }}</h2>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
-    {% for post in site.tricks %}
-      {% if post.tags contains tag %}
+    {% for post in site[page.collection] %}
+      {% if post.category contains tag %}
         {% include archive-single.html type=page.entries_layout %}
       {% endif %}
     {% endfor %}
