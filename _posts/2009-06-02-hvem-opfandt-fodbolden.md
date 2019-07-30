@@ -2,9 +2,13 @@
 title: "Hvem opfandt fodbolden?"
 redirect_from: /blog/hvem-opfandt-fodbolden
 language: da
+author: mads.davidsen
 header:
-  overlay_image: /assets/images/img_7.jpg
-  teaser: /assets/images/img_7.jpg
+  overlay_image: /assets/images/hvem-opfandt-fodbolden.jpg
+  teaser: /assets/images/hvem-opfandt-fodbolden.jpg
+categories:
+  - Om
+  - Videnskab
 tags:
   - fodboldhistorie
 last_modified_at: 2013-02-20T10:37:05Z

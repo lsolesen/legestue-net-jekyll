@@ -2,9 +2,8 @@
 title: "Hvad er dine favorit websites?"
 redirect_from: /blog/hvad-er-dine-favorit-websites
 language: da
-header:
-  overlay_image: /assets/images/19soccer_600.jpg
-  teaser: /assets/images/19soccer_600.jpg
+categories:
+  - Webclips
 tags:
   - websites
 last_modified_at: 2013-04-03T17:45:30Z

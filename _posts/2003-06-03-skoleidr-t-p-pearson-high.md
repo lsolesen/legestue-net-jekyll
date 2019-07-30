@@ -1,10 +1,12 @@
 ---
 title: "Skoleidræt på Pearson High"
 redirect_from: /blog/skoleidr-t-p-pearson-high
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20060923_174343.jpg
-  teaser: /assets/images/p20060923_174343.jpg
+  overlay_image: /assets/images/skoleidr-t-p-pearson-high.jpg
+  teaser: /assets/images/skoleidr-t-p-pearson-high.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:26:39Z

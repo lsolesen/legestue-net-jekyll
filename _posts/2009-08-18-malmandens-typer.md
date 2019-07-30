@@ -1,10 +1,9 @@
 ---
 title: "Målmandens typer"
 redirect_from: /content/malmandens-typer
-language: und
-header:
-  overlay_image: /assets/images/full_1795.jpg
-  teaser: /assets/images/full_1795.jpg
+language: da
+categories:
+  - Webclips
 tags:
   - målmand
 last_modified_at: 2009-08-18T20:55:33Z

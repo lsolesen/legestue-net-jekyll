@@ -3,8 +3,10 @@ title: "Anmeldelse: Fodboldtræning - for unge talenter"
 redirect_from: /blog/anmeldelse-fodboldtr-ning-unge-talenter
 language: da
 header:
-  overlay_image: /assets/images/ffut_booklet.jpg
-  teaser: /assets/images/ffut_booklet.jpg
+  overlay_image: /assets/images/anmeldelse-fodboldtr-ning-unge-talenter.jpg
+  teaser: /assets/images/anmeldelse-fodboldtr-ning-unge-talenter.jpg
+categories:
+  - Anmeldelse
 tags:
   - anmeldelse
 last_modified_at: 2013-02-20T10:42:45Z

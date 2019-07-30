@@ -4,9 +4,12 @@ redirect_from: /blog/kunsten-skabe-spilintelligens
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/xavi.png
-  teaser: /assets/images/xavi.png
+  overlay_image: /assets/images/kunsten-skabe-spilintelligens.png
+  teaser: /assets/images/kunsten-skabe-spilintelligens.png
+categories:
+  - Fodboldtræning
 tags:
+  - Fodboldtræning
 last_modified_at: 2013-02-17T10:37:11Z
 ---
 

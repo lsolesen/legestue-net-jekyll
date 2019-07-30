@@ -3,8 +3,9 @@ title: "Legendarisk straf til uduelige spillere"
 redirect_from: /blog/legendarisk-straf-til-uduelige-spillere
 language: da
 header:
-  overlay_image: /assets/images/magath-2.jpg
-  teaser: /assets/images/magath-2.jpg
+  overlay_image: /assets/images/legendarisk-straf-til-uduelige-spillere.jpg
+  teaser: /assets/images/legendarisk-straf-til-uduelige-spillere.jpg
+categories:
 tags:
   - straf
 last_modified_at: 2013-02-14T21:09:43Z

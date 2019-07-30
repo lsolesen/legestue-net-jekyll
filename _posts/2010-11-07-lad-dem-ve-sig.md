@@ -2,16 +2,15 @@
 title: "Lad dem øve sig"
 redirect_from: /content/lad-dem-ve-sig
 language: da
-header:
-  overlay_image: /assets/images/19soccer_600.jpg
-  teaser: /assets/images/19soccer_600.jpg
+categories:
+  - Feedback
 tags:
   - motorisk læring
   - feedback
 last_modified_at: 2013-02-15T09:55:56Z
 ---
 
-#### Vis-forklar-vis eller hold kæft?
+#### Vis - forklar - vis eller hold kæft?
 
 Det er vigtigt at vise tingene, både når man skal sætte dem i gang med en ny øvelse, og når man skal lære dem nye færdigheder. Vi forsøger at give dem en _reference of correctness_.
 

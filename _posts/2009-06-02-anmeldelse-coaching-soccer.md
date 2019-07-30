@@ -3,8 +3,10 @@ title: "Anmeldelse: Coaching Soccer"
 redirect_from: /blog/anmeldelse-coaching-soccer
 language: da
 header:
-  overlay_image: /assets/images/201006081234-1_bert-van-lingen-stopt-als-assistentcoach-bij-rode-duivels.jpg
-  teaser: /assets/images/201006081234-1_bert-van-lingen-stopt-als-assistentcoach-bij-rode-duivels.jpg
+  overlay_image: /assets/images/anmeldelse-coaching-soccer.jpg
+  teaser: /assets/images/anmeldelse-coaching-soccer.jpg
+categories:
+  - Anmeldelse
 tags:
   - anmeldelse
 last_modified_at: 2013-02-20T10:39:58Z

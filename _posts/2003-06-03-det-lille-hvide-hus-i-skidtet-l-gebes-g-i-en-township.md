@@ -1,10 +1,9 @@
 ---
 title: "Det lille hvide hus i skidtet - lægebesøg i en township"
 redirect_from: /blog/det-lille-hvide-hus-i-skidtet-l-gebes-g-i-en-township
-language: und
-header:
-  overlay_image: /assets/images/p20060923_173952.jpg
-  teaser: /assets/images/p20060923_173952.jpg
+language: da
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:27:16Z

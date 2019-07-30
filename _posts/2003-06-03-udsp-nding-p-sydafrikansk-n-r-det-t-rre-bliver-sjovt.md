@@ -3,8 +3,11 @@ title: "Udspænding på sydafrikansk - når det tørre bliver sjovt"
 redirect_from: /blog/udsp-nding-p-sydafrikansk-n-r-det-t-rre-bliver-sjovt
 language: da
 header:
-  overlay_image: /assets/images/p20060923_174319.jpg
-  teaser: /assets/images/p20060923_174319.jpg
+  overlay_image: /assets/images/udsp-nding-p-sydafrikansk-n-r-det-t-rre-bliver-sjovt.jpg
+  teaser: /assets/images/udsp-nding-p-sydafrikansk-n-r-det-t-rre-bliver-sjovt.jpg
+categories:
+  - Fodboldtræning
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:33:33Z

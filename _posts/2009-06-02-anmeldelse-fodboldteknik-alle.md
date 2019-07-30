@@ -2,9 +2,8 @@
 title: "Anmeldelse: Fodboldteknik for alle"
 redirect_from: /blog/anmeldelse-fodboldteknik-alle
 language: da
-header:
-  overlay_image: /assets/images/465141-liverpool_fans.png
-  teaser: /assets/images/465141-liverpool_fans.png
+categories:
+  - Anmeldelse
 tags:
   - anmeldelse
 last_modified_at: 2013-02-20T10:45:10Z

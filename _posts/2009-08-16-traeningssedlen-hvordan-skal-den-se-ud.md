@@ -2,9 +2,8 @@
 title: "Træningssedlen - hvordan skal den se ud?"
 redirect_from: /content/traeningssedlen-hvordan-skal-den-se-ud
 language: da
-header:
-  overlay_image: /assets/images/full_1795.jpg
-  teaser: /assets/images/full_1795.jpg
+categories:
+  - Planlægning
 tags:
   - planlægning
 last_modified_at: 2009-08-18T20:43:52Z

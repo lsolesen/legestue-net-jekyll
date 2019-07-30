@@ -1,10 +1,12 @@
 ---
 title: "Ungdomsturnering på Adcock Stadium"
 redirect_from: /blog/ungdomsturnering-p-adcock-stadium
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20060923_174422.jpg
-  teaser: /assets/images/p20060923_174422.jpg
+  overlay_image: /assets/images/ungdomsturnering-p-adcock-stadium.jpg
+  teaser: /assets/images/ungdomsturnering-p-adcock-stadium.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:27:59Z

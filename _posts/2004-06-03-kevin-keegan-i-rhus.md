@@ -3,8 +3,11 @@ title: "Kevin Keegan i Århus"
 redirect_from: /blog/kevin-keegan-i-rhus
 language: da
 header:
-  overlay_image: /assets/images/keegan_quote.jpg
-  teaser: /assets/images/keegan_quote.jpg
+  overlay_image: /assets/images/kevin-keegan-i-rhus.jpg
+  teaser: /assets/images/kevin-keegan-i-rhus.jpg
+categories:
+  - Fodboldtræning
+  - Oplevelser
 tags:
   - oplæg
 last_modified_at: 2013-02-20T10:35:22Z

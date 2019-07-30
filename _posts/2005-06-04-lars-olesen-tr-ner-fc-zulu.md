@@ -3,8 +3,10 @@ title: "Lars Olesen træner FC Zulu"
 redirect_from: /blog/lars-olesen-tr-ner-fc-zulu
 language: da
 header:
-  overlay_image: /assets/images/zulu.jpg
-  teaser: /assets/images/zulu.jpg
+  overlay_image: /assets/images/lars-olesen-tr-ner-fc-zulu.jpg
+  teaser: /assets/images/lars-olesen-tr-ner-fc-zulu.jpg
+categories:
+  - Om
 tags:
   - undervisning
 last_modified_at: 2013-02-20T10:32:16Z

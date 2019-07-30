@@ -4,8 +4,11 @@ redirect_from: /blog/fodboldgolf-teknik-held-og-koncentration
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/51da34a9-1a8a-417b-848d-44bc24dcde6c.jpg
-  teaser: /assets/images/51da34a9-1a8a-417b-848d-44bc24dcde6c.jpg
+  overlay_image: /assets/images/fodboldgolf-teknik-held-og-koncentration.jpg
+  teaser: /assets/images/fodboldgolf-teknik-held-og-koncentration.jpg
+categories:
+  - Anmeldelse
+  - Oplevelser
 tags:
   - fodboldgolf
 last_modified_at: 2013-02-20T10:41:41Z

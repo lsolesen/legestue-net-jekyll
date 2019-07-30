@@ -3,8 +3,13 @@ title: "Statistik i fodbold"
 redirect_from: /blog/statistik-i-fodbold
 language: da
 header:
-  overlay_image: /assets/images/fifa_beach_soccer_world_cup_2013_qualifier_moscow_by_lilyalex-d56bdm7.jpg
-  teaser: /assets/images/fifa_beach_soccer_world_cup_2013_qualifier_moscow_by_lilyalex-d56bdm7.jpg
+  overlay_image: /assets/images/statistik-i-fodbold.jpg
+  teaser: /assets/images/statistik-i-fodbold.jpg
+categories:
+  - Fodboldtræning
+  - Talentudvikling
+  - Veje til udvikling
+  - Videnskab
 tags:
   - statistik
 last_modified_at: 2013-05-10T08:00:00Z

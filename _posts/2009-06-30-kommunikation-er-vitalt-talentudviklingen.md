@@ -4,8 +4,10 @@ redirect_from: /blog/kommunikation-er-vitalt-talentudviklingen
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/full_1795.jpg
-  teaser: /assets/images/full_1795.jpg
+  overlay_image: /assets/images/kommunikation-er-vitalt-talentudviklingen.jpg
+  teaser: /assets/images/kommunikation-er-vitalt-talentudviklingen.jpg
+categories:
+  - Veje til Udvikling
 tags:
   - talentudvikling
   - kommunikation

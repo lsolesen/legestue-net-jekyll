@@ -4,9 +4,12 @@ redirect_from: /blog/liverpool-youll-never-walk-alone
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/465141-liverpool_fans.png
-  teaser: /assets/images/465141-liverpool_fans.png
+  overlay_image: /assets/images/liverpool-youll-never-walk-alone.png
+  teaser: /assets/images/liverpool-youll-never-walk-alone.png
+categories:
+  - Anmeldelse
 tags:
+  - Anmeldelse
 last_modified_at: 2013-02-20T10:45:42Z
 ---
 

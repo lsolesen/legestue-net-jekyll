@@ -3,8 +3,10 @@ title: "5 mest læste artikler i 2014"
 redirect_from: /blog/5-mest-l-ste-artikler-i-2014
 language: da
 header:
-  overlay_image: /assets/images/lead_original.jpg
-  teaser: /assets/images/lead_original.jpg
+  overlay_image: /assets/images/5-mest-l-ste-artikler-i-2014.jpg
+  teaser: /assets/images/5-mest-l-ste-artikler-i-2014.jpg
+categories:
+  - Webclips
 tags:
   - webclips
 last_modified_at: 2015-01-02T16:18:40Z

@@ -2,13 +2,13 @@
 title: "Speciale: Kontrol og læring af motoriske færdigheder og verbal feedback"
 redirect_from: /blog/speciale-kontrol-og-l-ring-af-motoriske-f-rdigheder-og-verbal-feedback
 language: da
-header:
-  overlay_image: /assets/images/zulu.jpg
-  teaser: /assets/images/zulu.jpg
+categories:
+  - Feedback
+  - Fodboldtræning
+  - Videnskab
 tags:
   - motorisk læring
   - motorisk kontrol
-  - feedback
 last_modified_at: 2013-02-17T10:38:11Z
 ---
 

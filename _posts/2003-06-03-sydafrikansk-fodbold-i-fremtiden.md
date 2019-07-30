@@ -1,10 +1,12 @@
 ---
 title: "Sydafrikansk fodbold i fremtiden"
 redirect_from: /blog/sydafrikansk-fodbold-i-fremtiden
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20060923_174017.jpg
-  teaser: /assets/images/p20060923_174017.jpg
+  overlay_image: /assets/images/sydafrikansk-fodbold-i-fremtiden.jpg
+  teaser: /assets/images/sydafrikansk-fodbold-i-fremtiden.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:32:22Z

@@ -4,8 +4,11 @@ redirect_from: /blog/talentudviklingens-dilemma
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/19soccer_600.jpg
-  teaser: /assets/images/19soccer_600.jpg
+  overlay_image: /assets/images/talentudviklingens-dilemma.jpg
+  teaser: /assets/images/talentudviklingens-dilemma.jpg
+categories:
+  - Talentudvikling
+  - Veje til udvikling
 tags:
   - talentudvikling
 last_modified_at: 2013-02-17T10:36:48Z

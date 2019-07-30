@@ -3,8 +3,10 @@ title: "Anmeldelse: Playing out your mind - viden fra en bog af Alan Goldberg"
 redirect_from: /blog/anmeldelse-playing-out-your-mind-viden-fra-en-bog-af-alan-goldberg
 language: da
 header:
-  overlay_image: /assets/images/goldberg.jpg
-  teaser: /assets/images/goldberg.jpg
+  overlay_image: /assets/images/anmeldelse-playing-out-your-mind-viden-fra-en-bog-af-alan-goldberg.jpg
+  teaser: /assets/images/anmeldelse-playing-out-your-mind-viden-fra-en-bog-af-alan-goldberg.jpg
+categories:
+  - Anmeldelse
 tags:
   - anmeldelse
 last_modified_at: 2013-02-20T10:39:03Z

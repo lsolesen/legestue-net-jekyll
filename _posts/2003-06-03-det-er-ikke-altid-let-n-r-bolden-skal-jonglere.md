@@ -1,10 +1,12 @@
 ---
 title: "Det er ikke altid let når bolden skal jonglere"
 redirect_from: /blog/det-er-ikke-altid-let-n-r-bolden-skal-jonglere
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20060923_174319a.jpg
-  teaser: /assets/images/p20060923_174319a.jpg
+  overlay_image: /assets/images/det-er-ikke-altid-let-n-r-bolden-skal-jonglere.jpg
+  teaser: /assets/images/det-er-ikke-altid-let-n-r-bolden-skal-jonglere.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:26:06Z

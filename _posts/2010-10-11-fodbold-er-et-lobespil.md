@@ -1,11 +1,8 @@
 ---
 title: "Fodbold er et løbespil"
 redirect_from: /content/fodbold-er-et-lobespil
-author: mads.davidsen
 language: da
-header:
-  overlay_image: /assets/images/19soccer_600.jpg
-  teaser: /assets/images/19soccer_600.jpg
+categories:
 tags:
   - analyse
   - kondition

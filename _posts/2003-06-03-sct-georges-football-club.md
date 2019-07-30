@@ -3,8 +3,10 @@ title: "Sct. Georges Football Club"
 redirect_from: /content/sct-georges-football-club
 language: da
 header:
-  overlay_image: /assets/images/p20060923_174219.jpg
-  teaser: /assets/images/p20060923_174219.jpg
+  overlay_image: /assets/images/sct-georges-football-club.jpg
+  teaser: /assets/images/sct-georges-football-club.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:30:44Z

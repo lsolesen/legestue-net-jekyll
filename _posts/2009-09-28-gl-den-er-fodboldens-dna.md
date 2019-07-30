@@ -3,10 +3,10 @@ title: "Glæden er fodboldens DNA"
 redirect_from: /blog/gl-den-er-fodboldens-dna
 language: da
 author: mads.davidsen
-header:
-  overlay_image: /assets/images/full_1795.jpg
-  teaser: /assets/images/full_1795.jpg
+categories:
+  - Talentudvikling
 tags:
+  - Talentudvikling
 last_modified_at: 2013-04-03T17:40:41Z
 ---
 

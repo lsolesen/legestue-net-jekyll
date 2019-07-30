@@ -3,8 +3,10 @@ title: "Powerfodbold"
 redirect_from: /blog/powerfodbold
 language: da
 header:
-  overlay_image: /assets/images/womens-soccer-horizontal.jpg
-  teaser: /assets/images/womens-soccer-horizontal.jpg
+  overlay_image: /assets/images/powerfodbold.jpg
+  teaser: /assets/images/powerfodbold.jpg
+categories:
+  - Anmeldelse
 tags:
   - anmeldelse
 last_modified_at: 2013-02-20T10:28:56Z

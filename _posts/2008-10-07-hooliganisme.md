@@ -4,8 +4,10 @@ redirect_from: /blog/hooliganisme
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/dresden1.jpg
-  teaser: /assets/images/dresden1.jpg
+  overlay_image: /assets/images/hooliganisme.jpg
+  teaser: /assets/images/hooliganisme.jpg
+categories:
+  - Videnskab
 tags:
   - hooliganisme
 last_modified_at: 2013-02-17T21:54:11Z

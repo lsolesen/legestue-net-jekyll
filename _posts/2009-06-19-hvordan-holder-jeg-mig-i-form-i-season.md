@@ -2,9 +2,9 @@
 title: "Hvordan holder jeg mig i form i off-season?"
 redirect_from: /blog/hvordan-holder-jeg-mig-i-form-i-season
 language: da
-header:
-  overlay_image: /assets/images/girls-soccer-cedar-cliff-vs-carlisle-april-16th-2012-b1d4da0ee0609dce.jpg
-  teaser: /assets/images/girls-soccer-cedar-cliff-vs-carlisle-april-16th-2012-b1d4da0ee0609dce.jpg
+categories:
+  - Fodboldtræning
+  - Videnskab
 tags:
   - træning
 last_modified_at: 2013-04-06T20:21:13Z

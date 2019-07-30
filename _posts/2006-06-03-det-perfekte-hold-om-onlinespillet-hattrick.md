@@ -4,8 +4,11 @@ redirect_from: /blog/det-perfekte-hold-om-onlinespillet-hattrick
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/hattrick_trophy_1440x900.jpg
-  teaser: /assets/images/hattrick_trophy_1440x900.jpg
+  overlay_image: /assets/images/det-perfekte-hold-om-onlinespillet-hattrick.jpg
+  teaser: /assets/images/det-perfekte-hold-om-onlinespillet-hattrick.jpg
+categories:
+  - Anmeldelse
+  - Om
 tags:
   - computerspil
 last_modified_at: 2013-02-20T10:29:29Z

@@ -3,8 +3,9 @@ title: "Hvordan lærer man bedst?"
 redirect_from: /content/hvordan-l-rer-man-bedst
 language: da
 header:
-  overlay_image: /assets/images/visible_learning_poster_08.pdf_-_adobe_acrobat_professional.jpg
-  teaser: /assets/images/visible_learning_poster_08.pdf_-_adobe_acrobat_professional.jpg
+  overlay_image: /assets/images/hvordan-l-rer-man-bedst.jpg
+  teaser: /assets/images/hvordan-l-rer-man-bedst.jpg
+categories:
 tags:
   - webclip
   - læring

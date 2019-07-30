@@ -1,13 +1,14 @@
 ---
 title: "Løb jer varme"
 redirect_from: /blog/l-b-jer-varme
-language: und
+language: da
 header:
-  overlay_image: /assets/images/soccer-training-zone.jpg
-  teaser: /assets/images/soccer-training-zone.jpg
-tags:
+  overlay_image: /assets/images/l-b-jer-varme.jpg
+  teaser: /assets/images/l-b-jer-varme.jpg
+categories:
   - Fodboldtræning
-  - Veje til Udvikling
+  - Veje til udvikling
+tags:
   - opvarmning
 last_modified_at: 2013-02-17T22:07:02Z
 ---

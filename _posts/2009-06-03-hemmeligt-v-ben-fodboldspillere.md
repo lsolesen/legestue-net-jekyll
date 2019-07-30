@@ -2,15 +2,15 @@
 title: "Hemmeligt våben for fodboldspillere"
 redirect_from: /blog/hemmeligt-v-ben-fodboldspillere
 language: da
-header:
-  overlay_image: /assets/images/img_7.jpg
-  teaser: /assets/images/img_7.jpg
+categories:
+  - Om
 tags:
-  - fodboldens træningshjælper
+  - Om
+  - Fodboldens Træningshjælper
 last_modified_at: 2013-02-20T10:48:35Z
 ---
 
-## Bliv topspiller med Fodboldens Træningshjælper
+### - Bliv topspiller med Fodboldens Træningshjælper
 
 > "I denne måned vil jeg blive bedre til at skrue bolden på frispark lige uden for feltet ligesom Beckham."
 

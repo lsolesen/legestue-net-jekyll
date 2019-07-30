@@ -3,8 +3,10 @@ title: "Hjælp til at gøre fodbold sjovt!"
 redirect_from: /blog/hj-lp-til-g-re-fodbold-sjovt
 language: da
 header:
-  overlay_image: /assets/images/girls-soccer-cedar-cliff-vs-carlisle-april-16th-2012-b1d4da0ee0609dce.jpg
-  teaser: /assets/images/girls-soccer-cedar-cliff-vs-carlisle-april-16th-2012-b1d4da0ee0609dce.jpg
+  overlay_image: /assets/images/hj-lp-til-g-re-fodbold-sjovt.jpg
+  teaser: /assets/images/hj-lp-til-g-re-fodbold-sjovt.jpg
+categories:
+  - Om
 tags:
   - fodboldens lege
   - fodboldens træningshjælper

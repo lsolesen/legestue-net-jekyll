@@ -1,10 +1,12 @@
 ---
 title: "Omskæringsdilemmaet"
 redirect_from: /blog/omsk-ringsdilemmaet
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20060923_173949.jpg
-  teaser: /assets/images/p20060923_173949.jpg
+  overlay_image: /assets/images/omsk-ringsdilemmaet.jpg
+  teaser: /assets/images/omsk-ringsdilemmaet.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:26:25Z

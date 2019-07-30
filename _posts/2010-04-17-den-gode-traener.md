@@ -3,8 +3,10 @@ title: "Den gode træner?"
 redirect_from: /content/den-gode-traener
 language: da
 header:
-  overlay_image: /assets/images/youth-soccer-indiana.jpg
-  teaser: /assets/images/youth-soccer-indiana.jpg
+  overlay_image: /assets/images/den-gode-traener.jpg
+  teaser: /assets/images/den-gode-traener.jpg
+categories:
+  - Webclips
 tags:
   - træner
 last_modified_at: 2013-02-15T10:31:31Z
@@ -14,6 +16,7 @@ Hvad vil det sige at være en god træner? For at komme tættere på svaret, kan
 
 Hun har spurgt børn i folkeskolen, hvad de vigtigste karakteristika for en god lærer er:
 
+ 
 **Fagligt dygtig**
 Du skal være velforberedt og god til at kommunikere.
 

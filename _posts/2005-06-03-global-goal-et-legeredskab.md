@@ -3,8 +3,10 @@ title: "Global goal - et legeredskab"
 redirect_from: /blog/global-goal-et-legeredskab
 language: da
 header:
-  overlay_image: /assets/images/born_3.jpg
-  teaser: /assets/images/born_3.jpg
+  overlay_image: /assets/images/global-goal-et-legeredskab.jpg
+  teaser: /assets/images/global-goal-et-legeredskab.jpg
+categories:
+  - Anmeldelse
 tags:
   - anmeldelse
   - udstyr

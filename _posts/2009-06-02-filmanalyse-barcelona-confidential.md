@@ -4,8 +4,10 @@ redirect_from: /blog/filmanalyse-barcelona-confidential
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/messi.jpg
-  teaser: /assets/images/messi.jpg
+  overlay_image: /assets/images/filmanalyse-barcelona-confidential.jpg
+  teaser: /assets/images/filmanalyse-barcelona-confidential.jpg
+categories:
+  - Anmeldelse
 tags:
   - film
 last_modified_at: 2013-02-20T10:42:16Z

@@ -3,8 +3,11 @@ title: "Hvad er Fodboldens Udfordring?"
 redirect_from: /blog/hvad-er-fodboldens-udfordring
 language: da
 header:
-  overlay_image: /assets/images/p20070614_215740a.jpg
-  teaser: /assets/images/p20070614_215740a.jpg
+  overlay_image: /assets/images/hvad-er-fodboldens-udfordring.jpg
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
+categories:
+  - Fodboldtricks
+  - Om
 tags:
   - fodboldens udfordring
 last_modified_at: 2014-03-18T13:03:28Z

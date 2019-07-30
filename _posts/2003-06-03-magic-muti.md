@@ -1,10 +1,12 @@
 ---
 title: "Magic muti"
 redirect_from: /blog/magic-muti
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20060923_173952.jpg
-  teaser: /assets/images/p20060923_173952.jpg
+  overlay_image: /assets/images/magic-muti.jpg
+  teaser: /assets/images/magic-muti.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:27:03Z

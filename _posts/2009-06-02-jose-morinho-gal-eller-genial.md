@@ -4,8 +4,10 @@ redirect_from: /blog/jose-morinho-gal-eller-genial
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/jose-mourinho-12.jpg
-  teaser: /assets/images/jose-mourinho-12.jpg
+  overlay_image: /assets/images/jose-morinho-gal-eller-genial.jpg
+  teaser: /assets/images/jose-morinho-gal-eller-genial.jpg
+categories:
+  - Anmeldelse
 tags:
   - om træneren
 last_modified_at: 2013-02-20T10:43:59Z

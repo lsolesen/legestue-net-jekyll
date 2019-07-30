@@ -3,8 +3,9 @@ title: "Ensidig træning skaber hjulbenede fodboldspillere"
 redirect_from: /content/ensidig-tr-ning-skaber-hjulbenede-fodboldspillere
 language: da
 header:
-  overlay_image: /assets/images/garrincha-8.jpg
-  teaser: /assets/images/garrincha-8.jpg
+  overlay_image: /assets/images/ensidig-tr-ning-skaber-hjulbenede-fodboldspillere.jpg
+  teaser: /assets/images/ensidig-tr-ning-skaber-hjulbenede-fodboldspillere.jpg
+categories:
 tags:
   - træning
 last_modified_at: 2013-02-14T21:28:47Z

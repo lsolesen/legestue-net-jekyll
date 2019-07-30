@@ -2,9 +2,8 @@
 title: "Skal spillerne have energidrik?"
 redirect_from: /content/skal-spillerne-have-energidrik
 language: da
-header:
-  overlay_image: /assets/images/19soccer_600.jpg
-  teaser: /assets/images/19soccer_600.jpg
+categories:
+  - Ernæring
 tags:
   - kost
   - væske

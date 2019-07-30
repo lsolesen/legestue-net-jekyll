@@ -1,10 +1,12 @@
 ---
 title: "En køkkenhave blomstrer - en fodboldpraktik"
 redirect_from: /blog/en-k-kkenhave-blomstrer-en-fodboldpraktik
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20060923_174312a.jpg
-  teaser: /assets/images/p20060923_174312a.jpg
+  overlay_image: /assets/images/en-k-kkenhave-blomstrer-en-fodboldpraktik.jpg
+  teaser: /assets/images/en-k-kkenhave-blomstrer-en-fodboldpraktik.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:25:30Z

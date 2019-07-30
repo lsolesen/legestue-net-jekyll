@@ -1,10 +1,8 @@
 ---
 title: "Udstyr til jonglering"
 redirect_from: /content/udstyr-til-jonglering
-language: und
-header:
-  overlay_image: /assets/images/girls-soccer-cedar-cliff-vs-carlisle-april-16th-2012-b1d4da0ee0609dce.jpg
-  teaser: /assets/images/girls-soccer-cedar-cliff-vs-carlisle-april-16th-2012-b1d4da0ee0609dce.jpg
+language: da
+categories:
 tags:
   - anmeldelse
   - udstyr

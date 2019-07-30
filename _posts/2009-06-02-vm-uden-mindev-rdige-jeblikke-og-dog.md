@@ -4,8 +4,10 @@ redirect_from: /blog/vm-uden-mindev-rdige-jeblikke-og-dog
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/621.jpg
-  teaser: /assets/images/621.jpg
+  overlay_image: /assets/images/vm-uden-mindev-rdige-jeblikke-og-dog.jpg
+  teaser: /assets/images/vm-uden-mindev-rdige-jeblikke-og-dog.jpg
+categories:
+  - Oplevelser
 tags:
   - analyse
 last_modified_at: 2013-02-17T21:53:25Z

@@ -1,11 +1,15 @@
 ---
 title: "Den indre dialog"
 redirect_from: /blog/den-indre-dialog
-author: mads.davidsen
 language: da
+author: mads.davidsen
 header:
-  overlay_image: /assets/images/afstressning.jpg
-  teaser: /assets/images/afstressning.jpg
+  overlay_image: /assets/images/den-indre-dialog.jpg
+  teaser: /assets/images/den-indre-dialog.jpg
+categories:
+  - Fodboldtræning
+  - Læring
+  - Veje til udvikling
 tags:
   - mental træning
 last_modified_at: 2013-02-20T10:43:21Z

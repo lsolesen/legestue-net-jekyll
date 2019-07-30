@@ -3,12 +3,12 @@ title: "Fodboldens Legestue - en tilblivelseshistorie"
 redirect_from: /blog/fodboldens-legestue-en-tilblivelseshistorie
 language: da
 header:
-  overlay_image: /assets/images/p20070614_215734a.jpg
-  teaser: /assets/images/p20070614_215734a.jpg
+  overlay_image: /assets/images/fodboldens-legestue-en-tilblivelseshistorie.jpg
+  teaser: /assets/images/fodboldens-legestue-en-tilblivelseshistorie.jpg
+categories:
+  - Om
 tags:
-  - fodboldens legestue
-  - trick
-  - fodboldens tricks
+  - Om
 last_modified_at: 2013-02-17T10:28:47Z
 ---
 

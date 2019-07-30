@@ -3,9 +3,12 @@ title: "Få gratis tips til din træning"
 redirect_from: /blog/f-gratis-tips-til-din-tr-ning
 language: da
 header:
-  overlay_image: /assets/images/soccer_ball.jpg
-  teaser: /assets/images/soccer_ball.jpg
+  overlay_image: /assets/images/f-gratis-tips-til-din-tr-ning.jpg
+  teaser: /assets/images/f-gratis-tips-til-din-tr-ning.jpg
+categories:
+  - Veje til udvikling
 tags:
+  - Veje til udvikling
 last_modified_at: 2015-04-07T15:16:02Z
 ---
 

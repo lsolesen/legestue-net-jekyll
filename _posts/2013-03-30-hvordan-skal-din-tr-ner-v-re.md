@@ -3,8 +3,10 @@ title: "Hvordan skal din træner være?"
 redirect_from: /blog/hvordan-skal-din-tr-ner-v-re
 language: da
 header:
-  overlay_image: /assets/images/soccer-coach.jpg
-  teaser: /assets/images/soccer-coach.jpg
+  overlay_image: /assets/images/hvordan-skal-din-tr-ner-v-re.jpg
+  teaser: /assets/images/hvordan-skal-din-tr-ner-v-re.jpg
+categories:
+  - Fodboldtræning
 tags:
   - trænerrollen
 last_modified_at: 2013-03-30T11:13:36Z

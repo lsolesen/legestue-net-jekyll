@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories
 permalink: /blog/
 title: Fodboldens Legestue
 classes: wide

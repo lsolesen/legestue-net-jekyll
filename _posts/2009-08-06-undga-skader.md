@@ -2,9 +2,7 @@
 title: "Undgå skader"
 redirect_from: /content/undga-skader
 language: da
-header:
-  overlay_image: /assets/images/full_1795.jpg
-  teaser: /assets/images/full_1795.jpg
+categories:
 tags:
   - skadesforebyggelse
   - opvarmning

@@ -3,9 +3,14 @@ title: "Vi vil lære noget!"
 redirect_from: /blog/vi-vil-l-re-noget
 language: da
 header:
-  overlay_image: /assets/images/britain_soccer_cham_627072a.jpg
-  teaser: /assets/images/britain_soccer_cham_627072a.jpg
+  overlay_image: /assets/images/vi-vil-l-re-noget.jpg
+  teaser: /assets/images/vi-vil-l-re-noget.jpg
+categories:
+  - Fodboldtræning
+  - Veje til udvikling
 tags:
+  - Fodboldtræning
+  - Veje til udvikling
 last_modified_at: 2013-03-01T22:04:50Z
 ---
 

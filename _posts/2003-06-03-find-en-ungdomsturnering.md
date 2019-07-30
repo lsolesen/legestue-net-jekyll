@@ -1,10 +1,12 @@
 ---
 title: "Find en ungdomsturnering"
 redirect_from: /blog/find-en-ungdomsturnering
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20060923_174423a.jpg
-  teaser: /assets/images/p20060923_174423a.jpg
+  overlay_image: /assets/images/find-en-ungdomsturnering.jpg
+  teaser: /assets/images/find-en-ungdomsturnering.jpg
+categories:
+  - Oplevelser
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:28:20Z

@@ -1,10 +1,13 @@
 ---
 title: "Fodboldens Tricks"
 redirect_from: /blog/fodboldens-tricks
-language: und
+language: da
 header:
-  overlay_image: /assets/images/p20070614_215728a.jpg
-  teaser: /assets/images/p20070614_215728a.jpg
+  overlay_image: /assets/images/fodboldens-tricks.jpg
+  teaser: /assets/images/fodboldens-tricks.jpg
+categories:
+  - Fodboldtricks
+  - Om
 tags:
   - fodboldtricks
   - videoer
