@@ -9,6 +9,7 @@ categories:
 tags:
   - motorisk læring
   - motorisk kontrol
+  - feedback
 last_modified_at: 2013-02-17T10:38:11Z
 ---
 

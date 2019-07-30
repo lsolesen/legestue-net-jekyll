@@ -4,7 +4,6 @@ title: "Om Fodboldens Legestue"
 permalink: /om/
 excerpt: "Fodboldens Legestues ambition er at gøre fodbold sjovere at spille og kigge på. Det startede med et hæfte med tricks, som vandt Kinnarpsprisen på DBUs Fodboldskole 1996, men er nu blevet et koncept, som er en måde at tænke fodbold på."
 author_profile: true
-author: lsolesen
 ---
 
 Fodboldens Legestues ambition er at gøre fodbold sjovere at spille og kigge på. Det startede med et hæfte med tricks, som vandt Kinnarpsprisen på DBUs Fodboldskole 1996, men er nu blevet et koncept, som er en måde at tænke fodbold på.
