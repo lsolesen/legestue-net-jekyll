@@ -54,18 +54,20 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "lsolesen"
+  username               : "legestue"
 facebook:
-  username               : "lsolesen"
+  username               : "legestue"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Person" # Person or Organization (defaults to Person)
+  type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/legestue"
+    - "https://facebook.com/legestue"
 
 
 # Site search
@@ -77,6 +79,19 @@ analytics:
   provider               : "google" # false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-793671-2"
+
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/legestue"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/legestue"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lsolesen/legestue-net-jekyll"
 
 
 # Site Author
