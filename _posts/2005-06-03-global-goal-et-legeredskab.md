@@ -41,11 +41,11 @@ Vi ser klart de største muligheder for målet hos de yngre spillere, hvor vi ti
 
 Målet ville også med fordel kunne bruges til spiludvikling, hvor de unge virkelig kan få lov at bruge hele deres kreativitet og forsøge at se muligheder i et anderledes redskab.
 
-## [Globalgoal.dk](http://www.globalgoal.dk/)
+## [Global Goal](https://www.manager-shoppen.dk/shop/151-fodboldtraening-og-leg/2562-global-goal---model-new-home/)
 
 Du kan se mere om målets anvendelsesmuligheder på deres ganske informative hjemmeside, som endda har et layout som rammer målgruppen ganske godt.
 
-Hjemmesidenørden ærger sig imidlertid over, at den benytter sig af `frames`, som er et for gammelt kneb til at fastholde menuen i toppen. I dag ville man bruge XHTML, CSS og en eller anden form for SSI. Opfinderne af _Global Goal_ udvikler hele tiden målet, og de er smittende entusiastiske. Når det bliver muligt at spænde nogle trampolinnet for målene i bunden, så vi i stedet har bander, tror jeg, at målet bliver endnu mere anvendeligt - også til den almindelige træning.
+Hjemmesidenørden ærger sig imidlertid over, at den benytter sig af _frames_, som er et for gammelt kneb til at fastholde menuen i toppen. I dag ville man bruge XHTML, CSS og en eller anden form for SSI. Opfinderne af _Global Goal_ udvikler hele tiden målet, og de er smittende entusiastiske. Når det bliver muligt at spænde nogle trampolinnet for målene i bunden, så vi i stedet har bander, tror jeg, at målet bliver endnu mere anvendeligt - også til den almindelige træning.
 
 ## Der gabes over meget - men ikke af kedsomhed
 

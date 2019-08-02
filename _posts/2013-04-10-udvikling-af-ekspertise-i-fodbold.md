@@ -2,7 +2,7 @@
 title: "Udvikling af ekspertise i fodbold"
 redirect_from: /blog/udvikling-af-ekspertise-i-fodbold
 language: da
-excerpt: "Denne artikel er en gennemgang af et videnskabeligt review fra 2012, som tager fat i om der er størst chance for at blive professionel fodboldspiller hvis man starter i en tidlig alder og specialiserer sig gennem fokuseret træning eller om man skal prøve forskellige sportsgrene af og lege med bolden istedet."
+excerpt: "Nicklas Pyrdol gennemgår et videnskabeligt review fra 2012, som tager fat i om der er størst chance for at blive professionel fodboldspiller hvis man starter i en tidlig alder og specialiserer sig gennem fokuseret træning eller om man skal prøve forskellige sportsgrene af og lege med bolden istedet."
 author: nicklas.pyrdol
 categories:
   - Talentudvikling

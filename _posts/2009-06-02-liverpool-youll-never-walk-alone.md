@@ -33,4 +33,4 @@ Vi var på pub (The Park) inden kampen, og her møder man alt fra den 70-årige 
 
 Liverpool er utrolig stolte over sin historie og alle sine titler. Et godt eksempel er fra forrige sæson, hvor klubben vandt Champions League titlen efter et sensationelt comeback mod AC Milan, som førte 3-0 ved pausen. Tilskuerne på Anfield tror på, at Bill Shankly og de 96 mennesker, som blev dræbt på Hillsbrough, var med til at bære holdet frem til sejren - den første i mere end 20 år. Det seneste mesterskab ligger tilbage i sæsonen 1989-90 og en triumf i Premier League er alles drøm i Merseyside klubben.
 
-[Køb Liverpool - You will never walk alone hos Saxo*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/liverpool_illugi-joekulsson_indbundet_9788771187144){: .btn .btn--large .btn--danger}
+[Køb Liverpool - You will never walk alone hos Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/liverpool_illugi-joekulsson_indbundet_9788771187144){: .btn .btn--large .btn--danger}

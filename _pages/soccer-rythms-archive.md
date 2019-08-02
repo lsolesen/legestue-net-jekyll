@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Fodboldrytmer
-excerpt: "Fodboldens Legestue har en ambition om at samle alle fodboldtricks i verden."
+excerpt: "Her beskriver vi afrikansk opvarmning, rytmisk opvarmning og fodboldrytmer, så du kan lave opvarmningen lidt mere spændende."
 permalink: /fodboldrytmer/
 comments: false
 collection: soccerrythms

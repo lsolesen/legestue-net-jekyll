@@ -13,6 +13,14 @@ categories:
 tags:
   - mental træning
 last_modified_at: 2013-02-20T10:43:21Z
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9788770361521/0x500
+    alt: "Viljen til sejr - Harmoni i job, familie og fritid af Arne Nielsson"
+    title: "Viljen til sejr - Harmoni i job, familie og fritid af Arne Nielson"
+    excerpt: "Den tidligere topatlet og verdensmester i toerkano, Arne Nielsson, ved hvad personlig træning kan gøre for én. Som eliteidrætsudøver må man arbejde målrettet med sig selv. Men det samme bør man gøre som erhvervsmand m/k, partner og forælder. Hvis man vil opnå harmoni i tilværelsen. Kodeordene er begejstring, mental træning og coaching. Arne Nielsson trækker på egne erfaringer og går i denne ærlige og direkte bog imod dansk hængemulekultur, jantelovsmentalitet og notorisk berøringsangst over for problemer og forandringer. I stedet taler han indtrængende om værdien af troen på egne evner og modet til at sætte overliggeren højt. Om at anvende drømmen som kickstarter og optimismen som motor i den personlige udvikling. Viljen til sejr henvender sig til alle, der ønsker at blive bedre til det, der er vigtigt i deres tilværelse. Hvad enten det er jobbet, karrieren, parforholdet eller familien – eller det hele på én gang – giver den teknikker og gode råd, der er let anvendelige i den personlige træning. På mange forskellige niveauer, for lægfolk og professionelle."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Uanset om en person dyrker idræt på topplan eller "bare" spiller fodbold i den lokale fodboldklub kræver det træning. Træning for at blive bedre, for at udvikle sig, for at forbedre sit bundniveau. Teknisk og taktisk træning er en væsentlig faktor i fodbold, men også mental træning er vigtigt for at opnå succes. Mental træning kan måske netop være det værktøj, du savner for at blive rigtig god?
@@ -55,3 +63,5 @@ Referencer
 Det er værd at besøge den verdensberømte amerikanske guru, når det gælder personlig udvikling, Anthony Robbins på [www.anthonyrobbins.com](http://www.anthonyrobbins.com/). Han har arbejdet mentalt med de største stjerner i NBA (amerikansk basketball liga) og golf-ikonet, Tiger Woods.
 
 Bogen "Viljen til sejr" af Arne Nielsson kan varmt anbefales som et godt værktøj til at blive klogere på mental træning. I bogen fokuseres dog mest på livet som helhed, og ikke specifikt på den mentale del af fodbold.
+
+{% include feature_row %}
