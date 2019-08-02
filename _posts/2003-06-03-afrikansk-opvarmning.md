@@ -3,8 +3,8 @@ title: "Afrikansk opvarmning"
 redirect_from: /node/245
 language: da
 header:
-  overlay_image: /assets/images/img_7.jpg
-  teaser: /assets/images/img_7.jpg
+  overlay_image: /assets/images/maxresdefault.jpg
+  teaser: /assets/images/maxresdefault.jpg
 tags:
   - fodboldrytmer
 last_modified_at: 2013-01-02T13:43:52Z
