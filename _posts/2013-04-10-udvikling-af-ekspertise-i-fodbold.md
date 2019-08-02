@@ -21,6 +21,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+toc: true
 ---
 
 _Formålet med denne artikel er, at sætte gang i refleksionen hos de af jer, der arbejder med eller interesserer jer for talentarbejdet indenfor fodbold. Artiklen er baseret på et videnskabeligt review fra 2012, lavet af Haugaasen og Jordet fra Norwegian School of Sport Sciences i Oslo. De har gennemgået den tilgængelige litteratur på området og jeg vil belyse de væsentligste punkter og komme med en enkelt kommentar eller to. Udgangspunktet for deres artikel er spørgsmålet om, hvorvidt fodboldspillere skal starte tidligt og have meget fokuseret og målrettet træning for at blive professionelle eller om de kan starte sent, sample forskellige sportsgrene og bruge tid på at lege med bolden og ende som professionelle. Denne artikel kommer ikke til at stå alene, men er starten på det fokus jeg gerne vil lægge på vores tilgang til talentspotting- og udvikling i dansk fodbold._
