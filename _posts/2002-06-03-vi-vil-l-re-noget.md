@@ -26,7 +26,7 @@ Nogle vil måske indvende mod at kalde et skrift på 18 sider for en Bibel. Vore
 
 Vi vil ikke forsøge at afdække virkeligheden i dansk fodbold: "Det er mere vigtigt at skabe virkeligheden end at afdække den." (Nielsen 1999). Fokus er ikke, hvordan fodboldtræningen rundt om i klubberne er, men hvordan den efter vores mening burde være. Vi påberåber os ikke sandheden, selvom vi mener, at noget er mere sandt end andet, ligesom nogle måder at træne på er bedre end andre.
 
-> Så bed han \[Sepp Piontek\] lidt af de forskellige personer og sendte skarpe bemærkninger af sted, samtidig med at han bed i sin pibe. Det har nemlig til alle tider været en væsentlig fordel for en træner, hvis han kan få sine omgivelser til at tro på, at han alene har svarene på, hvordan fodbold skal spilles og forstås. Det giver en enorm respekt. (Per Friman 1998, vores kursivering).
+> Så bed han (Sepp Piontek, red.) lidt af de forskellige personer og sendte skarpe bemærkninger af sted, samtidig med at han bed i sin pibe. Det har nemlig til alle tider været en væsentlig fordel for en træner, hvis han kan få sine omgivelser til at tro på, at han alene har svarene på, hvordan fodbold skal spilles og forstås. Det giver en enorm respekt. (Per Friman 1998, vores kursivering).
 
 Et sandhedskrav afføder efter vores bedste overbevisning ikke en holdbar respekt. Det gør udviklingen gennem en vedvarende refleksion over ens gøren og laden. Til gengæld viger vi ikke tilbage fra at indlade os i en holdningspræget debat om, hvordan fodboldtræningen kan gribes an. Spillerne skal lære mest muligt og glæde sig ved og til træningen.
 
