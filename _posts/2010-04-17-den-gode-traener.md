@@ -16,21 +16,20 @@ Hvad vil det sige at være en god træner? For at komme tættere på svaret, kan
 
 Hun har spurgt børn i folkeskolen, hvad de vigtigste karakteristika for en god lærer er:
 
- 
-**Fagligt dygtig**
-Du skal være velforberedt og god til at kommunikere.
+Fagligt dygtig
+: Du skal være velforberedt og god til at kommunikere.
 
-**Engageret**
-Du skal overbevise eleverne om at stoffet er interessant.
+Engageret
+: Du skal overbevise eleverne om at stoffet er interessant.
 
-**Humoristisk**
-Du må gerne have selvironi og din humor skal skabe en rar atmosfære. Du må **ikke** gøre dig sjov på elevernes bekostning.
+Humoristisk
+: Du må gerne have selvironi og din humor skal skabe en rar atmosfære. Du må **ikke** gøre dig sjov på elevernes bekostning.
 
-**Interesseret i eleverne**
-Du skal udvise interesse for eleverne som mennesker.
+Interesseret i eleverne
+: Du skal udvise interesse for eleverne som mennesker.
 
-**Troværdig**
-Hvis du lover noget, skal du holde det.
+Troværdig
+: Hvis du lover noget, skal du holde det.
 
 Dette er ifølge Helle Bjerregaard de væsentligste punkter for en god lærer i Folkeskolen. 
 

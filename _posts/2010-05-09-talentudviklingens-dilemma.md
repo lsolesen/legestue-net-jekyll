@@ -12,6 +12,14 @@ categories:
 tags:
   - talentudvikling
 last_modified_at: 2013-02-17T10:36:48Z
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9788702192087/0x500
+    alt: "Når talent forpligter"
+    title: "Når talent forpligter"
+    excerpt: "Sammen med en række af Danmarks absolut bedste sportsfolk undersøger en fodboldtræner og en ledelsesforsker i _Når talent forpligter_ hvad det har af konsekvenser, når man ikke primært er motiveret af at vinde, men i stedet føler sig forpligtet af sit talent til at sætte sig spor på anden måde."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Skal der trænes udelukkende elitært eller mere holistisk? Det er fodboldens evige diskussion.
@@ -20,7 +28,7 @@ Når der rundt om i verdens fodboldklubber arbejdes med talentudviklingen skal s
 
 Psykologen Dean Keith Simonton har defineret et talent således:
 
-> \- Talent er en medfødt kapacitet, som giver et individ mulighed for at udvise exceptionelt højt præstationsniveau i et domæne, som kræver specielle færdigheder og træning.
+> Talent er en medfødt kapacitet, som giver et individ mulighed for at udvise exceptionelt højt præstationsniveau i et domæne, som kræver specielle færdigheder og træning.
 
 Problemstillingen går på - hvordan udvikler vi talentet bedst muligt?
 
@@ -33,3 +41,5 @@ FC Barcelona er vel aktuelt verdens mest succesrige klub og havde i Champions Le
 I Danmark tør meget få eller sågar ingen klubber træne rendyrket elitært. Uddannelse ved siden af fodbolden skal skabe det hele menneske, men koster det succes på banen? Det er formentlig umuligt at svare på, da fodbold er så komplekst et spil, at det kræver mange differentierede egenskaber. Det er eksempelvis ikke nok, at du er lynhurtig, som hvis du eksempelvis er 100 meter løber. I fodbold er der både aspekter indenfor det fysiske, motoriske, psykiske, kognitive, antropometriske samt et medfødt talent.
 
 Arbejdskravene i fodboldspillet er så komplekse og afhængige af position, kamp, tid, etc. På den baggrund får den holistiske tankegang medvind. Et intelligent og dannet menneske vil formentlig have en klart større chance for at efterleve de krav, som fodboldspillet kræver for at komme til tops. Omvendt vil kritikerne argumentere for, at de ’skæve typer’, som Zlatan Ibrahimovic ikke vil få plads til deres ego i en holistisk tankegang. Her foregår en implicit ensretning, og det kan gå ud over enerne – de kompromisløse vindertyper, som kun vil fodbolden og vil vinde for enhver pris. Det er som bekendt svært eller sågar umuligt at komme med den endelige opskrift på en succesrig talentudvikling, men at fokusere på den, diskutere den og italesætte den, er første skridt på vejen.
+
+{% include feature_row %}

@@ -16,7 +16,7 @@ last_modified_at: 2013-02-20T10:41:41Z
 
 **I en lille idyllisk svensk landsby, en times kørsel fra København, ligger Sveriges første fodboldgolfbane. Prisen er billig, mulighederne store og underholdningen i top. En dag med fodboldgolf Hinsidan skal ganske enkelt prøves.**
 
-**Flotte forhold**
+## Flotte forhold
 
 Vi tog 7 gutter af sted fra København og ankom en time senere til den skånske natur mellem byerne Hörby og Söderto. Man kunne vælge to forskellige 18 hullers baner, og vi startede med den "nemme". Vi delte os i to hold, for at undgå alt for lang ventetid.
 
@@ -26,7 +26,7 @@ Hullerne har en rimelig størrelse, så bolden uden problemer kan trilles ned i,
 
 Banens par er 72 spark og vi havde både nogle over og under den standard. Efter at have gennemført bane 1 gik vi over til de næste 18 huller, som var markeret med hvide flag. Her var udfordringen noget større og alle huller havde flere steder, hvor man virkelig skulle bruge fuld koncentration for at udføre opgaven optimalt. Der skulle sparkes over en stolpe i 5 meters højde, rammes præcist mellem to sten og flere andre sjove indslag, som dog også kostede adskillige forsøg. Banen var meget sjovere, men scorecardet bagefter afslørede også at sværhedsgraden var langt højere.
 
-**Praktiske råd**
+## Praktiske råd
 
 Hasse, som ejeren hedder, gik med ud på banen og forklarede os reglerne inden kickoff. Største ulempe er at man ikke må anvende fodboldstøvler, kun sko med helt flade såler. Boldene er heldigvis gode, alle af mærket Select og mange er de såkaldte ?Super Brillant?. Ellers er reglerne få, man skal selvfølgelig respektere naturen og holde sig væk fra de indhegnede områder.
 

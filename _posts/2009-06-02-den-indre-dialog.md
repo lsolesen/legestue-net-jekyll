@@ -28,20 +28,20 @@ Jeg bruger selv mental træning og har mærket en stor effekt i mit eget spil. J
 Øvelser
 -------
 
-### Hjemmerutine
+## Hjemmerutine
 
 - Åndedrættet: Læg dig ned og tag en dyb indånding. Hold vejret, mens du langsomt tæller 1-2-3-4. Ånd ud, mens du igen tæller til 4 og ret hele din opmærksomhed mod åndedrættet, mens du puster ud (øvelsen ca. 30 sek.)
 - Visualisering: Se dig selv på fodboldbanen, se dig selv lykkes med et skud, en aflevering osv. Se det samme billede for dig selv, evt. fra en tidligere kamp, hvor du spillede fantastisk. Fremkald billedet igen og igen (ca. 45 sek.)
 - Nøgleord: Luk øjnene, og gentag for dig selv i samme rækkefølge: Jeg kan, jeg tør, jeg vil, jeg føler mig godt spillende, gentag flere gange (ca. 45 sek.)
 - Tilbage til åndedrættet, mærk din vejrtrækning 1-2-3-4 (ca. 15 sek.)
 
-### Før-kamp-rutine
+## Før-kamp-rutine
 
 - Kroppen og dig selv ved nu hvad der skal ske. Du har gennemført din hjemmerutine og nu skal du sætte dig op til kampen. Du skal have den fysiske opvarmning, den tekniske, og under hele forløbet bruges hjemmerutinen i hovedet til at fokusere på åndedrættet og på visualiseringen.
 - Visualiser din første præstation i kampen, se dig selv lykkes. Fremkald følelsen af lykke og succes.
 - Nøgleord: Jeg føler mig klar til kamp, jeg glæder mig til kampen.
 
-### Efter-kamp-rutine
+## Efter-kamp-rutine
 
 - Komme ned: Læg eller sæt dig godt til rette, slap af og træk vejret helt ned i maven. Lyt til åndedrættet, mens du puster langsomt ud.
 - Se for dit indre blik en eller flere af de ting, der lykkedes for dig i kampen (Gentag øvelsen i ca. 30 sek.).

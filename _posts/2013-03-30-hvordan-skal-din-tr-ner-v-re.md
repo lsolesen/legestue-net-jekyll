@@ -14,7 +14,7 @@ last_modified_at: 2013-03-30T11:13:36Z
 
 Jeg har lige siddet og ryddet op i nogle gamle overheads, og der stødte jeg på et par overheads jeg har brugt i forbindelse med kurser for Danmarks Idræts-Forbund om trænerrollen. Her fandt jeg en overhead, der handlede om frafald i idræt. Jeg kan ikke huske hvilken undersøgelse tallene er fra (måske nogen af jer kan hjælpe), men det er i hvert fald ganske tankevækkende.
 
-### Årsager til frafald i idræt
+## Årsager til frafald i idræt
 
 - 50% ikke kontakt nok til træneren
 - 55% ikke opmuntrende nok

@@ -33,7 +33,7 @@ Catalonien er ikke blot en provins i Spanien, men en nation uden at være en sta
 
 Til slut i filmen gennemgår bestyrelsen næste sæsons trup og snakker indkøb og salg af spillere. Højst overraskende er træneren, Frank Riijkaard, ikke med ved mødet, som ledes af Laporta. Bestyrelsen har en ufattelig magt i spansk fodbold, og selvom Laporta har afskaffet enestyre ved hans ankomst sidder de stadig tungt på vægtskålen.
 
-**Bemærkninger**
+## Bemærkninger
 
 Jeg er ikke selv Barcelona-fan, men kunne ganske enkelt ikke undgå at blive grebet af filmen om klubben. En unik oplevelse, hvor man nærmest sidder med til interne møder og får oplysninger om spillere og ting, som normalt aldrig slipper frem i dagens lys.
 

@@ -14,7 +14,7 @@ last_modified_at: 2013-02-17T10:27:03Z
 
 Heksedoktorer og urter med særlige magiske egenskaber er ikke bare en myte. De lever i bedste velgående i sydafrikansk fodbold.
 
-> \- Jeg tror også de gør det i Europa, siger Eddie.
+> Jeg tror også de gør det i Europa, siger Eddie.
 
 Eddie fortæller, at muti kan købes hos den lokale urtesælger (:herbalist), og at muti virker. Det er noget vi tror på, fortsætter Eddie, og vi kan både bruge det i dagligdagen for at skabe bedre harmoni i hjemmet, hvis der er en masse skænderi, eller som et hjælpemiddel på fodboldbanen.
 
@@ -32,20 +32,20 @@ Ingen muti i UPE FCK
 
 Mange gange virker muti, andre gange er det ikke helt så effektfuldt, og så må man forberede sig bedre næste gang, for så har modstanderen været dygtigere. Eddie tror fuldt og fast på det. Han er træner på UPE FCK?s fodboldskole i Port Elizabeth, hvor Roald Poulsen er cheftræner. De har diskuteret det nogle gange, siger Eddie, men Roald tror ikke på det.
 
-> \- Og det til trods for, at han har set det nogle gange både i Zambia og her, siger Eddie med et smil.
+> Og det til trods for, at han har set det nogle gange både i Zambia og her, siger Eddie med et smil.
 
 Flere professionelle hold bruger muti, og de har ansat inyanga'er på fuld tid for at tryne modstanderen. Disse fuldtidstroldmænd kan være betalt helt op til 300.000 rand (kurs 0,75 kr/rand). Eddie tror ikke, at der er nogen tvivl om, at de afrikanske drenge tror på det. Dog bruger UPE FCK ikke muti i kampen for at nå helt til tops.
 
-> \- Som skole kan vi ikke bruge det, men det er tydeligt, at modstanderne bruger muti. Vi har mange gange spillet mod svagere modstandere og haft masser af chancer uden at kunne score. De har brugt muti. Jeg har ikke set nogen af vores spillere bruge muti, tilføjer Eddie.
+> Som skole kan vi ikke bruge det, men det er tydeligt, at modstanderne bruger muti. Vi har mange gange spillet mod svagere modstandere og haft masser af chancer uden at kunne score. De har brugt muti. Jeg har ikke set nogen af vores spillere bruge muti, tilføjer Eddie.
 
 Hvid mands muti
 ---------------
 
 Eddie er kulsort, og han tror utvivlsomt på muti, men hvad siger en hvid englænder, som har været i Sydafrika i 20 år. Keith Hutton træner et multikulturelt hold i Sct. George?s Football Club, men hovedparten af hans spillere er unge og sorte. Keith selv er troende kristen.
 
-> \- Jeg tror ikke på det. Det er noget kulturelt, som overleveres. Mine spillere vil heller bede inden kampen. Vi har flere gange overtaget et omklædningsrum, hvor det foregående hold helt sikkert har brændt muti af. Jeg vil ikke sige, at mine spillere var frastødte, men de kunne ikke lide det.
+> Jeg tror ikke på det. Det er noget kulturelt, som overleveres. Mine spillere vil heller bede inden kampen. Vi har flere gange overtaget et omklædningsrum, hvor det foregående hold helt sikkert har brændt muti af. Jeg vil ikke sige, at mine spillere var frastødte, men de kunne ikke lide det.
 
-> \- Da jeg selv spillede, mens jeg arbejdede i guldminerne, var mit hold helt sort, undtagen mig. Før hver kamp praktiserede holdet muti, men jeg blev altid bedt om at gå. De vidste, at jeg ikke troede på det, og så ville det ikke virke nær så godt. De kunne også finde på at skære hinanden.
+> Da jeg selv spillede, mens jeg arbejdede i guldminerne, var mit hold helt sort, undtagen mig. Før hver kamp praktiserede holdet muti, men jeg blev altid bedt om at gå. De vidste, at jeg ikke troede på det, og så ville det ikke virke nær så godt. De kunne også finde på at skære hinanden.
 
 Jeg overværede en af Sct. Georges kampe og ganske rigtigt. Inden kampen tog spillerne hinanden om skuldrene tæt sammen, og så satte anføreren sig på hug inde i midten af cirklen og bad Gud om hjælp i kampen. Derefter satte en af de sorte spillere sig på hug og lavede en bøn på xhosa, som er det lokale sprog omkring Port Elizabeth for de sorte.
 
@@ -56,4 +56,4 @@ Eddie har ikke ret i, at muti bruges i Danmark, men vi har noget der til forveks
 
 Også bønnens hos Keith genfindes i dansk fodbold, når spillerne på mange hold tager hinanden i hænderne inden kampen og enten lukker øjnene i et halvt minut og koncentrerer sig, eller de råber, at de har tænkt sig at vinde i dag. Det handler om opladning og parathed.
 
-> \- Hvis du tror på muti. Tingene virker ikke, hvis du ikke tror på det, slutter Eddie.
+> Hvis du tror på muti. Tingene virker ikke, hvis du ikke tror på det, slutter Eddie.

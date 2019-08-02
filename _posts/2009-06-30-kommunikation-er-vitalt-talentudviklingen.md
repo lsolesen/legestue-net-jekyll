@@ -61,7 +61,7 @@ Her er følgende seks metoder brugbare:
 - Tal i ressourcesprog ”Vi kan…”
 - Sikr dig, at spillerne forstår den helhed, de er en del af
 
-### Anerkend forskelle i holdninger
+## Anerkend forskelle i holdninger
 
 Kommunikation handler i sin banale forståelse om transport af information. Målet er oftest at overbevise andre med ord. Hver gang du snakker med spillerne har du muligheden for at selektere i dit sprog og ordvalg.
 

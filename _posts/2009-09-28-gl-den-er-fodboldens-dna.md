@@ -12,7 +12,7 @@ last_modified_at: 2013-04-03T17:40:41Z
 
 Fodbold skal ikke nødvendigvis være sjovt, men stimulerende og lærerigt for de unge. På den måde fremelskes glæden ved spillet og det bedste udviklingsmiljø.
 
-> \- ”Jeg tror godt, du kan have topsport uden glæde. Men du når ikke op i det sublime”.
+> ”Jeg tror godt, du kan have topsport uden glæde. Men du når ikke op i det sublime”.
 
 Sådan lyder en udtalelse fra den tidligere danske landsholdsspiller Brian Laudrup i bogen ’Jagten på glæden – og det bedste talentliv’. Glæden ved at dyrke elitesport og ungdomsfodbold er, efter min mening, fodboldens DNA. Den svenske OL-konsulent Ingvar Bengtsson har udtalt, at 90 % af en præstation bygger på de indre energier, mens blot 10 % kommer fra træning, kost og økonomi.
 
