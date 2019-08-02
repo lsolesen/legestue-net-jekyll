@@ -64,4 +64,4 @@ Det er værd at besøge den verdensberømte amerikanske guru, når det gælder p
 
 Bogen "Viljen til sejr" af Arne Nielsson kan varmt anbefales som et godt værktøj til at blive klogere på mental træning. I bogen fokuseres dog mest på livet som helhed, og ikke specifikt på den mentale del af fodbold.
 
-{% include feature_row %}
+{% include feature_row type="left" %}

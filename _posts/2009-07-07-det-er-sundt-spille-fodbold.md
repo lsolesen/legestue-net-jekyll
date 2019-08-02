@@ -15,7 +15,6 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/boldspil-for-livet_peter-rejkjaer-krustrupjens-bangsbo_haeftet_9788771189759"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-
 ---
 
 Det er efterhånden ved at være gamle nyheder, men det er alligevel værd at nævne igen. Det er sundt at spille fodbold. [Institut for Idræt i København har undersøgt motionsfodbolds effekt på sundheden](http://www.ifi.ku.dk/)
@@ -30,7 +29,7 @@ Det er sandsynligvis de alsidige bevægelsesformer i fodbold, der gør udslaget.
 
 Hvis fodboldspillerne i stedet var blevet sammenlignet med folk, der lavede noget mere udfordrende [løbetræning](http://motionsplan.dk/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb) eller noget [kombinationstræning](http://motionsplan.dk/kategori/tags/kombinationstraening) i samme træningsmængde, havde resultaterne nok ikke været så meget bedre.
 
-{% include feature_row %}
+{% include feature_row type="left" %}
 
 Referencer
 ----------

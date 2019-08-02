@@ -35,6 +35,6 @@ Johansson har en unik evne til at vurdere spillet og altid gøre det rigtige i s
 
 En god øvelse, jeg vil anbefale, er 1:1 eller 2:2 med fire stationære bander i en mindre firkant. Det kræver utrolig meget bevægelse fra spillerne, split vision og evnen til hele tiden at vurdere, hvornår skal makkeren have bolden, hvornår skal banden have bolden, hvilke bande, hvornår skal jeg holde på bolden eller hvornår skal jeg drible.
 
-{% include feature_row %}
+{% include feature_row type="left" %}
 
 [Se flere bøger om spilintelligens på Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=spilintelligens)

@@ -42,4 +42,4 @@ I Danmark tør meget få eller sågar ingen klubber træne rendyrket elitært. U
 
 Arbejdskravene i fodboldspillet er så komplekse og afhængige af position, kamp, tid, etc. På den baggrund får den holistiske tankegang medvind. Et intelligent og dannet menneske vil formentlig have en klart større chance for at efterleve de krav, som fodboldspillet kræver for at komme til tops. Omvendt vil kritikerne argumentere for, at de ’skæve typer’, som Zlatan Ibrahimovic ikke vil få plads til deres ego i en holistisk tankegang. Her foregår en implicit ensretning, og det kan gå ud over enerne – de kompromisløse vindertyper, som kun vil fodbolden og vil vinde for enhver pris. Det er som bekendt svært eller sågar umuligt at komme med den endelige opskrift på en succesrig talentudvikling, men at fokusere på den, diskutere den og italesætte den, er første skridt på vejen.
 
-{% include feature_row %}
+{% include feature_row type="left" %}

@@ -101,4 +101,4 @@ Glæd jer til flere artikler om talentudvikling og sportspsykologi i fodbold.
 
 Haugaasen, M. & Jordet, G. (2012). Developing football expertise: A football-specific research review. _International Review of Sport and Exercise Psychology , (5)_, 2, 177-201
 
-{% include feature_row %}
+{% include feature_row type="left" %}
