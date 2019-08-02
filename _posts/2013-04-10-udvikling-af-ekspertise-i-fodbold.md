@@ -21,10 +21,17 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+sidebar:
+  - text: >
+      [![](https://imgcdn.saxo.com/_9788777497711/0x500)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711)
 toc: true
 ---
 
-_Formålet med denne artikel er, at sætte gang i refleksionen hos de af jer, der arbejder med eller interesserer jer for talentarbejdet indenfor fodbold. Artiklen er baseret på et videnskabeligt review fra 2012, lavet af Haugaasen og Jordet fra Norwegian School of Sport Sciences i Oslo. De har gennemgået den tilgængelige litteratur på området og jeg vil belyse de væsentligste punkter og komme med en enkelt kommentar eller to. Udgangspunktet for deres artikel er spørgsmålet om, hvorvidt fodboldspillere skal starte tidligt og have meget fokuseret og målrettet træning for at blive professionelle eller om de kan starte sent, sample forskellige sportsgrene og bruge tid på at lege med bolden og ende som professionelle. Denne artikel kommer ikke til at stå alene, men er starten på det fokus jeg gerne vil lægge på vores tilgang til talentspotting- og udvikling i dansk fodbold._
+Formålet med denne artikel er, at sætte gang i refleksionen hos de af jer, der arbejder med eller interesserer jer for talentarbejdet indenfor fodbold. 
+
+Artiklen er baseret på et videnskabeligt review fra 2012, lavet af Haugaasen og Jordet fra Norwegian School of Sport Sciences i Oslo. De har gennemgået den tilgængelige litteratur på området og jeg vil belyse de væsentligste punkter og komme med en enkelt kommentar eller to. 
+
+Udgangspunktet for deres artikel er spørgsmålet om, hvorvidt fodboldspillere skal starte tidligt og have meget fokuseret og målrettet træning for at blive professionelle eller om de kan starte sent, sample forskellige sportsgrene og bruge tid på at lege med bolden og ende som professionelle. Denne artikel kommer ikke til at stå alene, men er starten på det fokus jeg gerne vil lægge på vores tilgang til talentspotting- og udvikling i dansk fodbold.
 
 ## Talentudvikling vil få større betydning i fodbold
 
@@ -32,7 +39,7 @@ Fodbold er en af verdens største sportsgrene på alle måder og den vokser. På
 
 ## Flere spillere om buddet, giver større krav til de unge
 
-At fodbold er vokset, kan man se på det samlede antal spillere i verden. Den sidste rapport fra FIFA i 2007 viste, at 265 millioner mennesker spillede fodbold, hvilket var en øgning fra 2001 med 20 millioner. 34 millioner mænd er registrerede i en klub eller på et hold, hvilket var en stigning på 23% fra 2001. Dog er antallet af professionelle forblevet på ca.110.000, hvilket betyder at kun 0,3% af alle registrerede mandlige spillere rent faktisk når toppen. Det betyder, at for at kunne nå derop kræver det nu endnu mere af de unge fysisk, teknisk, taktisk og mentalt.
+At fodbold er vokset, kan man se på det samlede antal spillere i verden. Den sidste rapport fra FIFA i 2007 viste, at 265 millioner mennesker spillede fodbold, hvilket var en øgning fra 2001 med 20 millioner. 34 millioner mænd er registrerede i en klub eller på et hold, hvilket var en stigning på 23% fra 2001. Dog er antallet af professionelle forblevet på ca. 110.000, hvilket betyder at kun 0,3% af alle registrerede mandlige spillere rent faktisk når toppen. Det betyder, at for at kunne nå derop kræver det nu endnu mere af de unge fysisk, teknisk, taktisk og mentalt.
 
 ## Udvikling er komplekst
 
