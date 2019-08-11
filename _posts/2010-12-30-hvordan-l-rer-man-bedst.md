@@ -18,6 +18,6 @@ Følgende er ganske vist lavet ift. undervisning i et klasselokale, men kan gara
 > 
 > Ser man på undervisningsmetoder, er det vigtigste, at lærerne lærer eleverne at verbalisere deres læring (at de kan sætte ord på deres læringsproces), at de lærer metakognition (at de får en overordnet forståelse for emnefelter), at eleverne lærer at løse problemer, at de lærer studieteknikker, at man maksimerer den tid, der bruges på læring, og at læreren anvender ’direkte undervisning’ (en metode, hvor læreren starter med at sætte klare mål for lektionen, gennemfører en grundig gennemgang, giver eleverne opgaver, giver feedback på opgaveløsningen og runder det hele af med henblik på, hvad der skal ske i næste lektion).
 > 
-> [Niels Egelund i _Hjælp, vi smed barnet ud med badevandet_](http://politiken.dk/debat/kroniker/ECE1151944/hjaelp-vi-smed-barnet-ud-med-badevandet/)
+> [Niels Egelund i _Hjælp, vi smed barnet ud med badevandet_](https://politiken.dk/debat/kroniken/art5469156/Hj%C3%A6lp-vi-smed-barnet-ud-med-badevandet)
 
 Hvad gør du for at optimere læringen hos dine spillere?

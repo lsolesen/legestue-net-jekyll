@@ -1,6 +1,8 @@
 ---
 title: "Glæden er fodboldens DNA"
-redirect_from: /blog/gl-den-er-fodboldens-dna
+redirect_from: 
+  - /blog/gl-den-er-fodboldens-dna
+  - /content/glaeden-er-fodboldens-dna
 language: da
 author: mads.davidsen
 categories:
