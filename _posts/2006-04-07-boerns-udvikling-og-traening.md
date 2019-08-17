@@ -11,6 +11,7 @@ tags:
   - Børnetræningsmanuel 2006
   - børns udvikling
 last_modified_at: 2015-04-07T15:16:02Z
+toc: true
 ---
 
 I dette kapitel skitseres nogle af de væsentligste udviklingstræk for børn og unge i alderen 5-15 år. Hver enkelt aldersgruppe har nogle generelle kendetegn, men alle børn er unikke og forskellige, og derfor er aldersgrupperne også kun tommelfingerregler for, hvornår børnene er på de forskellige udviklingstrin.
