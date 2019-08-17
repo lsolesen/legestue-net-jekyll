@@ -77,21 +77,9 @@ Der er ikke noget i vejen for, at børn og unge kun spiller fodbold, hvis blot d
 
 ## Perception
 
-Vi opfatter perception som evnen til at opfatte situationen, vurdere handlingsalternativer og beslutte hvilket alternativ, der er det mest hensigtsmæs-
-sige. Selve udførslen kalder vi færdigheder, motorik,
+Vi opfatter perception som evnen til at opfatte situationen, vurdere handlingsalternativer og beslutte hvilket alternativ, der er det mest hensigtsmæssige. Selve udførslen kalder vi færdigheder, motorik, koordination eller teknik. Disse fire stadier er lavet af analytiske årsager, og formentlig er de ikke så adskilte. Desto mere øvelse man får, desto hurtigere kan denne kobling mellem de forskellige stadier laves.
 
-koordination eller teknik. Disse fire stadier er lavet
-
-af analytiske årsager, og formentlig er de ikke så ad-
-skilte. Desto mere øvelse man får, desto hurtigere kan
-
-denne kobling mellem de forskellige stadier laves.
-
-Perceptionen er først udviklet 11-12 årsalderen (Jør-
-gensen, 2006). Yngre børn opfatter ikke så hurtigt, og
-
-de opfatter ofte noget andet end voksne. Fx har de
-vanskeligt ved at overskue en hel fodboldbane.
+Perceptionen er først udviklet 11-12 årsalderen (Jørgensen, 2006). Yngre børn opfatter ikke så hurtigt, og de opfatter ofte noget andet end voksne. Fx har de vanskeligt ved at overskue en hel fodboldbane. 
 
 ![Perceptionscirklen](/assets/images/perceptionscirklen.png)
 
