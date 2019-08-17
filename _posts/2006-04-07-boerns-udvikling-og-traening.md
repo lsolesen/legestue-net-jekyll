@@ -93,7 +93,7 @@ gensen, 2006). Yngre børn opfatter ikke så hurtigt, og
 de opfatter ofte noget andet end voksne. Fx har de
 vanskeligt ved at overskue en hel fodboldbane.
 
-PERCEPTIONSCIRKLEN
+![Perceptionscirklen](/assets/images/perceptionscirklen.png)
 
 ## Kondition
 
