@@ -10,6 +10,22 @@ tags:
   - Børnetræningsmanuel 2006
   - opvarmning
 last_modified_at: 2015-04-07T15:16:02Z
+feature_row:
+  - image_path: https://images-na.ssl-images-amazon.com/images/I/51ePj6gMC8L._SX313_BO1,204,203,200_.jpg
+    alt: "Coordination Agility & Speed Training for Soccer"
+    title: "Coordination Agility & Speed Training for Soccer"
+    excerpt: "Provides drills accompanied by useful tips and understandable instructions with easy to follow diagrams. This book includes: Practical Warm Ups; Drills with the Ball; Drills with Rods and Cones; Running Technique; Plyometric Exercises and more."
+    url: "https://amzn.to/2UDpy85"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+feature_row_lingenm:
+  - image_path: https://images-na.ssl-images-amazon.com/images/I/51XTXvcCymL._SX335_BO1,204,203,200_.jpg
+    alt: "Coaching Soccer: The Official Coaching Book of the Dutch Soccer Association"
+    title: "Coaching Soccer: The Official Coaching Book of the Dutch Soccer Association"
+    excerpt: "This book is used throughout Holland as the foundation for coaching soccer. Chapters include: What is Coaching?, Reading the Game, The Dutch Concept, Teaching Techniques, What is 4v4?, Why 7v7?, Goalkeeper Training"
+    url: "https://amzn.to/2N8BTjV"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Opvarmning er en aktivitet, der er før hovedaktiviteten. Børn skal også varme op af de samme årsager som voksne, men de er jo noget mindre, så de behøver ikke varme op så længe. Vi anbefaler en opvarmning på omkring 10-15 minutter, som opfylder nedenstående kriterier.
@@ -34,7 +50,7 @@ Skriv dit navn, mens du løber fremad med bolden. Prøv at skrive det så småt,
 
 Italienerne er dygtige til koordination; træn det på italiensk i opvarmningen med en masse koordinationsøvelser. Opstil en koordinationsbane, hvor man skal løbe på forskellige måder igennem. fx med høje knæløft over kegler; drible gennem kegler med forskellige betingelser; jonglere mellem to kegler; lave balancer med bolden; hollænderhop mellem to kegler, hvor man springer frem på højre, et lille tilbagehop, springer frem på venstre, et lille tilbagehop og så fremdeles. Kig fx i _Koordinationstræning og løbeskoling_ (Sejerup, 2000) og sammensæt et godt italiensk opvarmningsprogram. Spillerne vil elske det
 
-### Lynlåsen (Schreiner, 2000)
+### Lynlåsen ([Schreiner](https://amzn.to/2UDpy85), 2000)
 
 **Organisation.** Lynlåsen er en glimrende ramme til en varieret opvarmning. Der stilles fire kegler op i en rhombe-form. Spillerne stiller op i to rækker bag keglerne på den bredeste side. Spillerne løber op ad langsiden, hvor de kan lave forskellige koordinationsøvelser. Når de kommer til keglen drejer de om keglen og løber diagonalt for at komme ned og stå i den anden række. I midten skal spillerne altså afpasse deres fart efter holdkammerater, så de fletter ind i hinanden. Øvelsen kan laves med og uden bold.
 
@@ -53,6 +69,8 @@ Italienerne er dygtige til koordination; træn det på italiensk i opvarmningen 
 - Mulighederne er nærmest uudtømmelige.
 
 ![](/assets/images/posts/screiner.png)
+
+{% include feature_row type="left" %}
 
 ### Memoryopvarmning
 
@@ -78,7 +96,7 @@ Italienerne er dygtige til koordination; træn det på italiensk i opvarmningen 
 
 **Variationer.** Denne leg kan varieres på utallige madder, og træneren kan også inddrage bolden. Med bold vil Snik under Snak blive til, at Snik skal have bolden gennem benene på Snak.
 
-### Byspillet (Lingen, 1997)
+### Byspillet ([Lingen](https://amzn.to/2N8BTjV), 1997)
 
 **Organisation.** Lav en stor firkant (20 x 20 meter). I hvert hjørne af den store firkant laves ud fra firkanten en lille firkant på 4 x 4 meter. Hver af de lille firkanter får et bynavn. Fx Rønne, Aalborg, Odense og København. Hver spiller får hver sin bold og fordeler sig ligeligt på byerne.
 
@@ -93,6 +111,8 @@ Italienerne er dygtige til koordination; træn det på italiensk i opvarmningen 
 - Alle spillerne løber rundt ude i vandet, mens de laver svømmebevægelser. Hvem kommer først hen til Rønne?
 - Et par spillere er fangere, og resten skal forsøge at komme hen til nye byer.
 - Du kan ændre banens dimensioner. Fx kan du introducere en ø midt i vandet.
+
+{% include feature_row_lingen type="left" %}
 
 ### Spil i firkant
 
