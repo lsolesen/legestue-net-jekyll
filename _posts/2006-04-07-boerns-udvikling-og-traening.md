@@ -12,6 +12,29 @@ tags:
   - børns udvikling
 last_modified_at: 2015-04-07T15:16:02Z
 toc: true
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9780736069489/0x500
+    alt: "Developing Youth Football Players"
+    title: "Developing Youth Football Players"
+    excerpt: "_Developing Youth Football Players_ is a comprehensive guide for coaches of players aged 7-14 that provides specific coaching instruction at various levels of development. The book presents coaching philosophies, skill instruction and practice games for players in three age groups: 7 years and up, 10 years and up, and 12 years and up. More than 150 games and exercises and 10 competitions are spread among four development levels to provide a sound, proven and progressive system to help young players improve. Coaching instruction is provided on how to teach and interact with young players to help ensure the children continue enjoying the game. The book is aimed specifically at international youth football coaches and organisations, as well as parents of young international football players."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/developing-youth-football-players_horst-wein_paperback_9780736069489"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+feature_row_aldersrelateret:
+  - image_path: https://imgcdn.saxo.com/_9788798388012/0x500
+    alt: "Aldersrelateret træning - målrettet og forsvarlig træning af børn og unge"
+    title: "Aldersrelateret træning - målrettet og forsvarlig træning af børn og unge"
+    excerpt: "Fremragende bog om at træne unge mennesker på en målrettet og forvarlig måde. Bogen gør op med nogle af de traditionelle myter om træning af børn og unge."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://imgcdn.saxo.com/_9788776910570/0x500
+    alt: "Leg, læring og mestring - Fodboldtræning af de 5–10 årige. En fodboldbog med overvejelser, ideer og holdninger"
+    title: "Leg, læring og mestring - Fodboldtræning af de 5–10 årige. En fodboldbog med overvejelser, ideer og holdninger"
+    excerpt: "Freddy Jørgensens bog er uundværlig for enhver fodboldtræner i dagens Danmark. Den fortæller, hvor vigtig legen er, når de mindste børn skal lære at spille fodbold. Samtidig forklarer den kort og præcist, hvordan man som træner kan træne børnene, så man både tilgodeser det sociale og det konkurrencemæssige aspekt. Der er masser af gode råd og praktiske øvelser, og bogen indeholder masser af fine illustrationer til inspiration. Hvis dansk fodbold fortsat skal være kendt for kreativitet og leg, bør enhver fodboldtræner have denne stående på boghylden."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 I dette kapitel skitseres nogle af de væsentligste udviklingstræk for børn og unge i alderen 5-15 år. Hver enkelt aldersgruppe har nogle generelle kendetegn, men alle børn er unikke og forskellige, og derfor er aldersgrupperne også kun tommelfingerregler for, hvornår børnene er på de forskellige udviklingstrin.
@@ -23,7 +46,9 @@ Børn er ikke små voksne og skal trænes som børn
 
 **Vil du vide mere**
 
-Du kan læse mere om børns udvikling i Aldersrelateret Træning (Pryce, 2005) eller i Leg, læring og mestring (Jørgensen, 2006).
+Du kan læse mere om børns udvikling i [Aldersrelateret Træning](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012) (Pryce, 2005) eller i [Leg, læring og mestring](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/leg-laering-og-mestring_freddy-lund-joergensen_paperback_9788776910570) (Jørgensen, 2006).
+
+{% include feature_row id="feature_row_aldersrelateret" type="left" %}
 
 ## Fysisk udvikling
 
@@ -316,3 +341,10 @@ Alle tekniske færdigheder har et taktisk aspekt. Tingene ændrer sig hurtigt i 
 - Lære at kigge op.
 - One-touch.
 - Forsvarteknik og kollektivt forsvar.
+
+{% include feature_row type="left" %}
+
+## Referencer
+
+- [Aldersrelateret træning - for Børn og Unge - Dansk Idrætsforbund](https://www.dif.dk/-/media/difdk/foreningsliv/udgivelser/pdf/aldersrelateret_tr%C3%A6ning_-_for_b%C3%B8rn_og__unge_2.pdf)
+- [Aldersrelateret Træning - Bind 1 - Dansk Boldspil-Union](https://www.dbu.dk/media/2659/aldersrelateret_traening_2008_ny.pdf)

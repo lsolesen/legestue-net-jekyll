@@ -112,7 +112,7 @@ Italienerne er dygtige til koordination; træn det på italiensk i opvarmningen 
 - Et par spillere er fangere, og resten skal forsøge at komme hen til nye byer.
 - Du kan ændre banens dimensioner. Fx kan du introducere en ø midt i vandet.
 
-{% include feature_row_lingen type="left" %}
+{% include feature_row id="feature_row_lingen" type="left" %}
 
 ### Spil i firkant
 
