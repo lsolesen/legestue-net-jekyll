@@ -19,6 +19,29 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+feature_row_meng:
+  - image_path: https://cdn4.arnoldbusck.dk/sites/default/files/bibi/1539261_1536948185.jpg
+    alt: "NØØJJJ"
+    title: "NØØJJJ"
+    excerpt: "I mere end 20 år har Henrik Meng bidraget med motivation, begejstring og masser af succesoplevelser til erhvervslivet såvel som den private front. Bogen hedder Nøøjjj - det er dit liv, så hvad vil du gøre ved det! Og det er netop det denne bog lægger op til; at finde muligheder og svar, at gøre tanker til handling, og blive forrygende til hvad vi i forvejen er gode til! Henrik Meng har skrevet flere bøger omkring personlig udvikling og det at skabe de gode relationer - både i privatlivet og i erhvervslivet - men denne er den korteste og nok mest kraftfulde i alt sin enkelthed! Den SKAL simpelthen læses!"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59144&htmlurl=https://www.arnoldbusck.dk/boeger/management-og-it/noeoejjj"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://cdn6.arnoldbusck.dk/sites/default/files/bibi/1344130_1536780257.gif
+    alt: "Kan man revne af begejstring?"
+    title: "Kan man revne af begejstring?"
+    excerpt: "Forlaget skriver: Kan man revne af begejstring er en stribe tankevækkende historier, hvoraf flere er blevet udsendt til gode venner over nogle år. Historierne handler om dig og mig - og om et eller andet småt og stort, du sikkert selv har funderet over på et tidspunkt. Bogen er én lang tankevækker - du får garanteret lyst til at ringe til en ven, hente kaffe til sidemanden eller være lidt god ved dig selv, inden du er færdig"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59144&htmlurl=https://www.arnoldbusck.dk/boeger/medicin-sundhed-sygdom/kan-man-revne-af-begejstring-og-andre-historier"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+feature_row_wulf:
+  - image_path: "https://imgcdn.saxo.com/_9780736062701/0x500"
+    alt: "Attention and Motor Skill Learning"
+    title: "Attention and Motor Skill Learning"
+    excerpt: "This title is designed as a text for motor behaviour and cognitive psychology courses, as well as a reference for professionals with an interest in motor behaviour and human movement. It explores how focus of attention can affect motor performance, particularly the learning of motor skills. This text turns research into application by detailing how an individual's focus changes with age and type of task, allowing readers to apply the information across a variety of ages and settings. _Practical Applications_ sections provide specific instructional examples and challenges. _Future Directions_ sections at the end of each chapter highlight potential research studies that encourage readers to use and further develop the methods and practices outlined in the book."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 ## Personlighed
@@ -41,7 +64,7 @@ Arne Nielssson mener i øvrigt, at
 
 > ’Det er kendetegnende for den dygtige træner, at hun eller han kan fokusere på potentiale frem for udelukkende på fortidens eller nutidens præstatio nen. Potentialet er det, personen har af færdigheder eller evner, der endnu ikke er udviklet. Husk – det du ser efter, er det, du får øje på’. 
 
-Det handler et langt stykke hen af vejen om at skabe nogle muligheder for at lykkedes og om at se disse. Konsulent og coach Henrik Meng har i sine bøger; [Nøøjjj](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/noeoejjj-det-er-dit-liv-saa-hvad-vil-du-goere-ved-det_henrik-meng_indbundet_sx28895945) (Meng, 2000) og [Kan man revne af begejstring](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kan-man-revne-af-begjstring-og-andre-historier_meng-henrik_ukendt_sx72800136) taget stilling til vigtigheden af, at man tror på sig selv og skaber optimale rammer for at lykkedes med det, man er i gang med eller står foran at skulle igangsætte.
+Det handler et langt stykke hen af vejen om at skabe nogle muligheder for at lykkedes og om at se disse. Konsulent og coach Henrik Meng har i sine bøger; [Nøøjjj](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59144&htmlurl=https://www.arnoldbusck.dk/boeger/management-og-it/noeoejj) (Meng, 2000) og [Kan man revne af begejstring](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59144&htmlurl=https://www.arnoldbusck.dk/boeger/medicin-sundhed-sygdom/kan-man-revne-af-begejstring-og-andre-historier) taget stilling til vigtigheden af, at man tror på sig selv og skaber optimale rammer for at lykkedes med det, man er i gang med eller står foran at skulle igangsætte.
 
 Med en god humoristisk indgangsvinkel til mange af tilværelsens spørgsmål – også de store og de svære holder han fokus på vigtigheden af, at man hele tiden bibeholder troen på sig selv, fokuserer på det positive og ser muligheder frem for begrænsninger. I Nøøjjj skriver Meng blandt andet:
 
@@ -53,6 +76,8 @@ Du kan læse mere om Arne Nielssons tanker på [www.foqus-management.dk](http://
 {: .notice .notice--success }
 
 > ’Sig ’det bli’r svært’ – og du får ret. Sig ’Selvfølgelig kan jeg det, jeg har bare ikke lært det endnu’ – og du får ret. Hvad vil du helst have ret i?’ (Meng, 2000)
+
+{% include feature_row id="feature_row_meng" type="left" %}
 
 ## Organisation
 
@@ -229,6 +254,8 @@ Ved en øvelse med spark kunne eksempler på gode vejledninger være:
 - ’Stræk din vrist’.
 - ’Se på bolden – og ram den så lige midt på’.
 - ’Du ramte bolden med ydersiden af vristen, og derfor gik den ved siden af’.
+
+{% include feature_row id="feature_row_wulf" type="left" %}
 
 ## Opsamling
 
