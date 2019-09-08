@@ -10,4 +10,13 @@ classes: wide
 author_profile: true
 ---
 
-Her kan du se nogle eksempler på afrikansk opvarmning. Hvis du vil læse mere om fodboldrytmer, kan du [downloade hæfte om Fodboldrytmer (pdf)](/assets/pdf/fodboldrytmer-2005.pdf).
+Her kan du se nogle eksempler på afrikansk opvarmning. Hvis du vil læse mere om fodboldrytmer, kan du klikke dig rundt nedenunder.
+
+## Køb PDF med Fodboldrytmer
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="WTWGF2QGQLH7U">
+<input type="image" src="https://www.paypalobjects.com/da_DK/DK/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – den sikre og nemme måde at betale på nettet.">
+<img alt="" border="0" src="https://www.paypalobjects.com/da_DK/i/scr/pixel.gif" width="1" height="1">
+</form>
