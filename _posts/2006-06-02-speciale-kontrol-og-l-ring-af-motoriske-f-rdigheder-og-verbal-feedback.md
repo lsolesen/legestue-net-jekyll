@@ -18,7 +18,10 @@ Jeg har netop fået godkendt mit speciale fra Syddansk Universitet. Du skal ikke
 Resumé
 ------
 
-Specialet besvarer følgende to spørgsmål: (1) Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? (2) Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?
+Specialet besvarer følgende to spørgsmål: 
+
+1. Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? 
+2. Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?
 
 For det første etableres en forståelse for motorisk kontrol og læring. Med Nikolai Bernstein argumenteres for, at færdigheder er repræsenteret i hjernen gennem topologiske og kinæstetiske skemaer, som tager højde for at færdigheder er forskellige fra gang til gang, men også ligner hinanden. Skemaet knyttes til selve bevægelserne gennem det motoriske hierarki, som er den struktur der gør, at kroppen kan være selvorganiserende. Der argumenteres for, at læringen i kontrolsystemet indebærer en fejlsøgning og optimering på alle niveauer af det motoriske hierarki, og at læreren bør kende processerne bag den motoriske kontrol og læring for at kunne give den rette verbale feedback.
 
@@ -26,4 +29,4 @@ For det andet diskuteres hvordan augmented, verbal feedback kan gives for at fre
 
 Konkluderende argumenteres for at constrained action-hypotesen tilsyneladende har den største forklaringskraft, men at det er nødvendigt med mere forskning på området, hvor alle tidligere undersøgelser om motorisk læring og feedback bør diskuteres i forhold til de nyere indsigter.
 
-[Læs hele specialet](http://larsolesen.dk/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback)
+[Læs mere om specialet](http://larsolesen.dk/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback)
