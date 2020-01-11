@@ -11,6 +11,35 @@ tags:
   - motorisk kontrol
   - feedback
 last_modified_at: 2013-02-17T10:38:11Z
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9780736062701/0x500
+    alt: "Attention and Motor Skill Learning"
+    title: "Attention and Motor Skill Learning"
+    excerpt: "Attention and Motor Skill Learning explores how a person's focus of attention affects motor performance and, in particular, the learning of motor skills. It synthesizes the knowledge coming from recent research examining the effects of attentional focus on motor performance and learning, and it provides practical implications for both instructional and rehabilitative settings."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://imgcdn.saxo.com/_9780815392842/0x500
+    alt: "Skill Acquisition in Sport - Research, Theory and Practice"
+    title: "Skill Acquisition in Sport - Research, Theory and Practice"
+    excerpt: "Skill Acquisition in Sport gives academics, students, coaches and practitioners the broadest and most scientifically rigorous grounding in the principles and practice of the field. Fully revised, updated and restructured, the third edition integrates theory and practice, and provides more material on practical application than ever before."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://imgcdn.saxo.com/_9781492571186/0x500
+    alt: "Motor Learning and Performance - From Principles to Application"
+    title: "Motor Learning and Performance - From Principles to Application"
+    excerpt: "Written in an accessible style, Motor Learning and Performance, 6th Edition enables students to appreciate high-level skilled activity and understand how such performances happen. The text builds a conceptual model of factors that can influence motor performance. As well as, outlining how motor skills are acquired and retained with practice. This brand new sixth edition has been revised to incorporate the most important research findings in the field."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-performance_richard-a-schmidt_ukendt_9781492571186"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://imgcdn.saxo.com/_9781260084023/0x500
+    alt: "Motor Learning and Control: Concepts and Applications"
+    title: "Motor Learning and Control: Concepts and Applications"
+    excerpt: "En af biblerne inden for motorisk læring og kontrol, som er løbende bliver revideret for at være _up to date_."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-control-concepts-and-applications_richard-magill_paperback_9781260084023"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Jeg har netop fået godkendt mit speciale fra Syddansk Universitet. Du skal ikke snydes for et kort resumé.
@@ -30,3 +59,5 @@ For det andet diskuteres hvordan augmented, verbal feedback kan gives for at fre
 Konkluderende argumenteres for at constrained action-hypotesen tilsyneladende har den største forklaringskraft, men at det er nødvendigt med mere forskning på området, hvor alle tidligere undersøgelser om motorisk læring og feedback bør diskuteres i forhold til de nyere indsigter.
 
 [Læs mere om specialet](http://larsolesen.dk/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback){: .btn .btn--large .btn--success }
+
+{% include feature_row %}
