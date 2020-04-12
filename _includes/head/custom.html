@@ -8,6 +8,10 @@
 </script>
 {% endif %}
 
+{% if page.disallow %}
+  <meta name="robots" content="noindex, nofollow">
+{% endif %}
+
 <link rel="manifest" type="application/manifest+json" href="{{ "/manifest.json" | relative_url }}">
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

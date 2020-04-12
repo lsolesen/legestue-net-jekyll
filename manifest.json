@@ -3,7 +3,7 @@ layout: none
 ---
 {
     "name": "{{ site.title }}",
-    "short_name": "Fodboldens Legestue",
+    "short_name": "Legestue",
     "description": "{{ site.description }}",
     "start_url": "{{ "/" | relative_url }}",
     "theme_color": "#ffffff",

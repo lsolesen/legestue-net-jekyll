@@ -10,3 +10,5 @@ entries_layout: grid
 classes: wide
 author_profile: true
 ---
+
+{% include buymeacoffee.html text="Støt Fodboldens Legestue" %}

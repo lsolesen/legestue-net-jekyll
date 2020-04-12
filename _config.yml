@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : "mmistakes/minimal-mistakes@4.16.6"
+remote_theme             : "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin    : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
@@ -109,18 +109,21 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "http://www.youtube.com/fodboldenslegestue"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/legestue"
-    - label: "Pinterest"
-      icon: "fab fa-fw fa-pinterest-square"
-      url: "http://www.pinterest.com/legestue"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lsolesen/legestue-net-jekyll.git"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://larsolesen.dk"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/hmBeaqv9P"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/legestue"
+#    - label: "Pinterest"
+#      icon: "fab fa-fw fa-pinterest-square"
+#      url: "http://www.pinterest.com/legestue"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/lsolesen/legestue-net-jekyll.git"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://larsolesen.dk"
 
 
 # Reading Files
@@ -266,6 +269,9 @@ collections:
   redirects:
     output: true
     permalink: /go/:path/
+  paid:
+    output: true
+    permalink: /tak/:path/
 
 
 # Defaults
@@ -317,3 +323,16 @@ defaults:
       comments: false
       share: false
       related: false
+# _paid
+  - scope:
+      path: ""
+      type: paid
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      disallow: true ## Used for noindex nofollow
+      search: false
