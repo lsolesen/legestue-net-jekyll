@@ -312,6 +312,8 @@ defaults:
       share: true
       related: true
       author: lsolesen
+      tag_archive_path: /aktivitetstags/
+      category_archive_path: /aktivitetskategori/
 # _redirects
   - scope:
       path: ""

@@ -5,7 +5,9 @@
     {% assign path_type = nil %}
 {% endcase %}
 
-{% if site.category_archive.path %}
+{% assign category_archive_path = page.category_archive_path | default: site.category_archive.path %}
+
+{% if category_archive_path %}
   {% comment %}
     <!-- Sort alphabetically regardless of case e.g. a B c d E -->
     <!-- modified from http://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
@@ -19,7 +21,7 @@
     {% for hash in category_hashes %}
       {% assign keyValue = hash | split: '|' %}
       {% capture category_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
-      <a href="{{ category_word | slugify | prepend: path_type | prepend: "/aktivitetskategori/" | relative_url }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      <a href="{{ category_word | slugify | prepend: path_type | prepend: category_archive_path | relative_url }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
     {% endfor %}
     </span>
   </p>

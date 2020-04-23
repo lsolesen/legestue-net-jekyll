@@ -1,6 +1,7 @@
 ---
-layout: activity-tags
-permalink: /aktivitets-tags/
+layout: collection-tags
+permalink: /aktivitetstags/
+collection: tricks
 title: "Aktiviteter sorteret efter nøgleord"
 author_profile: true
 classes: wide
