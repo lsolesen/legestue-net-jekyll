@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Fodboldlege i Fodboldens Lege
-permalink: /lege/
-excerpt: "Fodboldlege - inspiration til lege og spil du kan lave med fodbold."
+title: Fodboldens Træningshjælper
+permalink: /hjaelper/
+excerpt: "Fodboldens Træningshjælper - lær at sætte mål."
 author_profile: true
 classes: wide
 feature_row:
