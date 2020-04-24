@@ -20,5 +20,3 @@ Her kan du se nogle eksempler på afrikansk opvarmning. Hvis du vil læse mere o
 <input type="image" src="https://www.paypalobjects.com/da_DK/DK/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – den sikre og nemme måde at betale på nettet.">
 <img alt="" border="0" src="https://www.paypalobjects.com/da_DK/i/scr/pixel.gif" width="1" height="1">
 </form>
-
-{% include buymeacoffee.html text="Køb hæftet Fodboldrytmer" reward="https://bmc.xyz/l/jTSzn5Dug" %}

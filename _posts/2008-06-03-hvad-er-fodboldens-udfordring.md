@@ -1,6 +1,8 @@
 ---
 title: "Hvad er Fodboldens Udfordring?"
-redirect_from: /blog/hvad-er-fodboldens-udfordring
+permalink: /hvad-er-fodboldens-udfordring/
+redirect_from:
+  - /blog/hvad-er-fodboldens-udfordring
 language: da
 header:
   overlay_image: /assets/images/hvad-er-fodboldens-udfordring.jpg
@@ -33,7 +35,7 @@ Konsekvensen er, at de unge spillere selvtræner mere. Når kortene kun har vær
 
 FodboldUdfordring er lavet af Lars Olesen, der i 1996 udarbejdede konceptet Fodboldens Legestue, som har den ambition at samle alle fodboldtricks i verden. Med mere end 200 tricks går det den rigtige vej.
 
-## Spillet er ikke i produktion, men kunne komme det
+## Vil du købe rettighederne?
 
 Kortene kunne være i A7-format og laminerede, så de kan holde til noget. Spillet skal sælges via Internet og evt. fra udvalgte butikker. Kortene sælges enten i overraskelsespakker á 10 stk. eller som et startsæt med 80 kort. Der laves lige mange af hvert kort. Kortene skal sælges for ca. 2 kroner stykket. Spillet skal i første omgang sættes i produktion med 100 forskellige laminerede spillekort. Et sponsorat skal dække trykomkostningerne. 250 spil vil cirka koste 10.000 kroner.### Hvad får sponsoren ud af det?
 
@@ -41,6 +43,6 @@ Kortene kunne være i A7-format og laminerede, så de kan holde til noget. Spill
 - Sponsoren får sit navn på forsiden af www.legestue.net og i de øvrige hæfter fra Fodboldens Legestue - og endelig på Fodboldens Tricks cd-rom.
 - Sponsoren kan få del i overskuddet.
 
-## Hvor kan jeg få yderligere oplysninger?
+## Kan jeg spille Fodboldens Udfordring?
 
-Lars Olesen - E-mail: {{ site.email }}
+Du kan købe reglerne meget billigt til [Fodboldens Udfordring](/udfordring/), så du selv kan gå i gang med at spille.

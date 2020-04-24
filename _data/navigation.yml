@@ -2,6 +2,12 @@
 main:
   - title: "Fodboldtricks"
     url: /fodboldtricks/
+  - title: "Fodboldlege"
+    url: /lege/
+  - title: "Træningshjælper"
+    url: /hjaelper/
+  - title: "Udfordring"
+    url: /udfordring/
   - title: "Fodboldrytmer"
     url: /fodboldrytmer/
   - title: "Blog"

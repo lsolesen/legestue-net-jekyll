@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Fodboldlege i Fodboldens Lege
-permalink: /lege/
-excerpt: "Fodboldlege - inspiration til lege og spil du kan lave med fodbold."
+title: Fodboldens Udfordring
+permalink: /udfordring/
+excerpt: "Et sjovt fodboldspil for to med sjove kort"
 author_profile: true
 toc: true
 feature_row:
@@ -22,46 +22,15 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-## Indledning til Fodbolens Lege
+[Læs mere om Fodboldens Udfordring](/hvad-er-fodboldens-udfordring/)
 
-Græsset er grønt, og solen skinner. Du har din danske landsholdstrøje på, og din ven har sine målhandsker og sin lidt for store målmandstrøje på. I plejer at sparke lidt på mål og aflevere lidt til hinanden, men nu vil du gerne prøve noget andet.
+## Køb regelsættet
 
-Du kan få ideer ved at læse Fodboldens Lege. Her finder du alle mulige fodboldlege for flere. Under den enkelte leg kan du se hvor mange der kan være med, og hvad I skal bruge for at komme i gang.
-
-Træneren kan finde lege i hæftet der kan skabe lidt adspredelse og humør i træningen.
-
-Til sidst i hæftet finder du et par forslag til hvordan du kan arrangere en fodboldturnering, hvis I skulle være så heldige at være nok til det.
-
-## Foreslå selv fodboldlege
-
-Vi har skrevet et lille hæfte, der indeholder følgende:
-
-- Lege for to
-- Lege for flere
-- Præcisionsspil
-- Spil til et mål
-- Konkurrence
-- Turneringsformer
-
-## Køb Fodboldens Lege
-
-Vi sælger en E-bog med Fodboldens Lege virkelig billigt via Paypal. Tag chancen. Fuld tilfredshed eller pengene tilbage.
+Regelsættet og kortene gælder for to personer. Hvis du vil købe spillet til flere, så kan du efter købet give mig nogle kopper kaffe - og på den måde bruge det til endnu flere.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="VGDS2G45RNJ5Q">
+<input type="hidden" name="hosted_button_id" value="QWN43HYJG8G8Q">
 <input type="image" src="https://www.paypalobjects.com/da_DK/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal – den sikre og nemme måde at betale på nettet.">
 <img alt="" border="0" src="https://www.paypalobjects.com/da_DK/i/scr/pixel.gif" width="1" height="1">
 </form>
-
-## Tilføjelser til fodboldlege
-
-### Fodbold-10-kampe
-
-- [10-kamp](/assets/pdf/fodbold10kamp.pdf)
-- [10-kamp svær](/assets/pdf/tikampadvanced.pdf)
-- [Hold 10-kamp](/assets/pdf/holdtikamp.pdf)
-
-### Turneringsskema til fodboldturnering
-
-- [Ratingturnering](/assets/pdf/ratingturnering.pdf)
