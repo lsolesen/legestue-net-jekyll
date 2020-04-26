@@ -272,7 +272,9 @@ collections:
   paid:
     output: true
     permalink: /tak/:path/
-
+  giveaway:
+    output: true
+    permalink: /giveaway/:path/
 
 # Defaults
 defaults:
@@ -327,6 +329,19 @@ defaults:
   - scope:
       path: ""
       type: paid
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      disallow: true ## Used for noindex nofollow
+      search: false
+# _giveaway
+  - scope:
+      path: ""
+      type: giveaway
     values:
       layout: single
       author_profile: true
