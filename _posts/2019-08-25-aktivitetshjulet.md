@@ -31,15 +31,15 @@ Mads Hovgaard argumenterer i følgende video for vigtigheden af aktivitetsudvikl
 
 {% include video provider="vimeo" id="90095821" %}
 
-Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfolder den i bogen [Aktivitetsudvikling i Idrætten](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742):
+Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfolder den i bogen [Aktivitetsudvikling i Idrætten\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742):
 
-{% include figure image_path="http://aktivitetsudvikling.samfundslitteratur.dk/wp-content/uploads/2017/06/Figur-5.01-aktivitetshjul-til-web-.png" caption="Aktivitetshjulet fra [Aktivitetsudvikling](http://aktivitetsudvikling.samfundslitteratur.dk/modeller-og-figurer/)" %}
+{% include figure image_path="/assets/images/posts/aktivitetshjulet.png" caption="Aktivitetshjulet fra [Aktivitetsudvikling\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742)" %}
 
 God fornøjelse med at prøve modellen i praksis.
 
 ## Et par referencer
 
-- [Artikel Aktivitetshjulet](https://docplayer.dk/storage/24/2522365/2522365.pdf)
+- [Artikel Aktivitetshjulet](https://docplayer.dk/2522365-Aktivitetshjulet-en-model-til-beskrivelse-analyse-og-udvikling-af-aktiviteter.html)
 - [Idrætsundervisning: Idrætsludo](http://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf)
 
 [Download oversigt](https://skoleidraet.dk/media/505365/Aktivitets-hjulet.pdf){: .btn .btn--large .btn--success }
