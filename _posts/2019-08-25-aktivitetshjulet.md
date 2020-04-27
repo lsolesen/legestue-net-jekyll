@@ -23,7 +23,7 @@ feature_row:
 
 Mads Hovgaard udviklede i 2009 modellen aktivitetshjulet, der kan bruges til at beskrive, analysere og udvikle aktiviteter. Det er en god model at bruge til udarbejdelsen af egen undervisning. Aktivitetshjulet er et konkret værktøj, der både kan benyttes af dig selv som underviser og af deltagerne i din undervisning. 
 
-Mads Hovgaard præsenterer selv den tidlige version af aktivitetshjulet i denne [artikel om aktivitetshjulet](https://docplayer.dk/storage/24/2522365/2522365.pdf) - og han forklarer også modellen i denne video.
+Mads Hovgaard præsenterer selv den tidlige version af aktivitetshjulet i denne [artikel om aktivitetshjulet](https://docplayer.dk/2522365-Aktivitetshjulet-en-model-til-beskrivelse-analyse-og-udvikling-af-aktiviteter.html) - og han forklarer også modellen i denne video.
 
 {% include video provider="vimeo" id="90059048" %}
 

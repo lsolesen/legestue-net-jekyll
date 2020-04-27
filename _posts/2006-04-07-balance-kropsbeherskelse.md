@@ -2,9 +2,9 @@
 title: "Balance og kropsbeherskelse"
 language: da
 header:
-  overlay_image: https://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/image_landscape/public/main_7.jpg
-  teaser: https://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/image_landscape/public/main_7.jpg
-  caption: "Billede fra FourTourTwo"
+  overlay_image: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80
+  teaser: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: "Photo by Jannik Skorna on Unsplash"
 categories:
   - Veje til udvikling
 tags:
