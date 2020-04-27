@@ -42,6 +42,6 @@ God fornøjelse med at prøve modellen i praksis.
 - [Artikel Aktivitetshjulet](https://docplayer.dk/storage/24/2522365/2522365.pdf)
 - [Idrætsundervisning: Idrætsludo](http://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf)
 
-[Download oversigt](https://skoleidraet.dk/media/505365/Aktivitets-hjulet.pdf): .btn .btn--large .btn--success} 
+[Download oversigt](https://skoleidraet.dk/media/505365/Aktivitets-hjulet.pdf){: .btn .btn--large .btn--success }
 
 {% include feature_row type="left" %}

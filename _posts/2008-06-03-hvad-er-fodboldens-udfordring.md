@@ -46,3 +46,5 @@ Kortene kunne være i A7-format og laminerede, så de kan holde til noget. Spill
 ## Kan jeg spille Fodboldens Udfordring?
 
 Du kan købe reglerne meget billigt til [Fodboldens Udfordring](/udfordring/), så du selv kan gå i gang med at spille.
+
+[Fodboldens Udfordring](/udfordring/){: .btn .btn--large .btn--success }

@@ -1,5 +1,5 @@
 ---
-title: Tak fordi du ville læse Fodboldens Træningshjælper
+title: Tak fordi du vil læse Fodboldens Træningshjælper
 permalink: /fodboldens-traeningshjaelper-giveaway-3543342423/
 disallow: true
 search: false
