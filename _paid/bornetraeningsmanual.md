@@ -8,7 +8,7 @@ feature_row:
     alt: "Børnetræningsmanualen"
     title: "Børnetræningsmanualen"
     excerpt: "Børnetræningsmanualen er et godt sted at starte, hvis du vil have nogle gode grundlæggende øvelser til din fodboldtræning for børn mellem 6-14 år."
-    url: "#"
+    url: "https://drive.google.com/file/d/1EHxuD3oj3Vr9ORqjqdQNyqeWe9x9BW2d/view?usp=sharing"
     btn_label: "Download Børnetræningsmanualen"
     btn_class: "btn--success"
 ---
@@ -19,10 +19,6 @@ Tak for din interesse for Børnetræningsmanualen.
 
 Jeg har brugt mange – rigtig mange – timer på at nedskrive børnetræningsmanualen.
 
-Skriv til {{ site.email }}, så sender jeg manualen så hurtigt som muligt.
-
-{% comment %}
-[Download hæftet Fodboldrytmer](/assets/pdf/paid/fodboldrytmer-2005.pdf){: .btn .btn--success .btn--large}
-{% endcomment %}
+Hvis du kan lide indholdet, så kan ud overveje at dele en kop kaffe med mig :)
 
 {% include buymeacoffee.html %}
