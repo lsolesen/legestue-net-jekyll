@@ -68,6 +68,39 @@ gallery:
     image_path: /assets/images/covers/flere-ideer-paa-spil.jpg
     title: "DGI Flere ideer på spil"
     alt: "DGI Flere ideer på spil"
+gallery_legestue:
+  - url: /fodboldtricks/
+    image_path: /assets/images/books/tricks-2020.png
+    alt: "Fodboldens Tricks"
+    title: "Fodboldens Tricks"
+  - url: /hjaelper/
+    image_path: /assets/images/books/traeningshjaelper-2020.jpg
+    alt: "Fodboldens Træningshjælper"
+    title: "Fodboldens Træningshjælper"
+  - url: /lege/
+    image_path: /assets/images/books/lege-2020.png
+    alt: "Fodboldens Lege"
+    title: "Fodboldens Lege"
+  - url: /udfordring/
+    image_path: /assets/images/books/udfordring-2020.jpg
+    alt: "Fodboldens Udfordring"
+    title: "Fodboldens Udfordring"
+  - url: /minihjaelper/
+    image_path: /assets/images/books/minihjaelper-2020.png
+    alt: "Fodboldens Minihjælper"
+    title: "Fodboldens Minihjælper"
+  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378
+    image_path: /assets/images/cover.jpg
+    alt: "Bevægelser og verbal feedback"
+    title: "Bevægelser og verbal feedback"
+  - url: /bornetraeningsmanualen/
+    image_path: /assets/images/books/bornetraeningsmanual-2006.png
+    alt: "Børnetræningsmanual"
+    title: "Børnetræningsmanual"
+  - url: /fodboldrytmer/
+    image_path: /assets/images/books/fodboldrytmer-2005.png
+    alt: "Fodboldrytmer"
+    title: "Fodboldrytmer"
 ---
 
 På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264) kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
@@ -76,6 +109,10 @@ På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banne
 
 [Køb bøger på Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264){: .btn .btn--large .btn--danger}
 
+## Vores hæfter
+
+{% include gallery id="gallery_legestue" %}
+
 ## Gratis inspiration
 
 {% include gallery %}
@@ -83,3 +120,9 @@ På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banne
 ## Samarbejdspartnere
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
+
+## Kan du lide vores arbejde?`
+
+Du kan jo overveje at forære os en kop kaffe, så vi har noget at drikke, mens vi laver mere indhold til inspiration.
+
+{% include buymeacoffee.html %}
