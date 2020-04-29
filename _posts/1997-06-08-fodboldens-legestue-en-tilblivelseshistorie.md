@@ -10,6 +10,14 @@ categories:
 tags:
   - Om
 last_modified_at: 2013-02-17T10:28:47Z
+feature_row:
+  - image_path: /assets/images/books/tricks-2020.png
+    alt: "Fodboldens Tricks"
+    title: "Fodboldens Tricks"
+    excerpt: "Ambitionen i Fodboldens Tricks har været at samle så mange tricks, driblinger, finter, finurlige spark som overhovedet muligt. Der er masser at gå i gang med."
+    url: "/fodboldtricks/"
+    btn_label: "Køb Fodboldens Tricks"
+    btn_class: "btn--success"
 ---
 
 **Små fodboldben på hårdt arbejde i sommervarmen, men der er ingen sure miner. Børnene har selv valgt at bruge lidt af forældrenes penge på DBUs årligt tilbagevendende fodboldskole. Året er 1996.**
@@ -39,3 +47,5 @@ I oplysningens ånd har jeg opfordret andre til at henvende sig med nye tricks, 
 Tilbage til sommerheden på fodboldskolen. Efter en forevisning og nogle simple instruktioner spæner de små fodboldben ud på banen med hver sin bold. Kort efter kommer en af dem glædesstrålende tilbage og proklamerer ivrigt med en let læspen (fordi tandlægen har udstyret ham med en ganebøjle, så hans tænder kan komme til at ligne alle andre børn, som er ved at få rettet tænder): "Jeg har øvet mig seksten gange, og jeg kan næsten. Men nu er jeg altså tørstig; må jeg tage noget vand". Svaret var selvfølgelig nej. Han kunne jo ikke endnu?!
 
 _Tidligere bragt i Nordjyllands Idrætshøjskoles ElevNyt._
+
+{% include feature_row type="left" %}

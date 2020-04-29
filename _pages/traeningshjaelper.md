@@ -4,31 +4,58 @@ title: Fodboldens Træningshjælper
 permalink: /hjaelper/
 excerpt: "Fodboldens Træningshjælper - lær at sætte mål."
 author_profile: true
-classes: wide
+toc: true
 feature_row:
-  - image_path: https://imgcdn.saxo.com/_9788702192087/0x500
-    alt: "Når talent forpligter"
-    title: "Når talent forpligter"
-    excerpt: "Sammen med en række af Danmarks absolut bedste sportsfolk undersøger en fodboldtræner og en ledelsesforsker i _Når talent forpligter_ hvad det har af konsekvenser, når man ikke primært er motiveret af at vinde, men i stedet føler sig forpligtet af sit talent til at sætte sig spor på anden måde."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-  - image_path: https://imgcdn.saxo.com/_9788777497711/0x500
-    alt: "Motivation - nå i mål med din træning!"
-    title: "Motivation - nå i mål med din træning!"
-    excerpt: "Det kan være svært at bevare motivationen, når det kommer til træning, men nu får du gode råd til at bevare den, uanset dit ambitionsniveau. Brian Overkær, Henning Langberg og Nicklas Pyrdol står bag _Motivation_, der hjælper dig med råd og værktøjer til at komme igang, fastholde vanen og forbedre dig."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
+  - image_path: /assets/images/books/traeningshjaelper-2020.jpg
+    alt: "Fodboldens Træningshjælper"
+    title: "Fodboldens Træningshjælper"
+    excerpt: "Fodboldens Træningshjælper hjælper med at realisere fodbolddrømmen gennem målsætninger og træningsråd. Dit hemmelige våben til at blive bedre til fodbold. Hæftet giver dig gode råd til, hvordan du kan blive bedre, samtidig med at du kan holde styr på træningen."
+    url: "/hemmeligt-v-ben-fodboldspillere/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
+
+{% include feature_row type="left" %}
 
 ## Køb Fodboldens Træningshjælper
 
 Køb Træningshjælperen som PDF.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="Y8R5WEZQHBFDQ">
-<input type="image" src="https://www.paypalobjects.com/da_DK/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal – den sikre og nemme måde at betale på nettet.">
-<img alt="" border="0" src="https://www.paypalobjects.com/da_DK/i/scr/pixel.gif" width="1" height="1">
-</form>
+{% include paypal id="Y8R5WEZQHBFDQ" cta="Køb Træningshjælperen 10 DKK" %}
+
+## Målsætningshjælper
+
+Her får du hjælp til at lave din egen målsætning. Det første du skal gøre er at finde Fodboldens Træningshjælper frem.
+
+### Trin 1
+
+For at kunne lave en god målsætning, skal du helt præcist vide hvad en målsætning er. En målsætning er en proces som kræver at du ser lidt kritisk på dig selv og dine egne præstationer. Her kan du få lidt hjælp til at gøre dine delmålsætninger præcise og konkrete nok. Først skal du finde din Fodboldens Træningshjælper (FT) frem.
+
+FT. På side 14 i Fodboldens Træningshjælper kan du læse lidt mere om hvad en målsætning er. Start med at udfylde skemaerne på side 15 og 16.
+{: .notice .notice--info }
+
+Når du har udfyldt disse to skemaer, får du lettere ved at lave dine delmålsætninger hver måned.
+
+## Eksempler
+
+Her kan du læse nogle af dem kommentarer andre har skrevet i deres Træningshjælper. Mine kommentarer skulle gerne hjælpe dig til at blive endnu bedre til at udfylde din egen Træningshjælper.
+
+### Målsætning
+
+> "At blive bedre til at skyde med venstre ben."
+
+Det gode ved målsætningen er at det er et præstationsmål. Spilleren er selv fuldstændig herre over om det vil lykkes. Et resultatmål - som fx at vinde Danmarksmesterskabet - er der mange andre der indvirker på, og derfor kan det være vanskeligt at opnå.
+
+Målsætningen er ikke præcis nok. Hvad er det nøjagtigt at spilleren vil blive bedre til med venstre ben? Er det indersidespark eller spark på mål? Og hvad er det spilleren så skal blive bedre til? Vil han gerne sparke hårdere eller mere præcist? Spilleren kunne fx ændre sin målsætning til:
+
+> "Jeg vil kunne sparke mere præcist med mit indersidespark på korte afstande (15 meter)."
+
+### Det har jeg lært
+
+> "Jeg er blevet bedre med venstre ben."
+
+Igen skal det være mere konkret. Skriv helt præcist hvad det er du kan nu?
+
+> "Jeg kan ramme en kegle 6 ud af 10 gange når jeg står 15 meter fra den, og bolden ligger stille."
+
+Sådan skal det gøres...

@@ -9,6 +9,12 @@ author_profile: true
 
 Tak for interessen for managerspillet: Champions League.
 
+## Køb reglerne som PDF
+
+{% include paypal id="9HPJG86R6Y5CQ" cta="Køb Champions League-reglerne 30 DKK" %}
+
+## Om reglerne til Champtions League
+
 Vi har brugt mange – rigtig mange – timer på at udvikle et regelsæt som er så omfattende, at det bliver realistisk, men samtidig så simpelt, at det er til at finde rundt i. Derfor tager vi et mindre beløb for regelsættet. Det håber vi, at du har forståelse for.
 
 Spillet kan stadig udvikle sig. Dette er et oplæg, men har et stort potentiale til spiludvikling.
@@ -32,9 +38,4 @@ Gengivelse af materialet er kun tilladt med vores skriftlige samtykke og med kil
 
 ## Køb reglerne som PDF
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="9HPJG86R6Y5CQ">
-<input type="image" src="https://www.paypalobjects.com/da_DK/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal – den sikre og nemme måde at betale på nettet.">
-<img alt="" border="0" src="https://www.paypalobjects.com/da_DK/i/scr/pixel.gif" width="1" height="1">
-</form>
+{% include paypal id="9HPJG86R6Y5CQ" cta="Køb Champions League-reglerne 30 DKK" %}

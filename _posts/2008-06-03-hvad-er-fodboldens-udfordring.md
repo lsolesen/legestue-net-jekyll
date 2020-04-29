@@ -13,6 +13,14 @@ categories:
 tags:
   - fodboldens udfordring
 last_modified_at: 2014-03-18T13:03:28Z
+feature_row:
+  - image_path: /assets/images/books/udfordring-2020.jpg
+    alt: "Fodboldens Udfordring"
+    title: "Fodboldens Udfordring"
+    excerpt: "Fodboldens Udfordring er unikt spil, som kombinerer muligheden for at spille, bytte og samle på kort, som det kendes fra Pokemón-kortene. I Fodboldens Udfordring indeholder alle kortene fodboldrelevante boldøvelser - og du skal øve dig for at kunne bruge kortene."
+    url: "/udfordring/"
+    btn_label: "Køb Fodboldens Udfordring"
+    btn_class: "btn--success"
 ---
 
 Fodboldens Udfordring er arbejdsnavnet for et splinternyt spil, som kombinerer muligheden for at spille, bytte og samle på kort, som det kendes fra Pokemón-kortene. Nyheden i Fodboldens Udfordring er at alle kortene indeholder fodboldrelevante boldøvelser og gode råd, bl.a. om Fair Play.
@@ -48,3 +56,5 @@ Kortene kunne være i A7-format og laminerede, så de kan holde til noget. Spill
 Du kan købe reglerne meget billigt til [Fodboldens Udfordring](/udfordring/), så du selv kan gå i gang med at spille.
 
 [Fodboldens Udfordring](/udfordring/){: .btn .btn--large .btn--success }
+
+{% include feature_row type="left" %}

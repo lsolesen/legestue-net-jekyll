@@ -1,10 +1,49 @@
 ---
-title: Fortrød du?
+title: Fortrød du dit køb?
 permalink: /cancelled-payment/
 disallow: true
 search: false
+gallery:
+  - url: /fodboldtricks/
+    image_path: /assets/images/books/tricks-2020.png
+    alt: "Fodboldens Tricks"
+    title: "Fodboldens Tricks"
+  - url: /hjaelper/
+    image_path: /assets/images/books/traeningshjaelper-2020.jpg
+    alt: "Fodboldens Træningshjælper"
+    title: "Fodboldens Træningshjælper"
+  - url: /lege/
+    image_path: /assets/images/books/lege-2020.png
+    alt: "Fodboldens Lege"
+    title: "Fodboldens Lege"
+  - url: /udfordring/
+    image_path: /assets/images/books/udfordring-2020.jpg
+    alt: "Fodboldens Udfordring"
+    title: "Fodboldens Udfordring"
+  - url: /minihjaelper/
+    image_path: /assets/images/books/minihjaelper-2020.png
+    alt: "Fodboldens Minihjælper"
+    title: "Fodboldens Minihjælper"
+  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378
+    image_path: /assets/images/cover.jpg
+    alt: "Bevægelser og verbal feedback"
+    title: "Bevægelser og verbal feedback"
+  - url: /bornetraeningsmanualen/
+    image_path: /assets/images/books/bornetraeningsmanual-2006.png
+    alt: "Børnetræningsmanual"
+    title: "Børnetræningsmanual"
+  - url: /fodboldrytmer/
+    image_path: /assets/images/books/fodboldrytmer-2005.png
+    alt: "Fodboldrytmer"
+    title: "Fodboldrytmer"
 ---
 
-Det ser ud til, at du fortrød købet. Måske har du lyst til at støtte Fodboldens Legestue på en anden måde?
+Det ser ud til, at du fortrød dit køb. 
 
-<style>.bmc-button img{height: 34px !important;width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 10px 7px 10px !important;line-height: 35px !important;height:51px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#5F7FFF !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 10px 7px 10px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/hmBeaqv9P"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Køb mig en kaffe"><span style="margin-left:15px;font-size:28px !important;">Køb mig en kaffe</span></a>
+Måske har du lyst til at støtte Fodboldens Legestue på en anden måde?
+
+{% include buymeacoffee.html %}
+
+## Se vores andre produkter
+
+{% include gallery %}

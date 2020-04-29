@@ -11,13 +11,20 @@ collection: tricks
 entries_layout: grid
 classes: wide
 author_profile: true
+feature_row:
+  - image_path: /assets/images/books/tricks-2020.png
+    alt: "Fodboldens Tricks"
+    title: "Fodboldens Tricks"
+    excerpt: "Ambitionen i Fodboldens Tricks har været at samle så mange tricks, driblinger, finter, finurlige spark som overhovedet muligt. Der er masser at gå i gang med."
+    url: "/fodboldens-legestue-en-tilblivelseshistorie/"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
+
+{% include feature_row type="left" %}
 
 ## Køb Fodboldens Tricks som PDF
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="MP55TM3U696BW">
-<input type="image" src="https://www.paypalobjects.com/da_DK/DK/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – den sikre og nemme måde at betale på nettet.">
-<img alt="" border="0" src="https://www.paypalobjects.com/da_DK/i/scr/pixel.gif" width="1" height="1">
-</form>
+{% include paypal id="MP55TM3U696BW" cta="Køb Fodboldens Tricks 25 DKK" %}
+
+## Videoer af tricks

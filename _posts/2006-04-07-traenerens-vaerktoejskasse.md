@@ -1,5 +1,6 @@
 ---
 title: "Trænerens værktøjskasse"
+excerpt: "Hvordan kan du arbejde med din personlighed, organisation, progression og verbal feedback?"
 language: da
 header:
   overlay_image: https://www.understood.org/~/media/a1a4fd34640145dd82f6f7bb101114ba.jpg
@@ -7,7 +8,7 @@ header:
 categories:
   - Veje til udvikling
 tags:
-  - Børnetræningsmanuel 2006
+  - Børnetræningsmanual 2006
   - værktøjskasse
 last_modified_at: 2015-04-07T15:16:02Z
 toc: true
@@ -40,6 +41,14 @@ feature_row_wulf:
     title: "Attention and Motor Skill Learning"
     excerpt: "This title is designed as a text for motor behaviour and cognitive psychology courses, as well as a reference for professionals with an interest in motor behaviour and human movement. It explores how focus of attention can affect motor performance, particularly the learning of motor skills. This text turns research into application by detailing how an individual's focus changes with age and type of task, allowing readers to apply the information across a variety of ages and settings. _Practical Applications_ sections provide specific instructional examples and challenges. _Future Directions_ sections at the end of each chapter highlight potential research studies that encourage readers to use and further develop the methods and practices outlined in the book."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+feature_row_thesis:
+  - image_path: /assets/images/cover.jpg
+    alt: "Kontrol og læring af motoriske færdigheder og verbal feedback"
+    title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
+    excerpt: "Bogen besvarer følgende to spørgsmål: (1) Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? (2) Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
@@ -222,6 +231,8 @@ Trænerne behøver altså ikke være bekymrede over, at de ikke selv kan vise f�
 ## Feedback
 
 Formålet med feedback er at styrke spillerens billede af den rigtige bevægelse. Derudover skal tilbagemeldingen hjælpe spilleren med at bekræfte spillerens egne sammenligning mellem spillerens egen bevægelse, og den bevægelse spilleren arbejder hen mod.
+
+{% include feature_row id="feature_row_thesis" type="left" %}
 
 ### Timing – hvornår?
 

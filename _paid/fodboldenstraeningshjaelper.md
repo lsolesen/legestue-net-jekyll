@@ -3,11 +3,19 @@ title: Tak fordi du ville læse Fodboldens Træningshjælper
 permalink: /fodboldens-traeningshjaelper-tak-8548543743/
 disallow: true
 search: false
+feature_row:
+  - image_path: /assets/images/books/traeningshjaelper-2020.jpg
+    alt: "Fodboldens Træningshjælper"
+    title: "Fodboldens Træningshjælper"
+    excerpt: "Fodboldens Træningshjælper hjælper med at realisere fodbolddrømmen gennem målsætninger og træningsråd."
+    url: https://drive.google.com/file/d/1z4i3Fmt83_5ipDyr8XglnTruSwuU22b-/view?usp=sharing
+    btn_label: "Download Træningshjælperen"
+    btn_class: "btn--success"
 ---
 
 Tak fordi du ville læse Fodboldens Træningshjælper.
 
-[Download Fodboldens Træningshjælper](https://drive.google.com/file/d/1z4i3Fmt83_5ipDyr8XglnTruSwuU22b-/view?usp=sharing){: .btn .btn--success .btn--large}
+{% include feature_row type="right" %}
 
 Hvis du synes om hæftet, så kan du overveje at købe mig en kop kaffe. :)
 

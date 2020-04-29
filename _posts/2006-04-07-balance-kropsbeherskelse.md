@@ -8,7 +8,7 @@ header:
 categories:
   - Veje til udvikling
 tags:
-  - Børnetræningsmanuel 2006
+  - Børnetræningsmanual 2006
   - balance
   - motorik
   - kropsbeherskelse

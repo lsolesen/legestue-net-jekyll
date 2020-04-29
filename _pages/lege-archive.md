@@ -6,23 +6,28 @@ excerpt: "Fodboldlege - inspiration til lege og spil du kan lave med fodbold."
 author_profile: true
 toc: true
 feature_row:
-  - image_path: https://imgcdn.saxo.com/_9788702192087/0x500
-    alt: "Når talent forpligter"
-    title: "Når talent forpligter"
-    excerpt: "Sammen med en række af Danmarks absolut bedste sportsfolk undersøger en fodboldtræner og en ledelsesforsker i _Når talent forpligter_ hvad det har af konsekvenser, når man ikke primært er motiveret af at vinde, men i stedet føler sig forpligtet af sit talent til at sætte sig spor på anden måde."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-  - image_path: https://imgcdn.saxo.com/_9788777497711/0x500
-    alt: "Motivation - nå i mål med din træning!"
-    title: "Motivation - nå i mål med din træning!"
-    excerpt: "Det kan være svært at bevare motivationen, når det kommer til træning, men nu får du gode råd til at bevare den, uanset dit ambitionsniveau. Brian Overkær, Henning Langberg og Nicklas Pyrdol står bag _Motivation_, der hjælper dig med råd og værktøjer til at komme igang, fastholde vanen og forbedre dig."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
+  - image_path: /assets/images/books/lege-2020.png
+    alt: "Fodboldens Lege"
+    title: "Fodboldens Lege"
+    excerpt: "I Fodboldens Lege kan du finde fodboldlege, som du kan lege alene eller sammen med vennerne."
+    #url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
+    #btn_label: "Læs mere"
+    #btn_class: "btn--success"
 ---
 
-## Indledning til Fodbolens Lege
+Fodboldens Lege indeholder alle mulige fodboldlege for flere, når I vil selvtræne.
+
+{% include feature_row type="left" %}
+
+## Køb Fodboldens Lege
+
+Vi sælger en E-bog med Fodboldens Lege virkelig billigt via Paypal. Tag chancen. Fuld tilfredshed eller pengene tilbage.
+
+{% include paypal id="VGDS2G45RNJ5Q" cta="Køb Fodboldens Lege 10 DKK" %}
+
+Du er altid velkommen til at foreslå nye lege, som du mener skal være i Fodboldens Lege-hæftet.
+
+## Indledning til Fodboldens Lege
 
 Græsset er grønt, og solen skinner. Du har din danske landsholdstrøje på, og din ven har sine målhandsker og sin lidt for store målmandstrøje på. I plejer at sparke lidt på mål og aflevere lidt til hinanden, men nu vil du gerne prøve noget andet.
 
@@ -32,9 +37,7 @@ Træneren kan finde lege i hæftet der kan skabe lidt adspredelse og humør i tr
 
 Til sidst i hæftet finder du et par forslag til hvordan du kan arrangere en fodboldturnering, hvis I skulle være så heldige at være nok til det.
 
-## Foreslå selv fodboldlege
-
-Vi har skrevet et lille hæfte, der indeholder følgende:
+Hæftet indeholder følgende typer lege:
 
 - Lege for to
 - Lege for flere
@@ -43,16 +46,9 @@ Vi har skrevet et lille hæfte, der indeholder følgende:
 - Konkurrence
 - Turneringsformer
 
-## Køb Fodboldens Lege
+## Foreslå selv fodboldlege
 
-Vi sælger en E-bog med Fodboldens Lege virkelig billigt via Paypal. Tag chancen. Fuld tilfredshed eller pengene tilbage.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="VGDS2G45RNJ5Q">
-<input type="image" src="https://www.paypalobjects.com/da_DK/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal – den sikre og nemme måde at betale på nettet.">
-<img alt="" border="0" src="https://www.paypalobjects.com/da_DK/i/scr/pixel.gif" width="1" height="1">
-</form>
+Jeg udvider gerne hæftet, hvis du har nogle rigtig gode forslag.
 
 ## Tilføjelser til fodboldlege
 

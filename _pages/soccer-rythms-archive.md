@@ -8,15 +8,22 @@ collection: soccerrythms
 entries_layout: grid
 classes: wide
 author_profile: true
+feature_row:
+  - image_path: /assets/images/books/fodboldrytmer-2005.png
+    alt: "Fodboldrytmer"
+    title: "Fodboldrytmer"
+    excerpt: "Fodboldrytmer giver dig inspiration til at implementere rytmer i din træning. Hvordan kan du bruge afrikansk opvarmning og brasiliansk samba som inspiration?"
+    #url: "/hemmeligt-v-ben-fodboldspillere/"
+    #btn_label: "Læs mere"
+    #btn_class: "btn--success"
 ---
 
 Her kan du se nogle eksempler på afrikansk opvarmning. Hvis du vil læse mere om fodboldrytmer, kan du klikke dig rundt nedenunder.
 
+{% include feature_row type="left" %}
+
 ## Køb PDF med Fodboldrytmer
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="WTWGF2QGQLH7U">
-<input type="image" src="https://www.paypalobjects.com/da_DK/DK/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – den sikre og nemme måde at betale på nettet.">
-<img alt="" border="0" src="https://www.paypalobjects.com/da_DK/i/scr/pixel.gif" width="1" height="1">
-</form>
+{% include paypal id="WTWGF2QGQLH7U" cta="Køb Fodboldrytmer 10 DKK" %}
+
+## Se videoer med fodboldrytmer

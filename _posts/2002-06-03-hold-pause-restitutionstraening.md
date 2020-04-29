@@ -1,6 +1,6 @@
 ---
 title: "Hold pause – om restitutionstræning"
-redirect_from: /blog/undervisning-hokus-pokus/
+redirect_from: /blog/hold-pause/
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1544221479-296b71ce53c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80

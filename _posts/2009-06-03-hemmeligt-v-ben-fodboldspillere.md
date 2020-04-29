@@ -8,6 +8,14 @@ tags:
   - Om
   - Fodboldens Træningshjælper
 last_modified_at: 2013-02-20T10:48:35Z
+feature_row:
+  - image_path: /assets/images/books/traeningshjaelper-2020.jpg
+    alt: "Fodboldens Træningshjælper"
+    title: "Fodboldens Træningshjælper"
+    excerpt: "Fodboldens Træningshjælper hjælper med at realisere fodbolddrømmen gennem målsætninger og træningsråd."
+    url: /hjaelper/
+    btn_label: "Køb Træningshjælperen"
+    btn_class: "btn--success"
 ---
 
 ## - Bliv topspiller med Fodboldens Træningshjælper
@@ -23,3 +31,5 @@ I Træningshjælperen finder du mange gode anvisninger på, hvordan du skal lave
 Nu er det formentlig ikke nok at ringe til Morten Olsen for at høre, om han har flere ledige pladser i VM-truppen. Det er garanteret nødvendigt at træne og øve sig. Du skal planlægge din træning. Du laver en målsætning for, hvad du skal lære i år, og hver måned forsøger du at komme nærmere på din målsætning med små delmålsætninger. Målsætningerne skal være præcise og konkrete, og de skal være målbare. Alt sammen kan du holde styr på i Fodboldens Træningshjælper. Vejen til succes er herefter brolagt med tålmodighed og selvtræning.
 
 Fodboldens Legestue har også netop udgivet Fodboldens Lege, som indeholder alle de sjoveste fodboldlege, når man lige har et par timer til overs i sin fritid. Fodboldens Legestue er kendt fra DBUs Fodboldskole, hvor et hæfte og en video med fodboldtricks har været fast bestanddel i en årrække. Fodboldens Legestue ejes af Lars Olesen, som er kendt i fodboldkredse for at undervise i fodboldens mere finurlige sider.
+
+{% include feature_row type="left" %}
