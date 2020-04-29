@@ -8,7 +8,7 @@ feature_row:
     alt: "Fodboldrytmer"
     title: "Fodboldrytmer"
     excerpt: "Fodboldrytmer giver dig inspiration til at implementere rytmer i din træning. Hvordan kan du bruge afrikansk opvarmning og brasiliansk samba som inspiration?"
-    url: "/assets/pdf/paid/fodboldrytmer-2005.pdf"
+    url: "https://drive.google.com/file/d/1wsAGzCwMp9W0c-VtQjHfQ4XD0fp3cJsv/view?usp=sharing"
     btn_label: "Download Fodboldrytmer"
     btn_class: "btn--success"
 ---

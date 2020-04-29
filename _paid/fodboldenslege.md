@@ -8,7 +8,7 @@ feature_row:
     alt: "Fodboldens Lege"
     title: "Fodboldens Lege"
     excerpt: "I Fodboldens Lege kan du finde fodboldlege, som du kan lege alene eller sammen med vennerne."
-    url: "#"
+    url: "https://drive.google.com/file/d/1pn6ItfMcDidh6c-Uj8m-luopNtYnZisV/view?usp=sharing"
     btn_label: "Download Fodboldens Lege"
     btn_class: "btn--success"
 ---

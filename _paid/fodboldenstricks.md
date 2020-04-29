@@ -8,7 +8,7 @@ feature_row:
     alt: "Fodboldens Tricks"
     title: "Fodboldens Tricks"
     excerpt: "Ambitionen i Fodboldens Tricks har været at samle så mange tricks, driblinger, finter, finurlige spark som overhovedet muligt. Der er masser at gå i gang med."
-    url: "#"
+    url: "https://drive.google.com/file/d/1aCTOlMF-qarYcvD-tskmFR9J07Ag29Ee/view?usp=sharing"
     btn_label: "Download Fodboldens Tricks"
     btn_class: "btn--success"
 ---

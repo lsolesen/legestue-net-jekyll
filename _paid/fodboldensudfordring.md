@@ -8,7 +8,7 @@ feature_row:
     alt: "Fodboldens Udfordring"
     title: "Fodboldens Udfordring"
     excerpt: "Fodboldens Udfordring er unikt spil, som kombinerer muligheden for at spille, bytte og samle på kort, som det kendes fra Pokemón-kortene. I Fodboldens Udfordring indeholder alle kortene fodboldrelevante boldøvelser - og du skal øve dig for at kunne bruge kortene."
-    url: "#"
+    url: "https://drive.google.com/file/d/10zje8CWKhGeBv9uRjY8jSdjk95X9LusK/view?usp=sharing"
     btn_label: "Download reglerne"
     btn_class: "btn--success"
 ---
@@ -19,7 +19,7 @@ Du må lave to kopier af spillet. Hvis du har brug for flere kopier, så giv mig
 
 {% include feature_row type="right" %}
 
-Skriv til Lars Olesen {{ site.email }}, så sender jeg reglerne til dig hurtigst muligt.
+Desværre er sitet ikke fuldt automatiseret, så skriv til Lars Olesen {{ site.email }}, så sender jeg dig selve kortene hurtigst muligt.
 
 ## Flere spillere?
 

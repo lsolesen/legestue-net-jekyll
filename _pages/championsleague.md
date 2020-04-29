@@ -1,10 +1,18 @@
 ---
 layout: single
 title: Champions League
-excerpt: "Her beskriver vi afrikansk opvarmning, rytmisk opvarmning og fodboldrytmer, så du kan lave opvarmningen lidt mere spændende."
+excerpt: "Champions League er et managerspil med levende brikker. Så saml dit fodboldhold, udnævn managers og gå i gang med at udvikle spillet."
 permalink: /champions-league/
 comments: false
 author_profile: true
+feature_row:
+  - image_path: /assets/images/books/championsleague.png
+    alt: "Champions League"
+    title: "Champions League"
+    excerpt: "Champions League er et managerspil, som du kan spille med levende brikker."
+    #url: "#"
+    #btn_label: "Download Champions League"
+    #btn_class: "btn--success"
 ---
 
 Tak for interessen for managerspillet: Champions League.

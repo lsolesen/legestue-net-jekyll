@@ -8,9 +8,9 @@ feature_row:
     alt: "Fodboldens Minihjælper"
     title: "Fodboldens Minihjælper"
     excerpt: "Fodboldens Minihjælper er et lille hæfte med lidt fodboldøvelser til dig og din kammerat. Hæftet viser også, hvordan du kan lave dit eget fodboldkørekort og skrive ned, hvordan din fremgang er."
-    #url: "/hemmeligt-v-ben-fodboldspillere/"
-    #btn_label: "Læs mere"
-    #btn_class: "btn--success"
+    url: "https://drive.google.com/file/d/1t4RjrC58hECcZN6FiEq5tggbwMkXHXG0/view?usp=sharing"
+    btn_label: "Download Minihjælperen"
+    btn_class: "btn--success"
 ---
 
 Tak fordi du ville læse Fodboldens Træningshjælper.
