@@ -19,6 +19,55 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+gallery:
+  - url: http://www.asv-fodbold.dk/media/1639/aldersrelateret-traening-forsvarlig-og-maalrettet-traening-af-boern-og-unge.pdf
+    image_path: /assets/images/covers/aldersrelateret-traening.jpg
+    title: "DBU Aldersrelateret træning"
+    alt: "DBU Aldersrelateret træning"
+  - url: http://www.asv-fodbold.dk/media/1796/dbu-boernetraenermanua-optl.pdf
+    image_path: /assets/images/covers/dbu-boernetraening.jpg
+    title: "DBU Børnetræning"
+    alt: "DBU Børnetræning"
+  - url: http://www.asv-fodbold.dk/media/1794/talentmanual-2014-final-web.pdf
+    image_path: /assets/images/covers/talentmanual.jpg
+    title: "DBU Talentmanual"
+    alt: "DBU Talentmanual"
+  - url: http://www.asv-fodbold.dk/media/1795/den-roede-traad-m-oevelser-web.pdf
+    image_path: /assets/images/covers/den-roede-traad.jpg
+    title: "DBU Den røde tråd"
+    alt: "DBU Den røde tråd"
+  - url: http://www.asv-fodbold.dk/media/1793/holdningshaefte_2012.pdf
+    image_path: /assets/images/covers/holdninger-og-handlinger.jpg
+    title: "DBU Holdninger og Handlinger"
+    alt: "DBU Holdninger og Handlinger"
+  - url: /bornetraeningsmanualen/
+    image_path: /assets/images/books/bornetraeningsmanual-2006.png
+    title: "DBU Børnetræningsmanualen 2006"
+    alt: "DBU Børnetræningsmanualen 2006"
+  - url: http://www.asv-fodbold.dk/media/1798/ungdomshaandbog.pdf
+    image_path: /assets/images/covers/ungdomstraening.jpg
+    title: "DBU Ungdomstræning"
+    alt: "DBU Ungdomstræning"
+  - url: http://www.asv-fodbold.dk/media/1828/dbu-traenerstart-bolden-i-centrum.pdf
+    image_path: /assets/images/covers/traenerstart-med-bolden-i-centrum.jpg
+    title: "Trænerstart - med bolden i centrum"
+    alt: "Trænerstart - med bolden i centrum"
+  - url: http://www.asv-fodbold.dk/media/1829/dbu-paa-banen-med-bolden.pdf
+    image_path: /assets/images/covers/paa-banen-med-bolden.jpg
+    title: "På banen med bolden"
+    alt: "På banen med bolden"
+  - url: http://www.asv-fodbold.dk/media/1825/dgi-gamle-lege-og-boldspil.pdf
+    image_path: /assets/images/covers/gamle-lege-og-boldspil.jpg
+    title: "DGI Gamle lege og boldspil"
+    alt: "DGI Gamle lege og boldspil"
+  - url: http://www.asv-fodbold.dk/media/1826/dgi-ideer-paa-spil.pdf
+    image_path: /assets/images/covers/ideer-paa-spil.jpg
+    title: "DGI Ideer på spil"
+    alt: "DGI Ideer på spil"
+  - url: http://www.asv-fodbold.dk/media/1824/dgi-flere-ideer-paa-spil.pdf
+    image_path: /assets/images/covers/flere-ideer-paa-spil.jpg
+    title: "DGI Flere ideer på spil"
+    alt: "DGI Flere ideer på spil"
 ---
 
 På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264) kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
@@ -26,5 +75,11 @@ På [Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&banne
 {% include feature_row type="left" %}
 
 [Køb bøger på Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264){: .btn .btn--large .btn--danger}
+
+## Gratis inspiration
+
+{% include gallery %}
+
+## Samarbejdspartnere
 
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43262" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
