@@ -1,6 +1,8 @@
 ---
 title: Tak fordi du vil læse Fodboldens Træningshjælper
-permalink: /fodboldens-traeningshjaelper-giveaway-3543342423/
+permalink: /giveaway/fodboldens-traeningshjaelper-giveaway-3543342423/
+redirect_from:
+  - /fodboldens-traeningshjaelper-giveaway-3543342423/
 disallow: true
 search: false
 feature_row:
