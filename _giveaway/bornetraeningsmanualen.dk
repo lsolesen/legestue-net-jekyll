@@ -7,18 +7,8 @@ redirect_from:
   - /giveaway/bornetraeningsmanualen-giveaway-farstrupbkfodbold-2345654/
   - /giveaway/bornetraeningsmanualen-giveaway-jerneif-65423432/
   - /giveaway/bornetraeningsmanualen-giveaway-handelstandensboldklub-24675765/
-  - /giveaway/bornetraeningsmanualen-giveaway-fcholte-467765/
   - /giveaway/bornetraeningsmanualen-giveaway-lindholmif-435436446/
   - /giveaway/bornetraeningsmanualen-giveaway-skovshovedfodbold-4356747/
-  - /giveaway/bornetraeningsmanualen-giveaway-hadsundfodboldklub-436753/
-  - /giveaway/bornetraeningsmanualen-giveaway-asvfodbold-2566736/
-  - /giveaway/bornetraeningsmanualen-giveaway-hbi-43646/
-  - /giveaway/bornetraeningsmanualen-giveaway-strib-4364363/
-  - /giveaway/bornetraeningsmanualen-giveaway-fcr-ungdom-4364373/
-  - /giveaway/bornetraeningsmanualen-giveaway-naesbyboldklub-6436422/
-  - /giveaway/bornetraeningsmanualen-giveaway-hb21-6436435/
-  - /giveaway/bornetraeningsmanualen-giveaway-randersfreja-3264677/
-  - /giveaway/bornetraeningsmanualen-giveaway-randersfreja-63464363/
 disallow: true
 search: false
 feature_row:
@@ -33,10 +23,10 @@ feature_row:
 
 Tak for din interesse for Børnetræningsmanualen.
 
-Du har fået den gratis på dette link, men hold den venligst for dig selv. Jeg har brugt lang tid på at skrive den.
+Du har fået den gratis på dette link, men hold den venligst for dig selv. Vi har brugt lang tid på at skrive den.
 
 {% include feature_row type="right" %}
 
-Jeg har brugt mange – rigtig mange – timer på at skrive Børnetræningsmanualen. Hvis du kan lide indholdet, så kan du overveje at give mig en kop kaffe for anstrengelserne.
+Vi har brugt mange – rigtig mange – timer på at skrive Børnetræningsmanualen. Hvis du kan lide indholdet, så kan du overveje at give mig en kop kaffe for anstrengelserne.
 
 {% include buymeacoffee.html %}
