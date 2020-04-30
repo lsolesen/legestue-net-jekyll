@@ -24,7 +24,7 @@ gallery:
     image_path: /assets/images/covers/aldersrelateret-traening.jpg
     title: "DBU Aldersrelateret træning"
     alt: "DBU Aldersrelateret træning"
-  - url: http://www.asv-fodbold.dk/media/1796/dbu-boernetraenermanua-optl.pdf
+  - url: https://www.dbu.dk/media/2660/dbu-boernetraenermanua-optl.pdf
     image_path: /assets/images/covers/dbu-boernetraening.jpg
     title: "DBU Børnetræning"
     alt: "DBU Børnetræning"

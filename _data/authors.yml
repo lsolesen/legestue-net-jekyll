@@ -15,6 +15,9 @@ lsolesen:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lsolesen/"
+    - label: "Køb mig en kaffe"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
 nicklas.pyrdol:
   name: "Nicklas Pyrdol"
   bio: "Nicklas Pyrdol er en passioneret sportspsykologisk konsulent uddannet fra Syddansk Universitet."

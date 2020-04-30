@@ -3,8 +3,9 @@ title: "Aktivitetshjulet"
 redirect_from: /blog/aktivitetshjulet
 language: da
 header:
-  overlay_image: /assets/images/f-gratis-tips-til-din-tr-ning.jpg
-  teaser: /assets/images/f-gratis-tips-til-din-tr-ning.jpg
+  overlay_image: https://images.unsplash.com/photo-1559505217-233575ca3bb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+  teaser: https://images.unsplash.com/photo-1559505217-233575ca3bb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Jeffrey F Lin on Unsplash
 categories:
   - Planlægning
 tags:
