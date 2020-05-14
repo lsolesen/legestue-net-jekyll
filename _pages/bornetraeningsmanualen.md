@@ -1,15 +1,15 @@
 ---
 layout: single
-title: Fodboldtræning for børn - Børnetræningsmanualen
+title: Fodboldtræning for børn - Børnetræningsmanualen til fodbold
 permalink: /bornetraeningsmanualen/
-excerpt: "Børnetræningsmanualen er en rigtig god ressource, hvis du gerne vil i gang med at træne børn."
+excerpt: "Børnetræningsmanualen til fodbold er en god bog, hvis du gerne vil i gang med at træne børn - U8, U9, U10, U11, U12, U13 og U14."
 author_profile: true
 classes: wide
 feature_row:
   - image_path: /assets/images/books/bornetraeningsmanual-2006.png
     alt: "Børnetræningsmanualen"
-    title: "Børnetræningsmanualen"
-    excerpt: "Børnetræningsmanualen er et godt sted at starte, hvis du vil have nogle gode grundlæggende øvelser til din fodboldtræning for børn mellem 6-14 år."
+    title: "Fodbold Børnetræningsmanualen"
+    excerpt: "Børnetræningsmanualen er et godt sted at starte, hvis du vil have nogle gode grundlæggende fodboldøvelser til din fodboldtræning for børn mellem 6-14 år."
     #url: "#"
     #btn_label: "Læs mere"
     #btn_class: "btn--success"
@@ -33,3 +33,11 @@ toc: false
   {% endfor %}
 {% endif %}
 </div>
+
+## Fyldt med fodboldøvelser til U8, U9, U10, U11, U12, U13, U14
+
+Børnetræningsmanualen til fodbold er fyldt med fodboldøvelser til de unge årgange. Så uanset om du træner U8, U9, U10, U11, U12, U13 eller U14 kan du finde inspiration i bogen.
+
+## Skrevet til DBUs Fodboldskoler
+
+Oprindeligt blev bogen skrevet til Dansk Boldspil-Unions (DBU) Fodboldskole i 2006 for at give inspiration til fodboldøvelser og fodboldtræning på fodboldskolerne.
