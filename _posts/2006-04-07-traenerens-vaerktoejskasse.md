@@ -25,14 +25,14 @@ feature_row_meng:
     alt: "NØØJJJ"
     title: "NØØJJJ"
     excerpt: "I mere end 20 år har Henrik Meng bidraget med motivation, begejstring og masser af succesoplevelser til erhvervslivet såvel som den private front. Bogen hedder Nøøjjj - det er dit liv, så hvad vil du gøre ved det! Og det er netop det denne bog lægger op til; at finde muligheder og svar, at gøre tanker til handling, og blive forrygende til hvad vi i forvejen er gode til! Henrik Meng har skrevet flere bøger omkring personlig udvikling og det at skabe de gode relationer - både i privatlivet og i erhvervslivet - men denne er den korteste og nok mest kraftfulde i alt sin enkelthed! Den SKAL simpelthen læses!"
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59144&htmlurl=https://www.arnoldbusck.dk/boeger/management-og-it/noeoejjj"
+    url: "https://www.arnoldbusck.dk/boeger/management-og-it/noeoejjj"
     btn_label: "Læs mere"
     btn_class: "btn--success"
   - image_path: https://cdn6.arnoldbusck.dk/sites/default/files/bibi/1344130_1536780257.gif
     alt: "Kan man revne af begejstring?"
     title: "Kan man revne af begejstring?"
     excerpt: "Forlaget skriver: Kan man revne af begejstring er en stribe tankevækkende historier, hvoraf flere er blevet udsendt til gode venner over nogle år. Historierne handler om dig og mig - og om et eller andet småt og stort, du sikkert selv har funderet over på et tidspunkt. Bogen er én lang tankevækker - du får garanteret lyst til at ringe til en ven, hente kaffe til sidemanden eller være lidt god ved dig selv, inden du er færdig"
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59144&htmlurl=https://www.arnoldbusck.dk/boeger/medicin-sundhed-sygdom/kan-man-revne-af-begejstring-og-andre-historier"
+    url: "https://www.arnoldbusck.dk/boeger/medicin-sundhed-sygdom/kan-man-revne-af-begejstring-og-andre-historier"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 feature_row_wulf:
