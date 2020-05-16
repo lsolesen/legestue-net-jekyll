@@ -18,12 +18,12 @@ feature_row:
     alt: "Motivation - nå i mål med din træning!"
     title: "Motivation - nå i mål med din træning!"
     excerpt: "Det kan være svært at bevare motivationen, når det kommer til træning, men nu får du gode råd til at bevare den, uanset dit ambitionsniveau. Brian Overkær, Henning Langberg og Nicklas Pyrdol står bag _Motivation_, der hjælper dig med råd og værktøjer til at komme igang, fastholde vanen og forbedre dig."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
+    url: "https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 sidebar:
   - text: >
-      [![](https://imgcdn.saxo.com/_9788777497711/0x500)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711)
+      [![](https://imgcdn.saxo.com/_9788777497711/0x500)](https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711)
 toc: true
 ---
 

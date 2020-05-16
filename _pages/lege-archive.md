@@ -10,7 +10,7 @@ feature_row:
     alt: "Fodboldens Lege"
     title: "Fodboldens Lege"
     excerpt: "I Fodboldens Lege kan du finde fodboldlege, som du kan lege alene eller sammen med vennerne."
-    #url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
+    #url: "https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
     #btn_label: "Læs mere"
     #btn_class: "btn--success"
 ---

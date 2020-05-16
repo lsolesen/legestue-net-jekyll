@@ -24,7 +24,7 @@ gallery:
     image_path: /assets/images/books/minihjaelper-2020.png
     alt: "Fodboldens Minihjælper"
     title: "Fodboldens Minihjælper"
-  - url: https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378
+  - url: https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378
     image_path: /assets/images/cover.jpg
     alt: "Bevægelser og verbal feedback"
     title: "Bevægelser og verbal feedback"

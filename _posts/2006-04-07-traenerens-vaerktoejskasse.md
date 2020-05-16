@@ -17,7 +17,7 @@ feature_row:
     alt: "Viljen til sejr - harmoni i job, familie og fritid"
     title: "Viljen til sejr - harmoni i job, familie og fritid"
     excerpt: "Om træningstanken, den proaktive indstilling, målsætningscirklen og andre værktøjer der giver resultater i den personlige udvikling."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061"
+    url: "https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 feature_row_meng:
@@ -40,7 +40,7 @@ feature_row_wulf:
     alt: "Attention and Motor Skill Learning"
     title: "Attention and Motor Skill Learning"
     excerpt: "This title is designed as a text for motor behaviour and cognitive psychology courses, as well as a reference for professionals with an interest in motor behaviour and human movement. It explores how focus of attention can affect motor performance, particularly the learning of motor skills. This text turns research into application by detailing how an individual's focus changes with age and type of task, allowing readers to apply the information across a variety of ages and settings. _Practical Applications_ sections provide specific instructional examples and challenges. _Future Directions_ sections at the end of each chapter highlight potential research studies that encourage readers to use and further develop the methods and practices outlined in the book."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
+    url: "https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 feature_row_thesis:
@@ -48,7 +48,7 @@ feature_row_thesis:
     alt: "Kontrol og læring af motoriske færdigheder og verbal feedback"
     title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
     excerpt: "Bogen besvarer følgende to spørgsmål: (1) Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? (2) Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?"
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
+    url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
@@ -59,7 +59,7 @@ feature_row_thesis:
 
 Du skal naturligvis være forberedt, når du går på banen. Det er vigtig at gøre sig nogle tanker om, hvordan man vil gribe træningerne an. Det er dog mindst lige så vigtigt, at man er bevidst om den meget store rolle man som voksen har i påvirkningen af de børn, man træner. Trænere er en væsentlig person i børnenes tilværelse og bliver et emne for masser af historier derhjemme: ’min træner siger’ og ’min træner gør sådan’.
 
-Derfor skal man være optimalt forberedt til alle træningspas – både på papiret, men også mentalt. Den ti-dobbelte verdensmester i roning Arne Nilsson lever i dag af at coache idræts- og erhvervsfolk, holde foredrag og skrive bøger. Arne Nielsson filosofi er, at det handler om at begejstres og skabe begejstring. Det er efter hans mening et bevidst valg, om en oplevelse skal være positiv eller negativ. Blandt andet skriver han i [Viljen til sejr](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061) (Nielsson, 2005):
+Derfor skal man være optimalt forberedt til alle træningspas – både på papiret, men også mentalt. Den ti-dobbelte verdensmester i roning Arne Nilsson lever i dag af at coache idræts- og erhvervsfolk, holde foredrag og skrive bøger. Arne Nielsson filosofi er, at det handler om at begejstres og skabe begejstring. Det er efter hans mening et bevidst valg, om en oplevelse skal være positiv eller negativ. Blandt andet skriver han i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061) (Nielsson, 2005):
 
 > ’Begejstring skal vises. Det kan være: ’Yes!’ Eller: ’Ih, hvor er du god i dag!’ eller ’Ih, hvor er jeg glad!’ Og du kan godt øve dig i at vise begejstring. Børn er eksempelvis ret gode til det. Der er jo ingen af os voksne der ikke som børn har suset rundt og ment at vi simpelthen var verdens bedste. Selv legede jeg Allan Simonsen. Og når jeg scorede var hænderne oppe. Hele verden skulle se det, men da jeg blev ældre, var begejstring og glæde ikke noget jeg viste, for folk kiggede underligt på mig’.
 
@@ -73,7 +73,7 @@ Arne Nielssson mener i øvrigt, at
 
 > ’Det er kendetegnende for den dygtige træner, at hun eller han kan fokusere på potentiale frem for udelukkende på fortidens eller nutidens præstatio nen. Potentialet er det, personen har af færdigheder eller evner, der endnu ikke er udviklet. Husk – det du ser efter, er det, du får øje på’. 
 
-Det handler et langt stykke hen af vejen om at skabe nogle muligheder for at lykkedes og om at se disse. Konsulent og coach Henrik Meng har i sine bøger; [Nøøjjj](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59144&htmlurl=https://www.arnoldbusck.dk/boeger/management-og-it/noeoejj) (Meng, 2000) og [Kan man revne af begejstring](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=59144&htmlurl=https://www.arnoldbusck.dk/boeger/medicin-sundhed-sygdom/kan-man-revne-af-begejstring-og-andre-historier) taget stilling til vigtigheden af, at man tror på sig selv og skaber optimale rammer for at lykkedes med det, man er i gang med eller står foran at skulle igangsætte.
+Det handler et langt stykke hen af vejen om at skabe nogle muligheder for at lykkedes og om at se disse. Konsulent og coach Henrik Meng har i sine bøger; [Nøøjjj](https://www.arnoldbusck.dk/boeger/management-og-it/noeoejj) (Meng, 2000) og [Kan man revne af begejstring](https://www.arnoldbusck.dk/boeger/medicin-sundhed-sygdom/kan-man-revne-af-begejstring-og-andre-historier) taget stilling til vigtigheden af, at man tror på sig selv og skaber optimale rammer for at lykkedes med det, man er i gang med eller står foran at skulle igangsætte.
 
 Med en god humoristisk indgangsvinkel til mange af tilværelsens spørgsmål – også de store og de svære holder han fokus på vigtigheden af, at man hele tiden bibeholder troen på sig selv, fokuserer på det positive og ser muligheder frem for begrænsninger. I Nøøjjj skriver Meng blandt andet:
 
