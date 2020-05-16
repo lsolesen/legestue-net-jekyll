@@ -19,7 +19,7 @@ subtitle                 : "Fodboldtricks, fodboldrytmer, fodboldlege og fodbold
 logo                     : "/android-chrome-192x192.png"
 name                     : "Fodboldens Legestue"
 description              : "Fodboldtricks, fodboldrytmer, fodboldlege og fodboldøvelser. Søger du inspiration til tricks, lege og øvelser til fodbold?"
-url                      : # "https://www.legestue.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.legestue.net" # "https://www.legestue.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/legestue-net-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
