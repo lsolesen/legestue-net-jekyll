@@ -37,3 +37,11 @@ mads.davidsen:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/madsrdavidsen"
+stig.eiberg:
+  name: "Stig Eiberg"
+  bio: "Stig Eiberg ved rigtig meget om motorisk træning og tilrettelæggelse af træning."
+  avatar: "/assets/images/authors/default-profile.png"
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://dk.linkedin.com/in/stig-eiberg-888a581"
