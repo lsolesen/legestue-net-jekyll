@@ -10,6 +10,13 @@ tags:
   - kompetetiv træning
 last_modified_at: 2003-01-06T13:43:52Z
 author: stig.eiberg
+  - image_path: https://imgcdn.saxo.com/_9788777063237/0x500
+    alt: "Coaching - læring og udvikling"
+    title: "Coaching - læring og udvikling"
+    excerpt: "I Coaching – læring og udvikling har en række forfattere - bl.a. Stig Eiberg - beskrevet hvad coaching helt regulært er og kan. Fokus er især på læring og udvikling, og derfor er bogen især interessant i forhold til ledelse og samarbejde. Coaching – læring og udvikling kan anvendes af mange: Både studerende, ledere, underviser, rådgiver og mange andre kan få glæde af dét, denne bog tilbyder."
+    url: "https://www.saxo.com/dk/coaching-laering-og-udvikling_reinhard-stelter_haeftet_9788777063237"
+    btn_label: "Køb bogen hos Saxo"
+    btn_class: "btn--danger"
 ---
 
 _Artiklen er skrevet af Stig Eiberg og Mikkel Sørensen og bragt med tilladelse fra forfatteren._
@@ -123,14 +130,16 @@ På trods af positive tilbagemeldinger vedr. den kompetitive træning, vil vi an
 Vi er overbeviste om, at den kompetitive arbejdsform rummer nogle kvaliteter og muligheder som kan berige idrætsundervisningen på ethvert niveau. Det er imidlertid helt afgørende, at man anvender arbejdsformen rigtigt i relation til målgruppen, aktiviteten, situationen, mængden og karakteren af den kompetitive træning. Dette stiller store krav til underviserens/trænerens situationsfornemmelse og kreativitet.
 
 Vores anbefaling er, at man opfatter den kompetitive arbejdsform som et krydderi i undervisningen. Uden krydderier kan retten blive kedelig og fersk - for meget gør den uspiselig. Men anvendt rigtigt, er den kompetitive arbejdsform et vigtigt supplement! 
+{% include feature_row type="left" %}
+
 ## Referencer
 
 1. Iams. J., Competitive Volleyball Drills and Scoring Systems, AVCA, 1988
-Lindeblad, J., Optimal Præstationsprofil og kompetitiv træning, Speciale, Center for Idrætsforskning, KU, 1998
-2. Breinholm, J., Kompetitiv træning, Focus, X, 199X
-3. FIVB, The Road to Atlanta,1996, video.
-4. Csikszentmihalyi, M., Flow : The Psychology of Optimal Experience, 1991
-5. Hagedorn, G.  Spielen. Praxis und Theorie. Rowahlt, Reinbek, 1987,  s. 175-76
-6. Jens Kyrstein og Ebbe Vestergaard, Undervisningslære - En elementær indføring, 2. udgave, 1993.
-7. Boyce, BA, Jounal of Human Movement studies, 18, s. 189-200, 1992.
-8. XX, Reflection and Reflective Practice, in Reflection and Learning, p70-78, 199X 
+2. Lindeblad, J., Optimal Præstationsprofil og kompetitiv træning, Speciale, Center for Idrætsforskning, KU, 1998
+3. Breinholm, J., Kompetitiv træning, Focus, X, 199X
+4. FIVB, The Road to Atlanta,1996, video.
+5. Csikszentmihalyi, M., Flow : The Psychology of Optimal Experience, 1991
+6. Hagedorn, G.  Spielen. Praxis und Theorie. Rowahlt, Reinbek, 1987,  s. 175-76
+7. Jens Kyrstein og Ebbe Vestergaard, Undervisningslære - En elementær indføring, 2. udgave, 1993.
+8. Boyce, BA, Jounal of Human Movement studies, 18, s. 189-200, 1992.
+9. XX, Reflection and Reflective Practice, in Reflection and Learning, p70-78, 199X 
