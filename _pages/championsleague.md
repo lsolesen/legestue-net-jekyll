@@ -13,6 +13,12 @@ feature_row:
     #url: "#"
     #btn_label: "Download Champions League"
     #btn_class: "btn--success"
+header:
+  overlay_image: https://bettingfamily.com/da/media/champions-league.jpg
+  teaser: https://bettingfamily.com/da/media/champions-league.jpg
+  actions:
+    - label: "Læs mere om spillet"
+      url: "/champions-league-levende-brikker/"
 ---
 
 Tak for interessen for managerspillet: Champions League.
@@ -47,3 +53,7 @@ Gengivelse af materialet er kun tilladt med vores skriftlige samtykke og med kil
 ## Køb reglerne som PDF
 
 {% include paypal id="9HPJG86R6Y5CQ" cta="Køb Champions League-reglerne 30 DKK" %}
+
+## Læs mere om spillet
+
+- [Managerspil med levende brikker](/champions-league-levende-brikker/)

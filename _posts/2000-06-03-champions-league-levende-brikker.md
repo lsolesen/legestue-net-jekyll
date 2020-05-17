@@ -4,6 +4,9 @@ language: da
 header:
   overlay_image: https://bettingfamily.com/da/media/champions-league.jpg
   teaser: https://bettingfamily.com/da/media/champions-league.jpg
+  actions:
+    - label: "Få reglerne til spillet"
+      url: "/champions-league/"
 categories:
   - Fodboldspil
 tags:
