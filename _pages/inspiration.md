@@ -103,11 +103,11 @@ gallery_legestue:
     title: "Fodboldrytmer"
 ---
 
-På [Saxo\*](https://www.saxo.dk/) kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
+På [Saxo\*](https://www.saxo.com/da/) kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
 
 {% include feature_row type="left" %}
 
-[Køb bøger på Saxo\*](https://www.saxo.dk/){: .btn .btn--large .btn--danger}
+[Køb bøger på Saxo\*](https://www.saxo.com/da/){: .btn .btn--large .btn--danger}
 
 ## Vores hæfter
 
@@ -119,7 +119,7 @@ På [Saxo\*](https://www.saxo.dk/) kan du finde mange bøger om fodbold og fodbo
 
 ## Samarbejdspartnere
 
-<a href="http://www.saxo.dk/" target="_blank" rel="nofollow noopener"><img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
+<a href="http://www.saxo.com/da/" target="_blank" rel="nofollow noopener"><img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
 
 ## Kan du lide vores arbejde?`
 
