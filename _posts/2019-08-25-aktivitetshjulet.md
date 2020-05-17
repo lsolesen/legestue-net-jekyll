@@ -1,6 +1,7 @@
 ---
 title: "Aktivitetshjulet"
 redirect_from: /blog/aktivitetshjulet
+excerpt: Aktivitetshjulet kan bruges til aktivitetsudvikling og øvelsesudvikling i idræt og fodbold. Modellen er udviklet af Mads Hovgaard.
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1559505217-233575ca3bb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
@@ -22,7 +23,9 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Mads Hovgaard udviklede i 2009 modellen aktivitetshjulet, der kan bruges til at beskrive, analysere og udvikle aktiviteter. Det er en god model at bruge til udarbejdelsen af egen undervisning. Aktivitetshjulet er et konkret værktøj, der både kan benyttes af dig selv som underviser og af deltagerne i din undervisning. 
+Mads Hovgaard udviklede i 2009 modellen _aktivitetshjulet_, der kan bruges til at beskrive, analysere og udvikle aktiviteter. Det er en god model at bruge til udarbejdelsen af egen undervisning. Aktivitetshjulet er et konkret værktøj, der både kan benyttes af dig selv som underviser og af deltagerne i din undervisning. 
+
+## Hvad er aktivitetshjulet?
 
 Mads Hovgaard præsenterer selv den tidlige version af aktivitetshjulet i denne [artikel om aktivitetshjulet](https://docplayer.dk/2522365-Aktivitetshjulet-en-model-til-beskrivelse-analyse-og-udvikling-af-aktiviteter.html) - og han forklarer også modellen i denne video.
 
@@ -38,7 +41,7 @@ Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfold
 
 God fornøjelse med at prøve modellen i praksis.
 
-## Et par referencer
+## Et par referencer om aktivitetshjulet
 
 - [Artikel Aktivitetshjulet](https://docplayer.dk/2522365-Aktivitetshjulet-en-model-til-beskrivelse-analyse-og-udvikling-af-aktiviteter.html)
 - [Idrætsundervisning: Idrætsludo](http://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf)

@@ -25,7 +25,9 @@ Goldberg understreger, at præstation er selvopfyldende. Du får det, du forvent
 
 > Winners see what they want to have happen. Losers see what they are afraid will happen? (61).
 
-Det er træning, som bedst forbereder dig på konkurrence, der gør dig bedst muligt (32), skriver Goldberg. Et udsagn, som meget vel kan suppleres af vores egen Jørn Richter, når han siger: "Du spiller som du træner".
+Det er træning, som bedst forbereder dig på konkurrence, der gør dig bedst muligt (32), skriver Goldberg. Et udsagn, som meget vel kan suppleres af vores egen Jørn Richter, når han siger: 
+
+> "Du spiller som du træner".
 
 Motivation
 ----------
@@ -46,7 +48,7 @@ Fejlene skal ikke ligge som en konstant påmindelse. Det væsentlige er, at du h
 Organisation af kompetetiv træning
 ----------------------------------
 
-Dette har nogle implikationer for den måde træning skal organiseres på. Flere trænere forsøger med kompetetiv træning at gøre træningen mere lig kamp. Det gør de ved at sætte noget på spil, fx kan det koste armstrækninger at sparke over mål. Lad os tage et øjeblik, hvor vi tænker over den ramme træneren her får sat op:
+Dette har nogle implikationer for den måde træning skal organiseres på. Flere trænere forsøger med kompetetiv træning at gøre træningen mere lig kamp. Det gør de ved at sætte noget på spil, fx kan det koste armstrækninger at sparke over mål. Lad os tage et øjeblik, hvor vi tænker over den ramme træneren her får sat op.
 
 Den forkerte fremgangsmåde
 --------------------------
