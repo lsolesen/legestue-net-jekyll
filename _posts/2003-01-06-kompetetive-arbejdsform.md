@@ -3,8 +3,9 @@ title: "Undervisning og den kompetitive arbejdsform"
 redirect_from: /node/245
 language: da
 header:
-  overlay_image: /assets/images/maxresdefault.jpg
-  teaser: /assets/images/maxresdefault.jpg
+  overlay_image: https://images.unsplash.com/photo-1526842513512-81a44e219555?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2135&q=80
+  teaser: https://images.unsplash.com/photo-1526842513512-81a44e219555?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Jeffrey F Lin on Unsplash
 tags:
   - kompetetiv træning
 last_modified_at: 2003-01-06T13:43:52Z
