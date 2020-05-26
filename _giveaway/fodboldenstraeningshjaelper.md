@@ -5,6 +5,7 @@ redirect_from:
   - /fodboldens-traeningshjaelper-giveaway-3543342423/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/traeningshjaelper-2020.jpg
     alt: "Fodboldens Træningshjælper"

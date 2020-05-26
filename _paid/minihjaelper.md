@@ -3,6 +3,7 @@ title: Tak fordi du ville læse Fodboldens Minihjælper
 permalink: /fodboldens-minihjaelper-tak-d23432s/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/minihjaelper-2020.png
     alt: "Fodboldens Minihjælper"

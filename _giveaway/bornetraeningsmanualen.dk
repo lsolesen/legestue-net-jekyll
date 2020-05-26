@@ -13,6 +13,7 @@ redirect_from:
   - /giveaway/bornetraeningsmanualen-giveaway-asv-43634563/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/bornetraeningsmanual-2006.png
     alt: "Børnetræningsmanualen"

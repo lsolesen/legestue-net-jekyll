@@ -3,6 +3,7 @@ title: Tak fordi du ville læse Fodboldens Tricks
 permalink: /fodboldenstricks-tak-4324kkl2/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/tricks-2020.png
     alt: "Fodboldens Tricks"

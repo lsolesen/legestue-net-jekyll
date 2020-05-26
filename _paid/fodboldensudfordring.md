@@ -3,6 +3,7 @@ title: Tak fordi du vil spille Fodboldens Udfordring
 permalink: /fodboldens-udfordring-tak-34543677/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/udfordring-2020.jpg
     alt: "Fodboldens Udfordring"

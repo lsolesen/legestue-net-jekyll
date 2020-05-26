@@ -3,6 +3,7 @@ title: Tak fordi du ville læse Børnetræningsmanualen
 permalink: /bornetraeningsmanualen-tak-sdfdsf2/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/bornetraeningsmanual-2006.png
     alt: "Børnetræningsmanualen"

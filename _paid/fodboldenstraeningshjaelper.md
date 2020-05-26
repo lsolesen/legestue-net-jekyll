@@ -3,6 +3,7 @@ title: Tak fordi du ville læse Fodboldens Træningshjælper
 permalink: /fodboldens-traeningshjaelper-tak-8548543743/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/traeningshjaelper-2020.jpg
     alt: "Fodboldens Træningshjælper"

@@ -3,6 +3,7 @@ title: Tak fordi du ville læse Fodboldrytmer
 permalink: /fodboldrytmer-tak-43534532/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/fodboldrytmer-2005.png
     alt: "Fodboldrytmer"

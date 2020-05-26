@@ -3,6 +3,7 @@ title: Tak fordi du ville spille Champions League
 permalink: /champions-leauge-tak-3434254s/
 disallow: true
 search: false
+sitemap: false
 feature_row:
   - image_path: /assets/images/books/championsleague.png
     alt: "Champions League"

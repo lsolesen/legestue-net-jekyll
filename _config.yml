@@ -204,21 +204,22 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jekyll-last-modified-at
+  - jekyll-sitemap
 
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-sitemap
 
 
 # Archives
@@ -325,6 +326,9 @@ defaults:
       comments: false
       share: false
       related: false
+      sitemap: false
+      disallow: true
+      search: false
 # _paid
   - scope:
       path: ""
@@ -338,6 +342,7 @@ defaults:
       related: false
       disallow: true ## Used for noindex nofollow
       search: false
+      sitemap: false
 # _giveaway
   - scope:
       path: ""
@@ -351,3 +356,4 @@ defaults:
       related: false
       disallow: true ## Used for noindex nofollow
       search: false
+      sitemap: false

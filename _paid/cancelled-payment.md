@@ -3,6 +3,7 @@ title: Fortrød du dit køb?
 permalink: /cancelled-payment/
 disallow: true
 search: false
+sitemap: false
 gallery:
   - url: /fodboldtricks/
     image_path: /assets/images/books/tricks-2020.png
