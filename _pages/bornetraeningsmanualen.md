@@ -4,6 +4,8 @@ title: Fodboldtræning for børn - Børnetræningsmanualen til fodbold
 permalink: /bornetraeningsmanualen/
 excerpt: "Børnetræningsmanualen til fodbold er en god bog, hvis du gerne vil i gang med at træne børn - U8, U9, U10, U11, U12, U13 og U14."
 author_profile: true
+header:
+  teaser: /assets/images/books/bornetraeningsmanual-2006.png
 classes: wide
 feature_row:
   - image_path: /assets/images/books/bornetraeningsmanual-2006.png

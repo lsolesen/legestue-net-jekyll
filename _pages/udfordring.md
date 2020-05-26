@@ -5,6 +5,8 @@ permalink: /udfordring/
 excerpt: "Et sjovt fodboldspil for to med sjove kort"
 author_profile: true
 toc: true
+header:
+  teaser: /assets/images/books/udfordring-2020.jpg
 feature_row:
   - image_path: /assets/images/books/udfordring-2020.jpg
     alt: "Fodboldens Udfordring"

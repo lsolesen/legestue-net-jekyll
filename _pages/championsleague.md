@@ -15,7 +15,7 @@ feature_row:
     #btn_class: "btn--success"
 header:
   overlay_image: https://bettingfamily.com/da/media/champions-league.jpg
-  teaser: https://bettingfamily.com/da/media/champions-league.jpg
+  teaser: /assets/images/books/championsleague.png
   actions:
     - label: "Læs mere om spillet"
       url: "/champions-league-levende-brikker/"

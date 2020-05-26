@@ -4,6 +4,8 @@ title: Fodboldens Træningshjælper
 permalink: /hjaelper/
 excerpt: "Fodboldens Træningshjælper - lær at sætte mål."
 author_profile: true
+header:
+  teaser: /assets/images/books/traeningshjaelper-2020.jpg
 toc: true
 feature_row:
   - image_path: /assets/images/books/traeningshjaelper-2020.jpg

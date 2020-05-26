@@ -3,6 +3,8 @@ layout: collection
 title: Fodboldtricks
 excerpt: "Fodboldens Legestue har en ambition om at samle alle fodboldtricks i verden."
 permalink: /fodboldtricks/
+header:
+  teaser: /assets/images/books/tricks-2020.png
 redirect_from:
   - /tricks/
   - /tricks/indtast.asp

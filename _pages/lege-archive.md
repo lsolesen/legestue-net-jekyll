@@ -5,6 +5,8 @@ permalink: /lege/
 excerpt: "Fodboldlege - inspiration til lege og spil du kan lave med fodbold."
 author_profile: true
 toc: true
+header:
+  teaser: /assets/images/books/lege-2020.png
 feature_row:
   - image_path: /assets/images/books/lege-2020.png
     alt: "Fodboldens Lege"

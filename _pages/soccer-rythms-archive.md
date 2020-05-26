@@ -5,6 +5,8 @@ excerpt: "Her beskriver vi afrikansk opvarmning, rytmisk opvarmning og fodboldry
 permalink: /fodboldrytmer/
 comments: false
 collection: soccerrythms
+header:
+  teaser: /assets/images/books/fodboldrytmer-2005.png
 entries_layout: grid
 classes: wide
 author_profile: true

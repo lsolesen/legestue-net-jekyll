@@ -5,6 +5,8 @@ permalink: /minihjaelper/
 redirect_from:
   - /fodboldkoerekort/
 excerpt: "Fodboldens Minihjælper."
+header:
+  teaser: /assets/images/books/minihjaelper-2020.png
 author_profile: true
 toc: true
 feature_row:
