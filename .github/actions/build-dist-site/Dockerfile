@@ -14,6 +14,7 @@ RUN apt-get update && \
     libffi6 \
     make \
     shellcheck \
+    libgsl-dev \
     libffi6 \
     git-all \
     && gem install bundler:2.1.4 \

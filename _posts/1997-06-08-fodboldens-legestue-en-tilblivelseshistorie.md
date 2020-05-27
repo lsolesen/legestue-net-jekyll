@@ -38,11 +38,13 @@ De sidste detaljer blev rettet og kanterne blev slebet med det fineste sandpapir
 
 Med et grønt klæde flagrende foran lyset for enden af tunnellen tog jeg en dag telefonen. Af den simple grund, at den ringede. DBU ville visualisere mine tricks. I min travlhed rev jeg en eftermiddag ud af kalenderen til den træge proces en videooptagelse er. Tiden er en løjerlig fætter, som færgerne for det meste tager ganske alvorligt, hvorfor fotografen også finder sig nødsaget til at tage den alvorligt. Den minutiøse gennemgang af hæftets første tricks kostede i sidste ende nogle af de bedste tricks pladsen på videoen.
 
-**\[Kommentar oktober 2001: Det rådes nu bod på med en CD-ROM med tricks\]**
+**Kommentar oktober 2001**: Det rådes nu bod på med en CD-ROM med tricks.
+{: .notice .notice--info }
 
 I oplysningens ånd har jeg opfordret andre til at henvende sig med nye tricks, og henvendelser har det sandelig skortet på hvorfor dette kunne læses som en appel til den fantasifulde spiller. Derimod var interessen i opstartsfasen overvældende for hæftet ude i de enkelte klubber, og jeg fik nogle forespørgsler på at komme ud at undervise i jonglering. Nu må vi se om henvendelserne holder vand
 
-**\[Kommentar oktober 2001: Henvendelserne holdt vand, og jeg har efterhånden vist tricks i mange sammenhænge.\]**
+**Kommentar oktober 2001**: Henvendelserne holdt vand, og jeg har efterhånden vist tricks i mange sammenhænge.
+{: .notice .notice--info }
 
 Tilbage til sommerheden på fodboldskolen. Efter en forevisning og nogle simple instruktioner spæner de små fodboldben ud på banen med hver sin bold. Kort efter kommer en af dem glædesstrålende tilbage og proklamerer ivrigt med en let læspen (fordi tandlægen har udstyret ham med en ganebøjle, så hans tænder kan komme til at ligne alle andre børn, som er ved at få rettet tænder): "Jeg har øvet mig seksten gange, og jeg kan næsten. Men nu er jeg altså tørstig; må jeg tage noget vand". Svaret var selvfølgelig nej. Han kunne jo ikke endnu?!
 
