@@ -14,3 +14,4 @@ group :jekyll_plugins do
 end
 gem 'classifier-reborn'
 gem 'html-proofer'
+gem 'gsl'
