@@ -21,6 +21,7 @@ cd repo
 # based on the git repository Gemfile
 echo "⚡️ Installing project dependencies..."
 bundle install
+gem install gsl
 
 # Build the website using Jekyll
 echo "🏋️ Building website..."
