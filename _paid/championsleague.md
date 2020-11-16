@@ -16,14 +16,21 @@ feature_row:
 
 Tak for interessen for managerspillet: Champions League.
 
-{% include feature_row %}
+{% include feature_row type="left" %}
 
-Vi har brugt mange – rigtig mange – timer på at udvikle et regelsæt som er så omfattende, at det bliver realistisk, men samtidig så simpelt, at det er til at finde rundt i.
+Vi har brugt mange – rigtig mange – timer på at udvikle et regelsæt, som er så omfattende, at det bliver realistisk, men samtidig så simpelt, at det er til at finde rundt i.
 
-Desværre er sitet ikke fuldt automatiseret, så skriv til {{ site.email }}, så sender jeg reglerne med det samme.
+Spillet skal stadig udvikle sig. Hvis du har forbedringer til regelsættet, så skriv endelig til {{ site.email }} med dine kommentarer.
 
-{% comment %}
-[Download hæftet Fodboldrytmer](/assets/pdf/paid/fodboldrytmer-2005.pdf){: .btn .btn--success .btn--large }
-{% endcomment %}
+Skadede spillere kan med fordel få en opgave som enten sportsjournalist eller fotografer.
+
+Vi har vedlagt:
+
+- **[managermanual]https://docs.google.com/document/d/1lSfhwEqeAccJ8_c6h-ZVuSOG_6fXZMnbsXy7frBY5us/copy?usp=sharing)** – managerne er spillets omdrejningspunkt. Det skal være handlekraftige mennesker, som kan tage initiativ. Et udførligt regelsæt som de skal sætte sig godt ind i.
+- **[spillermanual](https://docs.google.com/document/d/17qtytYntRv7SjMBFojZ6hCKvabzTE-KYtP4R9hRK_nc/copy?usp=sharing)** – spillerne skal ikke vide det hele, men de skal orienteres om, hvad der kommer til at foregå, og ikke mindst hvad deres rolle er. Det kan de læse i denne folder.
+- **[arrangørmanual](https://docs.google.com/document/d/1YhajC4GtBJdDlHGyB2a3aB--DphYiEe9YBGlf-Bdj0s/copy?usp=sharing)** – hvornår skal jeg gøre hvad? Arrangørens opgave er hele tiden at holde tråd i arrangementet, så folk ikke kommer i alt for vanskelige situationer. Her finder du gode råd.
+- **[evaluering](https://drive.google.com/file/d/1aOXbt4UrZOugLKk6UugvIGupHxVgCU2L/view?usp=sharing)** fra et andet arrangement – erfaringerne fra seneste arrangement kan du med fordel tage højde for.
+- **[nyttige sedler](https://drive.google.com/file/d/1FT6U5h7ohWebQq-uJnhZvNnaduMgxH4-/view?usp=sharing)** – alle er listet i arrangørmanualen.
+- **[pengesedler](https://docs.google.com/document/d/1WOFMZTFH0oihGOvFn9lL_OtrhvYb-dsq9FCYCHvggLY/copy?usp=sharing).
 
 {% include buymeacoffee.html %}
