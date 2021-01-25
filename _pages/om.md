@@ -30,7 +30,7 @@ gallery:
     title: "Bevægelser og verbal feedback"
   - url: /champions-league/
     image_path: /assets/images/books/championsleague.png
-    alt: Champions League"
+    alt: Champions League
     title: "Champions League"
   - url: /bornetraeningsmanualen/
     image_path: /assets/images/books/bornetraeningsmanual-2006.png
