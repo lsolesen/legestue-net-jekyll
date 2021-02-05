@@ -42,6 +42,6 @@ Bemærkninger
 
 Bogen er generelt rigtig lærerig og spændende læsning for den glade fodboldelsker. Ulempen er at bogen kun er udkommet på engelsk, men sproget er forholdsvis letlæseligt og med mange fodboldrelaterede udsagn. I perioder fokuseres lidt for meget på personen og mennesket José Mourinho, men generelt læste jeg bogen med stor interesse og kan kun anbefale at gå i krig med bogen om verdens måske bedste og i hvert fald nutidens mest karismatiske træner.
 
-[Køb Jose Mourinho - Special Leadership hos Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/jose-mourinho-special-leadership_luis-lourenco_paperback_9789896551971){: .btn .btn--large .btn--danger}
+[Køb Jose Mourinho - Special Leadership hos Saxo\*](https://www.saxo.com/dk/jose-mourinho-special-leadership_luis-lourenco_paperback_9789896551971){: .btn .btn--large .btn--danger}
 
-[Køb Jose Mourinho - Made in Portugal hos Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/jose-mourinho-made-in-portugal_luis-lourenco_paperback_9780954684334){: .btn .btn--large .btn--danger}
+[Køb Jose Mourinho - Made in Portugal hos Saxo\*](https://www.saxo.com/dk/jose-mourinho-made-in-portugal_luis-lourenco_paperback_9780954684334){: .btn .btn--large .btn--danger}

@@ -18,7 +18,7 @@ feature_row:
     alt: "Aktivitetsudvikling i Idræt - Innovation i praksis"
     title: "Aktivitetsudvikling i Idræt - Innovation i praksis"
     excerpt: "Mads Hovgaards _Aktivitetsudvikling i Idræt_ leverer en række innovative perspektiver på, hvordan fagpersoner kan bruge idrætten til helt nye formål, hvis de tænker ud af boksen."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742"
+    url: "https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
@@ -35,9 +35,9 @@ Mads Hovgaard argumenterer i følgende video for vigtigheden af aktivitetsudvikl
 
 {% include video provider="vimeo" id="90095821" %}
 
-Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfolder den i bogen [Aktivitetsudvikling i Idrætten\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742):
+Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfolder den i bogen [Aktivitetsudvikling i Idrætten\*](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742):
 
-{% include figure image_path="/assets/images/posts/aktivitetshjulet.png" caption="Aktivitetshjulet fra [Aktivitetsudvikling\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742)" %}
+{% include figure image_path="/assets/images/posts/aktivitetshjulet.png" caption="Aktivitetshjulet fra [Aktivitetsudvikling\*](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742)" %}
 
 God fornøjelse med at prøve modellen i praksis.
 

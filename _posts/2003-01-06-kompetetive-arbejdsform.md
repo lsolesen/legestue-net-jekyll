@@ -15,14 +15,14 @@ feature_row:
     alt: "Coaching - læring og udvikling"
     title: "Coaching - læring og udvikling"
     excerpt: "I Coaching – læring og udvikling har en række forfattere - bl.a. Stig Eiberg - beskrevet hvad coaching helt regulært er og kan. Fokus er især på læring og udvikling, og derfor er bogen især interessant i forhold til ledelse og samarbejde. Coaching – læring og udvikling kan anvendes af mange: Både studerende, ledere, underviser, rådgiver og mange andre kan få glæde af dét, denne bog tilbyder."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/coaching-laering-og-udvikling_reinhard-stelter_haeftet_9788777063237"
+    url: "https://www.saxo.com/dk/coaching-laering-og-udvikling_reinhard-stelter_haeftet_9788777063237"
     btn_label: "Køb bogen hos Saxo"
     btn_class: "btn--danger"
   - image_path: https://imgcdn.saxo.com/_9788772160801/0x500
     alt: "Hvis det ikke er held, hvad fanden er det så?"
     title: "Hvis det ikke er held, hvad fanden er det så?"
     excerpt: "Bogen her handler om at signaturpræstere. Den slags præstation, som er med til at redefinere dit niveau, og hvor du indfrier dit potentiale. Jacob Lindeblad har mere end 20 års erfaring som coach, og før det var han assisterende træner på svømmelandsholdet. Han ved alt om, hvordan du kan – og hvordan du tør – finde ind til så stærk en drøm, at det ikke er dig, der har fat i den, men den der har fat i dig."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/hvis-det-ikke-er-held-hvad-fanden-er-det-saa_jacob-lindeblad_indbundet_9788772160801"
+    url: "https://www.saxo.com/dk/hvis-det-ikke-er-held-hvad-fanden-er-det-saa_jacob-lindeblad_indbundet_9788772160801"
     btn_label: "Køb bogen hos Saxo"
     btn_class: "btn--danger"
 ---

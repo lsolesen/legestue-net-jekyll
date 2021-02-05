@@ -73,7 +73,7 @@ Til ’eksplosiv’ styrketræning er de frie vægte ofte at foretrække – is�
 
 ### ’One Repetition Maximum’ (1 RM)
 
-RM betyder ’repetition maximum’. 1 RM er altså den vægt, du kun kan løfte en gang. Hvis I senere vil arbejde med styrketræning er det bedst at strukturere sit program med udgangspunkt i sin maksimale styrke. Som begynder er der imidlertid stor risiko for skader ved at måle din 1 RM. Derfor er det bedre at tage en lidt lettere vægt, som du løfter så mange gange som du overhovedet kan. Så kan du enten bruge nedenstående konversionstabel (tabel 1) eller gå ind på www.motion-online.dk/rm_calculator.shtml og udregne din 1 RM.
+RM betyder ’repetition maximum’. 1 RM er altså den vægt, du kun kan løfte en gang. Hvis I senere vil arbejde med styrketræning er det bedst at strukturere sit program med udgangspunkt i sin maksimale styrke. Som begynder er der imidlertid stor risiko for skader ved at måle din 1 RM. Derfor er det bedre at tage en lidt lettere vægt, som du løfter så mange gange som du overhovedet kan. Så kan du enten bruge nedenstående konversionstabel (tabel 1) eller gå ind på denne [1 RM beregner](https://www.motionsplan.dk/rm-beregner/) og udregne din 1 RM.
 
 Tabel 3: Konversionstabel fra antal gentagelser til 1RM
 
@@ -92,8 +92,6 @@ Du skal sænke vægten langsomt. Lige når du begynder at løfte vægten igen sk
 Du skal køre med få repetitioner og lange pauser mellem sættene. Sættene skal ikke køres til udmattelse i eksplosiv styrketræning. 
 
 ## Det optimale ultrakorte styrkeprogram
-
-Dette program er taget fra www.motion-online.dk. Det er en rigtig god side, hvis du vil vide mere om styrketræning og finde supplerende styrkeøvelser.
 
 Tabel 4: Eksempel på et styrkepogram
 
