@@ -18,7 +18,7 @@ feature_row:
     alt: "Developing Youth Football Players"
     title: "Developing Youth Football Players"
     excerpt: "_Developing Youth Football Players_ is a comprehensive guide for coaches of players aged 7-14 that provides specific coaching instruction at various levels of development. The book presents coaching philosophies, skill instruction and practice games for players in three age groups: 7 years and up, 10 years and up, and 12 years and up. More than 150 games and exercises and 10 competitions are spread among four development levels to provide a sound, proven and progressive system to help young players improve. Coaching instruction is provided on how to teach and interact with young players to help ensure the children continue enjoying the game. The book is aimed specifically at international youth football coaches and organisations, as well as parents of young international football players."
-    url: "https://www.saxo.com/dk/developing-youth-football-players_horst-wein_paperback_9780736069489"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/developing-youth-football-players_horst-wein_paperback_9780736069489"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
@@ -37,4 +37,4 @@ En god øvelse, jeg vil anbefale, er 1:1 eller 2:2 med fire stationære bander i
 
 {% include feature_row type="left" %}
 
-[Se flere bøger om spilintelligens på Saxo\*](https://www.saxo.com/dk/products/search?query=spilintelligens)
+[Se flere bøger om spilintelligens på Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/products/search?query=spilintelligens)

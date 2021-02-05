@@ -17,7 +17,7 @@ feature_row:
     alt: "Når talent forpligter"
     title: "Når talent forpligter"
     excerpt: "Sammen med en række af Danmarks absolut bedste sportsfolk undersøger en fodboldtræner og en ledelsesforsker i _Når talent forpligter_ hvad det har af konsekvenser, når man ikke primært er motiveret af at vinde, men i stedet føler sig forpligtet af sit talent til at sætte sig spor på anden måde."
-    url: "https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---

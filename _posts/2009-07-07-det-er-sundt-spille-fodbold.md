@@ -12,7 +12,7 @@ feature_row:
     alt: "Boldspil for livet - spil sammen om sundhed og velvære"
     title: "Boldspil for livet - spil sammen om sundhed og velvære"
     excerpt: "Bogen giver en unik indføring i holdspilstrænings sundhedsfremmende effekter dokumenteret gennem mange års forskning og specifikt fem år i regi af Center for Holdspil og Sundhed – et internationalt anerkendt forsknings- og videnscenter ved Københavns Universitet."
-    url: "https://www.saxo.com/dk/boldspil-for-livet_peter-rejkjaer-krustrupjens-bangsbo_haeftet_9788771189759"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/boldspil-for-livet_peter-rejkjaer-krustrupjens-bangsbo_haeftet_9788771189759"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---

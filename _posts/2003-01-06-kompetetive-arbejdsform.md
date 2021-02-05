@@ -15,21 +15,17 @@ feature_row:
     alt: "Coaching - læring og udvikling"
     title: "Coaching - læring og udvikling"
     excerpt: "I Coaching – læring og udvikling har en række forfattere - bl.a. Stig Eiberg - beskrevet hvad coaching helt regulært er og kan. Fokus er især på læring og udvikling, og derfor er bogen især interessant i forhold til ledelse og samarbejde. Coaching – læring og udvikling kan anvendes af mange: Både studerende, ledere, underviser, rådgiver og mange andre kan få glæde af dét, denne bog tilbyder."
-    url: "https://www.saxo.com/dk/coaching-laering-og-udvikling_reinhard-stelter_haeftet_9788777063237"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/coaching-laering-og-udvikling_reinhard-stelter_haeftet_9788777063237"
     btn_label: "Køb bogen hos Saxo"
     btn_class: "btn--danger"
   - image_path: https://imgcdn.saxo.com/_9788772160801/0x500
     alt: "Hvis det ikke er held, hvad fanden er det så?"
     title: "Hvis det ikke er held, hvad fanden er det så?"
     excerpt: "Bogen her handler om at signaturpræstere. Den slags præstation, som er med til at redefinere dit niveau, og hvor du indfrier dit potentiale. Jacob Lindeblad har mere end 20 års erfaring som coach, og før det var han assisterende træner på svømmelandsholdet. Han ved alt om, hvordan du kan – og hvordan du tør – finde ind til så stærk en drøm, at det ikke er dig, der har fat i den, men den der har fat i dig."
-    url: "https://www.saxo.com/dk/hvis-det-ikke-er-held-hvad-fanden-er-det-saa_jacob-lindeblad_indbundet_9788772160801"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/hvis-det-ikke-er-held-hvad-fanden-er-det-saa_jacob-lindeblad_indbundet_9788772160801"
     btn_label: "Køb bogen hos Saxo"
     btn_class: "btn--danger"
 ---
-
-_Artiklen er skrevet af Stig Eiberg og Mikkel Sørensen og bragt med tilladelse fra forfatteren._
-
-## Introduktion
 
 Idrætslærere og -trænere er ofte på udkig efter nye måder at motivere udøvere eller elever på. Fra vores baggrund i hhv. elitevolleyball og eliteatletik har vi begge oplevet, at det kompetitive element i idrætten motiverede os meget og var en central del af nogle af vore bedste idrætsoplevelser. Derfor besluttede vi os for at undersøge emnet nærmere og se på, om disse kvaliteter og gode oplevelser kunne overføres til en undervisningssituation.
 
@@ -137,10 +133,16 @@ På trods af positive tilbagemeldinger vedr. den kompetitive træning, vil vi an
 
 Vi er overbeviste om, at den kompetitive arbejdsform rummer nogle kvaliteter og muligheder som kan berige idrætsundervisningen på ethvert niveau. Det er imidlertid helt afgørende, at man anvender arbejdsformen rigtigt i relation til målgruppen, aktiviteten, situationen, mængden og karakteren af den kompetitive træning. Dette stiller store krav til underviserens/trænerens situationsfornemmelse og kreativitet.
 
-Vores anbefaling er, at man opfatter den kompetitive arbejdsform som et krydderi i undervisningen. Uden krydderier kan retten blive kedelig og fersk - for meget gør den uspiselig. Men anvendt rigtigt, er den kompetitive arbejdsform et vigtigt supplement! 
+Vores anbefaling er, at man opfatter den kompetitive arbejdsform som et krydderi i undervisningen. Uden krydderier kan retten blive kedelig og fersk - for meget gør den uspiselig. Men anvendt rigtigt, er den kompetitive arbejdsform et vigtigt supplement!
+
 {% include feature_row type="left" %}
 
-## Referencer
+_Artiklen er skrevet af Stig Eiberg og Mikkel Sørensen og bragt med tilladelse fra forfatteren._
+
+## Referencer om kompetetiv træning
+
+<details markdown="1">
+  <summary>Referencer om kompetetiv træning og arbejdsform</summary>
 
 1. Iams. J., Competitive Volleyball Drills and Scoring Systems, AVCA, 1988
 2. Lindeblad, J., Optimal Præstationsprofil og kompetitiv træning, Speciale, Center for Idrætsforskning, KU, 1998
@@ -151,3 +153,4 @@ Vores anbefaling er, at man opfatter den kompetitive arbejdsform som et krydderi
 7. Jens Kyrstein og Ebbe Vestergaard, Undervisningslære - En elementær indføring, 2. udgave, 1993.
 8. Boyce, BA, Jounal of Human Movement studies, 18, s. 189-200, 1992.
 9. XX, Reflection and Reflective Practice, in Reflection and Learning, p70-78, 199X 
+</details>
