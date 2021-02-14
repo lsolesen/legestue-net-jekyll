@@ -44,11 +44,15 @@ Ud over fodbold så kan [sygdomme](https://www.healthline.com/health/bowlegs#cau
 
 ## Kan man forebygge hjulbenethed?
 
-[Healthline](https://www.healthline.com/health/bowlegs#outlook) skriver, at der ikke er nogen måde at forebygge hjulbenethed på, men her tænker de tilsyneladende hovedsageligt på den hjulbenethed, de fleste har under opvæksten. De foreslår, at man sørger for at få nok vitamin D, så knoglerne har de bedste betingelser for at blive stærke.
+[Healthline](https://www.healthline.com/health/bowlegs#outlook) skriver, at der ikke er nogen måde at forebygge hjulbenethed på, men her tænker de tilsyneladende hovedsageligt på den hjulbenethed, de fleste har under opvæksten. De foreslår, at man sørger for at få nok vitamin D, så knoglerne har de bedste betingelser for at blive stærke. Det har jeg dog ikke kunnet finde videnskabelig evidens for. Hvis du ved mere om det, så brug endelig kommentarerne.
 
 Hvis fodbold forårsager hjulbenethed pga. en assymetrisk træning af musklerne i benet, så er det sandsynligt, at du kan lave øvelser, som mindsker risikoen for at blive hjulbenet.
 
-[Verywellhealth](https://www.verywellhealth.com/exercise-with-bow-legs-or-knock-knees-3119242) foreslår udstrækning af baglårene, lysken og piriformis, samtidig med, at du styrker gluteus maximus fx med et elastik.
+[Verywellhealth](https://www.verywellhealth.com/exercise-with-bow-legs-or-knock-knees-3119242) foreslår udstrækning af baglårene, lysken og piriformis, samtidig med, at du styrker gluteus medius fx med et elastik.
+
+{% include video provider="youtube" id="5wUk8wQNUT8" %}
+
+Du kan fx kigge lidt på øvelserne i forhold til skadesforebyggelse i fodbold, hvis du vil finde øvelser til at styrke gluteus medius uden udstyr. Fx kan den dynamiske _side bridge_ være en fin øvelse til at styrke gluteus medius. 
 
 ## Hvad er risikoen ved at være hjulbenet?
 
