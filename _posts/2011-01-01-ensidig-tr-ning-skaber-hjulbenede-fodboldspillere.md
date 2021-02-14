@@ -1,6 +1,9 @@
 ---
 title: &title "Bliver man hjulbenet af af at spille fodbold?"
-redirect_from: /content/ensidig-tr-ning-skaber-hjulbenede-fodboldspillere
+permalink: /bliver-man-hjulbenet-af-fodbold/
+redirect_from:
+  - /content/ensidig-tr-ning-skaber-hjulbenede-fodboldspillere
+  - /ensidig-tr-ning-skaber-hjulbenede-fodboldspillere/
 language: da
 header:
   overlay_image: /assets/images/ensidig-tr-ning-skaber-hjulbenede-fodboldspillere.jpg
