@@ -1,5 +1,6 @@
 ---
 title: "Løb jer varme"
+permalink: /l-b-jer-varme/
 redirect_from: /blog/l-b-jer-varme
 language: da
 header:

@@ -1,5 +1,6 @@
 ---
 title: "Global goal - et legeredskab"
+permalink: /global-goal-et-legeredskab/
 redirect_from: /blog/global-goal-et-legeredskab
 language: da
 header:

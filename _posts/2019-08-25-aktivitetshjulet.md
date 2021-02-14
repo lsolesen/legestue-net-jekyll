@@ -1,5 +1,6 @@
 ---
 title: &title "Aktivitetsudvikling: Hvad er aktivitetshjulet?"
+permalink: /aktivitetshjulet/
 redirect_from: /blog/aktivitetshjulet
 excerpt: Aktivitetshjulet kan bruges til aktivitetsudvikling og øvelsesudvikling i idræt og fodbold. Modellen er udviklet af Mads Hovgaard.
 language: da

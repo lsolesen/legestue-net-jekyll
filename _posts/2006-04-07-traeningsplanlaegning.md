@@ -1,9 +1,11 @@
 ---
-title: "Træningsplanlægning"
+title: &title "Træningsplanlægning i fodbold"
+permalink: /traeningsplanlaegning/
 language: da
 header:
   overlay_image: https://previews.123rf.com/images/matimix/matimix1602/matimix160200011/53762250-coach-giving-young-soccer-team-instructions-youth-soccer-team-together-before-final-game-football-ma.jpg
   teaser: https://previews.123rf.com/images/matimix/matimix1602/matimix160200011/53762250-coach-giving-young-soccer-team-instructions-youth-soccer-team-together-before-final-game-football-ma.jpg
+  caption: *title
 categories:
   - Veje til udvikling
 tags:

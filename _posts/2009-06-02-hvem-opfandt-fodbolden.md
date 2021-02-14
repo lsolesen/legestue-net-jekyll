@@ -1,5 +1,6 @@
 ---
-title: "Fodboldhistorie - Hvem opfandt fodbolden?"
+title: &title "Fodboldhistorie - Hvem opfandt fodbolden?"
+permalink: /hvem-opfandt-fodbolden/
 redirect_from: /blog/hvem-opfandt-fodbolden
 excerpt: "Et kort rids af fodboldens historie for dem der er interesseret i fodboldhistorie."
 language: da
@@ -7,12 +8,13 @@ author: mads.davidsen
 header:
   overlay_image: /assets/images/hvem-opfandt-fodbolden.jpg
   teaser: /assets/images/hvem-opfandt-fodbolden.jpg
+  caption: *title
 categories:
   - Om
   - Videnskab
 tags:
   - fodboldhistorie
-last_modified_at: 2013-02-20T10:37:05Z
+last_modified_at: 2020-02-20T10:37:05Z
 ---
 
 Jeg har lige set "The English Game" på Netflix, som giver et meget godt indblik i den del af fodboldhistorien, der udspiller sig sidst i 1800-tallet. Kampen mellem overklassen og arbejderklassen - og de første professionelle spillere.

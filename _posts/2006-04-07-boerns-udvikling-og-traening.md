@@ -1,5 +1,6 @@
 ---
 title: "Børns udvikling og træning"
+permalink: /boerns-udvikling-og-traening/
 language: da
 header:
   overlay_image: https://www.kristeligt-dagblad.dk/sites/default/files/styles/main-wide-944/public/2016/08/95967597-1000x50we.jpg

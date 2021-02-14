@@ -1,5 +1,6 @@
 ---
 title: "Udstyr til jonglering"
+permalink: /udstyr-til-jonglering/
 redirect_from: /content/udstyr-til-jonglering
 language: da
 categories:

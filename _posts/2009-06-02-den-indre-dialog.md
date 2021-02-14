@@ -1,5 +1,6 @@
 ---
-title: "Den indre dialog"
+title: "Den indre dialog og mental træning i fodbold"
+permalink: /den-indre-dialog/
 redirect_from: /blog/den-indre-dialog
 language: da
 author: mads.davidsen
