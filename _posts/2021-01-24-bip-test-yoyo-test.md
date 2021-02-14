@@ -3,8 +3,8 @@ title: &title "Bip-test og yoyo-test til fodbold"
 permalink: /bip-test-yoyo-test/
 language: da
 header:
-  overlay_image: /assets/images/udsp-nding-p-sydafrikansk-n-r-det-t-rre-bliver-sjovt.jpg
-  teaser: /assets/images/udsp-nding-p-sydafrikansk-n-r-det-t-rre-bliver-sjovt.jpg
+  overlay_image: https://www.soccerfitness.ca/wp-content/uploads/2015/05/yoyotest-1100x781.jpg
+  teaser: https://www.soccerfitness.ca/wp-content/uploads/2015/05/yoyotest-1100x781.jpg
   caption: *title
 categories:
   - Fodboldtræning

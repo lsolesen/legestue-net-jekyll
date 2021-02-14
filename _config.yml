@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
+remote_theme             : "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin    : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 ads: true
@@ -70,6 +70,8 @@ social:
   links: # An array of links to social media profiles
     - "https://twitter.com/legestue"
     - "https://facebook.com/legestue"
+    - "https://www.pinterest.dk/legestue/"
+    - "https://www.youtube.com/user/fodboldenslegestue"
 
 
 # Site search
@@ -91,6 +93,14 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/legestue"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      webslides: "fa-pinterest"
+      url: "https://www.pinterest.dk/legestue/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      webslides: "fa-youtube"
+      url: "https://www.youtube.com/user/fodboldenslegestue"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lsolesen/legestue-net-jekyll"
@@ -111,6 +121,10 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "http://www.youtube.com/fodboldenslegestue"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      webslides: "fa-pinterest"
+      url: "https://www.pinterest.dk/legestue/"
     - label: "Støt sitet"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/lsolesen"

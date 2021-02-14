@@ -1,6 +1,10 @@
 ---
-title: "Skadesforebyggelse: Hvordan undgår jeg skader i fodbold?"
+title: &title "Skadesforebyggelse: Hvordan undgår jeg skader i fodbold?"
 permalink: /skadesforebyggelse-undgaa-skader-i-fodbold/
+header:
+  overlay_image: https://www.fifamedicalnetwork.com/wp-content/uploads/2020/06/FastFact-25.6.2020.jpg
+  teaser: https://www.fifamedicalnetwork.com/wp-content/uploads/2020/06/FastFact-25.6.2020.jpg
+  caption: *title
 redirect_from:
   - /content/undga-skader
   - /undga-skader/

@@ -2,9 +2,10 @@
 layout: splash
 title: Fodboldens Legestue
 description: Fodboldtricks, fodboldrytmer, fodboldlege og fodboldøvelser
+excerpt: "Fodboldens Legestues ambition er at gøre fodbold sjovere at spille og kigge på. Det hele startede med et hæfte med fodboldtricks, som vandt Kinnarpsprisen på DBUs Fodboldskole 1996, men nu samler sitet en masse forskellige tanker om fodboldtræning."
 author_profile: true
 intro:
-  - excerpt: 'Tilmeld dig Facebookgruppen &nbsp; [<i class="fab fa-facebook-f"></i> Fodboldens Legestue](https://www.facebook.com/legestue/){: .btn .btn--facebook}'
+  - excerpt: 'Følg os på &nbsp; [<i class="fab fa-facebook-f"></i> Facebook](https://www.facebook.com/legestue/){: .btn .btn--facebook} og [<i class="fab fa-pinterest"></i> Pinterest](https://www.pinterest.dk/legestue/){: .btn .btn--danger} og [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/user/fodboldenslegestue){: .btn .btn--danger}'
 feature_row:
   - image_path: https://images.unsplash.com/photo-1510210699649-901187bf15e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=267&q=80
     alt: "Fodboldtricks - Photo by Markus Spiske on Unsplash"
@@ -54,7 +55,7 @@ feature_row_thesis:
     title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
     excerpt: "Bogen besvarer følgende to spørgsmål: (1) Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? (2) Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?"
     url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
-    btn_label: "Læs mere"
+    btn_label: "Læs mere*"
     btn_class: "btn--success"
 gallery:
   - url: /fodboldtricks/
@@ -111,6 +112,21 @@ header:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+<h2>Spritnye indlæg på Fodboldens Legestue</h2>
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
+
 
 {% include feature_row %}
 
