@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Begrebet spilintelligens er ofte benyttet som betegnelse for en velbemidlet, teknisk fodboldspiller. Det kan imidlertid være svært at definere, hvad spilintelligens præcist dækker over. Jeg vil forsøge at give min definition af begrebet samt give eksempler på spillere, som både har og ikke har spilintelligens. Først en definition.
+Begrebet spilintelligens er ofte benyttet som betegnelse for en velbemidlet, teknisk fodboldspiller. Det kan imidlertid være svært at definere, hvad spilintelligens i fodbold præcist dækker over. Jeg vil forsøge at give min definition af begrebet samt give eksempler på spillere, som både har og ikke har spilintelligens. Først en definition.
 
 > Spilintelligens er en relativ udefinerbar størrelse, men kan oversættes til ’evnen til at træffe den rigtige beslutning i den rigtige situation’ samt ’at se og vurdere spillet i en større kontekst’.
 
