@@ -1,10 +1,11 @@
 ---
-title: "Balance og kropsbeherskelse"
+title: &title "Balance, balancetræning og kropsbeherskelse"
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80
   teaser: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: "Photo by Jannik Skorna on Unsplash"
+  caption: *title
+  alt: "Photo by Jannik Skorna on Unsplash"
 categories:
   - Veje til udvikling
 tags:
@@ -12,14 +13,17 @@ tags:
   - balance
   - motorik
   - kropsbeherskelse
-last_modified_at: 2015-04-07T15:16:02Z
+  - balancetræning
+last_modified_at: 2021-02-18T09:16:02Z
 ---
 
 Balancen er evnen til at opretholde den stilling, man er i. Kropsbeherskelse kaldes også ofte koordination, og det er evnen til at få kroppen til at gøre det, man gerne vil have den til.
 
 Kropsbeherskelse og balance er tæt forbundet. Balancen er fundamentet for at have en god kropsbeherskelse – og en god kropsbeherskelse er nødvendig for at blive en god tekniker. Udsæt gerne spillerne for en masse øvelser, der fremmer balance og kropsbeherskelse. Hvis du søger efter flere ideer, kan vi anbefale Løbeskoling og koordinationstræning (Sejerup, 2000).
 
-## Balance
+{% include figure image_path=page.header.overlay_image caption=page.title alt=page.title %}
+
+## Hvad er balance?
 
 Spilleren skal have magt over balancen og kunne kontrollere vægtoverførslen fra højre til venstre side. Desuden skal en dygtig fodboldspiller naturligvis også være god til at genvinde balancen. Balancen er en integration af ligevægtssansen, følesansen, stillings sansen og synet. Alle delene har indvirkning på den samlede balance, og alle delene kan og bør trænes.
 
@@ -29,11 +33,11 @@ Spilleren skal have magt over balancen og kunne kontrollere vægtoverførslen fr
 
 - **Stillingssansen (kinæstesisansen).** Stillingssansen registrerer spænding i muskel, sener og led. Det er stillingssansen som gør at bevægelserne kan blive præcise, og at man kan lære noget. Uden stillingssansen ville man ikke få tilbagemelding på, hvordan bevægelsen var forløbet. Stillingssansen er afhængig af ligevægtssansen og følesansen. Stillingssansen er med til at rette kroppen op igen, når man har været ude af balance, fx efter et skulderskub.
 
-- **Synet.** Synet orienterer om rumforholdene, og hvad der er lodret og vandret. Dette har også en stor betydning for den samlede balance, og ofte vil øjnenes evne til at arbejde sammen forbedres, når de andre sanser fungerer optimalt. Det kan imidlertid være gavnligt at træne synet yderligere i forbindelse med afstandsbedømmelse, udholdenhed og koncentration (se mere i kapitel [cha:Synet]). Selve synsevnen kan ikke trænes. 
+- **Synet.** Synet orienterer om rumforholdene, og hvad der er lodret og vandret. Dette har også en stor betydning for den samlede balance, og ofte vil øjnenes evne til at arbejde sammen forbedres, når de andre sanser fungerer optimalt. Det kan imidlertid være gavnligt at træne synet yderligere i forbindelse med afstandsbedømmelse, udholdenhed og koncentration (se mere i artiklen [Synstræning: Træn dit syn og bliv en bedre fodboldspiller 👀]({% link _posts/2006-04-07-synet.md %})). Selve synsevnen kan ikke trænes. 
 
 Hvis et barn har problemer med balancen, bliver det også usikkert, når det bevæger sig. Barnet bliver let svimmel og køresyg, men heldigvis er det ikke så svært at træne balancen – og det er aldrig spildt at arbejde med balancen, fordi balancen eller evnen til at genvinde den er grundlaget for alle bevægelser.
 
-## Øvelser til træning af kropsbeherskelse
+## Øvelser til træning af balance og kropsbeherskelse
 
 ### Træning af følesansen
 
@@ -78,3 +82,5 @@ Med åbne og lukkede øjne laves:
 Færdigheder styres af nogle forudprogrammerede kommandoer, som er repræsenteret i hjernen i form af et billede af bevægelsen. Dette billede indeholder ikke nøjagtigt, hvilke muskler der skal bruges til at lave bevægelsen. Billedet af bevægelsen skal nemlig tage højde for at to bevægelser aldrig er fuldstændig ens, fordi kræfterne fra omgivelserne aldrig er fuldstændig ens. Til gengæld ligner bevægelserne dog hinanden fra gang til gang. Hvilke muskler der bruges og hvor meget de skal trække sig sammen afgøres i et system, hvor hjernen giver en ramme for, hvad bevægelsen skal opnå, men hvor bevægelsens detaljer ikke er beskrevet. Ved at forudsige hvilke kræfter, der er til stede i omgivelserne, kan kroppen udføre bevægelsen, så den bliver så effektiv som muligt.
 
 Det er derfor man skal gøre sig mange erfaringer med en given bevægelse, inden man bliver bedre for at kroppen bliver bedre til at optimere systemet og koble tingene sammen. Men det er også derfor spillerne ikke altid kan omsætte ens instruktioner og tilbagemeldinger direkte til handling.
+
+Du kan læse mere om [balancetræning](https://www.motionsplan.dk/balance/) på motionsplan.dk.
