@@ -16,3 +16,12 @@ main:
     url: /inspiration/
   - title: "Om"
     url: /om/
+blog:
+  - title: "Populære søgninger"
+    children:
+      - title: "hvornår blev fodbold opfundet"
+        url: /hvem-opfandt-fodbolden/
+      - title: "fodbold oprindelse"
+        url: /hvem-opfandt-fodbolden/
+      - title: "aktivitetshjulet"
+        url: /aktivitetshjulet/

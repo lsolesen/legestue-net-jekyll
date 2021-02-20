@@ -307,7 +307,10 @@ defaults:
       share: true
       related: true
       toc: false
-      author: lsolesen      
+      author: lsolesen
+      sidebar:
+        title: "Populære sider"
+        nav: blog
 # _soccerrythms
   - scope:
       path: ""
