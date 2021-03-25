@@ -10,7 +10,7 @@ categories:
 tags:
   - Børnetræningsmanual 2006
   - værktøjskasse
-last_modified_at: 2015-04-07T15:16:02Z
+last_modified_at: 2021-04-07T15:16:02Z
 toc: true
 feature_row:
   - image_path:  https://imgcdn.saxo.com/_9788791293061/0x500
@@ -52,6 +52,8 @@ feature_row_thesis:
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
+
+I dette indlæg kigger vi lidt på trænerens værktøjskasse. Det handler både om personlighed og organisation, når træneren skal få sin træning til at lykkes.
 
 ## Personlighed
 
