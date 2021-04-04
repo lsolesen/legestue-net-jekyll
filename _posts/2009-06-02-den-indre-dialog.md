@@ -34,8 +34,7 @@ En vigtig del af mental træning er dit kropsprog, som påvirker din underbevids
 
 Jeg bruger selv mental træning og har mærket en stor effekt i mit eget spil. Jeg er blevet mere selvsikker, tror mere på mig selv og bevarer roen i pressede situationer. Mental træning foregår både før og efter hver træning og kamp. Øvelserne skal trænes mange gange, før du kan kontrollere dine tanker og dermed optimere din præstation. Øvelserne kan laves hjemme på sofaen og kræver intet udstyr - udover din fulde opmærksomhed.
 
-Øvelser
--------
+## Øvelser
 
 ## Hjemmerutine
 
@@ -56,8 +55,7 @@ Jeg bruger selv mental træning og har mærket en stor effekt i mit eget spil. J
 - Se for dit indre blik en eller flere af de ting, der lykkedes for dig i kampen (Gentag øvelsen i ca. 30 sek.).
 - Kort evaluering af præstationen. Hvad gik godt og hvad skal jeg træne og forbedre til næste gang? Evaluering er mest brugbar hjemme, når pulsen er faldet ned og der er fred og ro omkring dig.
 
-Referencer
-----------
+## Referencer
 
 Øvelserne er taget fra den danske idrætspsykolog, Jørn Richter, som blandt andet har arbejdet med det danske fodboldlandshold og badminton-spilleren, Peter Gade. Jørn Richter har udgivet flere bøger med hjælp til mental træning.
 

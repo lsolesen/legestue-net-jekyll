@@ -80,7 +80,7 @@ Tabel 3: Konversionstabel fra antal gentagelser til 1RM
 | Maksimale antal gentagelser | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   |
 | Konversions-faktor          | 1.03 | 1.07 | 1.11 | 1.15 | 1.19 | 1.23 | 1.27 | 1.31 | 1.35 |
 
-**Beregner online**.Tjek ind på [motionsplan.dk for at finde en RM-beregner](https://www.motionsplan.dk/rm-beregner/).
+**Beregner online**.Tjek ind på motionsplan.dk for at finde en [RM-beregner til at finde 1RM max](https://www.motionsplan.dk/rm-beregner/).
 {: .notice .notice--info }
 
 ### Udførelsen af en repetition

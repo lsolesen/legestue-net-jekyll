@@ -24,14 +24,12 @@ Bogen slår fast, at formålet med fodbold er at vinde, og forfatteren mener, at
 
 Det er efter min mening en spændende opdeling til de yngre spillere. Teknik, synes jeg ikke man kan komme uden om med de yngre spillere. Naturligvis kan indsigt også oversættes til taktik, men der kan lægges enkelte flere ting ind i begrebet, og for at få indsigt er det nødvendigt at reflektere mere over valgene, hvilket plæderer for at inddrage spillerne mere. Kommunikation synes jeg er et væsentligt begreb, som der måske arbejdes for lidt med hos de yngre spillere. Det kan især være, hvordan man viser, at man vil have bolden og øget øvelse i at oversætte indsigten til konstruktive meldinger for holdkammeraterne.
 
-Coerver Coaching
-----------------
+## Coerver Coaching
 
 Bogen tager stilling, og stillingtagen ift. Coerver Coaching er især meget konstruktiv og brugbar. Coerver mener, at teknik er den basale målestok for en spillers værdi for holdet. Coerver fokuserer på selve bevægelserne og gør dem lig med det at spille fodbold. Coerver fokuserer kun på en fodboldforhindring, nemlig teknikken. Viel Coerver får derved sagt, at man bedst lærer at spille fodbold ved at lære specifikke bevægelser. Det hollandske fodboldforbund derimod siger, at spillerne bedst lærer at spille fodbold ved at spille fodbold.
 
 Coerver Coaching kan dog sagtens bruges i træningen. Det er fint som opvarmning og nedvarmning, hjemmearbejde og aktive pauser. Desuden kræver Coerver Coaching, at spillerne skal gøres opmærksomme på brugbarheden af bevægelserne.
 
-God bog
--------
+## God bog
 
 Det er en god allround bog, når fodbold skal introduceres til yngre spillere. Den har masser af holdning og brugbare træningsøvelser.

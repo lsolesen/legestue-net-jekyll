@@ -31,7 +31,7 @@ Flere prominente trænere har været efter det tekniske niveau i dansk fodbold, 
 
 > ”Der er nogle kloge hoveder, der mener, at man skal træne 25 timer om ugen. Men da jeg spillede i Barcelona trænede vi seks gange fem kvarter om ugen. Det giver cirka syv timer totalt, og vi spillede da meget godt fodbold, så jeg tror ikke på kvantiteten af træning som det altafgørende. Det må være kvaliteten, det handler om, og det kan altså lade sig gøre at kombinere fysisk træning med bold.”[^note5] 
 
---- <cite>Michael Laudrup
+--- <cite>Michael Laudrup</cite>
 
 [^note1]: Beskrevet i Anders Jørgensen: ”På jagt efter tricks i Tinglev”, i: Intersport Reklame.
 [^note2]: Resultater sammenfattet i: Jensen, Bente og Graabek, Lars: ”Træneren skal forstå, hvad jeg vil”, i: Puls, nr.2, juni 1999. Gruppen var kategoriseret som ’elitebørn’ og ’idrætsbørn’. De refererede tal omfatter hele gruppen. En undersøgelse i JBU Region 2 underbygger Jensen og Graabeks væsentligste fund.

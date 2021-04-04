@@ -29,7 +29,7 @@ På et tidspunkt lod alle trænere med respekt for sig selv sine spillere løbe 
 
 --- <cite>Poul Hansen 2000: 63</cite>
 
-Vi er ikke helt enig med Poul Hansen. Vi tror det hjælper at løbe af. Bangsbo et al (1994) lod forsøgspersoner udføre udmattende arbejde skiftevis med benene. Efter øvelsen hvilede det ene ben, mens det andet ben udførte let, aktivt arbejde i 10 minutter. Det aktive bens muskellaktatkoncentration var lavere end det hvilende bens, formentlig pga. en øget metabolisme, altså dels gendannelse af glucose fra laktat og fjernelse af laktat til blodbanen. Denne forskel mellem det hvilende ben og det aktive ben var efter tre minutter, så det kan tilsyneladende betale sig at løbe af. Det viser sig at den bedste restitution fås ved en intensitet på 50% af maksimal iltoptagelse (Bangsbo 19xx), men det er ikke ensbetydende med at man behøver at kede sig, mens man gør det.
+Vi er ikke helt enig med Poul Hansen. Vi tror det hjælper at løbe af. Bangsbo et al (1994) lod forsøgspersoner udføre udmattende arbejde skiftevis med benene. Efter øvelsen hvilede det ene ben, mens det andet ben udførte let, aktivt arbejde i 10 minutter  Det aktive bens muskellaktatkoncentration var lavere end det hvilende bens, formentlig pga. en øget metabolisme, altså dels gendannelse af glucose fra laktat og fjernelse af laktat til blodbanen. Denne forskel mellem det hvilende ben og det aktive ben var efter tre minutter, så det kan tilsyneladende betale sig at løbe af. Det viser sig at den bedste restitution fås ved en intensitet på 50% af maksimal iltoptagelse (Bangsbo 1994), men det er ikke ensbetydende med at man behøver at kede sig, mens man gør det.
 
 > ”Strækøvelser efter træning tror jeg slet ikke på. Jeg har endnu aldrig fundet noget bevis på, at det har nogen afgørende effekt, hvorfor jeg lader spillerne gøre det selv – eller lade være”
 
@@ -37,7 +37,7 @@ Vi er ikke helt enig med Poul Hansen. Vi tror det hjælper at løbe af. Bangsbo 
 
 ## (2) Restitutionstræning
 
-Restitutionsprocesserne foregår dels i musklerne, og dels i hjerne og lever. I leveren sker en genopbygning af de energirige stoffer. Hjerte-kredsløbets opgave i restitutionsfasen er at fjerne affasldsstofferne, samt at tilføre ilt og næringsstoffer til genopbygningsprocesserne. Det anbefales at supplere med gymnastiske øvelser og strækøvelser for at øge blodgennemstrømningen af musklerne. Det er vigtigt at holde venepumpen i gang.
+Restitutionsprocesserne foregår dels i musklerne, og dels i hjerne og lever. I leveren sker en genopbygning af de energirige stoffer. Hjerte-kredsløbets opgave i restitutionsfasen er at fjerne affaldsstofferne, samt at tilføre ilt og næringsstoffer til genopbygningsprocesserne. Det anbefales at supplere med gymnastiske øvelser og strækøvelser for at øge blodgennemstrømningen af musklerne. Det er vigtigt at holde venepumpen i gang.
 
 ## Unge spillere?
 
