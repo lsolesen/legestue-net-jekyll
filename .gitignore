@@ -11,4 +11,6 @@ Gemfile.lock
 npm-debug.log
 package-lock.json
 _posts/.ztr-directory
-.ztr-directory
+*/.ztr-directory
+vendor/
+.bundle/*
