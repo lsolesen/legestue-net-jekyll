@@ -1,31 +1,41 @@
 ---
-title: &title "Eksplosivitet: Eksplosiv styrketræning for fodboldspillere"
-language: da
+last_modified_at: 2020-08-18T15:16:02.000Z
+toc: true
+title: "Eksplosivitet: Eksplosiv træning for fodboldspillere"
+seo_title: "Eksplosiv træning: Program & øvelser til eksplosiv styrke "
+description: Vil du være hurtigere og stærkere i fodbold? Med eksplosiv
+  styrketræning kan du træne som atleterne, og her giver vi dig øvelserne til at
+  komme i gang.
 header:
   overlay_image: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
   teaser: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: *title
-categories:
-  - Styrketræning
+  caption: "Eksplosivitet: Eksplosiv styrketræning for fodboldspillere"
+language: da
 tags:
   - styrketræning
   - eksplosivitet
-last_modified_at: 2020-08-18T15:16:02Z
-toc: true
+categories:
+  - Styrketræning
 ---
+Inden for fodboldens verden er eksplosiv muskelstyrke essentielt at træne, for at forbedre potentialet for at spillerne kan være eksplosive i sprints og spring. Hvis du gerne vil arbejde med eksplosivitet for fodboldspillere, så kan det være en god ide at bruge eksplosiv styrketræning, og i denne artikel kommer vi med konkrete forslag til et program og øvelser du kan bruge til eksplosiv styrketræning.
 
-Hvis du gerne vil arbejde med eksplosivitet for fodboldspillere, så kan det være en god ide at bruge eksplosiv styrketræning. Når man laver eksplosiv styrketræning forbedrer du potentialet for at kunne være eksplosiv i sprints og spring.
+## Hvad er eksplosivitet?
 
-## Eksplosivitet
+Eksplosivitet er et essentielt begreb for atleter på tværs af idrætsgrene. Grundlæggende set handler det om, at sportsudøveren er i stand til at udføre en bevægelse med eksplosiv styrke – fx en fodboldspiller der på kort tid og med meget kraft skal sparke på mål. At kunne det kræver eksplosiv muskelstyrke, og det er noget man aktivt kan træne med tung styrketræning.
 
-Den tunge styrketræning skal udføres eksplosivt. Bevægelserne udføres ganske vist relativt langsommere med tunge vægte. Det væsentlige ved udførelsen er imidlertid, at man hele tiden forsøger at accelerere bevægelserne i den koncentriske fase (musklen arbejder under forkortelse). I den excentriske fase gøres bevægelsen langsommere (musklen arbejder under forlængelse). Ofte siger man langsomt ned, hurtigt op.
 
-Ved at arbejde med tunge vægte tvinges nervesystemet til at sende et stort impuls, og derved får vi en større Rate of Force Development, fordi motorenhederne fyrer mere synkront og fordi flere deltager i kontraktionen.
+
+
+## Eksplosiv styrketræning
+
+Når vi arbejder med eksplosiv styrketræning handler det om, at de tunge løft skal udføres eksplosivt. Træningsøvelserne udføres ganske vist relativt langsommere med tunge vægte. Det væsentlige ved træning af eksplosiv styrke er imidlertid, at man hele tiden forsøger at accelerere bevægelserne i den koncentriske fase (musklen arbejder under forkortelse). I den excentriske fase gøres bevægelsen langsommere (musklen arbejder under forlængelse). Ofte siger man langsomt ned, hurtigt op.
+
+Ved at træne eksplosiv styrke med tunge vægte tvinges nervesystemet til at sende et stort impuls, og derved får vi en større Rate of Force Development, fordi motorenhederne fyrer mere synkront og fordi flere deltager i kontraktionen.
 
 **Gendrivelse af myte 1:** De tunge vægte gør os altså ikke langsomme, men øger vores evne til at opnå stor muskelkraft hurtigt. Samtidig er sideeffekten, at vi får en øget maksimal styrke.
 {: .notice .notice--info }
 
-## Udholdenhed
+## Udholdenhed og eksplosiv træning
 
 Hvis vi får hypertrofi kan styrketræning hæmme udholdenheden, bl.a. fordi de hurtige type II-fibre vokser mere end de langsomme og mere udholdende type I-fibre. Samtidig går det ud over løbeøkonomien, hvis fx lægmusklerne bliver for store. 
 
@@ -42,7 +52,7 @@ Det bedste ved de tunge vægte er, at der ingen ulemper er. Musklernes tværsnit
 **Gendrivelse af myte 2:** Tung styrketræning ødelægger altså ikke vores udholdenhed. Den forbedrer den i værste fald, fordi musklerne kommer til at arbejde med en relativt lavere belastning.
 {: .notice .notice--info }
 
-## Organisation af styrketræning 
+## Program og øvelser til eksplosiv styrketræning 
 
 ### Faseopdeling
 
@@ -50,9 +60,9 @@ Du kan ikke bare starte med at løfte tunge vægte. Du bliver nødt til at træn
 
 ![Figur 3: Et styrketræningsforløbs faser](/assets/images/styrke-faser.png)
 
-### Maskiner eller frie vægte?
+### Maskiner eller frie vægte til eksplosiv træning?
 
-Det er umuligt at sige, om frie vægte eller maskiner er bedst. De har hver deres fordele og ulemper.
+Generelt set er det umuligt at sige, om frie vægte eller maskiner er bedst til styrketræning. De har hver deres fordele og ulemper.
 
 Figur 4: Fordele og ulemper ved maskiner og frie vægte
 
@@ -69,7 +79,10 @@ Figur 4: Fordele og ulemper ved maskiner og frie vægte
 |         | Kræver meget plads                 | Kræver solidt gulv                 |
 |         | Kun gode maskiner er gode          | Mange frivægts-stativer er dårlige |
 
-Til ’eksplosiv’ styrketræning er de frie vægte ofte at foretrække – især ved afsætstræning – da de også træner koordination og giver større muligheder for at lave eksplosive bevægelser. Ulempen er, at det kræver meget teknikindlæring, inden det maksimale udbytte kan høstes. Den store fordel er, at man ser rigtig godt ud, mens man gør det.
+
+
+
+Når man træner eksplosiv muskelstyrke er de frie vægte ofte at foretrække – især ved afsætstræning – da de også træner koordination og giver større muligheder for at lave eksplosive bevægelser. Ulempen er, at det kræver meget teknikindlæring, inden det maksimale udbytte kan høstes. Den store fordel er, at man ser rigtig godt ud, mens man gør det.
 
 ### ’One Repetition Maximum’ (1 RM)
 
@@ -91,7 +104,9 @@ Du skal sænke vægten langsomt. Lige når du begynder at løfte vægten igen sk
 
 Du skal køre med få repetitioner og lange pauser mellem sættene. Sættene skal ikke køres til udmattelse i eksplosiv styrketræning. 
 
-## Det optimale ultrakorte styrkeprogram
+## Det optimale ultrakorte program til eksplosiv styrketræning
+
+Denne måde at organisere de enkelte sæt på tager både højde for eksplosivitet og muskeltilvækst. Hvis man kun ønsker de eksplosive øvelser kører man bare 1. effektive sæt to gange. Sørg for en lang træningsperiode inden du kan køre angivelserne af 1RM.
 
 Tabel 4: Eksempel på et styrkepogram
 
@@ -104,7 +119,7 @@ Tabel 4: Eksempel på et styrkepogram
 
 Denne måde at organisere de enkelte sæt på tager både højde for eksplosivitet og muskeltilvækst. Hvis man kun ønsker den eksplosive del kører man bare 1. effektive sæt to gange. Sørg for en lang træningsperiode inden du kan køre angivelserne af 1RM.
 
-## Øvelser
+## Øvelser til træning af eksplosiv muskelstyrke
 
 Dette træningsprogram suppleret med mave- og rygøvelser giver rigtig stor effekt med et minimalt arbejde.
 
@@ -120,7 +135,7 @@ Programmet gennemføres ca. hver 4. dag.
 
 ## Afslutning
 
-En hurtig opsamling på dette dokuments budskab.
+En hurtig opsamling på  på eksplosivitet og hvordan vi bedst træner musklerne med eksplosive styrkeøvelser.
 
 - Tunge vægte øger vores evne til at aktivere stor muskelstyrke hurtigt, hvilket er godt i fodbold ifm. spark, hop, tacklinger og sprints. En sideeffekt er at vi får større maksimal styrke, som kan komme os til gode i nærkampe og kan være skadesforebyggende.
 - Tung styrketræning kan tilsyneladende være med til at øge vores udholdenhed, fordi vi ved aktivitet vil komme til at arbejde med en relativt mindre belastning. Træningen skal imidlertid organiseres således, at man ikke har vægtøgning, idet en vægtøgning har en negativ indflydelse på konditionen.
@@ -128,11 +143,7 @@ En hurtig opsamling på dette dokuments budskab.
 **Læs mere**. Sørg for at forberede dig godt, inden du træner tung styrketræning. Hvis du vil være klogere er [motionsplan.dk](https://www.motionsplan.dk) en rigtig god side, I> som er udarbejdet af en af de personer i Danmark, der ved mest om styrketræning.
 {: .notice .notice--info}
 
-## Øvelser
-
-På [motionsplan.dk](https://www.motionsplan.dk) finder du også et stort øvelsesbibliotek.
-
-## Gode råd til din styrketræning
+## Gode råd til din eksplosive styrketræning
 
 1. Lav altid mindst et eller to opvarmningssæt i hver øvelse. Brug en belastning der er ca. 50 % af det du regner som din træningsbelastning. Undgå at køre disse opvarmningssæt til udmattelse.
 2. Prøv at få mindst et træningspas pr. uge. Det er guld værd.
@@ -150,4 +161,7 @@ På [motionsplan.dk](https://www.motionsplan.dk) finder du også et stort øvels
 
 ## Konklusion
 
-Styrketræning kan ud over at forbedre eksplosiviteten også være med til at [forebygge skader](https://www.motionsplan.dk/artikel/kan-styrketraening-forebygge-skader).
+## Eksplosive træningsøvelser for fodboldspillere
+
+På [motionsplan.dk](https://www.motionsplan.dk) finder du også et stort øvelsesbibliotek. Styrketræning kan ud over at forbedre eksplosiviteten også være med til at [forebygge skader](https://www.motionsplan.dk/artikel/kan-styrketraening-forebygge-skader).
+
