@@ -306,7 +306,7 @@ defaults:
       comments: true
       share: true
       related: true
-      toc: false
+      toc: true
       author: lsolesen
       sidebar:
         title: "Populære sider"
