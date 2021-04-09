@@ -1,4 +1,4 @@
-name: motionsplan
+name: legestue
 
 backend:
   name: github
