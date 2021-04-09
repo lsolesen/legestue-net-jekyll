@@ -1,5 +1,5 @@
 ---
-title: "Hold pause – om restitutionstræning"
+title: Hold pause – restitution efter træning
 redirect_from: /blog/hold-pause/
 language: da
 header:
@@ -14,7 +14,7 @@ tags:
   - Veje til udvikling
   - udspænding
   - restitution
-last_modified_at: 2020-04-27T22:04:50Z
+last_modified_at: 2020-04-27T22:04:50.000Z
 ---
 
 Restitutionstræning dækker både over (1) afjogging efter kamp og træning og (2) den lettere træning dagen efter en kamp. Træningen er utvivlsomt nødvendig, det bestrider vi ikke, men der er ikke mange, som ved, om det virker. Vi har forhørt os hos nogle af de førende forskere på Syddansk Universitet, men området er ikke oversvømmet med videnskabelig dokumentation. Ernæring i forbindelse med restitution er det område, som er bedst belyst, men det er stort set kun nødvendigt for spillere, som mindst træner hver dag.
