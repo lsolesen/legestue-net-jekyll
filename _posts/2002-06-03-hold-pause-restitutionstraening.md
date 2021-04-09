@@ -31,28 +31,19 @@ categories:
 ---
 Mælkesyredannelse og ømme muskler efter træning, lyder det bekendt? Det er, for de flestes vedkommende, ingen overraskelse at man bliver øm og træt efter træning, uanset om man har dyrket crossfit, løbet et halvmaraton eller har styrketrænet i fitnesscentret.
 
-
-
-Men udnyttes restitutionstiden bedst ved at lade kroppen hvile efter træning, eller kan man opnå bedre resultater på fodboldbanen ved hjælp af restitutionstræning med ømme muskler? Det kigger vi nærmere på i denne artikel.  
-
+Men udnyttes restitutionstiden bedst ved at lade kroppen hvile efter træning, eller kan man opnå bedre resultater på fodboldbanen ved hjælp af restitutionstræning med [ømme muskler](https://www.motionsplan.dk/omme-muskler-efter-traening/)? Det kigger vi nærmere på i denne artikel.  
 
 ## Hvad er restitution?
 
 Restitution betyder genoprettelse eller helbredelse, og det er præcis hvad det handler om når det kommer til restitution efter træning, uanset om man er fodboldspiller, styrketræner eller cykler.
 
-
-
 Restitution er kroppens måde at “reparere” sig selv på efter hård fysisk aktivitet, og det er essentielt at inkorporere i sin træning hvis man vil se positiv udvikling i sin egen fysiske formåen. Mange oplever at de i deres træning når et punkt hvorfra resultaterne begynder at udeblive, og særligt her skal man begynde at tænke mere holistisk på sin træning frem for blot de aktive minutter. Tillader man ikke sin krop at restituere vil man, groft sagt, ødelægge den i det lange løb, og det er netop derfor det er så vigtigt at holde for øje og holde fast i.
-
-
 
 Alt afhængigt af hvor seriøs man er omkring sin træning, kan man arbejde med restitution både før, under og efter og det inkluderer bl.a. både søvn og kost.
 
 Restitutionsprocesserne foregår dels i musklerne, og dels i hjerne og lever. I leveren sker en genopbygning af de energirige stoffer. Hjerte-kredsløbets opgave i restitutionsfasen er at fjerne affaldsstofferne, samt at tilføre ilt og næringsstoffer til genopbygningsprocesserne.
 
-
 ## Hvor længe skal man restituere?
-
 
 Kroppens forskellige dele har også forskellige restitutionstider, og det går fx væsentlig hurtigere at få genopfyldt væskedepoterne end det gør at få restitueret sener og led. 
 
@@ -60,13 +51,9 @@ Restitutionstid afhænger naturligvis også af træningens intensitet og format.
 
 ## Hvad er restitutionstræning?
 
-
 “Hvornår må man træne igen efter ømme muskler?” er et hyppigt stillet spørgsmål når det kommer til restitution, og hvis vi kigger på principperne for restitutionstræning er svaret: så hurtigt som muligt.
 
-
-
-Med restitutionstræning handler det om at træne med ømme muskler og aktivt få brugt dem i træningsformer der kan udføres skånsomt – fx løb og udstrækning. Det er vigtigt at pointere, at restitutionstræning ikke handler om maximal belastning og høj performance, men derimod at bruge gymnastiske øvelser og strækøvelser for at øge blodgennemstrømningen af musklerne. Det er nemlig vigtigt at holde venepumpen i gang, også når man teknisk set hviler kroppen.
-
+Med restitutionstræning handler det om at træne med ømme muskler og aktivt få brugt dem i træningsformer, der kan udføres skånsomt – fx løb, yoga og udstrækning. Det er vigtigt at pointere, at restitutionstræning ikke handler om maximal belastning og høj performance, men derimod at bruge gymnastiske øvelser og strækøvelser for at øge blodgennemstrømningen af musklerne. Det er nemlig vigtigt at holde venepumpen i gang, også når man teknisk set hviler kroppen.
 
 Løb er måske den mest fremtrædende træningsform, men man kan overveje om det ikke er at spilde en chance for fx at forbedre sine tekniske evner på banen samtidig med man restituerer?
 
