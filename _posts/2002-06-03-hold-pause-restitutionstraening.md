@@ -4,9 +4,9 @@ permalink: /hold-pause-restitutionstraening/
 redirect_from:
   - /blog/hold-pause/
   - /nedvarmning/
-title: Hold pause – restitution efter træning
+title: Nedvarmning og restitution efter træning
 seo_title: &title Restitutionstræning og optimering af kroppen
-description: Med restitutionstræning holdes ømme muskler i gang samtidig med du
+description: Med restitutionstræning og nedvarmning holdes ømme muskler i gang samtidig med du
   forbedrer din fysik. Læs hvorfor det er vigtigt og hvordan det kan gøres her.
 header:
   overlay_image: https://images.unsplash.com/photo-1544221479-296b71ce53c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80
@@ -35,9 +35,9 @@ feature_row:
     btn_label: Køb brugt hos Saxo*
 language: da
 ---
-Mælkesyredannelse og ømme muskler efter træning, lyder det bekendt? Det er, for de flestes vedkommende, ingen overraskelse at man bliver øm og træt efter træning, uanset om man har dyrket crossfit, løbet et halvmaraton eller har styrketrænet i fitnesscentret.
+Mælkesyredannelse og ømme muskler efter træning, lyder det bekendt? Det er, for de flestes vedkommende, ingen overraskelse at man bliver øm og træt efter træning.
 
-Men udnyttes restitutionstiden bedst ved at lade kroppen hvile efter træning, eller kan man opnå bedre resultater på fodboldbanen ved hjælp af restitutionstræning med [ømme muskler](https://www.motionsplan.dk/omme-muskler-efter-traening/)? Det kigger vi nærmere på i denne artikel.  
+Men udnyttes restitutionstiden bedst ved at lade kroppen hvile efter træning, eller kan man opnå bedre resultater på fodboldbanen ved hjælp af restitutionstræning og nedvarmning mod [ømme muskler](https://www.motionsplan.dk/omme-muskler-efter-traening/)? Det kigger vi nærmere på i denne artikel.
 
 ## Hvad er restitution?
 
@@ -81,7 +81,7 @@ Vi kan ikke komme med videnskabeligt belæg for vores synspunkter, men vi kan ko
 
 Det mener vi, og derfor kommer vi længere nede i artiklen med konkrete forslag til restitutionstræning, man kan udnytte for at forbedre sin boldteknik.
 
-## Afjogging efter træning
+## Nedvarmning og afjogging efter træning
 
 På et tidspunkt lod alle fodboldtrænere med respekt for sig selv sine spillere løbe et par omgange om banen for at løbe af. Nu er det ikke længere så sikkert, at folk gør det. Poul Hansen har en holdning til det:
 
