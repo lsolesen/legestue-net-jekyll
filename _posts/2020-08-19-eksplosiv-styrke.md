@@ -1,6 +1,9 @@
 ---
 last_modified_at: 2020-08-18T15:16:02.000Z
 toc: true
+permalink: "/eksplosiv-styrke/"
+redirect_from:
+  - /styrketraening/
 title: "Eksplosivitet: Eksplosiv træning for fodboldspillere"
 seo_title: "Eksplosiv træning: Program & øvelser til eksplosiv styrke "
 description: Vil du være hurtigere og stærkere i fodbold? Med eksplosiv
@@ -22,9 +25,6 @@ Inden for fodboldens verden er eksplosiv muskelstyrke essentielt at træne, for 
 ## Hvad er eksplosivitet?
 
 Eksplosivitet er et essentielt begreb for atleter på tværs af idrætsgrene. Grundlæggende set handler det om, at sportsudøveren er i stand til at udføre en bevægelse med eksplosiv styrke – fx en fodboldspiller der på kort tid og med meget kraft skal sparke på mål. At kunne det kræver eksplosiv muskelstyrke, og det er noget man aktivt kan træne med tung styrketræning.
-
-
-
 
 ## Eksplosiv styrketræning
 
@@ -78,8 +78,6 @@ Figur 4: Fordele og ulemper ved maskiner og frie vægte
 |         | Specialiserede                     | Kræver øvelseskendskab             |
 |         | Kræver meget plads                 | Kræver solidt gulv                 |
 |         | Kun gode maskiner er gode          | Mange frivægts-stativer er dårlige |
-
-
 
 
 Når man træner eksplosiv muskelstyrke er de frie vægte ofte at foretrække – især ved afsætstræning – da de også træner koordination og giver større muligheder for at lave eksplosive bevægelser. Ulempen er, at det kræver meget teknikindlæring, inden det maksimale udbytte kan høstes. Den store fordel er, at man ser rigtig godt ud, mens man gør det.
@@ -159,9 +157,27 @@ En hurtig opsamling på  på eksplosivitet og hvordan vi bedst træner musklerne
 12. Træn aldrig når du er rigtig sulten. Hvis dit blodsukker er lavt vil din krop have en høj nedbrydning af protein - en dum ide når man gerne vil være stærkere.
 13. Umiddelbart efter træningen skal du få noget at spise eller drikke der indeholder sukker og protein. Derved restituerer du hurtigere og får mere ud af træningen.
 
-## Konklusion
-
 ## Eksplosive træningsøvelser for fodboldspillere
 
 På [motionsplan.dk](https://www.motionsplan.dk) finder du også et stort øvelsesbibliotek. Styrketræning kan ud over at forbedre eksplosiviteten også være med til at [forebygge skader](https://www.motionsplan.dk/artikel/kan-styrketraening-forebygge-skader).
 
+## Konklusion
+
+> ”Folk sagde, at mit største temposkift  
+> var, når jeg skulle i bad.” 
+
+--- <cite>Tommy Troelsen</cite>
+
+Styrketræning kan være anvendeligt i træningen, hvis træneren har gjort sig klart, hvorfor han gør det. Styrketræning skal tilgodese de muskelgrupper, som bruges i fodbold. Begrundelsen til at styrketræne skal efter vores mening enten findes i et ønske om at forøge springstyrken og sprinthurtigheden, forbedre nærkampsstyrken eller være skadesforebyggende. Styrketræning skal ikke bruges som straf, men som et led i den enkeltes spillers personlige udvikling.
+
+Spillere med stor muskelstyrke har færre skader end spillere med lille muskelstyrke (Bangsbo: 52).
+
+Træningen skal tilrettelægges vidt forskelligt, om der er tale om at øge muskeludholdenheden, den eksplosive styrke eller muskelstyrken. 
+
+Med en begrænset tidshorisont for øje er træning af armens bøjemuskulatur (m. biceps brachii) måske også mindre væsentlig end træning af afsætsmuskulaturen i benene, og den eksplosive træning kan gøre dig endnu mere klar til fodboldkampene.
+
+Styrketræning kan også være meget anvendelig til at [forebygge skader for fodboldspillere]({% link _posts/2009-08-06-undga-skader.md %}).
+
+## Noter
+
+[^note]: Citeret fra en tv-transmission på DK4 af Ørestads Cup-kampen mellem Sverige og Danmark, 3. juni 2000
