@@ -312,6 +312,8 @@ defaults:
       related: true
       toc: true
       author: lsolesen
+      header:
+        teaser: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=400&q=80
       sidebar:
         title: "Populære sider"
         nav: blog
