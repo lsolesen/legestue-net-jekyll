@@ -12,17 +12,16 @@ feature_row:
     url: "https://drive.google.com/file/d/1wsAGzCwMp9W0c-VtQjHfQ4XD0fp3cJsv/view?usp=sharing"
     btn_label: "Download Fodboldrytmer"
     btn_class: "btn--success"
+    rel: "nofollow"
 ---
 
 Tak fordi du ville læse Fodboldrytmer.
-
-{% include feature_row type="right" %}
 
 Jeg har brugt uanede mængde tid på at samle de forskellige fodboldrytmer og skrive dem ned, så du kan tage dem med på træningsbanen. 
 
 Jeg håber du nyder dem samlet i dette hæfte.
 
-[Download hæftet Fodboldrytmer](/assets/pdf/paid/fodboldrytmer-2005.pdf){: .btn .btn--success .btn--large }
+{% include feature_row type="right" %}
 
 Hvis du gerne vil dele fodboldrytmerne med andre, så er du velkommen til det, men overvej at dele en kop kaffe med mig :)
 

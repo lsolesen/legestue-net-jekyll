@@ -12,6 +12,7 @@ feature_row:
     url: "https://drive.google.com/file/d/1t4RjrC58hECcZN6FiEq5tggbwMkXHXG0/view?usp=sharing"
     btn_label: "Download Minihjælperen"
     btn_class: "btn--success"
+    rel: "nofollow"
 ---
 
 Tak fordi du ville læse Fodboldens Træningshjælper.

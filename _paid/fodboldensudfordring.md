@@ -12,6 +12,7 @@ feature_row:
     url: "https://drive.google.com/file/d/10zje8CWKhGeBv9uRjY8jSdjk95X9LusK/view?usp=sharing"
     btn_label: "Download reglerne"
     btn_class: "btn--success"
+    rel: "nofollow"
 ---
 
 Tak fordi du vil spille Fodboldens Udfordring.

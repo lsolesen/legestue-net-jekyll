@@ -12,6 +12,7 @@ feature_row:
     url: "https://drive.google.com/file/d/1EHxuD3oj3Vr9ORqjqdQNyqeWe9x9BW2d/view?usp=sharing"
     btn_label: "Download Børnetræningsmanualen"
     btn_class: "btn--success"
+    rel: "nofollow"
 ---
 
 Tak for din interesse for Børnetræningsmanualen.
