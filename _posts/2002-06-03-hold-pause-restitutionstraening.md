@@ -1,15 +1,24 @@
 ---
 last_modified_at: 2021-04-09T03:11:55+02:00
-redirect_from: /blog/hold-pause/
+permalink: /hold-pause-restitutionstraening/
+redirect_from:
+  - /blog/hold-pause/
+  - /nedvarmning/
 title: Hold pause – restitution efter træning
-seo_title: Restitutionstræning og optimering af kroppen
+seo_title: &title Restitutionstræning og optimering af kroppen
 description: Med restitutionstræning holdes ømme muskler i gang samtidig med du
   forbedrer din fysik. Læs hvorfor det er vigtigt og hvordan det kan gøres her.
 header:
   overlay_image: https://images.unsplash.com/photo-1544221479-296b71ce53c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80
   teaser: https://images.unsplash.com/photo-1544221479-296b71ce53c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: Photo by Baylee Gramling on Unsplash
+  caption: *title
+  alt: Photo by Baylee Gramling on Unsplash
+categories:
+  - Undervisning
+  - Veje til udvikling
 tags:
+  - Børnetræningsmanual 2006
+  - nedvarmning
   - Fodboldtræning
   - Veje til udvikling
   - udspænding
@@ -25,9 +34,6 @@ feature_row:
     url: https://www.saxo.com/dk/fra-ulkeboel-til-superligaen_poul-hansen_haeftet_9788711114278
     btn_label: Køb brugt hos Saxo*
 language: da
-categories:
-  - Undervisning
-  - Veje til udvikling
 ---
 Mælkesyredannelse og ømme muskler efter træning, lyder det bekendt? Det er, for de flestes vedkommende, ingen overraskelse at man bliver øm og træt efter træning, uanset om man har dyrket crossfit, løbet et halvmaraton eller har styrketrænet i fitnesscentret.
 
@@ -99,9 +105,25 @@ Jeg er dog uenig i, at der ikke er beviser på, at [udstrækning virker for smid
 
 Udstrækningsøvelser kan i hvert fald være med til at gøre kroppen vant til at være i flere forskellige positioner.
 
+Forskere har sammenlignet en gruppe voksne, der aktivt varmer ned i 12 minutter med en gruppe, som siddende slapper af i 12 minutter. Begge grupper blev testet før en kamp og fulgt efter kampen. Gruppen der varmede ned med fem minutters jogging, fem minutters strækøvelser og to minutter hvor spillerne fik benene rystet af deres holdkammerater, restituerede hurtigere, når man sammenlignede med kontrolgruppen – og de klarede sig bedre på både spring- og sprinttests. Forskerne viste, at man 72 timer efter en kamp kan være fuldstændig restitueret, hvis man varmer ned, mens det tager længere tid, hvis man ikke gør. Det er uklart nøjagtig, hvilke faktorer der forårsager forskellene mellem grupperne. 
+
+Årsagerne kan være, at mælkesyre fjernes hurtigere fra blodet og at kropstemperaturen falder mere jævnt, når man varmer ned. En vigtig sideeffekt er, at aktiviteten i nervesystemet formentlig dæmpes hurtigere, hvis man varmer ned (se Reilly, 2005).
+
+Der er ikke lavet lignende studier med børn og nedvarmning. Det er sandsynligt, at børn også vil drage nytte af nedvarmning. Børn danner ganske vist ikke den samme mængde mælkesyre som voksne, men et jævnere fald i kropstemperatur vil formentlig være en fordel for børn, som ikke er lige så gode til at regulere kropstemperaturen som voksne (Rowland, 2005). At aktiviteten i nervesystemet dæmpes hurtigere er i hvert fald en fordel for børn.
+
 ## Gør restitutionstræningen for fodboldspillere interessant
 
-Vi tror altså, at afjogging er godt. Selv unge spillere bør afjogge sidst på træningen – for opdragelsens skyld, men det skal være værd at bruge tid på: for deres skyld. Følgende forslag til restitutionstræning for fodboldspillere er bl.a. inspireret af at have set Per Nielsen træne sit drengehold fra OB.
+Vi tror altså, at afjogging er godt. Det er en god ide at nedvarme efter fysisk aktivitet.
+
+Selv unge spillere bør afjogge sidst på træningen – for opdragelsens skyld, men det skal være værd at bruge tid på: for deres skyld. 
+
+Nedvarmning behøver imidlertid ikke være kedelig. Når du planlægger nedvarmningen, skal du bare sørge for at intensiteten rammer mellem 50% og 60% af den maksimale iltoptagelse.
+
+Restitutionstræning behøver ikke at foregå som løb på tværs eller rundt om banen. Mange af de klassiske fodboldøvelser kan bruges som en rolig sidste aktivitet. Det er bare vigtigt at intensiteten ikke er for høj.
+
+Fx kan man bruge en afleveringsøvelse, hvor spillerne står i to rækker og skal få bolden til at køre mellem rækkerne med indersideafleveringer.
+
+Følgende forslag til restitutionstræning for fodboldspillere er bl.a. inspireret af at have set Per Nielsen træne sit drengehold fra OB.
 
 ### Målspil
 
