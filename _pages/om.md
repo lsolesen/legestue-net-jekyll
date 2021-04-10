@@ -3,6 +3,7 @@ layout: single
 title: "Om Fodboldens Legestue"
 permalink: /om/
 author_profile: true
+sitemap: false
 gallery:
   - url: /fodboldtricks/
     image_path: /assets/images/books/tricks-2020.png
