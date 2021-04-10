@@ -14,11 +14,15 @@ tags:
 last_modified_at: 2013-03-01T22:04:50Z
 ---
 
+> Hvis du tror sandheden kan udtrykkes i ord. Hvis du tror, livet og universet kan passere gennem den lille bitte åbning, som kaldes din mund, så er det på tide, at nogen begynder at grine.
+
+--- <cite>Hafiz citeret fra Grünbaum</cite>
+
 *[DTU]: Dansk Træner Union
 
-> Hvis du tror sandheden kan udtrykkes i ord. Hvis du tror, livet og universet kan passere gennem den lille bitte åbning, som kaldes din mund, så er det på tide, at nogen begynder at grine. (Hafiz citeret fra Grünbaum)
+Fodbold er en varm kartoffel i medierne, men skrællen når sjældent at blive pillet af. Prominente trænere udtaler, at teknikken i dansk (top)fodbold ikke er tilstrækkeligt veludviklet, og løsningsforslaget er mere træning og flere gentagelser (Rasmussen 2000).
 
-Fodbold er en varm kartoffel i medierne, men skrællen når sjældent at blive pillet af. Prominente trænere udtaler, at teknikken i dansk (top)fodbold ikke er tilstrækkeligt veludviklet, og løsningsforslaget er mere træning og flere gentagelser (Rasmussen 2000). Samtidig er den gal med fysikken i elitefodbolden, og svaret hertil er ansættelse af fysiske trænere, der kan hjælpe til at opgradere de parametre, som det kniber med (Kragh 2000). De unge fremadstormende spillere anklages for at være forkælede, hvilket betyder at det psykiske beredskab er mangelfuldt. Det ser unægtelig lidt sort ud i dansk fodbold i øjeblikket, ikke kun fordi mange lønninger stadig er lidt lyssky.
+Samtidig er den gal med fysikken i elitefodbolden, og svaret hertil er ansættelse af fysiske trænere, der kan hjælpe til at opgradere de parametre, som det kniber med (Kragh 2000). De unge fremadstormende spillere anklages for at være forkælede, hvilket betyder at det psykiske beredskab er mangelfuldt. Det ser unægtelig lidt sort ud i dansk fodbold i øjeblikket, ikke kun fordi mange lønninger stadig er lidt lyssky.
 
 Vi bladrer altid gennem det blad, der om noget burde give inspiration til den interesserede træner, med store forventninger. Dansk Træner Unions (DTU) blad Fodboldtræning er (eller burde være) et medium, hvor forskellige tilgange til træning diskuteres af trænere på mange niveauer.
 
@@ -28,13 +32,15 @@ Nogle vil måske indvende mod at kalde et skrift på 18 sider for en Bibel. Vore
 
 Vi vil ikke forsøge at afdække virkeligheden i dansk fodbold: 
 
-> "Det er mere vigtigt at skabe virkeligheden end at afdække den." (Nielsen 1999). 
+> "Det er mere vigtigt at skabe virkeligheden end at afdække den."
+
+--- <cite>Nielsen 1999</cite> 
 
 Fokus er ikke, hvordan fodboldtræningen rundt om i klubberne er, men hvordan den efter vores mening burde være. Vi påberåber os ikke sandheden, selvom vi mener, at noget er mere sandt end andet, ligesom nogle måder at træne på er bedre end andre.
 
 > Så bed han (Sepp Piontek, red.) lidt af de forskellige personer og sendte skarpe bemærkninger af sted, samtidig med at han bed i sin pibe. Det har nemlig til alle tider været en væsentlig fordel for en træner, hvis han kan få sine omgivelser til at tro på, at han alene har svarene på, hvordan fodbold skal spilles og forstås. Det giver en enorm respekt.
->
-> (Per Friman 1998, vores kursivering).
+
+--- <cite>Per Friman 1998, vores kursivering</cite>
 
 Et sandhedskrav afføder efter vores bedste overbevisning ikke en holdbar respekt. Det gør udviklingen gennem en vedvarende refleksion over ens gøren og laden. Til gengæld viger vi ikke tilbage fra at indlade os i en holdningspræget debat om, hvordan fodboldtræningen kan gribes an. Spillerne skal lære mest muligt og glæde sig ved og til træningen.
 

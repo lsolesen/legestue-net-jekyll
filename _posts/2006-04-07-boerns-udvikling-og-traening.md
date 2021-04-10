@@ -1,5 +1,5 @@
 ---
-title: "Børns udvikling og træning"
+title: "Børns udvikling og fodboldtræning"
 permalink: /boerns-udvikling-og-traening/
 language: da
 header:

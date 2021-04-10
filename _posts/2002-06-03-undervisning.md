@@ -1,5 +1,6 @@
 ---
 title: "Undervisning - er det hokus-pokus?"
+permalink: /undervisning/
 redirect_from: /blog/undervisning-hokus-pokus/
 language: da
 header:
@@ -21,9 +22,13 @@ I indlæringen af teknik og koordination findes ikke forkromede løsninger. Det 
 
 På badmintonlejren var de nærmest på kant med markedsføringsloven, men det behøver ikke at være nødvendigt. I en undersøgelse svarede 940 børn i alderen 10-15 år på spørgsmålet: ”Hvad betyder mest for dig, når du træner?” 73% svarede: ”at dygtiggøre sig”, mens kun 21% svarede: ”at vinde”. Mulighed for dygtiggørelse, at have det sjovt og samværet med kammeraterne vægter højt i vurderingen af en god træning.[^note2]
 
-Medaljer og krus i indeværende sæson bør ikke være trænerens fokus, men snarere en tilfredsstillelse ved at udvikle fremtidige dygtige spillere. Det sker først og fremmest ved at udvikle spillernes motoriske færdigheder (koordination og teknik) og deres taktiske forståelse.[^note3] Træningen af den konditionelle formåen bør tidligst have en central plads i træningen som ynglingespiller.
+Medaljer og krus i indeværende sæson bør ikke være trænerens fokus, men snarere en tilfredsstillelse ved at udvikle fremtidige dygtige spillere. Det sker først og fremmest ved at udvikle spillernes motoriske færdigheder (koordination og teknik) og deres taktiske forståelse.[^note3]
 
-Spillerne i ungdomsrækkerne bør på intet tidspunkt blive sat til at spæne op og ned ad linierne uden bold, hverken som opvarmning eller konditionstræning. Snarere skal træningen (og i særdeleshed opvarmningen) involvere bolden eller sigte mod løbetekniske færdigheder. I erkendelse af dette har DBU netop (re)lanceret teknikmærket.[^note4] Det er dog tankevækkende, at DBU ikke i samme forbindelse ikke har tilkendegivet mange tanker om, hvordan den enkelte lærer på den bedste måde.
+Træningen af den konditionelle formåen bør tidligst have en central plads i træningen som ynglingespiller.
+
+Spillerne i ungdomsrækkerne bør på intet tidspunkt blive sat til at spæne op og ned ad linierne uden bold, hverken som opvarmning eller konditionstræning. Snarere skal træningen (og i særdeleshed opvarmningen) involvere bolden eller sigte mod løbetekniske færdigheder. I erkendelse af dette har DBU netop (re)lanceret teknikmærket.[^note4]
+
+Det er dog tankevækkende, at DBU ikke i samme forbindelse ikke har tilkendegivet mange tanker om, hvordan den enkelte lærer på den bedste måde.
 
 Det samme er tilfældet med mange trænere, som ikke inden træningen gør sig tanker om, **hvordan lærer man egentlig (bedst)**? Gennem en beskrivelse af koordinationstræning gives senere et bud på dette.
 
@@ -38,7 +43,9 @@ Flere prominente trænere har været efter det tekniske niveau i dansk fodbold, 
 [^note3]: Til stadighed diskuteres om teknikken er en forudsætning for at kunne udføre taktikken, eller den taktiske forståelse er en nødvendig for at vide, hvorfor man skal kunne de forskellige tekniske færdigheder. Den diskussion uddybes ikke yderligere i det nærværende. Det bedste argument for opøvelsen af en god teknik er formentlig, at teknikken vil man have gavn af i mange år fremover – også efter fysikken ikke længere helt kan følge med.
 [^note4]: Et godt initiativ, selvom det efter de ideer, som skitseres i denne tekst, ikke er optimalt, at spillerne nødvendigvis skal kunne nogle helt specielle færdigheder for at løse opgaverne.
 
-Forskellen på Laudrups virkelighed og den virkelighed ungdomstræneren færdes i er imidlertid, at FC Barcelona-spillerne (formentlig) var fremragende fodboldspillere allerede inden, de kom til holdet. Han definerer ikke de kloge hoveder nærmere, men gør sig selv til klogt hoved, når han diskuterer hvilket træningsomfang, der er nødvendigt for at skabe et godt fodboldhold. Reelt gør han sig ingen gisninger om, hvad der skal til for at skabe en god teknisk fodboldspiller. Det væsentlig(st)e budskab Laudrup har er en fastholdelse af **kvalitet i træningen**. Begrebet vedligeholdelsestræning rækker ikke – træneren skal til stadighed forsøge at lære spillerne endnu mere.
+Forskellen på Laudrups virkelighed og den virkelighed ungdomstræneren færdes i er imidlertid, at FC Barcelona-spillerne (formentlig) var fremragende fodboldspillere allerede inden, de kom til holdet. Han definerer ikke de kloge hoveder nærmere, men gør sig selv til klogt hoved, når han diskuterer hvilket træningsomfang, der er nødvendigt for at skabe et godt fodboldhold.
+
+Reelt gør han sig ingen gisninger om, hvad der skal til for at skabe en god teknisk fodboldspiller. Det væsentlig(st)e budskab Laudrup har er en fastholdelse af **kvalitet i træningen**. Begrebet vedligeholdelsestræning rækker ikke – træneren skal til stadighed forsøge at lære spillerne endnu mere.
 
 Teknik handler om at spille (med sig) selv og muliggør, at man kan spille med (andre). ’Fodboldens Legestue’ handler hovedsageligt om at spille selv og kun lidt om at spille med. Alle tankerne tager ikke specifikt udgangspunkt i at spille selv, men forsøger at indskrive den tekniske kunnen i et større perspektiv.
 
@@ -64,9 +71,13 @@ I talen om motorik skelner Keld Fredens (1993) mellem tre planer: stabilitet, mo
 
 [^note5]: Michael Laudrup citeret fra ”Sports-pluk!” i: Berlingske Tidende, 10. oktober 1999.
 
-Fodbold er et spil med **åbne færdigheder**. Spilleren skal agere ift. bolden, omgivelserne og egne intentioner. Bevægelser kan være mere eller mindre hensigtsmæssige, men der findes ingen normale bevægelser (Fredens 1993: 15). Derfor er spilleren ofte udsat for, at de indlærte motoriske færdigheder skal manipuleres eller forandres (fleksibilitet). Spilleren skal fx hoppe, når han skal heade. Lidt populært kan man skrive, at for at indøve nye færdigheder er det nødvendigt at have sin grundmotorik i orden, mens man for at være kreativ – dvs. kunne skabe nyt – skal man have et vist færdighedsniveau, som er fleksibelt i spillet.
+Fodbold er et spil med **åbne færdigheder**. Spilleren skal agere ift. bolden, omgivelserne og egne intentioner. Bevægelser kan være mere eller mindre hensigtsmæssige, men der findes ingen normale bevægelser (Fredens 1993: 15). Derfor er spilleren ofte udsat for, at de indlærte motoriske færdigheder skal manipuleres eller forandres (fleksibilitet).
 
-Med Poul Dyhre-Poulsen (1985) bliver koordination: evnen til at vælge blandt mange bevægelsesprogrammer, netop det program, som giver det ønskede resultat. Den korrekte udvælgelse af bevægelsesprogrammer kræver, at sansemeldingerne indløber korrekt, således at muskelsamarbejdet kun fungere optimalt. Hermed bliver koordinationstræning også afhængig af den enkeltes bevægelseserfaring; en bevægelse stykkes sammen af tidligere indlærte motoriske programdele, og de nye elementer tilføjes og indpasses. ’Fodboldens Legestue’ sigter mod at udvide den enkeltes bevægelseserfaring med bold.
+Spilleren skal fx hoppe, når han skal heade. Lidt populært kan man skrive, at for at indøve nye færdigheder er det nødvendigt at have sin grundmotorik i orden, mens man for at være kreativ – dvs. kunne skabe nyt – skal man have et vist færdighedsniveau, som er fleksibelt i spillet.
+
+Med Poul Dyhre-Poulsen (1985) bliver koordination: evnen til at vælge blandt mange bevægelsesprogrammer, netop det program, som giver det ønskede resultat. Den korrekte udvælgelse af bevægelsesprogrammer kræver, at sansemeldingerne indløber korrekt, således at muskelsamarbejdet kun fungere optimalt.
+
+Hermed bliver koordinationstræning også afhængig af den enkeltes bevægelseserfaring; en bevægelse stykkes sammen af tidligere indlærte motoriske programdele, og de nye elementer tilføjes og indpasses. ’Fodboldens Legestue’ sigter mod at udvide den enkeltes bevægelseserfaring med bold.
 
 Træn derfor altid færdighederne blandet: teknik er blandt andet er at udvælge det rigtige motoriske program i hjernen (Dyhre-Poulsen 1985). Det er en god ide at træne venstre og højre ben vilkårligt i en træningssituation.
 
@@ -76,9 +87,17 @@ Træn derfor altid færdighederne blandet: teknik er blandt andet er at udvælge
 
 --- <cite>Anders Levinsen</cite>
 
-Keld Fredens fremhæver, at bevægelser som er indlært med omtanke er lettere at gøre fleksible. Den systematiske indlæring af en færdighed er almindeligvis hurtigere, men færdigheden bliver isoleret, og der fordres ikke den store tankevirksomhed. Ved at træne en færdighed mere vilkårligt må spilleren selv tænke, og færdigheder opnået på denne måde bliver mere vedvarende og kan være genstand for forandring. ”Det er derfor vigtigt, at man ikke bare lærer noget, men at man samtidig hermed lærer at tænke over det, man gør.” (Fredens 1993). **Spilleren skal vide, hvorfor han endnu engang har øvet indersidespark i et kvarter.**
+Keld Fredens fremhæver, at bevægelser som er indlært med omtanke er lettere at gøre fleksible. Den systematiske indlæring af en færdighed er almindeligvis hurtigere, men færdigheden bliver isoleret, og der fordres ikke den store tankevirksomhed. Ved at træne en færdighed mere vilkårligt må spilleren selv tænke, og færdigheder opnået på denne måde bliver mere vedvarende og kan være genstand for forandring.
 
-Spilleren kunne få opgaven at løfte bolden op fra jorden i en glidende bevægelse med tåspidsen (basisløft I i ’Fodboldens Legestue’). Spilleren finder ud af, at det er nødvendigt at have støttebenet placeret ved siden af bolden. Herfra er der måske ikke så langt til at finde ud af, hvordan man kan lave en af de spektakulære afleveringer Michael Laudrup ynder at bruge, og som han brugte under VM 1998 mod Nigeria til Ebbe Sand. Man kender en færdighed, som man kan være kreativ med udgangspunkt i.
+”Det er derfor vigtigt, at man ikke bare lærer noget, men at man samtidig hermed lærer at tænke over det, man gør.”
+
+--- <cite>Fredens 1993</cite>
+
+**Spilleren skal vide, hvorfor han endnu engang har øvet indersidespark i et kvarter.**
+
+Spilleren kunne få opgaven at løfte bolden op fra jorden i en glidende bevægelse med tåspidsen (basisløft I i ’Fodboldens Legestue’). Spilleren finder ud af, at det er nødvendigt at have støttebenet placeret ved siden af bolden.
+
+Herfra er der måske ikke så langt til at finde ud af, hvordan man kan lave en af de spektakulære afleveringer Michael Laudrup ynder at bruge, og som han brugte under VM 1998 mod Nigeria til Ebbe Sand. Man kender en færdighed, som man kan være kreativ med udgangspunkt i.
 
 I en konkret træningssituation betyder det, at man i første omgang ikke får det ønskede udbytte af at sætte spillerene til at træne indersidespark i timevis, hvis de ikke har en forståelse for, hvorfor de gør det. De skal kunne se den problematiske situation, de er ved at løse:
 
@@ -88,7 +107,9 @@ I en konkret træningssituation betyder det, at man i første omgang ikke får d
 
 --- <cite>Fredens 1993: 23</cite>
 
-Knud Aage Nielsen (1999: 37) arbejder ikke med tekniske termer som ’indersidespark’. I stedet tager han udgangspunkt i situationen: kan du få bolden herfra og over til ham? Når spilleren så har forsøgt dette nogle gange, og det lykkes, kan træneren hjælpe ved at sige: hvis du vil kunne gøre det hver gang, skal du prøve at ramme bolden med det inderste af foden, og igen lade spilleren forsøge sig lidt frem. I ’Fodboldtekniske Færdigheder’ og ’Fodboldens Legestue’ beskrives finter med billeder og tekst, men finterne er ikke noget som helst værd, hvis dribleren ikke har øje for modstanderens balance og reaktioner på fintens bevægelser.
+Knud Aage Nielsen (1999: 37) arbejder ikke med tekniske termer som ’indersidespark’. I stedet tager han udgangspunkt i situationen: kan du få bolden herfra og over til ham? Når spilleren så har forsøgt dette nogle gange, og det lykkes, kan træneren hjælpe ved at sige: hvis du vil kunne gøre det hver gang, skal du prøve at ramme bolden med det inderste af foden, og igen lade spilleren forsøge sig lidt frem.
+
+I ’Fodboldtekniske Færdigheder’ og ’Fodboldens Legestue’ beskrives finter med billeder og tekst, men finterne er ikke noget som helst værd, hvis dribleren ikke har øje for modstanderens balance og reaktioner på fintens bevægelser.
 
 Fodbolden er i Danmark stort set væk fra gaderne. I hvert fald tilkendegiver mange fodboldledere denne holdning, selvom det ikke bunder i videnskabelige beviser, men oplevelser. Trænerens fornemme opgave kunne være at genskabe lysten til at øve sig i fritiden. En måde at gøre det på, kunne være en lille lektie, som fx et trick fra ’Fodboldens Legestue’.
 
@@ -98,7 +119,9 @@ Fodbolden er i Danmark stort set væk fra gaderne. I hvert fald tilkendegiver ma
 
 Det er væsentligt, at spillerne får lov at drømme og eksperimentere i ungdomsårene. Bliver fodbolden alt for organiseret, forsvinder initiativet og kreativiteten, og spillet bliver tandløst og ensformigt forudsigeligt. Mik Hagenbo tematiserer problemstillingen i et interview med Politiken[^note8]:
 
-> ”Jamen, hvis vi alle spiller sådan, så må samtlige kampe da ende uafgjort på et tidspunkt!”.
+> ”Jamen, hvis vi alle spiller sådan, så må samtlige kampe da ende uafgjort på et tidspunkt!”
+
+--- <cite>Mik Hagenbo</cite>
 
 Hagenbo slår til lyd for, at skolelærerne skal udskiftes af pølsemænd med den begrundelse, at skolelærere ”har et pensum, som de mener eleverne nødvendigvis skal igennem”. Den enkelte spiller skal have overladt noget (meget!) til fantasien og kreativiteten.
 
@@ -129,7 +152,9 @@ I det indre øre sidder det vestibulære system, som registrerer hovedets positi
 
 I synet skelner man mellem det fokuserede syn og det perifære syn. Ved at lade færdighederne indgå i lidt mere komplekse sammenhænge, hvor spilleren skal vurdere andre spilleres bevægelse og acceleration, tvinges spilleren til at orientere sig og udnytte det perifære syn (split-vision), som det især beskrives af Christer Bjürwill (1981).
 
-Det fokuserede syn er langsommere end det perifære syn, fordi det hele sker bevidst (consciously). Derfor bør man som træner ikke instruere en flugtende spiller i at ramme bolden, når den har passeret et nærmere defineret sted i svævefasen. Det er bedre at instruere udøveren i at sparke efter bolden, når det føles rigtigt.[^note10] En instruktion som i nogens ører måske lyder lidt for vag, men her må spilleren selv løse den problematiske situation. Du kan i stedet koncentrere dig om at fastholde spilleren i den mest hensigtsmæssige teknik til flugtningen.
+Det fokuserede syn er langsommere end det perifære syn, fordi det hele sker bevidst (consciously). Derfor bør man som træner ikke instruere en flugtende spiller i at ramme bolden, når den har passeret et nærmere defineret sted i svævefasen. Det er bedre at instruere udøveren i at sparke efter bolden, når det føles rigtigt.[^note10] 
+
+En instruktion som i nogens ører måske lyder lidt for vag, men her må spilleren selv løse den problematiske situation. Du kan i stedet koncentrere dig om at fastholde spilleren i den mest hensigtsmæssige teknik til flugtningen.
 
 Uden for denne teksts opgave kan man også arbejde med, at synet ikke får al for stor betydning ift. de andre sanser. Forsøg fx at jonglere med det ene øje lukket, eller forsøg at drible med begge øjne lukket. Det kan faktisk godt lade sig gøre.
 
@@ -138,7 +163,9 @@ Uden for denne teksts opgave kan man også arbejde med, at synet ikke får al fo
 
 ## Undervisningen
 
-Du skal som træner lære dine spillere noget kropsligt, og det kan ikke formidles udelukkende sprogligt (Fredens 1993; Gjerset et al 1996). Det er nødvendigt at forsøge at tale til kroppen; at prøve at få spilleren til at fornemme bevægelsen i kroppen. Brug gerne billedsprog og tal i helheder; når du skal forklare et hovedstød, kan du fx sige: ”Forestil dig, at dit hoved er en stor hammer. Al din kraft sidder i panden, og den skal du banke til bolden med”, snarere end at komme med lange, indviklede forklaringer om biomekaniske principper om forspænding mv.
+Du skal som træner lære dine spillere noget kropsligt, og det kan ikke formidles udelukkende sprogligt (Fredens 1993; Gjerset et al 1996). Det er nødvendigt at forsøge at tale til kroppen; at prøve at få spilleren til at fornemme bevægelsen i kroppen.
+
+Brug gerne billedsprog og tal i helheder; når du skal forklare et hovedstød, kan du fx sige: ”Forestil dig, at dit hoved er en stor hammer. Al din kraft sidder i panden, og den skal du banke til bolden med”, snarere end at komme med lange, indviklede forklaringer om biomekaniske principper om forspænding mv.
 
 ### Imitationsprincippet
 
@@ -146,7 +173,11 @@ Du skal som træner lære dine spillere noget kropsligt, og det kan ikke formidl
 
 --- <cite>Fredens 1993</cite>
 
-En måde at få kroppen i tale på er imitation, at observere og derefter efterligne andre. Sig til spilleren: ”Prøv at se, hvordan jeg gør”. Imitationen har den fordel, at man bliver opmærksom på handlingen og processen, og man kan faktisk lære noget af denne observation.[^note11] Derefter eksperimenterer man med sine småfejl, finder nye sammenhænge og skaber mening. Træneren behøver ikke være verdensmester i forskellige krumspring, men det er en god ide, hvis man har øvet sig en times tid på græsplænen inden træning, så man kan vise færdigheden nogenlunde hæderligt. Tillige skal træneren have gjort sig instruktionsmomenterne klare (det kunne fx ved en dribling være at sænke tyngdepunktet); selvom spilleren skal eksperimentere og lege sig til færdighederne er der ingen grund til at vedkommende skal starte helt fra bar bund. Men det er netop her, at imitationen skal være rekonstruktion og ikke kopi. Kopisten træner nok bevægelserne, men kun i rekonstruktionen bliver man opmærksom på sin egen rytme og lærer, at fx en dribling også er afhængig af omgivelsernes reaktion på finterne.
+En måde at få kroppen i tale på er imitation, at observere og derefter efterligne andre. Sig til spilleren: ”Prøv at se, hvordan jeg gør”. Imitationen har den fordel, at man bliver opmærksom på handlingen og processen, og man kan faktisk lære noget af denne observation.[^note11]
+
+Derefter eksperimenterer man med sine småfejl, finder nye sammenhænge og skaber mening. Træneren behøver ikke være verdensmester i forskellige krumspring, men det er en god ide, hvis man har øvet sig en times tid på græsplænen inden træning, så man kan vise færdigheden nogenlunde hæderligt.
+
+Tillige skal træneren have gjort sig instruktionsmomenterne klare (det kunne fx ved en dribling være at sænke tyngdepunktet); selvom spilleren skal eksperimentere og lege sig til færdighederne er der ingen grund til at vedkommende skal starte helt fra bar bund. Men det er netop her, at imitationen skal være rekonstruktion og ikke kopi. Kopisten træner nok bevægelserne, men kun i rekonstruktionen bliver man opmærksom på sin egen rytme og lærer, at fx en dribling også er afhængig af omgivelsernes reaktion på finterne.
 
 ### Små tips til undervisningen
 
@@ -168,10 +199,7 @@ Nøglebegrebet i al undervisning er motivation, for ellers er det umuligt at få
 
 ## Træningsindhold
 
-Træneren skal sørge for en alsidig træning, som tilgodeser træningen af stabilitet og mobilitet,
-inden specialiseringen skærpes. Med specialiseringen får man hurtigere resultater, men med
-alsidighed opnår man med tiden et højere niveau (Gjerset et al 1996: 80ff; Sejerup 1996). Leg (med
-bolden) skal være det vigtigste element i ungdomstræningen.
+Træneren skal sørge for en alsidig træning, som tilgodeser træningen af stabilitet og mobilitet, inden specialiseringen skærpes. Med specialiseringen får man hurtigere resultater, men med alsidighed opnår man med tiden et højere niveau (Gjerset et al 1996: 80ff; Sejerup 1996). Leg (med bolden) skal være det vigtigste element i ungdomstræningen.
 
 ### Stabilitet
 
@@ -219,7 +247,9 @@ En fodboldspiller i Brasilien er 20 år, når han har lavet 700.000 boldberørin
 
 ## Afslutning
 
-Husk hvis barnet ikke umiddelbart reagerer formålstjenesteligt er det ikke nødvendigvis dårlig opdragelse, men måske dårlig undervisning. Imitation og vilkårlig eksperimenteren har været hele kernen i ’Fodboldens Legestue’. Mod Fodboldens Legestue kan man anfægte, at god teknik skal være anvendelig teknik, men hvis god koordination bygger på et alsidigt bevægelsesgrundlag har legen med bolden netop sin berettigelse. Rytme, stabilitet og overføring af kraft til bolden er væsentlige punkter, og alt det får du også med, når du forsøger dig frem i de forskellige tricks.
+Husk hvis barnet ikke umiddelbart reagerer formålstjenesteligt er det ikke nødvendigvis dårlig opdragelse, men måske dårlig undervisning.
+
+Imitation og vilkårlig eksperimenteren har været hele kernen i ’Fodboldens Legestue’. Mod Fodboldens Legestue kan man anfægte, at god teknik skal være anvendelig teknik, men hvis god koordination bygger på et alsidigt bevægelsesgrundlag har legen med bolden netop sin berettigelse. Rytme, stabilitet og overføring af kraft til bolden er væsentlige punkter, og alt det får du også med, når du forsøger dig frem i de forskellige tricks.
 
 > ”Det kunne være rart, om en drengetræner og drengenes forældre kunne holde mund i bare 20 minutter i en kamp. Lad os dog se, hvad den enkelte spiller selv kan finde ud af med bolden. I stedet bliver der hele tiden råbt ’Spil nu ham’. Den selvstændige tænkning bliver dræbt, når de får en skideballe. Prøv dog at holde kæft…”[^note15]
 
@@ -241,12 +271,12 @@ Træner den taktile sans og balancen med synet og kinæstetiske sans.
 
 ### Driblekaos
 
-a. Drible meget oprejst / langt nede i knæ (balance og tyngdepunkt).
-b. Stoppe med fodsål, bryst, røv, hoved (kropsfornemmelse).
-c. Stoppe med knæ – vende om (balance og tyngdepunkt).
-d. Slå kolbøtte og få fat i bolden igen (buegangssansen).
-e. Finde en ny bold – sidde på flere bolde, inden der dribles videre (rumorienteringsevnen og synet).
-f. Rytmeøvelser.
+- Drible meget oprejst / langt nede i knæ (balance og tyngdepunkt).
+- Stoppe med fodsål, bryst, røv, hoved (kropsfornemmelse).
+- Stoppe med knæ – vende om (balance og tyngdepunkt).
+- Slå kolbøtte og få fat i bolden igen (buegangssansen).
+- Finde en ny bold – sidde på flere bolde, inden der dribles videre (rumorienteringsevnen og synet).
+- Rytmeøvelser.
 
 ### Balance med bold
 
@@ -262,13 +292,13 @@ Spillerne går sammen i små grupper (2-4). En laver en bevægelse, som inkluder
 
 ### Driblesekvens
 
-a. Step på bolden fremad / træk den tilbage.
-b. Kør bolden mellem indersiderne.
-c. Træk bolden med under fodsålerne.
-d. Hop gadedrengehop og rør bolden hver gang en fod føres frem. Sving godt i hofterne. Gør det både med indersiderne og ydersiderne.
-e. Træk bolden med under fodsålen og stop den med indersiden af den anden fod, mens du laver gadedrengehop.
-f. Samme som e, men spil nu inderside med begge fødder, så skiftevis tages med under fodsålen af højre og venstre ben.
-g. Lav e og f uden gadedrengehop.
+- Step på bolden fremad / træk den tilbage.
+- Kør bolden mellem indersiderne.
+- Træk bolden med under fodsålerne.
+- Hop gadedrengehop og rør bolden hver gang en fod føres frem. Sving godt i hofterne. Gør det både med indersiderne og ydersiderne.
+- Træk bolden med under fodsålen og stop den med indersiden af den anden fod, mens du laver gadedrengehop.
+- Samme som e, men spil nu inderside med begge fødder, så skiftevis tages med under fodsålen af højre og venstre ben.
+- Lav e og f uden gadedrengehop.
 
 ### Boldøvelser i takt
 
@@ -276,9 +306,9 @@ Ved at lade spillerne gøre nogle løbe- eller dribleøvelser i takt kan man tvi
 
 ### Rytmetræning
 
-a. Dribleøvelserne fra tidligere kan også fungere som rytmetræning.
-b. Okocha-finten.
-c. Kør bolden mellem fodsålerne. Her tredje gang træder man helt over bolden. Får fat i bolden igen og kører den mellem fødderne.
+- Dribleøvelserne fra tidligere kan også fungere som rytmetræning.
+- Okocha-finten.
+- Kør bolden mellem fodsålerne. Her tredje gang træder man helt over bolden. Får fat i bolden igen og kører den mellem fødderne.
 
 ### Buegangssansen
 
