@@ -1,5 +1,6 @@
 ---
 title: "Undervisning og den kompetitive arbejdsform"
+permalink: /kompetetive-arbejdsform/
 redirect_from: /node/245
 language: da
 header:
