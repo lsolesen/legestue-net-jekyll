@@ -299,6 +299,10 @@ defaults:
       path: "page"
     values:
       sitemap: false
+  - scope:
+      path: "assets/pdf/*.pdf"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""
