@@ -85,4 +85,3 @@ Kampen vindes af det hold, der får flest point. Ikke det hold der scorer flest 
 - **Fair play.** Spillerne bør opføre sig ordentligt. Alle spillerne får et point fra starten af kampen. Hvis de opfører sig dårligt, fx råber grimme ting efter hinaden, mister de pointet. Hvis de viser eksempler på fair play, fx at hjælpe en spiller op eller give positive tilråb, får de et ekstra point.
 - **Straffespark.** Alle spillere får et straffespark til sidst i kampen. De får alle et point, hvis de scorer. De får et ekstra point, hvis der scores på en usædvanlig flot måde. Målmand kan få point ved at lave rigtig gode redninger.
 - **Frispark.** Denne regel indføres først, når spillerne er 13-14 år. Efter kampen får alle spillerne ud over et straffespark et frispark hver. De bestemmer selv om bolden skal ligge til højre eller venstre for målet. Hvis de scorer får det et point.
-- 

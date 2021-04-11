@@ -1,6 +1,9 @@
 ---
 title: "Fodboldtricks i Cyberspace"
-redirect_from: /node/254
+permalink: /glyngfeldt-om-legestue-net/
+redirect_from:
+  - /node/254
+  - /254/
 language: da
 categories:
   - Om
@@ -30,7 +33,7 @@ Der er endnu flere sider, end dem, der er nævnt her, og det har da også taget 
 Det er lidt forskelligt hvor meget tid, han bruger på at opdatere siderne.
 
 > Nogle uger laver jeg lidt på siderne hver dag, mens der ikke er så meget at lave andre uger, siger Lars Olesen.
-
+>
 > Når det er en hjemmeside på nettet, så skal der hele tiden noget nyt på, og det kan hurtigt blive en tidsrøver, hvis man ikke passer på, siger AC-spilleren, der klart understreger, at han ikke tjener penge på siden, og at det heller ikke er formålet med den.
 
 Han får ind imellem mails fra folk, der har besøgt hans hjemmesider, og så lægger han altid svaret ud på hjemmesiden. Han vil meget gerne i kontakt med brugerne af siden, og interaktivitet er et af nøgleordene for ham.
@@ -44,7 +47,7 @@ Men det skal være sjove øvelser, tricks og lege, hvis de skal have en chance f
 Han fortæller, at hjemmesiden er delt op i to niveauer, et til spillere og et til trænere.
 
 > Det er altid godt med lidt inspiration, og det er det, jeg prøver at give her. Jeg har set drenge på otte-10 år til træning blive delt op i to 11-mands hold og så bare spille på to mål hele træningen. På hjemmesiden prøver jeg at vise, at der også er andre muligheder. Jeg prøver at videregive ideer, så det bliver sjovt for spillerne at træne, og jeg prøver at vise, at man lærer noget af at lege, forklarer Lars Olesen.
-
+>
 > Når det er sjovt, så vil man også gerne træne lidt ekstra, men så er det pludselig ikke selvtræning, så er det leg, tilføjer han.
 
 Selv om han af og til får en mail fra brugere af hjemmesiden, så får han ikke den respons, som han havde regnet med, da han gik i gang med projektet.
@@ -76,7 +79,7 @@ Hans holdning er også helt klart, at en træner ikke skal "overcoache" spillern
 Men han erkender, at det er en svær balancegang at finde ud af, hvornår man skal coache, og hvornår man ikke skal, og han erkender også, at det er forskelligt fra barn til barn, hvor stort et behov, der er. Til gengæld er han ikke et sekund i tvivl om, at resultatfodbold ikke hører hjemme i ungdomsrækkerne.
 
 > Frank Arnesen har engang sagt det fremragende, da han sagde, at det eneste hold, der skal vinde i PSV, er holdet i Æresdivisionen. Jeg mener, at man helt generelt kun skal fokusere på udvikling, og det er også det sjoveste.
-
+>
 > Og hvis det er sjovt, så bliver man også ved med at spille fodbold. Det gælder også på eliteplan i seniorrækkerne. Selv om man spiller efter resultater, så skal det stadig være sjovt. Selvfølgelig er hold i for eksempel superligaen nødt til at gå på kompromis med nogle ting, men til træning kan man stadig gå og lave en masse sjove ting. Det skal der være plads til, og jeg tror også på, at det betaler sig i den sidste ende, slår Lars Olesen fast.
 
 _Artiklen er bragt med tilladelse fra Erik Glyngfeldt._

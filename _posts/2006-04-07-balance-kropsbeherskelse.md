@@ -1,5 +1,5 @@
 ---
-title: &title "Balance, balancetræning og kropsbeherskelse"
+title: &title "Balance, balancetræning og kropsbeherskelse i fodbold"
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80

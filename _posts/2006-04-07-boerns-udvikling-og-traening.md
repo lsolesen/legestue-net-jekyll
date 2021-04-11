@@ -45,6 +45,8 @@ Kapitlet gennemgår den generelle fysiske, fysiologiske, motoriske, psykiske og 
 Børn er ikke små voksne og skal trænes som børn
 {: .notice-info }
 
+{% include figure image_path=page.header.overlay_image caption=page.title alt=page.title %}
+
 **Vil du vide mere**
 
 Du kan læse mere om børns udvikling i [Aldersrelateret Træning](https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012) (Pryce, 2005) eller i [Leg, læring og mestring](https://www.saxo.com/dk/leg-laering-og-mestring_freddy-lund-joergensen_paperback_9788776910570) (Jørgensen, 2006).

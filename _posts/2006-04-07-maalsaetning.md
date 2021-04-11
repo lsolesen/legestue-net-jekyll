@@ -1,9 +1,10 @@
 ---
-title: "Målsætning"
+title: &title "Målsætning for fodboldspillere"
 language: da
 header:
   overlay_image: https://i.ytimg.com/vi/yHKa1tXwKC4/maxresdefault.jpg
   teaser: https://i.ytimg.com/vi/yHKa1tXwKC4/maxresdefault.jpg
+  caption: *title
 categories:
   - Veje til udvikling
 tags:
@@ -36,3 +37,7 @@ Spillerne skal først vurdere hvilke styrker og svagheder, de har. En målsætni
 ## Hvad så når målsætningen er lavet?
 
 Når målsætningen er lavet, skal spilleren naturligvis tage konsekvensen af det, og gøre det vedkommende har sat sig for. Spilleren skal engang imellem overveje om målsætningen skal justeres – enten op eller ned – hvis den viser sig at være for svær eller for let. Spillerne bør altid følge op på målsætningen og skrive i hvor høj grad vedkommende opnåede målsætning, og spilleren kan tænke på, hvad næste målsætning kan være.
+
+## Fodboldens Træningshjælper
+
+I [Fodboldens Træningshjælper](/hjaelper/) kan du få endnu flere gode råd til, hvordan du kan arbejde med målsætning i fodbold.

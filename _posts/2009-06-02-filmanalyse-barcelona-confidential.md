@@ -38,3 +38,5 @@ Til slut i filmen gennemgår bestyrelsen næste sæsons trup og snakker indkøb 
 Jeg er ikke selv Barcelona-fan, men kunne ganske enkelt ikke undgå at blive grebet af filmen om klubben. En unik oplevelse, hvor man nærmest sidder med til interne møder og får oplysninger om spillere og ting, som normalt aldrig slipper frem i dagens lys.
 
 1½ times underholdning for fodboldelskeren og er man Barca-fan skal denne film ganske enkelt opleves.
+
+Du kan se filmen på [Filmcentralen](https://filmcentralen.dk/grundskolen/film/fc-barcelona-confidential), hvis du har adgang til den.

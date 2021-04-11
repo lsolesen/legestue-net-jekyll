@@ -1,5 +1,11 @@
 ---
 title: "Trænerens værktøjskasse"
+permalink: "/traenerens-vaerktoejskasse/"
+redirect_from:
+  - /content/lad-dem-ve-sig
+  - /lad-dem-ve-sig/
+  - /content/hvordan-l-rer-man-bedst
+  - /hvordan-l-rer-man-bedst/
 excerpt: "Hvordan kan du arbejde med din personlighed, organisation, progression og verbal feedback?"
 language: da
 header:
@@ -272,6 +278,26 @@ Ved en øvelse med spark kunne eksempler på gode vejledninger være:
 
 {% include feature_row id="feature_row_wulf" type="left" %}
 
+## Hvordan lærer man bedst?
+
+Følgende er ganske vist lavet ift. undervisning i et klasselokale, men kan garanteret overføres til fodboldtræningen.
+
+> John Hattie finder, at det mest betydningsfulde i undervisningen er, at der ikke er forstyrrende adfærd, og at læreren formår et lede eleverne og aktiviteterne i klasserne.Herefter kommer den faglige kvalitet af lærernes undervisning fulgt af relationerne mellem lærer og elev, lærerens feedback til eleverne og de midler, læreren har til at opnå viden om elevernes individuelle præstationer.
+> 
+> Ser man på undervisningsmetoder, er det vigtigste, at lærerne lærer eleverne at verbalisere deres læring (at de kan sætte ord på deres læringsproces), at de lærer metakognition (at de får en overordnet forståelse for emnefelter), at eleverne lærer at løse problemer, at de lærer studieteknikker, at man maksimerer den tid, der bruges på læring, og at læreren anvender ’direkte undervisning’ (en metode, hvor læreren starter med at sætte klare mål for lektionen, gennemfører en grundig gennemgang, giver eleverne opgaver, giver feedback på opgaveløsningen og runder det hele af med henblik på, hvad der skal ske i næste lektion).
+ 
+[Niels Egelund i _Hjælp, vi smed barnet ud med badevandet_](https://politiken.dk/debat/kroniken/art5469156/Hj%C3%A6lp-vi-smed-barnet-ud-med-badevandet)
+
+Hvad gør du for at optimere læringen hos dine spillere?
+
+## Vis - forklar - vis eller hold kæft?
+
+Det er vigtigt at vise tingene, både når man skal sætte dem i gang med en ny øvelse, og når man skal lære dem nye færdigheder. Vi forsøger at give dem en _reference of correctness_.
+
+Behets (1997) viser i et studium af 2. klasses elever, der skal lære en ny færdighed (håndstand til rulle), at succesfulde lærere adskiller sig fra knap så effektive lærere ved at bruge markant mere tid på aktiv læringstid. For elevernes læring tyder studiet altså på, at tid brugt på instruktion og organisation skal minimeres.
+
+Uanset om vi viser - forklarer og viser igen, så er det helt afgørende, at denne instruktion skæres ned til et absolut minimum.
+
 ## Opsamling
 
 Hvis alle børnene skal synes, at det er sjovt og spændende at spille fodbold, skal man som træner og leder være opmærksom på:
@@ -296,3 +322,7 @@ Hvis alle børnene skal synes, at det er sjovt og spændende at spille fodbold, 
 - At sammenhold skabes af mennesker og ødelægges af menneskers ligegyldighed.
 - At sæsonens målsætning også kan være: ’glade børn’ og x antal nye spillere og trænere/ledere.
 - Undgå at tvinge/overtale/motivere spillere til at have faste pladser for længe.
+
+## Referencer
+
+- Behets, Daniel (1997): "Comparison of more and less efficient teaching behaviors in secondary physical education", i: Teaching and Teacher Education, vol. 13, 215-224.

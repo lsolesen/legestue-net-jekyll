@@ -1,6 +1,9 @@
 ---
 title: "Fodboldskole på Grønlandsk"
-redirect_from: /node/249
+permalink: /fodboldskole-paa-groenland/
+redirect_from:
+  - /node/249
+  - /249/
 language: da
 categories:
   - Oplevelser

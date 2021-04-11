@@ -19,6 +19,8 @@ Bliver man egentlig hjulbenet af at spille fodbold, eller er det en skrøne. Jeg
 
 [Erik Witvrouw et al (2009)](https://pubmed.ncbi.nlm.nih.gov/19183958/), professor og forskningslektor fra Gent Universitet, har påvist, at man bliver hjulbenet af at spille fodbold. Over 500 fodboldspillende børn og unge er blevet fulgt fra de var 10 år til de var 15 år. Hver fjerde fodboldspiller i studiet var hjulbenet, mens det kun gjaldt 2,5% andre idrætsudøvere og resten af befolkningen. Disse fund er senere blevet bekræftet af [Isin og Melekoğlu 2020](https://pubmed.ncbi.nlm.nih.gov/33197820/) og [Asadi et al 2015](https://pubmed.ncbi.nlm.nih.gov/26290852/).
 
+{% include figure image_path=page.header.overlay_image caption=page.title alt=page.title %}
+
 ## Hvad er hjulbenet?
 
 Hjulbenet bliver defineret i Den Store Danske på følgende måde.

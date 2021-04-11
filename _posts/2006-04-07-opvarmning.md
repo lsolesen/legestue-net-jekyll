@@ -261,7 +261,7 @@ Nogle gange er det udmærket at varme stille og roligt op med at spillerne løbe
 
 --- <cite>Poul Hansen: 63</cite>
 
-Vi er enige i, at vi ikke under indledningen skal stille "de største krav til opmærksomhed", men det skader ikke fra tid til anden at kræve noget af spillerne også i denne fase. Man varmer altså rigtig meget op, og derfor skal der ske noget inspirerende (i hvert fald en gang i mellem). Det trænger spillerne til. Dette kapitel har forsøgt at give nogle bud på, hvad det kunne indebære.
+Vi er enige i, at vi ikke under indledningen skal stille "de største krav til opmærksomhed", men det skader ikke fra tid til anden at kræve noget af spillerne også i denne fase. Man varmer altså rigtig meget op, og derfor skal der ske noget inspirerende (i hvert fald en gang i mellem). Det trænger spillerne til. Dette kapitel har forsøgt at give nogle bud på, hvad det kunne indebære. Du kan måske også finde inspiration til [opvarmning på motionsplan.dk](https://www.motionsplan.dk/opvarmning/). En del af de øvelser, der anbefales der, kan være meget gavnlige i opvarmningen til fodboldspillere.
 
 ## Referencer
 

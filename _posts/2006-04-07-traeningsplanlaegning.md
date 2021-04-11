@@ -1,6 +1,9 @@
 ---
 title: &title "Træningsplanlægning i fodbold"
 permalink: /traeningsplanlaegning/
+redirect_from:
+  - /content/traeningssedlen-hvordan-skal-den-se-ud
+  - /traeningssedlen-hvordan-skal-den-se-ud/
 language: da
 header:
   overlay_image: https://previews.123rf.com/images/matimix/matimix1602/matimix160200011/53762250-coach-giving-young-soccer-team-instructions-youth-soccer-team-together-before-final-game-football-ma.jpg
@@ -13,6 +16,8 @@ tags:
   - træningsplanlægning
 last_modified_at: 2015-04-07T15:16:02Z
 ---
+
+Her kigger vi på træningsplanlægning i fodbold. Hvordan kan du gribe træningsplanlægningen an, og hvad skal du tænke på, når du planlægger din fodboldtræning.
 
 ## Lege, øvelser og spil
 
@@ -113,6 +118,8 @@ Det var blot nogen af justeringsmulighederne. Aktivitetsbolden er dit vigtigste 
 
 Træningen bør bestå af flere små kampe med færre folk på banen, så spillerne får mange boldberøringer, afleveringer og skud på mål. Aktiviteterne skal imidlertid også fordre, at spillerne lærer det nødvendige for at blive gode fodboldspillere.
 
+Du kan også lade dig inspirere af [aktivitetshjulet](/aktivitetshjulet/), som er en rigtig god model til at kigge på træning og træningsplanlægning ud fra.
+
 ## Sæsonplanlægning
 
 ### Lav en sæsonplan
@@ -128,6 +135,23 @@ Ved at planlægge tidligt er det også lettere at inddrage forældrene. Når de 
 ### Vær altid forberedt
 
 Du bør altid have en nøjagtig plan for træningen nedskrevet på papir. Hvis du er ordentligt forberedt, vil træningen næsten altid forløbe med et godt resultat– også selvom du bliver nødt til at lave om undervejs. Det kan være, at I skal bruge mere tid på en aktivitet, end man havde forventet og derfor lade en anden aktivitet glide ud af programmet. Det kan være, at spillerne netop i dag ikke er rigtig opmærksomme, og du bliver nødt til at droppe nogle aktiviteter og spille noget mere kamp.
+
+### Brug en træningsseddel til planlægning af træningen
+
+Du kan fx lave en træningsseddel inden hver træning:
+
+Vi eksperimenterer i øjeblikket med, hvordan vores træningsseddel skal se ud. Vi er foreløbig kommet frem til, at den skal indeholde følgende punkter:
+
+- **Dato**. Så man ved hvornår træningen skal være.
+- **Spillerliste med navne**. Så man ved hvem der deltager.
+- **Tema**. Så man kan holde fokus på hvad man træner.
+- **Materialer**. Så du ved hvad du skal have med ud.
+- **Fodboldbaner**. To fodboldbaner så man kan tegne øvelser ind.
+- **Ekstra plads til øvrige notater mv.**
+
+Vi eksperimenterer i øjeblikket med layoutet. Vi vender tilbage, når vi er kommet frem til noget godt og brugbart!
+
+Hvad er på din træningsseddel, og hvordan ser dit layout ud?
 
 ### Brug et tema
 

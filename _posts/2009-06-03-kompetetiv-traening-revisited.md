@@ -5,6 +5,8 @@ permalink: /kompetetiv-traening-revisited/
 redirect_from:
   - /node/252
   - /252/
+  - /blog/legendarisk-straf-til-uduelige-spillere
+  - /legendarisk-straf-til-uduelige-spillere/
 language: da
 categories:
   - Veje til Udvikling
@@ -44,7 +46,22 @@ Træneren er ivrig efter at motivere spillerne til at yde en optimal præstation
 
 Det kan udmærket forenes. De fleste synes det er sjovt at konkurrere, og mange finder det meget motiverende. I eliteidræt hylder man ofte kompetitiv træning som vejen frem, men kompetitiv træning har også været brugt flittigt i den frivillige idræt i mange år. Tænk bare på "ung mod gammel", eller at den sidste i midten ved 4:2 skal tage 30 armstrækninger.
 
-## Kompetetiv træning
+## Legendarisk straf til uduelige spillere
+
+Nogle trænere mener, at straf er det eneste rigtige for at få spillerne til at præstere bedre. Her er et par tankevækkende eksempler.
+
+- Felix Magath lod sine Stuttgart spillere stå helt stille i 90 minutter i en grads varme efter et nederlag til Hertha Berlin. Han ville vise dem hvad rigtig ståfodbold var - og håbede således at de ville løbe lidt mere i næste kamp.
+- Fudi Gutensdorff beordrede engang sine Schalke 04-spillere til at træne kl. 6 om morgenen, så de kunne føle hvad 'almindelige' mennesker måtte udholde - og det er jo dem, der betaler spillernes løn.
+- Max Merkel befalede sine spillere at stå og ryste på hovedet uafbrudt. Efter et kvarters tid spurge en af dem, hvad de var ved at lave?
+  > "Det er fordi I skal gøre sådan, når nogen spørger, om I kan spille fodbold."
+
+Har du nogen gode eksempler på trænere, der går lidt over gevind?
+
+{% include figure image_path="/assets/images/legendarisk-straf-til-uduelige-spillere.jpg" caption="Der er mange fantastiske eksempler på straffe og konsekvenser til fodboldspillere" alt="kompetetiv træning straf og konsekvens fodbold" %}
+
+**Kilde**: Søren Olsen: _Træneren dikterede 90 minutters ståfodbold_, i: Politiken 12. februar 2004.
+
+## Kompetetiv træning og konsekvenser
 
 Kompetitiv træning kan bruges systematisk i træningen eller som indslag i træningen. Der er mange eksempler på hold, som har opnået gode resultater ved at arbejde systematisk med den kompetitive arbejdsform (Eiberg og Sørensen), selvom det kan være vanskeligt at sige, om holdene måske ikke bare ville have vundet alligevel.
 

@@ -12,9 +12,6 @@ feature_row:
     alt: "Fodboldens Lege"
     title: "Fodboldens Lege"
     excerpt: "I Fodboldens Lege kan du finde fodboldlege, som du kan lege alene eller sammen med vennerne."
-    #url: "https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
-    #btn_label: "Læs mere"
-    #btn_class: "btn--success"
 ---
 
 Fodboldens Lege indeholder alle mulige fodboldlege for flere, når I vil selvtræne.
@@ -63,3 +60,15 @@ Jeg udvider gerne hæftet, hvis du har nogle rigtig gode forslag.
 ### Turneringsskema til fodboldturnering
 
 - [Ratingturnering](/assets/pdf/ratingturnering.pdf)
+
+## Omtale af Fodboldens Lege
+
+> At det skal være sjovt at spille fodbold går også igen i 2. udgave af hæftet **Fodboldens Lege**, som Lars Olesen nu har udgivet.
+>
+> Hæftet er primært henvendt til fodbolddrenge i alle aldre, og der er gode ideer og inspiration til, hvordan man kan have det sjovt og samtidig blive bedre til at spille fodbold.
+>
+> Der er lege beregnet for både to spillere og hvis man er en større flok. Der er også forslag til konkurrencer, ligesom hæftet giver nogle bud på, hvorledes man stabler sin egen turnering på benene. Det er et hæfte, som både spillere og ungdomstrænere kan få meget nytte af.
+
+--- <cite>Erik Glyngfeldt, redaktør på DTUs trænermagasin</cite>
+
+{% include paypal id="VGDS2G45RNJ5Q" cta="Køb Fodboldens Lege 10 DKK" %}
