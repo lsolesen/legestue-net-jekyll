@@ -65,6 +65,8 @@ Derfor skal man være optimalt forberedt til alle træningspas – både på pap
 
 > ’Begejstring skal vises. Det kan være: ’Yes!’ Eller: ’Ih, hvor er du god i dag!’ eller ’Ih, hvor er jeg glad!’ Og du kan godt øve dig i at vise begejstring. Børn er eksempelvis ret gode til det. Der er jo ingen af os voksne der ikke som børn har suset rundt og ment at vi simpelthen var verdens bedste. Selv legede jeg Allan Simonsen. Og når jeg scorede var hænderne oppe. Hele verden skulle se det, men da jeg blev ældre, var begejstring og glæde ikke noget jeg viste, for folk kiggede underligt på mig’.
 
+--- Arne Nielsson i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061)
+
 {% include feature_row type="left" %}
 
 En af øvelserne i Arne Nielssons bog handler om at få flere ’Hænderne-over-hovedet dage’. Inden man træder ind af døren til en ny oplevelse (det kan være døren til fodboldklubben), bør man pause et øjeblik trække vejret dybt og tænke over en bevidst positiv og begejstret måde at træde ind af døren på.

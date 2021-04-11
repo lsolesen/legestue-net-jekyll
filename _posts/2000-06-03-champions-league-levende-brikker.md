@@ -1,9 +1,10 @@
 ---
-title: "Managerspil med levende brikker"
+title: &title "Champions League: Managerspil med levende brikker"
 language: da
 header:
   overlay_image: https://bettingfamily.com/da/media/champions-league.jpg
   teaser: https://bettingfamily.com/da/media/champions-league.jpg
+  caption: *title
   actions:
     - label: "Få reglerne til spillet"
       url: "/champions-league/"
@@ -14,13 +15,11 @@ tags:
 last_modified_at: 2013-03-01T22:04:50Z
 ---
 
-_Artiklen er også bragt i Focus, nr. 3, 2000._
-
 > ”Oven på endnu et nederlag er de økonomiske rammer efterhånden noget indskrænkede, og Manchester Uniteds manager, Bjarne, sætter sin lid til en uforudset ekstraindtægt. Samtidig køber Philip fra FC Barcelona en af Bjarnes nøglespillere, som er blevet utilfreds med forholdene og har sat sig selv på transferlisten. Helle er ved at betale Juventus’ spillere løn, mens hun også vurderer, om det kan betale sig at udvide stadion, så der kan komme flere tilskuere for at se kampene. Ingen spillere vil være med Bayern Münchens fallerede stjerner. Stine, hun må klare sig selv.”
 
 Græstæppet er velplejet, spillerne toptrimmede og millionerne mange, når Champions League optager den bedste sendetid. Den samme oplevelse ville vi give spillerne på Vejle Idrætshøjskole. Græstæppet var så velplejet og jævnt i forhold til årstiden, at man skulle tro, det var en kunststofbane. Alle spillerne på fodboldlinien var udtaget til denne begivenhed, og de har fodbold fem gange om ugen, så en eller anden grad af trimmethed var der til stede. Millionerne var rigtig mange, for kopimaskinen på højskolen havde fungeret som seddelpresse dagene op til Champions League. Dette sideløbende med at Jim, Anders og Dorthe stik mod sædvane brugte mange sene aftentimer i selskab med deres lærere for at finpudse regelsættet.
 
-## Regler
+## Regler til Champions League
 
 Champions League forløb over to solbeskinnede dage i marts. På et storstilet pressemøde blev konceptet bag Champions League præsenteret. Champions League er et managerspil, som det kendes fra enhver fodboldtosset knægts computer. På forhånd var udpeget fire managers, som skulle forsøge at lave et slagkraftigt hold. De fik et antal millioner, som de kunne købe spillere for.
 
@@ -34,7 +33,7 @@ Manageren kunne selvsagt ikke skifte hold, men spillerne kunne sætte sig selv p
 
 Managerne havde samlet sit hold og i bogstaveligste forstand mange millioner i hånden. Kampe på hjemmebane gav entreindtægter, og sejre affødte også et millionbeløb. Men klubberne havde også store udgifter i form af spillerlønninger, ligesom de efter hver spillerunde skulle trække et kort med uforudsete hændelser, hvor man enten kunne få eller miste penge, som det kendes fra Matador.
 
-## Aktiviteter
+## Aktiviteter i Champions League
 
 Selve spillet var bygget op om fire spillerunder, hvor holdene mødte hinanden indbyrdes i 5:5-kampe, hvor spillerne selv dømte. Stillingen blev løbende slået op, så managerne kunne overskue, om det var ved at være på tide at satse sportsligt. Alle startede på keglemål, men manageren havde mulighed for at opgradere deres stadion og på den måde få større entreindtægter og en hjemmebanefordel, som i spillet var opgjort i et målforspring. En opgradering af stadion blev tydelig ved, at holdet ved en opgradering fik 7-mandsmål og efter to opgraderinger fik 11-mandsmål.
 
@@ -48,7 +47,7 @@ Efter afstemning skabte denne præsentation det største salg af merchandise, og
 
 > ”Til de velkendte toner fra: ’Vi vil have sejren i land’ smukt akkompagneret af Gustavs nye elektroniske orgel skråler FC Barcelonas spillere: ’Som den bedste klub i verden / må I andre føle smerten / for når Barca går på banen / går I andre ned med fanen’.” Publikum og den brede forbrugerskare tog hurtigt nummeret til sig, og pladesalget eksploderede. Det betød naturligvis at klubben igen fik en pose penge at boltre sig med. Indslagene var et herligt afbræk i turneringen, og alle var gået til opgaven med stor entusiasme og kreativitet.
 
-## Gennemførelse
+## Gennemførelse af Champions League
 
 Spillet kræver en spilledelse, som i dette tilfælde var to jakkesætsklædte undervisere fra Vejle Idrætshøjskole, nemlig artiklens forfattere. Spilledelsens opgave er at overskue spillets gang. De enkelte klubbers økonomi skal overvåges, så nogen ikke går helt rabundus. Det kan også være nødvendigt at ophæve enkelte kontrakter, så alle klubber kan mønstre spillere nok til at gennemføre kampene i overensstemmelse med reglerne.
 
@@ -59,3 +58,5 @@ Vinderen af Champions League blev behørigt hædret med diplomer og chokolade. L
 ## Vil du spille Champions League
 
 Du kan [se mere om spillet her og købe reglerne](/champions-league/).
+
+_Artiklen er også bragt i Focus, nr. 3, 2000._

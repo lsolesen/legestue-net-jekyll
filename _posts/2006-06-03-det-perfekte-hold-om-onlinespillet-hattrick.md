@@ -11,19 +11,21 @@ categories:
   - Om
 tags:
   - computerspil
+  - Hattrick
 last_modified_at: 2013-02-20T10:29:29Z
 ---
 
-**I cyberspace gør spillerne lige præcis, hvad de får besked på.**
+**I cyberspace gør spillerne lige præcis, hvad de får besked på. Derfor er det sjovt at spille onlinespillet Hattrick.**
 
 79.626 til den afgørende kamp om det danske mesterskab i fodbold. Og sammenlagt 265.939 tilskuere til de fire kamp i sidste runde af den danske superliga. Det er tal, som kan få både DBU og Divisionsforeningen til at spærre øjnene gevaldigt og formentlig genoverveje, om antallet af hold i superligaen måske alligevel skulle særes ned til otte hold. Men hvor det kun er i utopiens drømmeverden, at sådanne tilskuertal - og de medfølgende indtægter - kan forekomme i virkeligheden, så er tallene helt og aldeles realistiske i cyberspace.
+
+## Hvor kan man spille Hattrick?
 
 På netadressen [www.hattrick.org](http://www.hattrick.org/) kan man finde online-spillet Hattrick, som er et fodbold-simulator-spil. Spillet, der blev startet i 1997 af svenskeren Björn Holmer, har det seneste år oplevet en nærmest eksplosiv tilvækst. Det skyldes ikke mindst, at det opfylder drømmen hos mange fodbold-elskere om at blive manager for deres helt eget mandskab. I dag er der knap 200.000 managere fordelt på 64 lande, og i Danmark er antallet af managere for Hattrick-hold tæt på 10.000. Det skal ses i sammenligning med, at der for bare et år siden var under 1000 danskere, der havde taget plads på manager-posten for deres internet-hold.
 
 Bare i løbet af den sidste måned er tallet af danske managere vokset med 1000. Og der kommer stadig over 100 nye managere til hver uge. Hvert land i Hattrick har sit eget liga-system, og når man i Danmark modtager sit hold, starter man i 6. division, og så gælder det ellers om at forbedre sit hold, så man måske en dag kan ende med at spille med om guld, sølv, bronze og evig hæder i superligaen.
 
-Træning, køb og ungdomsafdelingen
----------------------------------
+## Træning, køb og ungdomsafdelingen i Hattrick
 
 Det er en langvarig proces at skabe sit eget tophold, for der sidder jo 7500 andre med samme ambitioner, og det kræver tålmodighed at komme til tops i Hattrick. Hver sæson varer 16 uger, hvoraf de 14 bruges til at spille turnerings-kampe. Og der er kun en turneringskamp om ugen, hver søndag kl. 16.00 bliver der fløjtet op på de virtuelle baner i Hattrick, og der kæmpes på livet løs i de mange divisioner, mens tilskuere i gigantiske flokke stormer til de mange stadions. Om onsdagen spilles der pokal-turnering, og når man er slået ud af den, kan man arrangere venskabskampe mod både danske og udenlandske hold. Der er mange eksotiske lande at vælge imellem. Man kan for eksempel henlægge sin træningskamp til Egypten, Taiwan eller Chile, hvis man kan finde en manager derfra, som er villig til en venskabskamp.
 
@@ -31,8 +33,7 @@ Der er flere måder at forbedre sit Hattrick-hold på. Det helt primære er træ
 
 Til gengæld giver en liga-, pokal-, og venskabskamp samme mængde træning. Ungdomsarbejdet hænger nøje sammen med træningen. Man kan nemlig vælge at satse mere eller mindre på at skyde nogle penge i ungdomsafdelingen hver uge. Jo flere penge, man bruger på sine unge spillere, desto bedre bliver ungdoms-afdelingen, og dermed stiger chancen for at man kan få et talent op i seniorafdelingen. Man har muligheden for at trække en ny ungdomsspiller op en gang om ugen, og de store talenter, som kan trænes meget hurtigere end ældre spillere, handles til meget store penge på den transfer-liste, som også er en del af Hattrick. Man kan gøre rigtig gode handler, hvis man har tålmodighed til at gå transfer-listerne for hver enkelt land igennem. Køb og salg er en vigtig ingrediens i Hattrick. Derfor er man ikke blot træner for holdet, men lige præcis manager med ansvaret for økonomien også. Den gode manager sælger dyrt og køber billigt.
 
-Taktikken
----------
+## Taktikken i Hattrick
 
 Men det gælder jo også om at købe de rigtige spillere, der passer til holdet. De skal både passe til trænings-programmet og til den taktik, man bruger i sine kampe. I Hattrick er spillerne enhver træners drøm. De gør helt præcis, hvad de får besked på. Hvis de får at vide, at de skal spille 3:5:2, så gør de det, lyder beskeden på 4:4:2, så bliver ordren udført, og det samme gælder for 4:5:1, 3:4:3 eller de andre mulige taktikker i Hattrick.
 
@@ -40,8 +41,7 @@ Får holdet besked på at satse på kontra-angreb, så gør det også det, liges
 
 Det samme gælder både forsvarerne og angriberne. En forsvarer bliver helt tilbage, hvis han får ordre til at være defensiv, han går med frem, hvis han skal være offensiv, og en wing back hjælper sit centerforsvar, hvis hans individuelle ordre er at spille mod midten. Så faktisk er det muligt at få lagt den helt perfekte taktik ved at nærstudere den kommende modstanders kampe. Med mindre selvfølgelig, at modstanderen har forberedt sig lige så godt og lagt en taktik, der fuldstændigt eliminerer ens eget hold.
 
-Den gamle mester
-----------------
+## Den gamle mester
 
 Ganske som i det virkelige liv, er managerens erfaring guld værd i den slags situationer, hvor de tætte kampe skal spilles. En af de mest erfarne spiller og samtidig en af de største profiler i den danske Hattrick-verden, er Ole Sørensen, eller Loke, som er hans manager-navn i Hattrick. Han er aktiv på den konference, som er en vigtig del af det danske ? og internationale ? Hattrick.community. På konferencen diskuteres alt fra de taktiske muligheder til AGF?s elendighed i den rigtige superliga. Ole Sørensen har desuden lavet programmet Hattrick Asisstant Manager (HAM), som tusindvis af managere bruger til at holde styr på træning, kampe, økonomi og så videre.
 
@@ -57,8 +57,7 @@ Han beretter videre, at Hattrick er et forholdsvis simpelt spil.
 
 > For et nystartet hold at gå fra sjette serie niveau og helt til tops, tager det minimum halvandet år. Og en sådan manager skal være helt usædvanligt dygtig. Når tingene så lykkedes, for eksempel med oprykning til næste niveau, så er det til gengæld en ekstra stor tilfredsstillelse, fortæller manageren fra Loke GF, som selv har fejret tre oprykninger i træk med sit hold og det danske mesterskab i sin femte sæson. Men det var dengang, der var langt under 1000 managere i Danmark, i dag er det langt sværere, at rykke en række op.
 
-Ældre managere
---------------
+## Ældre managere i Hattrick
 
 I modsætning til de fleste andre online-spil, så er der ikke kun meget unge spillere i Hattrick. Der er plads til teenage-managerne, men der er også en meget stor del af de 7500 managere, som er modne mennesker. Ole Sørensen er en af dem. Han beskriver sig selv som en temmelig almindelig familiefar på 35 år, med kone og to børn på henholdsvis fire og seks år.
 
