@@ -1,9 +1,10 @@
 ---
-title: &title "Opvarmning for fodboldspillere: 10 opvarmningsøvelser til fodbold"
+title: &title "Opvarmning for fodboldspillere: 11 opvarmningsøvelser til fodbold"
 permalink: /opvarmning/
 redirect_from:
   - /l-b-jer-varme/
   - /blog/l-b-jer-varme
+  - /handlebane/
 language: da
 header:
   overlay_image: /assets/images/opvarmning-fodbold.jpg
@@ -243,7 +244,15 @@ Løbe stille og roligt fremad med bolden på tæerne. Det er reaktionen der er v
 - Kast bolden lige op i luften, flyt armene om på ryggen og grib bolden på ryggen. Fra den nye stilling kastes bolden tilbage, frem over hovedet.
 - To og to sammen, ryg mod ryg, én bold. Kan bruges som opvarmningsøvelse for ryggen. Skiftevis aflevere modtager bolden ved siden af hoften. Brug hænderne.
 - To og to sammen, ryg mod ryg, én bold. Kan bruges som opvarmningsøvelse for ryggen. Skiftevis aflevere modtager bolden op over hovedet og i mellem benene. Brug hænderne.
- 
+
+## Handlebane og teknikbane til opvarmning eller frikvarter i træningen
+
+Som et integreret frikvarter og teknisk øvelse kan en handlebane bruges. Rundt på en halv fodboldbane opstilles en slags forhindringsbane, hvor spilleren vil blive mødt med nogle opgaver. Træneren stiller sig et sted, hvor der vil blive arbejdet målrettet med et teknisk element, mens gennemløbet af resten af banen er forbundet med forskellige opgaver. Disse kan evt. annonceres på et skilt ved hver ny opgave.
+
+Et eksempel kunne være, at man ønskede at arbejde med en bestemt dribling eller et bestemt skud på mål. Denne færdighed underviser træneren i et sted på banen, og resten af banen stilles op ud fra dette. På rundbanen kunne være nogle bestemte driblinger, man skal øve, bestemte sparkeformer, jongleringsformer etc. Jf. nedenstående eksempel:
+
+[<i class='far fa-file-pdf'></i> Download poster til handlebanen](/assets/pdf/handlebane-poster.pdf){: .btn .btn--large .btn--danger }
+
  ## Afslutning
 
 Nogle gange er det udmærket at varme stille og roligt op med at spillerne løber på tværs af banen. En aktivitet som med fordel kan kombineres med et overtalsspil som fx 5:2. Her har spillerne mulighed for at få snakket lidt, og den rolige start får spillerne til at glemme hverdagens bekymringer. Poul Hansen (2000: 63) skriver:
