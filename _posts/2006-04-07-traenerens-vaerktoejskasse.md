@@ -1,5 +1,5 @@
 ---
-title: &title "Trænerens værktøjskasse"
+title: &title "Den gode træners værktøjskasse - brug den allerede i dag!"
 permalink: "/traenerens-vaerktoejskasse/"
 redirect_from:
   - /content/lad-dem-ve-sig
