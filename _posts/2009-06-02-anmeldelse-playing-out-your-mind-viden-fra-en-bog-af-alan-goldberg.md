@@ -55,7 +55,7 @@ Fejlene skal ikke ligge som en konstant påmindelse. Det væsentlige er, at du h
 
 Dette har nogle implikationer for den måde træning skal organiseres på. Flere trænere forsøger med kompetetiv træning at gøre træningen mere lig kamp. Det gør de ved at sætte noget på spil, fx kan det koste armstrækninger at sparke over mål. Lad os tage et øjeblik, hvor vi tænker over den ramme træneren her får sat op.
 
-Jeg har skrevet et andet indlæg, der handler om [kompetetiv træning]({% link _posts/2009-06-03-252.md %}) og [kompetetive arbejdsform]({% link _posts/2003-01-06-kompetetive-arbejdsform.md %}).
+Jeg har skrevet et andet indlæg, der handler om [kompetetiv træning]({% link _posts/2009-06-03-kompetetiv-traening-revisited.md %}) og [kompetetive arbejdsform]({% link _posts/2003-01-06-kompetetive-arbejdsform.md %}).
 
 ## Den forkerte fremgangsmåde
 
