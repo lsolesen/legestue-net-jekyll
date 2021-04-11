@@ -6,6 +6,7 @@ video:
   provider: youtube
   id: -yX86-8qukM
 tags:
+  - Boldløft
 last_modified_at: 2013-02-15T09:40:26Z
 ---
 

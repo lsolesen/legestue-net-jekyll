@@ -6,6 +6,7 @@ video:
   provider: youtube
   id: lugHZIjd4fc
 tags:
+  - fodboldtricks
 last_modified_at: 2013-02-15T09:06:04Z
 ---
 

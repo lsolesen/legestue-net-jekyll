@@ -145,11 +145,12 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "text",  required: false, collapsed: true}
-      - {label: "Instructions", name: "instructions", widget: "text",  required: true, collapsed: true}
+      - {label: "Difficulty", name: "difficulty", widget: "number", value_type: "int", min: 0, max: 6, step: 1, required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text",  required: false}
+      - {label: "Instructions", name: "instructions", widget: "text",  required: true}
       - {label: "Permalink", name: "permalink", widget: "string", required: false}
       - {label: "Category", name: "categories", widget: "list", allow_add: true}
-      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true}      
       - {label: "Body", name: "body", widget: "markdown"}
       - label: Header
         name: header

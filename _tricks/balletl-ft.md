@@ -6,7 +6,7 @@ video:
   provider: youtube
   id: gazuDafny2o
 tags:
-  - boldløft
+  - Boldløft
 last_modified_at: 2013-02-15T09:04:21Z
 ---
 

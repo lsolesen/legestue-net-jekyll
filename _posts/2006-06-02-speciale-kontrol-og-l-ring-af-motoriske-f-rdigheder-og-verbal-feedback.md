@@ -1,5 +1,6 @@
 ---
-title: "Speciale: Kontrol og læring af motoriske færdigheder og verbal feedback"
+title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
+permalink: /speciale-kontrol-og-l-ring-af-motoriske-f-rdigheder-og-verbal-feedback/
 redirect_from: /blog/speciale-kontrol-og-l-ring-af-motoriske-f-rdigheder-og-verbal-feedback
 language: da
 categories:

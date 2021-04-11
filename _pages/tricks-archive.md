@@ -27,9 +27,14 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-I forbindelse med Dansk Boldspil-Unions Fodboldskole i 2003 skrev jeg et hæfte om Fodboldtricks. Til hæftet blev også udgivet en cd-rom, med en masse tricks, som du bl.a. kan se her på sitet.
+I forbindelse med Dansk Boldspil-Unions Fodboldskole i 2003 skrev jeg et hæfte om Fodboldtricks.
 
 {% include feature_row type="left" %}
+
+I hæftet kan du bl.a. læse om:
+
+- [jonglering med fodbold](/fodboldtricks/jonglering/), som er delt op i [boldløft](/fodboldtricks/boldloft/), [balance](/fodboldtricks/balance/), [fikseringer](/fodboldtricks/fiksering/)
+- [dribling](/driblinger/) og [finter](/finter/)
 
 ## Køb Fodboldens Tricks som PDF
 

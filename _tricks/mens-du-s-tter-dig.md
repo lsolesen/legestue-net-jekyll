@@ -6,6 +6,7 @@ video:
   provider: youtube
   id: utae4xpyHz4
 tags:
+  - Fiksering
 last_modified_at: 2013-02-15T09:34:13Z
 ---
 

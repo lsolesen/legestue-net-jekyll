@@ -253,7 +253,7 @@ Et eksempel kunne være, at man ønskede at arbejde med en bestemt dribling elle
 
 [<i class='far fa-file-pdf'></i> Download poster til handlebanen](/assets/pdf/handlebane-poster.pdf){: .btn .btn--large .btn--danger }
 
- ## Afslutning
+## Afslutning
 
 Nogle gange er det udmærket at varme stille og roligt op med at spillerne løber på tværs af banen. En aktivitet som med fordel kan kombineres med et overtalsspil som fx 5:2. Her har spillerne mulighed for at få snakket lidt, og den rolige start får spillerne til at glemme hverdagens bekymringer. Poul Hansen (2000: 63) skriver:
 
