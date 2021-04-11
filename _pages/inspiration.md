@@ -111,11 +111,11 @@ På [Saxo\*](https://www.saxo.com/) kan du finde mange bøger om fodbold og fodb
 
 ## Vores hæfter
 
-{% include gallery id="gallery_legestue" %}
+{% include gallery id="gallery_legestue" layout="quarter" %}
 
 ## Gratis inspiration
 
-{% include gallery %}
+{% include gallery layout="quarter" %}
 
 ## Samarbejdspartnere
 
