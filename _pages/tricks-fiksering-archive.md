@@ -1,6 +1,7 @@
 ---
 layout: single
 title: &title "Fiksering"
+excerpt: "En fiksering er at gribe bolden mellem forskellige dele af kroppen. Ligesom ved balancerne er det en god ide at begynde med at tage bolden med hænderne og lægge bolden de pågældende steder for at få fornemmelsen for balance og teknik, inden du begynder at øve dig på at gribe bolden."
 permalink: /fodboldtricks/fiksering/
 header:
   teaser: /assets/images/books/tricks-2020.png
@@ -19,7 +20,9 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-En fiksering er at gribe bolden mellem forskellige dele af kroppen. Ligesom ved balancerne er det en god ide at begynde med at tage bolden med hænderne og lægge bolden de pågældende steder for at få fornemmelsen for balance og teknik, inden du begynder at øve dig på at gribe bolden. Efter fikseringerne er der nogle forslag til, hvordan du kan fortsætte jongleringen under ‘Kom videre’.
+En fiksering er at gribe bolden mellem forskellige dele af kroppen. Ligesom ved balancerne er det en god ide at begynde med at tage bolden med hænderne og lægge bolden de pågældende steder for at få fornemmelsen for balance og teknik, inden du begynder at øve dig på at gribe bolden.
+
+Efter fikseringerne er der nogle forslag til, hvordan du kan fortsætte jongleringen under ‘Kom videre’.
 
 Brug ikke alt for glat tøj til disse øvelser.
 

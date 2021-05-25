@@ -6,21 +6,9 @@ video:
   provider: youtube
   id: QLW9iJskydQ
 tags:
-  - Balance
+  - Jonglering
 last_modified_at: 2013-02-15T09:15:14Z
 difficulty: 5
 ---
 
-Her står du og header stadig mindre kraftigt, indtil bolden til sidst ligger
-stille på hovedet. Sørg for at være i god balance, så du hele tiden kan
-korrigere kropsstillingen ift. bolden.
-
-## Kom videre
-
-- Når du har kontrol over bolden, kan du enten lade den rulle ned på
-munden, kysse den og lade den rulle tilbage igen. Eller du kan lade
-den rulle ned på øret og tilbage igen. Bevægelsen skal være temmelig
-hurtig.
-- Den dygtige kan også arbejde med at sætte sig ned på gulvet med
-bolden på hovedet osv.
-- Du kan lade bolden rulle ned på nakken og så gå videre derfra.
+Hold bolden i luften kun ved hjælp af hovedet.

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Inspiration
+excerpt: "Her er vores bedste forslag til, hvad du kan købe."
 permalink: /inspiration/
 author_profile: true
 classes: wide
