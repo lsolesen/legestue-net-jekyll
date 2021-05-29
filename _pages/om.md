@@ -57,6 +57,8 @@ Jeg har skrevet følgende bøger med relevans for fodbold.
 
 {% include gallery %}
 
+Ud over Fodboldens Legestue så ejer Lars også [motionsplan.dk](https://www.motionsplan.dk), [cykel-ruter.dk](https://www.cykel-ruter.dk), [ifire.dk](https://www.ifire.dk) og [Teambuilder.dk](https://www.teambuilder.dk)
+
 ## Ophavsrettigheder
 
 Fodboldens Legestue udgiver disse sider, så alt materiale på disse sider tilhører ophavsretligt Fodboldens Legestue. Materialerne må ikke kopieres, sælges, distribueres eller på anden måde gengives uden udtrykkelig skriftlig tilladelse fra Fodboldens Legestue.
