@@ -1,6 +1,7 @@
 ---
 layout: single
-title: &title "finter"
+title: &title "Finter"
+excerpt: "Den anden fase i en dribling i fodbold er en finte. En finte er en manøvre, som du kan benytte dig af for at snyde modstanderen og gøre dig fri til aflevering eller skud."
 permalink: /finter/
 header:
   teaser: /assets/images/books/tricks-2020.png

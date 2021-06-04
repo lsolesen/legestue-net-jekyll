@@ -27,8 +27,8 @@
   {%- assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
 {% endif %}
 
-{% if page.category %}
-<meta name="category" content="{{ page.category | join: ", " }}">
+{% if page.categories %}
+<meta name="category" content="{{ page.categories | join: ", " }}">
 {% endif %}
 
 {%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}

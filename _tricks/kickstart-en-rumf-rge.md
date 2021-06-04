@@ -8,6 +8,12 @@ video:
 tags:
   - Boldløft
 last_modified_at: 2013-02-15T09:29:52Z
+difficulty: 4
 ---
 
-
+Dette trick ligner Dyrplageren meget. Start med bolden klemt fast mellem
+fødderne. Træk bolden lidt op ad højre ben med venstre fod, så du kun
+står på højre ben. I en bevægelse skifter du standben, samtidig med at
+du trækker bolden op ad venstre ben med højre fod. Når bolden er oppe i
+luften, sparker du den ned i jorden med fodsålen af højre fod. Nu skulle du
+kunne begynde at jonglere.

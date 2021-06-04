@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Inspiration
+excerpt: "Her er vores bedste forslag til, hvad du kan købe."
 permalink: /inspiration/
 author_profile: true
 classes: wide
@@ -101,6 +102,19 @@ gallery_legestue:
     image_path: /assets/images/books/fodboldrytmer-2005.png
     alt: "Fodboldrytmer"
     title: "Fodboldrytmer"
+gallery_ads:
+  - url: http://sportmaster.dk
+    image_path: https://track.adtraction.com/t/t?a=1140875995&as=1484571947&t=1&tk=1&i=1
+    alt: Sportmaster
+    title: Sportmaster
+  - url: https://apuls.dk/
+    image_path: https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=38829
+    alt: A-puls
+    title: A-puls
+  - image_path: https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51749
+    url: http://www.saxo.com/
+    alt: Saxo
+    title: Saxo
 ---
 
 På [Saxo\*](https://www.saxo.com/) kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
@@ -119,7 +133,7 @@ På [Saxo\*](https://www.saxo.com/) kan du finde mange bøger om fodbold og fodb
 
 ## Samarbejdspartnere
 
-<a href="http://www.saxo.com/" target="_blank" rel="nofollow noopener"><img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=43262" border="0"></a>
+{% include gallery id="gallery_ads" %}
 
 ## Kan du lide vores arbejde?`
 

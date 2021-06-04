@@ -1,6 +1,7 @@
 ---
 layout: single
 title: &title "Foboldjonglering"
+excerpt: "Det er ret grundlæggende i jonglering med fodbold, at man kan holde bolden i luften. I dette afsnit beskrives en masse måder at gøre det på."
 permalink: /fodboldtricks/jonglering/
 header:
   teaser: /assets/images/books/tricks-2020.png
