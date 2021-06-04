@@ -1,0 +1,27 @@
+{% assign tags = page.tags | uniq | limit: 4 | join: " #" %}
+{% assign excerpt = page.description | default: page.excerpt %}
+{% assign excerpt = excerpt | markdownify | strip_html | truncate: 400 %}
+{% assign excerpt = excerpt | strip | append: " #" | append: tags %}
+
+{% assign image_path = include.image_path %}
+{% if include.hidden == "true" %}
+  {% assign data_pin_media = include.data-pin-media | default: image_path %}
+  {% assign image_path = "/assets/images/pinterest-hide-mini-image.png" %}
+{% else %}
+  {% assign data_pin_media = include.data-pin-media %}
+{% endif %}
+{% assign data_pin_description = include.data-pin-description | default: excerpt %}
+{% assign data_pin_id = include.data-pin-id %}
+
+<figure class="{{ include.class }}{% if include.hidden == "true" %} hidden{% endif %}">
+  <img src="{{ image_path | relative_url }}"
+       alt="{% if include.alt %}{{ include.alt }}{% endif %}"
+       {% if data_pin_media %}data-pin-media="{{ data_pin_media | absolute_url }}"{% endif %}
+       {% if data_pin_description %}data-pin-description="{{ data_pin_description }}"{% endif %}
+       {% if data_pin_id %}data-pin-id="{{ data_pin_id }}"{% endif %}>
+  {% if include.caption %}
+    <figcaption>
+      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+    </figcaption>
+  {% endif %}
+</figure>

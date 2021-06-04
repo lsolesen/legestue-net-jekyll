@@ -27,6 +27,10 @@
   {%- assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
 {% endif %}
 
+{% if page.category %}
+<meta name="category" content="{{ page.category | join: ", " }}">
+{% endif %}
+
 {%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
 {%- if seo_description -%}
   {%- assign seo_description = seo_description | markdownify | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | escape_once | strip -%}
@@ -39,7 +43,21 @@
   {%- assign author_twitter = author.twitter | replace: "@", "" -%}
 {%- endif -%}
 
-{%- assign page_large_image = page.header.og_image | default: page.header.overlay_image | default: page.header.image | absolute_url -%}
+{% comment %} begin custom og images {% endcomment %}
+{% unless page.header.og_image %}
+{% if page.layout == 'single' %}
+{% assign size = page.permalink.size | minus: 1 %}
+{% capture path %}{{ page.permalink | slice: 0, size | remove_first: "/" | replace: "/", "-" | append: ".png" | prepend: "/assets/images/og/generated/" }}{% endcapture %}
+{% assign file_exists = site.static_files | where: "path", path %}
+
+{% if file_exists.size != 0 %}
+  {% assign og_image = path %}
+{% endif %}
+{% endif %}
+{% endunless %}
+{% comment %} end custom og images {% endcomment %}
+
+{%- assign page_large_image = og_image | default: page.header.og_image | default: page.header.overlay_image | default: page.header.image | absolute_url -%}
 {%- assign page_large_image = page_large_image | escape -%}
 
 {%- assign page_teaser_image = page.header.teaser | default: site.og_image | absolute_url -%}
