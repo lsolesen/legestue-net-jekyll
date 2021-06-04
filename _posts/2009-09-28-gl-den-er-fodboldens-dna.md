@@ -1,6 +1,8 @@
 ---
 title: "Glæden er fodboldens DNA"
-redirect_from: 
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
+redirect_from:
   - /blog/gl-den-er-fodboldens-dna
   - /content/glaeden-er-fodboldens-dna
 language: da

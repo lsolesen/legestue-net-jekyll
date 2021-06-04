@@ -109,23 +109,16 @@ posts.map(async (post, index) => {
     taskList.push(() => generateImage(urls[index], post.permalink))
   } else {
     // ... so follow the `permalink: /:categories/:title/` pattern from _config.yaml
-    /*
-    if (post.category) {
-      const category = post.category[0].toLowerCase()
-    } else {
-      const category = '';
-    }
-    */
+    //const category = post.categories[0].toLowerCase()
 
     // build the title different if this is a single file or from a directory
     let title
     if (fs.lstatSync(args.path).isDirectory()) {
-      title = `${args.path}${fs.readdirSync(args.path)[index].match(/\d\d\d\d-\d\d-\d\d-(.*).md/)[1]}`
+      title = `${fs.readdirSync(args.path)[index].match(/\d\d\d\d-\d\d-\d\d-(.*).md/)[1]}`
     } else {
       title = args.path.match(/\d\d\d\d-\d\d-\d\d-(.*).md/)[1]
     }
 
-    //const permalink = `${category}/${title}`
     const permalink = `${title}`
     taskList.push(() => generateImage(urls[index], permalink))
   }

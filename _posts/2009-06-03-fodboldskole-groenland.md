@@ -9,6 +9,8 @@ categories:
   - Oplevelser
 tags:
   - Fodboldskole
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 last_modified_at: 2013-01-02T13:43:36Z
 ---
 

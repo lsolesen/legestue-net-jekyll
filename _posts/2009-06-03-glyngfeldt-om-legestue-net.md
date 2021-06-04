@@ -1,6 +1,8 @@
 ---
 title: "Fodboldtricks i Cyberspace"
 permalink: /glyngfeldt-om-legestue-net/
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 redirect_from:
   - /node/254
   - /254/

@@ -3,6 +3,8 @@ title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
 permalink: /speciale-kontrol-og-l-ring-af-motoriske-f-rdigheder-og-verbal-feedback/
 redirect_from: /blog/speciale-kontrol-og-l-ring-af-motoriske-f-rdigheder-og-verbal-feedback
 language: da
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 categories:
   - Feedback
   - Fodboldtræning
@@ -58,9 +60,9 @@ Jeg har netop fået godkendt mit speciale fra Syddansk Universitet. Du skal ikke
 Resumé
 ------
 
-Specialet besvarer følgende to spørgsmål: 
+Specialet besvarer følgende to spørgsmål:
 
-1. Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? 
+1. Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå?
 2. Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?
 
 For det første etableres en forståelse for motorisk kontrol og læring. Med Nikolai Bernstein argumenteres for, at færdigheder er repræsenteret i hjernen gennem topologiske og kinæstetiske skemaer, som tager højde for at færdigheder er forskellige fra gang til gang, men også ligner hinanden. Skemaet knyttes til selve bevægelserne gennem det motoriske hierarki, som er den struktur der gør, at kroppen kan være selvorganiserende. Der argumenteres for, at læringen i kontrolsystemet indebærer en fejlsøgning og optimering på alle niveauer af det motoriske hierarki, og at læreren bør kende processerne bag den motoriske kontrol og læring for at kunne give den rette verbale feedback.

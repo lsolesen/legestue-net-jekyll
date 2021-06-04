@@ -41,10 +41,10 @@
     "start": "bundle exec jekyll server --port 8080 --incremental",
     "generate-image": "node _scripts/generate-image.js",
     "og-image": "npm run generate-image -- type:og",
-    "og-images": "npm run generate-image -- type:og path:./_posts/",
+    "og-images": "npm run generate-image -- type:og path:_posts/",
     "pinterest-image": "npm run generate-image -- type:pinterest",
-    "pinterest-images": "npm run generate-image -- type:pinterest path:./_posts/",
+    "pinterest-images": "npm run generate-image -- type:pinterest path:_posts/",
     "instagram-image": "npm run generate-image -- type:instagram",
-    "instagram-images": "npm run generate-image -- type:instagram path:./_posts/"
+    "instagram-images": "npm run generate-image -- type:instagram path:_posts/"
   }
 }

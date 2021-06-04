@@ -10,6 +10,8 @@ categories:
 tags:
   - Veje til udvikling
 last_modified_at: 2013-04-10T10:23:02Z
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788778874757/0x500
     alt: "Fodbold. Træning og Undervisning af Jens Bangsbo"
@@ -20,7 +22,7 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-> Hvornår stoppede du med at spille fodbold? 20 minutter inde i anden halvleg. 
+> Hvornår stoppede du med at spille fodbold? 20 minutter inde i anden halvleg.
 
 — <cite>Tommy Troelsen</cite>
 

@@ -7,6 +7,8 @@ categories:
 tags:
   - sydafrika
 last_modified_at: 2013-02-17T10:27:16Z
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 ---
 
 _Af Christina Enevoldsen og Astrid Haugaard_

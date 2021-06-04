@@ -2,6 +2,8 @@
 title: "Udstyr til jonglering med fodbold - 4 forslag til fodbolde"
 permalink: /udstyr-til-jonglering/
 redirect_from: /content/udstyr-til-jonglering
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 language: da
 categories:
 tags:

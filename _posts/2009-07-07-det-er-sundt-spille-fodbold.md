@@ -1,6 +1,8 @@
 ---
 title: "Det er sundt at spille fodbold"
 redirect_from: /content/det-er-sundt-spille-fodbold
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 language: da
 categories:
   - Træning
