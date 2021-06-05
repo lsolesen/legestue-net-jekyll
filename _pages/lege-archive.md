@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Fodboldlege i Fodboldens Lege
-seo_title: "6 sjove fodboldlege til børn og unge voksne "
+seo_title: &title "6 sjove fodboldlege til børn og unge voksne »"
 permalink: /lege/
 excerpt: "Jeg har samlet en masse sjove fodboldlege til børn og unge voksne, som du kan lave i friheden, skolegården, haven eller på fodboldbanen til træning. Der er masser af inspiration til lege og spil, du kan lave med vennerne og en fodbold."
 description: "Fodboldens Lege samler alle de sjove fodboldlege til børn og unge voksne. Leg i skolegården, på fodboldbanen eller i haven med vennerne og en fodbold."
@@ -10,6 +10,8 @@ last_modified_at: 2021-06-04T15:16:02Z
 toc: true
 header:
   teaser: /assets/images/books/lege-2020.png
+  overlay_image: /assets/images/hvad-er-fodboldens-udfordring.jpg
+  caption: *title
 feature_row:
   - image_path: /assets/images/books/lege-2020.png
     alt: "Fodboldens Lege"
