@@ -40,7 +40,7 @@ Det er lidt forskelligt hvor meget tid, han bruger på at opdatere siderne.
 
 Han får ind imellem mails fra folk, der har besøgt hans hjemmesider, og så lægger han altid svaret ud på hjemmesiden. Han vil meget gerne i kontakt med brugerne af siden, og interaktivitet er et af nøgleordene for ham.
 
-> Der er nogle, der sender tricks og lege til mig, og så vurderer jeg, om det er noget, der kan bruges på siden, forklarer Lars Olesen.
+> Der er nogle, der sender [fodboldtricks](/fodboldtricks/) og [fodboldlege](/lege/) til mig, og så vurderer jeg, om det er noget, der kan bruges på siden, forklarer Lars Olesen.
 
 Men det skal være sjove øvelser, tricks og lege, hvis de skal have en chance for at komme med på siden. Sjove på den måde, at det er sjovt for fodboldspilleren at træne i dem.
 

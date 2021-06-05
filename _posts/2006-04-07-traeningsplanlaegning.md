@@ -21,7 +21,7 @@ Her kigger vi på træningsplanlægning i fodbold. Hvordan kan du gribe træning
 
 ## Lege, øvelser og spil
 
-Vi opfordrer til, at fodbold leges ind, men spillerne skal også spille en masse fodbold. Det skal gøres gennem aktiviteter. Vi bruger især tre typer aktiviteter: Lege, øvelser og spil (Jørgensen, 2006).
+Vi opfordrer til, at fodbold leges ind, men spillerne skal også spille en masse fodbold. Det skal gøres gennem aktiviteter. Vi bruger især tre typer aktiviteter: [Fodboldlege](/lege/), øvelser og spil (Jørgensen, 2006).
 
 - **En leg** er en aktivitet, hvor selve aktiviteten er målet for spilleren. Træneren kan godt bruge legen som et redskab til at fremme den tekniske læring. I en leg er der kun lidt vejledning, så alle gebærder sig efter de samme spilleregler. I en leg er det ofte tilladt at fejle, fordi man ofte kan genindtræde i legen igen.
 - **En øvelse** er en enkeltstående situation, som trænes separat fra kampsituationen som et middel til at forbedre spillernes færdigheder til at handle hensigtsmæssigt i kampen. Instruktionen er mere præcis, og spillerne skal stræbe efter en korrekt udførelse af øvelsen. Hvis en spiller fejler, ødelægger det ofte øvelsen.
