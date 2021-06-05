@@ -3,6 +3,7 @@ layout: single
 title: "Om Fodboldens Legestue"
 permalink: /om/
 author_profile: true
+sitemap: false
 gallery:
   - url: /fodboldtricks/
     image_path: /assets/images/books/tricks-2020.png
@@ -55,6 +56,8 @@ Jeg har tidligere spillet på kontrakt i OB, FC Fredericia og AC Horsens, men ha
 Jeg har skrevet følgende bøger med relevans for fodbold.
 
 {% include gallery %}
+
+Ud over Fodboldens Legestue så ejer Lars også [motionsplan.dk](https://www.motionsplan.dk), [cykel-ruter.dk](https://www.cykel-ruter.dk), [ifire.dk](https://www.ifire.dk) og [Teambuilder.dk](https://www.teambuilder.dk)
 
 ## Ophavsrettigheder
 

@@ -1,6 +1,7 @@
 ---
 layout: posts
 permalink: /blog/
+excerpt: "Fodboldens Legestues Blog med alle de læsevenlige blogindlæg."
 redirect_from: /artikler/
 title: Fodboldens Legestues Blog
 classes: wide

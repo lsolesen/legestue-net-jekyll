@@ -1,10 +1,17 @@
 ---
-title: "Trænerens værktøjskasse"
+title: &title "Den gode træners værktøjskasse - brug den allerede i dag!"
+permalink: "/traenerens-vaerktoejskasse/"
+redirect_from:
+  - /content/lad-dem-ve-sig
+  - /lad-dem-ve-sig/
+  - /content/hvordan-l-rer-man-bedst
+  - /hvordan-l-rer-man-bedst/
 excerpt: "Hvordan kan du arbejde med din personlighed, organisation, progression og verbal feedback?"
 language: da
 header:
-  overlay_image: https://www.understood.org/~/media/a1a4fd34640145dd82f6f7bb101114ba.jpg
-  teaser: https://www.understood.org/~/media/a1a4fd34640145dd82f6f7bb101114ba.jpg
+  overlay_image: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
+  teaser: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  caption: *title
 categories:
   - Veje til udvikling
 tags:
@@ -21,25 +28,18 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
 feature_row_meng:
-  - image_path: https://cdn4.arnoldbusck.dk/sites/default/files/bibi/1539261_1536948185.jpg
+  - image_path: https://content.gucca.dk/covers/big/n/o/noeoejjj-det-er-dit-liv-saa-hvad-vil-du-goere-ved-det_277162.jpg
     alt: "NØØJJJ"
     title: "NØØJJJ"
-    excerpt: "I mere end 20 år har Henrik Meng bidraget med motivation, begejstring og masser af succesoplevelser til erhvervslivet såvel som den private front. Bogen hedder Nøøjjj - det er dit liv, så hvad vil du gøre ved det! Og det er netop det denne bog lægger op til; at finde muligheder og svar, at gøre tanker til handling, og blive forrygende til hvad vi i forvejen er gode til! Henrik Meng har skrevet flere bøger omkring personlig udvikling og det at skabe de gode relationer - både i privatlivet og i erhvervslivet - men denne er den korteste og nok mest kraftfulde i alt sin enkelthed! Den SKAL simpelthen læses!"
-    url: "https://www.arnoldbusck.dk/boeger/management-og-it/noeoejjj"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-  - image_path: https://cdn6.arnoldbusck.dk/sites/default/files/bibi/1344130_1536780257.gif
-    alt: "Kan man revne af begejstring?"
-    title: "Kan man revne af begejstring?"
-    excerpt: "Forlaget skriver: Kan man revne af begejstring er en stribe tankevækkende historier, hvoraf flere er blevet udsendt til gode venner over nogle år. Historierne handler om dig og mig - og om et eller andet småt og stort, du sikkert selv har funderet over på et tidspunkt. Bogen er én lang tankevækker - du får garanteret lyst til at ringe til en ven, hente kaffe til sidemanden eller være lidt god ved dig selv, inden du er færdig"
-    url: "https://www.arnoldbusck.dk/boeger/medicin-sundhed-sygdom/kan-man-revne-af-begejstring-og-andre-historier"
+    excerpt: "I mere end 20 år har Henrik Meng bidraget med motivation, begejstring og masser af succesoplevelser til erhvervslivet såvel som den private front. Bogen hedder Nøøjjj - det er dit liv, så hvad vil du gøre ved det!"
+    url: "https://www.gucca.dk/noeoejjj-det-er-dit-liv-saa-hvad-vil-du-goere-ved-det-bog-p277162"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 feature_row_wulf:
   - image_path: "https://imgcdn.saxo.com/_9780736062701/0x500"
     alt: "Attention and Motor Skill Learning"
     title: "Attention and Motor Skill Learning"
-    excerpt: "This title is designed as a text for motor behaviour and cognitive psychology courses, as well as a reference for professionals with an interest in motor behaviour and human movement. It explores how focus of attention can affect motor performance, particularly the learning of motor skills. This text turns research into application by detailing how an individual's focus changes with age and type of task, allowing readers to apply the information across a variety of ages and settings. _Practical Applications_ sections provide specific instructional examples and challenges. _Future Directions_ sections at the end of each chapter highlight potential research studies that encourage readers to use and further develop the methods and practices outlined in the book."
+    excerpt: "This title is designed as a text for motor behaviour and cognitive psychology courses, as well as a reference for professionals with an interest in motor behaviour and human movement. It explores how focus of attention can affect motor performance, particularly the learning of motor skills. This text turns research into application by detailing how an individual's focus changes with age and type of task, allowing readers to apply the information across a variety of ages and settings."
     url: "https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
     btn_label: "Læs mere"
     btn_class: "btn--success"
@@ -65,6 +65,8 @@ Derfor skal man være optimalt forberedt til alle træningspas – både på pap
 
 > ’Begejstring skal vises. Det kan være: ’Yes!’ Eller: ’Ih, hvor er du god i dag!’ eller ’Ih, hvor er jeg glad!’ Og du kan godt øve dig i at vise begejstring. Børn er eksempelvis ret gode til det. Der er jo ingen af os voksne der ikke som børn har suset rundt og ment at vi simpelthen var verdens bedste. Selv legede jeg Allan Simonsen. Og når jeg scorede var hænderne oppe. Hele verden skulle se det, men da jeg blev ældre, var begejstring og glæde ikke noget jeg viste, for folk kiggede underligt på mig’.
 
+--- <cite>Arne Nielsson i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061)</cite>
+
 {% include feature_row type="left" %}
 
 En af øvelserne i Arne Nielssons bog handler om at få flere ’Hænderne-over-hovedet dage’. Inden man træder ind af døren til en ny oplevelse (det kan være døren til fodboldklubben), bør man pause et øjeblik trække vejret dybt og tænke over en bevidst positiv og begejstret måde at træde ind af døren på.
@@ -86,7 +88,9 @@ Betragtninger der er væsentlige i vores daglige arbejde med fodboldpigerne og -
 Du kan læse mere om Arne Nielssons tanker på [www.foqus-management.dk](http://www.foqus-management.dk) og om Henrik Meng på [www.meng.dk](http://www.meng.dk/).
 {: .notice .notice--success }
 
-> ’Sig ’det bli’r svært’ – og du får ret. Sig ’Selvfølgelig kan jeg det, jeg har bare ikke lært det endnu’ – og du får ret. Hvad vil du helst have ret i?’ (Meng, 2000)
+> ’Sig ’det bli’r svært’ – og du får ret. Sig ’Selvfølgelig kan jeg det, jeg har bare ikke lært det endnu’ – og du får ret. Hvad vil du helst have ret i?’
+
+--- <cite>Meng, 2000</cite>
 
 {% include feature_row id="feature_row_meng" type="left" %}
 
@@ -106,7 +110,7 @@ Den mest effektive for læringen er at lave det man kalder variabel træning, hv
 
 I mange studier har man lavet en træning, hvor rækkefølgen var tilfældig, men i træningsøjemed foretrækker vi betegnelsen blandet træning, fordi det formentlig giver nogenlunde samme resultater. Der er evidens for, at bloktræning meget tidligt i indlæringsforløbet er blandet træning overlegent på kort sigt. Det er imidlertid vigtigt, at træneren hurtigt begynder at introducere blandet træning, fordi den er mest effektiv på lang sigt. Det er en udfordring at introducere blandet træning på det rigtige tidspunkt, men den blandede træning bør introduceres så tidligt som overhovedet muligt. Selvom bloktræningen under den enkelte træning viser den hurtigste fremgang, men den blandede træning giver den største læring over tid. Den blandede træning fordrer, at spillerne ind- går i en problemløsningssituation og det øger lærin- gen hos spillerne. Enhver træning bør altså bestå af en masse forskellige færdigheder. Formentlig er blandet træning den mest gavnlige organisation, jo mere færdighederne adskiller sig fra hinanden (Williams, 2005).
 
-### Hold fokus
+## Hold fokus
 
 Som træner kan du godt under en blandet træning vælge at vejlede på en af færdighederne. Fx kan spillerne drible gennem en keglebane, spille bande med en bænk eller en træner og bagefter sparke på mål. Her kan du vejlede på selve sparket eller på selve driblingen.
 
@@ -126,19 +130,13 @@ Når træningen planlægges er det naturligvis vigtigt, at der tages højde for 
 
 I det efterfølgende eksempel, skal der laves en træning i indersidespark.
 
-#### 1
-
-Indledningsvis er spillerne sammen 2 og 2. Sparket vises og spillerne bliver bedt om at sparke inderside spark til hinanden med varieret afstand (2-10 meter), mens instruktionsmomenterne gennemgåes. Spillerne stopper bolden efter hvert spark, ændrer afstanden ved at bevæge sig tættere sammen eller længere væk fra hinanden og sparker så bolden retur.
+1. Indledningsvis er spillerne sammen 2 og 2. Sparket vises og spillerne bliver bedt om at sparke inderside spark til hinanden med varieret afstand (2-10 meter), mens instruktionsmomenterne gennemgåes. Spillerne stopper bolden efter hvert spark, ændrer afstanden ved at bevæge sig tættere sammen eller længere væk fra hinanden og sparker så bolden retur.
 
 ![](/assets/images/posts/inderside-1.png)
 
-#### 2
+2. Det vil være spillere, der allerede eller meget hurtigt behersker denne øvelse, de opfordres nu til i højere grad at bruge begge ben og at sparke til bolden uden at stoppe den først (førstegangsafleveringer).
 
-Det vil være spillere, der allerede eller meget hurtigt behersker denne øvelse, de opfordres nu til i højere grad at bruge begge ben og at sparke til bolden uden at stoppe den først (førstegangsafleveringer).
-
-#### 3
-
-Nu kan der sættes et keglemål på ca. 2 meters bredde op midt mellem spillerne. Uanset om bolden stoppes mellem sparkene eller om der sparkes første gang kan man nu lave nye regler:
+3. Nu kan der sættes et keglemål på ca. 2 meters bredde op midt mellem spillerne. Uanset om bolden stoppes mellem sparkene eller om der sparkes første gang kan man nu lave nye regler:
 
 a. Får begge spillere bolden gennem målet, så rykker begge spillere yderligere en meter væk fra kegle- målet i midten, og der sparkes igen.
 b. Rammer en af spillerne ved siden af målet eller vælter en af keglerne rykker begge spillere en meter tættere på, og der sparkes igen.
@@ -148,17 +146,13 @@ Sværhedsgraden i øvelsen justeres på den måde hele tiden og der vil ikke væ
 
 ![](/assets/images/posts/inderside-2.png)
 
-#### 4
-
-Når dette beherskes, er den næste progression, at der sættes en god førsteberøring på modtagelsen.
+4. Når dette beherskes, er den næste progression, at der sættes en god førsteberøring på modtagelsen.
 
 ![](/assets/images/posts/inderside-3.png)
 
 Enten spilles bolden på tværs af kroppen med den ene fods inderside og tilbage til makkeren med modsatte fod. Eller bolden skubbes ud til siden med højre yderside og returneres til makkeren med højre inderside. Bolden skal hele tiden være i bevægelse.
 
-#### 5
-
-Der opsættes en port (cirka 3 meter) ved hver af spillerne, der står med 10 til 15 meters afstand.
+5. Der opsættes en port (cirka 3 meter) ved hver af spillerne, der står med 10 til 15 meters afstand.
 
 ![](/assets/images/posts/inderside-4.png)
 
@@ -176,14 +170,14 @@ Derfor bør observationer tage udgangspunkt i træningens tema. Når man lærer 
 
 Træneren må før hver øvelse give information om, hvordan øvelsen skal forløbe. Under læring af tekniske færdigheder skal spillerne lære noget kropsligt, og det kan ikke altid formidles verbalt uanset hvor meget træneren ved om færdigheden. Demonstration af færdigheder er formentlig den mest brugte form for instruktion af færdigheder (Magill, 2001), men en demonstration skal ikke altid bruges ukritisk.
 
-### Stil bevægelsesopgaver
+## Stil bevægelsesopgaver
 
 Hvis bevægelsesopgaven ikke fordrer brugen af en specifik teknik, kan en forevisning af øvelsen begrænse spillernes udfoldelsesmuligheder. Hvis spillerne fx skal ramme et mål, er det jo ikke afgørende om de sparker med inderside eller vrist, men at de rammer målet uden for målmandens rækkevidde. En bevægelsesopgave kan være, at de skal afslutte fladt i målet. Dette får spillerne til at skulle løse opgaven selv, og de tvinges til at vurdere deres handlinger i forhold til opgaven. Så kan træneren altid senere tage en diskussion med spillerne om, hvilken teknik der er mest hensigtsmæssig i situationen, hvor det mest hensigtsmæssige skal forstås som, det der med højst mulig sandsynlighed og med mindst mulig anstrengelse opfylder målet.
 
 Vis => Forklar => Vis => Afprøv
 {: .notice .notice--info }
 
-### ’Prøv at se, hvad jeg gør’
+## ’Prøv at se, hvad jeg gør’
 
 Formålet med en demonstration er at skabe en skabelon af færdigheden hos spillerne i hjernen. Denne skabelon kan spillerne bruge som udgangspunkt for at vide, hvad de skal gøre – og demonstrationen kan også være et sammenligningsgrundlag, så spillerne kan rette deres egne bevægelser. Meget tyder på, at demonstrationen især er med til at forme den overordnede skabelon af bevægelsen (koordinative strukturer) snarere end i forsøget på at forfine eller tilpasse en eksisterende bevægelse (kontrolstrukturerne) (Horn, 2004).
 
@@ -191,7 +185,7 @@ Træneren kan benytte imitationsprincippet. ’Prøv at se, hvordan Ronaldinho g
 
 Imitationen har den fordel, at spillerne bliver opmærksom på selve handlingen. Når spilleren imiterer, eksperimenterer spilleren selv med færdigheden, og hun skaber nye sammenhænge. Hvis hun fx vil efterligne en af Ronaldinhos finter, er det ikke nok at kopiere bevægelsen. Hun skal eksperimentere med den. Når hun træner, skal hun naturligvis have en masse gentagelser, men det skal ikke bare være gentagelser. Gentagelserne skal gang på gang forsøge at løse bevægelsesudfordringen. Fx vil det være langt mere gavnligt at øve finten sammen med en kammerat, som yder lidt modstand fremfor at lave den alene. Imitationen skal være en rekonstruktion og ikke en kopi. Kopisten træner godt nok bevægelsen, men kun i rekonstruktionen får man den helt rigtige fornemmelse for bevægelsen, og man lærer at succesraten med en finte også i høj grad afhænger af omgivelserne.
 
-### Stil dig rigtigt og tal tydeligt
+## Stil dig rigtigt og tal tydeligt
 
 Tænk over hvordan du står i forhold til spillerne. Alle skal kunne se og høre dig, når du instruerer og de- monstrerer. Det betyder:
 
@@ -199,11 +193,11 @@ Tænk over hvordan du står i forhold til spillerne. Alle skal kunne se og høre
 - Tal ikke i modvind.
 - Tal tydeligt og højt.
 
-### Brug flere vinkler
+## Brug flere vinkler
 
 Når du viser en færdighed, er det en god ide at vise den fra mange vinkler, men i hvert fald bagfra. Spillerne vil efter al sandsynlighed hurtigst tilegne sig koordinationsmønsteret, hvis de ser færdigheden bagfra, dvs. hvis du står med ryggen til dem (Ishikura, 1995). Begynd altid med at vise færdigheden i det rig- tige tempo. Derefter kan du vise den langsommere, og slut altid med at vise færdigheden i det rigtige tempo igen. Fordi demonstrationen skaber en skabelon af bevægelsesmønsteret i hjernen, kan det betale sig for spillerne mentalt at forestille sig bevægelsen, inden de udfører den. Denne mentale forestilling er en aktiv proces, som klargør skabelonen til at blive udført.
 
-### Brug nøglepunkter og forklar kort og tydeligt
+## Brug nøglepunkter og forklar kort og tydeligt
 
 For at skabe den bedst mulige læring af færdigheder hos udøverne, bør demonstrationen understøttes af enkle, præcise nøglepunkter, som kan rette spillernes opmærksomhed mod de rette dele af bevægelsen.
 
@@ -211,17 +205,17 @@ Nøglepunkterne kan målrette selve bevægelsesopgaven, fx ’se hvordan bolden 
 
 Det er sandsynligt at læringen er lige så effektiv, uanset om man iagttager en levende model eller et videoklip. Det ser ud til at et videoklip, hvor nøglepunkterne både skrives og understreges af en kommentator er det mest effektive (Janelle, 2003). Det er en fordel at vise videoklippene på en så stor skærm som praktisk muligt (Al-Abood, 2002). Disse nøgle- punkter skal helst være formuleret, så de retter sig mod effekter, som er så tæt på bevægelseseffekten som muligt (se bl.a. Wulf, 2004).
 
-### Brug feedback under demonstration
+## Brug feedback under demonstration
 
 Det er stadig en stående diskussion, om det er mest effektivt at iagttage en rigtig dygtig spiller udføre en færdighed, eller det er mere formålstjenstligt at iagttage en lærende spiller, som er på nogenlunde samme niveau som en selv, som også er i en aktiv læringsproces (se bl.a. McCullagh, 1997). Meget tyder på, at spillerne kan lære meget ved at observere andre spillere foretage en færdighed, og især når de andre spillere undervejs får feedback på udførelsen af færdigheden fra en underviser (Hebert, 1994). Observationen skaber en skabelon for bevægelsen, som spilleren selv kan udnytte, og samtidig knytter det fejlretningsoplysninger til bevægelsen.
 
-### Lad være at sige det hele
+## Lad være at sige det hele
 
 Man kan lære implicit eller eksplicit. Den implicitte læring er når man prøver sig frem og selv gør sig nogle erfaringer i læringssituationer. Den eksplicitte læring er når træneren nøjagtig fortæller, hvordan en færdighed skal udføres, og hvordan den skal bruges.
 
 Forskning tyder på, at færdigheder som er lært implicit er mere robuste og stabile, når spilleren kommer under pres og skal bruge færdighederne i nye, lidt uvante situationer (Bright, 1998). En lang, indviklet forklaring er altså ikke den bedste måde at instruere spillerne i ens forventninger til dem.
 
-### Lad spillerne øve sig i grupper
+## Lad spillerne øve sig i grupper
 
 Det er sandsynligt, at det er effektivt at få spillerne til at øve sig i mindre grupper, hvor de kan diskutere hvilken fremgangsmåde de hver især bruger. Denne kombination af, at de hele tiden får lejlighed til at iagttage hinanden, og når de kan udnytte hinandens læringsproces (Shea, 1999). Det er ikke tilrådeligt at lade spillerne give hinanden feedback i de små grupper, hvilket vi uddyber i næste afsnit om feedback.
 
@@ -270,6 +264,26 @@ Ved en øvelse med spark kunne eksempler på gode vejledninger være:
 
 {% include feature_row id="feature_row_wulf" type="left" %}
 
+## Hvordan lærer man bedst?
+
+Følgende er ganske vist lavet ift. undervisning i et klasselokale, men kan garanteret overføres til fodboldtræningen.
+
+> John Hattie finder, at det mest betydningsfulde i undervisningen er, at der ikke er forstyrrende adfærd, og at læreren formår et lede eleverne og aktiviteterne i klasserne. Herefter kommer den faglige kvalitet af lærernes undervisning fulgt af relationerne mellem lærer og elev, lærerens feedback til eleverne og de midler, læreren har til at opnå viden om elevernes individuelle præstationer.
+> 
+> Ser man på undervisningsmetoder, er det vigtigste, at lærerne lærer eleverne at verbalisere deres læring (at de kan sætte ord på deres læringsproces), at de lærer metakognition (at de får en overordnet forståelse for emnefelter), at eleverne lærer at løse problemer, at de lærer studieteknikker, at man maksimerer den tid, der bruges på læring, og at læreren anvender ’direkte undervisning’ (en metode, hvor læreren starter med at sætte klare mål for lektionen, gennemfører en grundig gennemgang, giver eleverne opgaver, giver feedback på opgaveløsningen og runder det hele af med henblik på, hvad der skal ske i næste lektion).
+ 
+--- <cite>[Niels Egelund i _Hjælp, vi smed barnet ud med badevandet_](https://politiken.dk/debat/kroniken/art5469156/Hj%C3%A6lp-vi-smed-barnet-ud-med-badevandet)</cite>
+
+Hvad gør du for at optimere læringen hos dine spillere?
+
+## Vis - forklar - vis eller hold kæft?
+
+Det er vigtigt at vise tingene, både når man skal sætte dem i gang med en ny øvelse, og når man skal lære dem nye færdigheder. Vi forsøger at give dem en _reference of correctness_.
+
+Behets (1997) viser i et studium af 2. klasses elever, der skal lære en ny færdighed (håndstand til rulle), at succesfulde lærere adskiller sig fra knap så effektive lærere ved at bruge markant mere tid på aktiv læringstid. For elevernes læring tyder studiet altså på, at tid brugt på instruktion og organisation skal minimeres.
+
+Uanset om vi viser - forklarer og viser igen, så er det helt afgørende, at denne instruktion skæres ned til et absolut minimum.
+
 ## Opsamling
 
 Hvis alle børnene skal synes, at det er sjovt og spændende at spille fodbold, skal man som træner og leder være opmærksom på:
@@ -294,3 +308,7 @@ Hvis alle børnene skal synes, at det er sjovt og spændende at spille fodbold, 
 - At sammenhold skabes af mennesker og ødelægges af menneskers ligegyldighed.
 - At sæsonens målsætning også kan være: ’glade børn’ og x antal nye spillere og trænere/ledere.
 - Undgå at tvinge/overtale/motivere spillere til at have faste pladser for længe.
+
+## Referencer
+
+- Behets, Daniel (1997): "Comparison of more and less efficient teaching behaviors in secondary physical education", i: Teaching and Teacher Education, vol. 13, 215-224.

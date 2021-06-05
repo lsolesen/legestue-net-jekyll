@@ -1,6 +1,9 @@
 ---
-title: &title "Træningsplanlægning i fodbold"
+title: &title "Fodboldtræning: Træningsplanlægning i fodbold"
 permalink: /traeningsplanlaegning/
+redirect_from:
+  - /content/traeningssedlen-hvordan-skal-den-se-ud
+  - /traeningssedlen-hvordan-skal-den-se-ud/
 language: da
 header:
   overlay_image: https://previews.123rf.com/images/matimix/matimix1602/matimix160200011/53762250-coach-giving-young-soccer-team-instructions-youth-soccer-team-together-before-final-game-football-ma.jpg
@@ -11,18 +14,20 @@ categories:
 tags:
   - Børnetræningsmanual 2006
   - træningsplanlægning
-last_modified_at: 2015-04-07T15:16:02Z
+last_modified_at: 2021-04-07T15:16:02Z
 ---
+
+Her kigger vi på træningsplanlægning i fodbold. Hvordan kan du gribe træningsplanlægningen an, og hvad skal du tænke på, når du planlægger din fodboldtræning.
 
 ## Lege, øvelser og spil
 
-Vi opfordrer til, at fodbold leges ind, men spillerne skal også spille en masse fodbold. Det skal gøres gennem aktiviteter. Vi bruger især tre typer aktiviteter: Lege, øvelser og spil (Jørgensen, 2006).
+Vi opfordrer til, at fodbold leges ind, men spillerne skal også spille en masse fodbold. Det skal gøres gennem aktiviteter. Vi bruger især tre typer aktiviteter: [Fodboldlege](/lege/), øvelser og spil (Jørgensen, 2006).
 
 - **En leg** er en aktivitet, hvor selve aktiviteten er målet for spilleren. Træneren kan godt bruge legen som et redskab til at fremme den tekniske læring. I en leg er der kun lidt vejledning, så alle gebærder sig efter de samme spilleregler. I en leg er det ofte tilladt at fejle, fordi man ofte kan genindtræde i legen igen.
 - **En øvelse** er en enkeltstående situation, som trænes separat fra kampsituationen som et middel til at forbedre spillernes færdigheder til at handle hensigtsmæssigt i kampen. Instruktionen er mere præcis, og spillerne skal stræbe efter en korrekt udførelse af øvelsen. Hvis en spiller fejler, ødelægger det ofte øvelsen.
 - **Et spil** kræver en organisation og regelbetingelser, som tilgodeser et bestemt mål med træningen, eller spillerne kan frit spille, men spillene bruges formålsbestemt af træneren. Det er tilladt at fejle, for ofte kan man genoprette fejlen, men enkelte fejl er uoprettelige.
 
-## Fodboldtræning handler ikke om øvelser
+## Fodboldtræning og træningsplanlægning handler ikke om øvelser
 
 Fodboldtræning handler ikke om at præsentere øvelser. Fodboldtræning handler om at skabe rammer, så spillerne kan forbedre deres fodboldfærdigheder. De forbedrer først og fremmest deres færdigheder ved at spille fodbold – og derfor opfordrer vi til at bruge småspil meget aktivt i træningen, og introducere nogle betingelser, som fremmer de taktiske eller tekniske aspekter, træningen omhandler.
 
@@ -113,9 +118,11 @@ Det var blot nogen af justeringsmulighederne. Aktivitetsbolden er dit vigtigste 
 
 Træningen bør bestå af flere små kampe med færre folk på banen, så spillerne får mange boldberøringer, afleveringer og skud på mål. Aktiviteterne skal imidlertid også fordre, at spillerne lærer det nødvendige for at blive gode fodboldspillere.
 
-## Sæsonplanlægning
+Du kan også lade dig inspirere af [aktivitetshjulet](/aktivitetshjulet/), som er en rigtig god model til at kigge på træning og træningsplanlægning ud fra.
 
-### Lav en sæsonplan
+## Sæsonplanlægning i fodbold
+
+### Lav en sæsonplan for fodboldtræningen
 
 Først på sæsonen bør du lave en plan over træning og kamp i sæsonen. Planen kan indeholde en oversigt over det, du gerne vil præsentere for dine spillere i løbet af sæsonen, eller det kan være en datoplan, så du har styr over alle datoerne. Sådan en sæsonplan hjælper både dit eget arbejde, og det gør det lettere for forældrene at følge med i, hvad der sker henne i klubben.
 
@@ -123,13 +130,30 @@ Først på sæsonen bør du lave en plan over træning og kamp i sæsonen. Plane
 
 Ved at planlægge tidligt er det også lettere at inddrage forældrene. Når de sender deres børn til fodbold, skal de også vide, at de må involvere sig i klubarbejdet. Der er mange opgaver forældrene kan lave. Vi anbefaler at du udformer overskuelige og tidsbegrænsede opgaver, som du sørger for at beskrive grundigt. Forældrene kan fx hjælpe med at arrangere ture eller selv lave en kørselsordning.
 
-## Planlægning af den enkelte træning
+## Planlægning af den enkelte fodboldtræning
 
 ### Vær altid forberedt
 
 Du bør altid have en nøjagtig plan for træningen nedskrevet på papir. Hvis du er ordentligt forberedt, vil træningen næsten altid forløbe med et godt resultat– også selvom du bliver nødt til at lave om undervejs. Det kan være, at I skal bruge mere tid på en aktivitet, end man havde forventet og derfor lade en anden aktivitet glide ud af programmet. Det kan være, at spillerne netop i dag ikke er rigtig opmærksomme, og du bliver nødt til at droppe nogle aktiviteter og spille noget mere kamp.
 
-### Brug et tema
+### Brug en træningsseddel til planlægning af træningen
+
+Du kan fx lave en træningsseddel inden hver træning:
+
+Vi eksperimenterer i øjeblikket med, hvordan vores træningsseddel skal se ud. Vi er foreløbig kommet frem til, at den skal indeholde følgende punkter:
+
+- **Dato**. Så man ved hvornår træningen skal være.
+- **Spillerliste med navne**. Så man ved hvem der deltager.
+- **Tema**. Så man kan holde fokus på hvad man træner.
+- **Materialer**. Så du ved hvad du skal have med ud.
+- **Fodboldbaner**. To fodboldbaner så man kan tegne øvelser ind.
+- **Ekstra plads til øvrige notater mv.**
+
+Vi eksperimenterer i øjeblikket med layoutet. Vi vender tilbage, når vi er kommet frem til noget godt og brugbart!
+
+Hvad er på din træningsseddel, og hvordan ser dit layout ud?
+
+### Brug et tema til hver træning
 
 Hver træning bør have et tema, som du forfølger i hele træningen – og som danner baggrund for udvælgelsen af aktiviteterne. I denne proces bør du vurdere, om du har valgt den aktivitet, som bedst muligt træner netop dit tema.
 
@@ -137,11 +161,11 @@ Hver træning bør have et tema, som du forfølger i hele træningen – og som 
 
 Når du har sat en øvelse i gang på træningsbanen, skal du altid overveje, om det er nødvendigt at justere øvelsen. Hvis aktiviteten er for svær, kan du fx justere på banen eller antallet af spillere på hvert hold.
 
-### Stil op i god tid
+### Stil op til øvelserne i god tid
 
 Det er en god ide at have gjort sig nøje overvejelser om, hvordan du stiller baner og kegler op. Hvis du inden træningen, kan sætte alle banerne op, er det meget lettere under træningen at lave nogle gode skift mellem aktiviteterne. Hvis du laver flere baner, bør du have en god afstand mellem banerne, så du har mulighed for at justere aktiviteterne undervejs.
 
-### Indhold i træningen
+### Indhold i fodboldtræningen
 
 For børn og unge må træningen altid indeholde mindst følgende punkter:
 

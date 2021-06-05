@@ -12,6 +12,7 @@ feature_row:
     url: "https://drive.google.com/file/d/1pn6ItfMcDidh6c-Uj8m-luopNtYnZisV/view?usp=sharing"
     btn_label: "Download Fodboldens Lege"
     btn_class: "btn--success"
+    rel: "nofollow"
 ---
 
 Tak fordi du ville læse Fodboldens Lege.

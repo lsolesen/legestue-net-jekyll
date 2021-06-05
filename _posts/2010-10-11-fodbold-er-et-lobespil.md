@@ -1,6 +1,8 @@
 ---
 title: "Fodbold er et løbespil"
 redirect_from: /content/fodbold-er-et-lobespil
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 language: da
 categories:
 tags:

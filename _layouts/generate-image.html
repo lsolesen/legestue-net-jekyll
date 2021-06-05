@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang='en' prefix='og: http://ogp.me/ns#'>
+
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <title>generating {{ page.image_type }} image</title>
+  <style>
+    * {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      background: black;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      width: 100vw;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* hide data that doesn't show up for this post */
+    *:empty:not(img) {
+      display: none;
+    }
+
+    #preview {
+      background: #fff;
+      font-family:
+        "Roboto",
+        "Segoe UI",
+        "Helvetica Neue",
+        "Lucida Grande",
+        Arial,
+        sans-serif;
+      color: #3d4144;
+      line-height: 1.5;
+      display: flex;
+    }
+
+    body.og #preview {
+      box-sizing: border-box;
+      border: 20px orange solid !important;
+      height: 630px;
+      width: 1200px;
+      font-size: 1.25rem;
+      flex-direction: row;
+    }
+
+    body.og #preview #text {
+      width: 50%;
+    }
+
+    body.og #preview #image {
+      margin-left: -10%;
+      width: 60%;
+    }
+
+    body.og #preview #image {
+      /* border-top-left-radius:10% 10%;
+  border-bottom-left-radius:30% 40%; */
+      clip-path: polygon(20% 0, 100% 0, 100% 100%, 0 100%);
+    }
+
+    body.og #post-excerpt {
+      display: none;
+    }
+
+    body.pinterest #preview {
+      height: 1500px;
+      width: 1000px;
+      font-size: 2rem;
+      flex-direction: column-reverse;
+    }
+
+    body.og footer {
+      display: none;
+    }
+
+    body.pinterest #preview #text,
+    body.pinterest #preview #image {
+      flex: 1;
+    }
+
+    body.pinterest #preview #image img {
+      border-bottom-right-radius: 60% 40%;
+      border-bottom-left-radius: 10% 10%;
+    }
+
+    body.pinterest footer {
+      text-align: center;
+      font-weight: bold;
+      color: white;
+      background: black;
+    }
+
+    body.instagram footer {
+      text-align: center;
+      font-weight: bold;
+      color: white;
+      background: black;
+    }
+
+    body.instagram #preview {
+      box-sizing: border-box;
+      border: 20px orange solid !important;
+      height: 1080px;
+      width: 1080px;
+      font-size: 2rem;
+      flex-direction: column-reverse;
+    }
+
+    body.instagram #preview #text,
+    body.instagram #preview #image {
+      flex: 0 1 auto;
+    }
+
+    body.instagram #author,
+    body.instagram header {
+      display: none;
+    }
+
+    body.instagram #preview #image {
+      height: 780px;
+      border-bottom-right-radius: 60% 40%;
+      border-bottom-left-radius: 10% 10%;
+    }
+
+    body.instagram #post-excerpt {
+      display: none;
+    }
+
+    #text {
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      font-size: 1.75em;
+      margin-bottom: 1.5rem;
+    }
+
+    header img {
+      height: 1.5em;
+    }
+
+    header h1#site-title {
+      color: #6f777d;
+      font-size: .8em;
+      line-height: 1;
+      margin: 0 0 0 1rem;
+    }
+
+    h2#post-title {
+      font-size: 2.2em;
+      margin: 0 0 1rem 0;
+    }
+
+    #author {
+      color: #6f777d;
+      display: flex;
+      align-items: center;
+      font-size: 2rem;
+    }
+
+    #author #author-image:not([src='']) {
+      padding: 5px;
+      border: 1px solid #f2f3f3;
+      width: 2em;
+      border-radius: 50%;
+      margin-right: 1rem;
+    }
+
+    #author #author-name {
+      font-size: 1em;
+      font-weight: bold;
+    }
+
+    #image {
+      margin: 0;
+      overflow: hidden;
+      position: relative;
+    }
+
+    #image img {
+      object-fit: cover;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+  <script>
+    // copy function from node_modules/unicode-encode/index.js so we don't have to compile
+    function atou(str) {
+      return decodeURIComponent(escape(atob(str)));
+    }
+
+    function paramsToObject(paramString) {
+      const params = new URLSearchParams(paramString)
+      const object = {}
+      for (const [key, value] of params.entries()) {
+        object[key] = value
+      }
+      return object
+    }
+
+    function replace(id, content, domAttr) {
+      const element = document.getElementById(id)
+      if (element) {
+        element[domAttr] = content
+      }
+    }
+
+    const urlParams = window.location.search.replace('?', '')
+    // use atou to decode data
+    const data = paramsToObject(atou(urlParams))
+
+    document.addEventListener('DOMContentLoaded', function () {
+      Object.entries(data).map(([key, value]) => {
+        if (key === 'post-image' || key === 'author-image') {
+          replace(key, value, 'src')
+        } else {
+          replace(key, value, 'innerHTML')
+        }
+      })
+    })
+  </script>
+  <meta name="robots" content="noindex nofollow">
+  {% include head/favicon.html %}
+</head>
+
+<body class='{{ page.image_type }}'>
+  <div id='preview'>
+    <footer>
+      <!--<img id='logo' alt='' src='/android-chrome-192x192.png' />-->
+      <p id='site-title'>{{ site.title }}</p>
+    </footer>
+
+    <section id='text'>
+      <header>
+        <img id='logo' alt='' src='/android-chrome-192x192.png' />
+        <h1 id='site-title'>{{ site.title }}</h1>
+      </header>
+
+      <h2 id='post-title'></h2>
+
+      <h3 id='post-excerpt'></h3>
+
+      <section id='author'>
+        <img id='author-image' alt='' src='' data-proofer-ignore>
+        <p id='author-name'></p>
+      </section>
+    </section>
+
+    <figure id='image'>
+      <img id='post-image' alt='' src='' data-proofer-ignore>
+    </figure>
+
+  </div>
+</body>
+
+</html>

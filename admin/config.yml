@@ -1,4 +1,4 @@
-name: motionsplan
+name: legestue
 
 backend:
   name: github
@@ -37,6 +37,9 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO Description", name: "description", widget: "text", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text", required: false}
       - label: Header
         name: header
         widget: object
@@ -70,7 +73,6 @@ collections:
           - {label: "Url", name: "url", widget: "string"}
           - {label: "Btn label", name: "btn_label", widget: "string"}
           - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: "btn--success"}
-      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
       - label: Gallery
         name: gallery
         widget: list
@@ -81,6 +83,7 @@ collections:
           - {label: "Alt", name: "alt", widget: "string"}
           - {label: "Image", name: "image_path", widget: "string"}
           - {label: "Url", name: "url", widget: "string"}
+      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Sider" # Used in the UI
     folder: "_pages/" # The path to the folder where the documents are stored
@@ -88,6 +91,9 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO Description", name: "description", widget: "text", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text", required: false}
       - label: Header
         name: header
         widget: object
@@ -121,7 +127,6 @@ collections:
           - {label: "Url", name: "url", widget: "string"}
           - {label: "Btn label", name: "btn_label", widget: "string"}
           - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: "btn--success"}
-      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
       - label: Gallery
         name: gallery
         widget: list
@@ -132,6 +137,7 @@ collections:
           - {label: "Alt", name: "alt", widget: "string"}
           - {label: "Image", name: "image_path", widget: "string"}
           - {label: "Url", name: "url", widget: "string"}
+      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
   - name: "tricks" # Used in routes, e.g., /admin/collections/blog
     label: "Tricks" # Used in the UI
     folder: "_tricks/" # The path to the folder where the documents are stored
@@ -139,11 +145,12 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "text",  required: false, collapsed: true}
-      - {label: "Instructions", name: "instructions", widget: "text",  required: true, collapsed: true}
+      - {label: "Difficulty", name: "difficulty", widget: "number", value_type: "int", min: 0, max: 6, step: 1, required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text",  required: false}
+      - {label: "Instructions", name: "instructions", widget: "text",  required: true}
       - {label: "Permalink", name: "permalink", widget: "string", required: false}
       - {label: "Category", name: "categories", widget: "list", allow_add: true}
-      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true}      
       - {label: "Body", name: "body", widget: "markdown"}
       - label: Header
         name: header

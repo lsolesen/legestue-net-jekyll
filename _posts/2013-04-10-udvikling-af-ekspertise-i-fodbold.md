@@ -1,6 +1,8 @@
 ---
 title: "Udvikling af ekspertise i fodbold"
 redirect_from: /blog/udvikling-af-ekspertise-i-fodbold
+header:
+  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 language: da
 excerpt: "Nicklas Pyrdol gennemgår et videnskabeligt review fra 2012, som tager fat i om der er størst chance for at blive professionel fodboldspiller hvis man starter i en tidlig alder og specialiserer sig gennem fokuseret træning eller om man skal prøve forskellige sportsgrene af og lege med bolden istedet."
 author: nicklas.pyrdol
@@ -27,9 +29,9 @@ sidebar:
 toc: true
 ---
 
-Formålet med denne artikel er, at sætte gang i refleksionen hos de af jer, der arbejder med eller interesserer jer for talentarbejdet indenfor fodbold. 
+Formålet med denne artikel er, at sætte gang i refleksionen hos de af jer, der arbejder med eller interesserer jer for talentarbejdet indenfor fodbold.
 
-Artiklen er baseret på et videnskabeligt review fra 2012, lavet af Haugaasen og Jordet fra Norwegian School of Sport Sciences i Oslo. De har gennemgået den tilgængelige litteratur på området og jeg vil belyse de væsentligste punkter og komme med en enkelt kommentar eller to. 
+Artiklen er baseret på et videnskabeligt review fra 2012, lavet af Haugaasen og Jordet fra Norwegian School of Sport Sciences i Oslo. De har gennemgået den tilgængelige litteratur på området og jeg vil belyse de væsentligste punkter og komme med en enkelt kommentar eller to.
 
 Udgangspunktet for deres artikel er spørgsmålet om, hvorvidt fodboldspillere skal starte tidligt og have meget fokuseret og målrettet træning for at blive professionelle eller om de kan starte sent, sample forskellige sportsgrene og bruge tid på at lege med bolden og ende som professionelle. Denne artikel kommer ikke til at stå alene, men er starten på det fokus jeg gerne vil lægge på vores tilgang til talentspotting- og udvikling i dansk fodbold.
 
