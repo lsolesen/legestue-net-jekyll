@@ -112,4 +112,6 @@ Bogen kunne sagtens have brugt flere citater fra målscorere. Mange af skønheds
 
 ## Fakta om bogen
 
-Bogen er skrevet af Henrik Selch, som er psykolog, og Jan Østergaard, som er sportschef i Viborg F.F. og DBU-instruktør. Den er udgivet på Forlaget Goldfingers, og du kan købe bogen fra deres hjemmeside. Bogen er på 111 sider og kan købes (dyrt) for 299 kroner.
+Bogen er skrevet af Henrik Selch, som er psykolog, og Jan Østergaard, som er sportschef i Viborg F.F. og DBU-instruktør. Den er udgivet på Forlaget Goldfingers, og du kan købe bogen fra deres hjemmeside. Bogen er på 111 sider og kan købes for 299 kroner.
+
+Jeg har skrevet en side med inspiration til andre [fodboldbøger her]({% link _posts/2021-06-05-fodboldboeger.md %}).

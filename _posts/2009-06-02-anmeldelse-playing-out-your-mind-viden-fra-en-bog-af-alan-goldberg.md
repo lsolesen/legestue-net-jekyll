@@ -84,3 +84,5 @@ Goldberg har begået en relevant og let læst bog, selvom den er på engelsk. De
 Reedswain Inc 612, Pughtown Road, Spring City, Pennsylvania, 19475 USA, www.reedswain.com.
 
 {% include feature_row type="left" %}
+
+Jeg har skrevet en side med inspiration til andre [fodboldbøger her]({% link _posts/2021-06-05-fodboldboeger.md %}).

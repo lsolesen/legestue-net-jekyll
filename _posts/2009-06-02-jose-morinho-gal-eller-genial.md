@@ -45,3 +45,5 @@ Bogen er generelt rigtig lærerig og spændende læsning for den glade fodboldel
 [Køb Jose Mourinho - Special Leadership hos Saxo\*](https://www.saxo.com/dk/jose-mourinho-special-leadership_luis-lourenco_paperback_9789896551971){: .btn .btn--large .btn--danger}
 
 [Køb Jose Mourinho - Made in Portugal hos Saxo\*](https://www.saxo.com/dk/jose-mourinho-made-in-portugal_luis-lourenco_paperback_9780954684334){: .btn .btn--large .btn--danger}
+
+Jeg har skrevet en side med inspiration til andre [fodboldbøger her]({% link _posts/2021-06-05-fodboldboeger.md %}).
