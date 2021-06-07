@@ -25,6 +25,8 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
 feature_quotes:
+  - quote: Hvis det bevæger sig, spark til det. Hvis det ikke bevæger sig, spark til det og få det til at bevæge sig. Hvis det er for stort til at sparke til, byt det med noget mindre og spark til det.
+    cite: Pelé
   - quote: Det gør ikke noget at vi taber hver kamp, hvis vi vinder ligaen
     cite: Mark Viduka
   - quote: Der findes ikke noget midt i mellem. Enten er man dårlig eller også er man god. I dag var vi midt i mellem.
