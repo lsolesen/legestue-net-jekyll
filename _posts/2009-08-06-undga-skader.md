@@ -86,3 +86,5 @@ Den dynamiske sidebro er med for primært at stimulere hoftens abduktor-muskulat
 Hvis du gerne vil undgå skader i fodbold, så kan du altså satse på at lave rigtig god opvarmning suppleret med velvalgte styrketræningsøvelser.
 
 Har du kendskab til andre forskningsresultater om forebyggelse af skader i fodbold, så vil vi meget gerne høre mere om det i kommentarerne.
+
+Jeg har skrevet et andet indlæg om [eksplosiv træning for fodboldspillere]({% link _posts/2020-08-19-eksplosiv-styrke.md %}) og [styrketræning for fodboldspillere]({% link _posts/2021-06-11-styrketraening-fodboldspillere.md %}).
