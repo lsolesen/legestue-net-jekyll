@@ -4,8 +4,8 @@ title: &title "Dribling"
 excerpt: "Dribling er en udfordrende del af fodboldspillet. For at blive en god dribler, må du have fantasi og kreativitet. Men kreativiteten kræver et fundament, som træneren skal rejse i samarbejde med spillerne."
 permalink: /driblinger/
 header:
-  teaser: /assets/images/books/tricks-2020.png
-  overlay_image: /assets/images/fodboldens-tricks.jpg
+  teaser: https://images.unsplash.com/photo-1600077063877-22118d6290eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
+  overlay_image: https://images.unsplash.com/photo-1600077063877-22118d6290eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
 comments: false
 toc: true
