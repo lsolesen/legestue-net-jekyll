@@ -7,6 +7,9 @@ header:
   overlay_image: https://images.unsplash.com/photo-1602472097151-72eeec7a3185?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
   teaser: https://images.unsplash.com/photo-1602472097151-72eeec7a3185?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
+  actions:
+    - url: "https://pin.it/2Fp5YsQ"
+      label: "<i class='fab fa-fw fa-pinterest'></i> Få fodboldcitater på Pinterest"
 categories:
   - Anbefalinger
 tags:
@@ -212,6 +215,8 @@ Her har jeg samlet alle de citater om fodbold, jeg har fundet interessante. Der 
 ***
 {% endfor %}
 
-Har du et godt citat om fodbold, du synes skal med på listen over fodboldcitater, så del dem endelig med mig, så smider jeg dem på listens.
+Har du et godt citat om fodbold, du synes skal med på listen over fodboldcitater, så del dem endelig med mig, så smider jeg dem på listen.
+
+Jeg har også lavet et [Pinterest Board](https://pin.it/2Fp5YsQ), som jeg synes du skal skynde dig ind og følge med gode fodboldcitater.
 
 {% include feature_row type="left" %}
