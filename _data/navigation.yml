@@ -6,10 +6,10 @@ main:
     url: /lege/
   - title: "Træningshjælper"
     url: /hjaelper/
-  - title: "Udfordring"
-    url: /udfordring/
   - title: "Fodboldrytmer"
     url: /fodboldrytmer/
+  - title: "Udfordring"
+    url: /udfordring/
   - title: "Blog"
     url: /blog/
   - title: "Inspiration"
