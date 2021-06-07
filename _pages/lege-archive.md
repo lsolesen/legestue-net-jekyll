@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Fodboldlege i Fodboldens Lege
-seo_title: &title "6 sjove fodboldlege til børn og unge voksne »"
+seo_title: &title "10 sjove fodboldlege til børn og unge voksne »"
 permalink: /lege/
 excerpt: "Jeg har samlet en masse sjove fodboldlege til børn og unge voksne, som du kan lave i friheden, skolegården, haven eller på fodboldbanen til træning. Der er masser af inspiration til lege og spil, du kan lave med vennerne og en fodbold."
 description: "Fodboldens Lege samler alle de sjove fodboldlege til børn og unge voksne. Leg i skolegården, på fodboldbanen eller i haven med vennerne og en fodbold."
@@ -21,7 +21,7 @@ feature_row:
 
 Fodboldens Lege indeholder alle mulige fodboldlege for flere, når I vil selvtræne. Her får du et udpluk af alle de lege og spil, jeg synes allerbedst om.
 
-## 6 fodboldlege fra Fodboldens Lege
+## 10 fodboldlege fra Fodboldens Lege
 
 Jeg har spillet fodbold i rigtig mange år, og her er nogle af de fodboldlege, jeg synes var allersjovest, da jeg var barn.
 
@@ -132,6 +132,66 @@ Hvis bolden rører ens felt to gange, eller man sparker bolden ud, ryger man ud 
 
 - Bolden må ikke spilles tilbage til det felt bolden kom fra.
 - I kan spille flere sammen i hvert felt.
+
+## Carlos
+
+{% include figure image_path="/assets/images/fodboldlege/carlos.png" caption="" alt="carlos" %}
+
+Carlos er et spil for 2 spillere. Du skal bruge 2 mål og en bold.
+
+Stil to mål op overfor hinanden i en passende afstand. I skiftes til at være målmand og afslutter. Du må sparke mod den andens mål, så snart du har reddet bolden.
+
+Husk at aftale hvor langt frem I må gå, inden I skal sparke.
+
+### Variationer
+
+- I kan gøre legen lidt mere udfordrende hvis I aftaler, hvordan I skal sparke. I kan fx sparke flugtere eller halvflugtere, frispark eller på en rullende bold, med vristen eller med indersiden.
+- Ved at spille med to berøringer får I mere flow i spillet. Målmanden må kun parere og skal forsøge afslutning i næste berøring. Det er tilladt at bryde den  andens angreb hvis vedkommende laver en dårlig tæmning eller parering.
+
+## Driblekongen
+
+{% include figure image_path="/assets/images/fodboldlege/driblekongen.png" caption="" alt="driblekongen" %}
+
+Driblekongen er et spil med 3-5 spillere. Du skal bruge et jernmål og en bold.
+
+Sæt et lille jernmål op. En står på mål mens resten efter tur forsøger at score ved at drible tæt på mål og afslutte eller sparke ude fra. Fem forsøg til hver.
+
+Den der scorer færrest mål efter fem forsøg, bytter med målmanden, og I kan starte forfra.
+
+## Shuffle
+
+{% include figure image_path="/assets/images/fodboldlege/shuffle.png" caption="" alt="shuffle" %}
+
+Shuffle er et spil for 2 spillere. Du skal bruge markeringer og tre-fem bolde per mand.
+
+Lav tre rektangulære pointområder og et afleveringsområde som er ca. 15 meter fra pointområdet. Start 10 meter før afleveringsområdet. Dribl ind i afleveringsområdet og spark bolden hen mod pointområdet.
+
+I har lige mange bolde. Alle boldene skal sparkes mod pointområdet i hver omgang. I sparker skiftevis. Det gælder om at få så mange point som muligt. Efter hver runde tæller I pointene sammen. Spil til fx 21 point.
+
+- Første område: 1 point
+- Andet område : 2 point
+- Tredje område: 3 point
+- Sidste linie: 5 point
+
+Det kan måske være en god ide at forsøge at placere en bold der blokerer for den andens scoringsmuligheder (en guard).
+
+## Sol og skralde - lort og lagkage - himmel og helvede
+
+{% include figure image_path="/assets/images/fodboldlege/sol og skralde.png" caption="" alt="sol og skralde" %}
+
+Kært barn har mange navne. Dette spil kan både hedde "sol og skralde", "lort og lagkage" eller "himmel og helvede".
+
+Spillet er for 3-10 spillere. Du skal bruge et mål og en bold.
+
+Alle spiller mod alle på et mål med en målmand. Hvis man scorer, er man »sol« og sætter sig på den ene side af målet.
+
+Brænder man, er man »skralde« og sætter sig på den anden side. Den sidste på banen skal skyde straffe for at se, om vedkommende bliver »sol« eller »skralde«.
+
+Når alle spillerne er blevet enten »sol« eller »skralde«, spiller vinderne igen mod hinanden. Sådan spiller I indtil der er en »sol«, og alle andre er »skralde«.
+
+### Note til træneren
+
+Du kan bruge dette spil i en justeret udgave til træning. Del tre hold. To hold starter på banen mens et hold starter uden for. Alle kampe spilles til én.  Vinderholdet bliver altid på banen (himlen) mens taberholdet bytter med det ventende hold (helvede).
 
 ## Køb Fodboldens Lege - 20+ fodboldlege
 
