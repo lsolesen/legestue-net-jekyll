@@ -30,8 +30,31 @@ Jeg har gode erfaringer med at strække ud både før og efter fodbold. Det får
 
 Desuden har jeg delt en masse eksempler på [øvelser til udstrækning og udspænding på motionsplan.dk](https://www.motionsplan.dk/udstraekning-udspaending/)
 
+Dette er et omdiskuteret område. Sikkert er det i alt fald, at hvis du har det godt med at strække skader det ikke.
+
+## Udstrækning før fodbold
+
+Udstrækning før en præstation bevirker, at de strammeste dele af muskelvævet afslappes mest, hvorved der opnås en ensartethed i vævet. Derved bliver de efterfølgende belastninger af musklen jævnt fordelt, og således mindskes risikoen for skader. Fiberskader heler bedre, hvis de udsættes for regelmæssig afspænding.
+
+Lange stræk bevirker at muskelstrøgene bliver lidt længere og noget stivere, og samtidig bliver musklerne mere effektive i fx accelerationer. Samtidig bliver vævene dog også mere sårbare, og således skal vævet på forhånd være trænet op til den rigtige styrke. Virkningen i vævet reduceres efter 20-30 minutter, hvis ikke strækket gentages.
+
+Strækket skal holdes omkring 10-15 sekunder.
+
+## Udstrækning efter fodbold
+
+Et roligt efterstræk hjælper til at holde muskelvævet afslappet, hvorved lokale muskelskader måske undgås Stræk øger spændingen i vævet, og vil således presse noget af væsken fra muskelvævet over i kredsløbet, hvorved affaldsstoffer vil blive transporteret væk fra musklerne.. Efterstræk kan ikke forhindre ømhed, som fx er forårsaget af mange sprinter eller hårdt arbejde for lårene, fordi
+ømheden der ledsager dette er mekaniske skader på musklen.
+
+Strækket skal holdes omkring 30 sekunder.
+
+I medierne er en vis svensker blevet taget til indtægt for, at udstrækning er ligegyldigt. Det er ikke helt det, hans ph.D. giver udtryk for. Han mener faktisk, at man den funktionelle smidighed forbedres, fordi smertereceptorerne bliver mindre følsomme over for strækket.
+
 ## Yoga efter fodbold
 
 Når du har spillet fodbold, så kan du også overveje at lave forskellige yoga-flows. På motionsplan.dk har jeg beskrevet [De fem tibetanere](https://www.motionsplan.dk/artikel/de-fem-tibetanere/) og [Solhilsen A og B](https://www.motionsplan.dk/artikel/solhilsen-a-b-surya-namaskar/). Jeg har selv rigtig gode erfaringer med at lave yoga og udstrækning i forbindelse med fodbold.
 
 Jeg føler mig meget mere fri i kroppen og afspændt i muskulaturen. Yogaserier kan være med til at løsne op, så man bevæger sig mere frit. Det er særligt hoften, baglårene og lænden, jeg synes jeg har kunnet mærke effekt af yoga på.
+
+## Referencer
+
+- Bojsen-Møller, Finn: ”Stræk og udspænding – sådan er effekten”, i: Puls 4/98.

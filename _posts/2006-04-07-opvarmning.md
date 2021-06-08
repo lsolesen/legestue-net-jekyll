@@ -1,5 +1,5 @@
 ---
-title: &title "Opvarmning for fodboldspillere: 11 opvarmningsøvelser til fodbold"
+title: &title "Opvarmning til fodbold: 11 opvarmningsøvelser for fodboldspillere"
 permalink: /opvarmning/
 redirect_from:
   - /l-b-jer-varme/
@@ -65,7 +65,7 @@ Et overraskende synspunkt fra en af de trænere, som sværger til teknisk fodbol
 
 Opvarmningen behøver ikke altid at blive indledt med sætningen: "Først løber vi fire omgange". Det må kunne gøres bedre - også i praksis. I et undervisningsforløb på Vejle Idrætshøjskole skulle eleverne selv stå for opvarmningen. Vi havde indprentet eleverne ovenstående betragtning. Ikke desto mindre indledte mange af eleverne, når de selv var på scenen som trænere, med en mere eller mindre traditionel opvarmning, hvor hovedparten af tiden blev brugt på løb op og ned ad banen.
 
-Det er der sikkert mindst to årsager til: 
+Det er der sikkert mindst to årsager til:
 
 1. vores budskab skal fremhæves endnu tydeligere
 2. Eleverne tog udgangspunkt i den erfaring, de selv har fra klubberne, hvor dette (åbenbart) er en yndet startaktivitet.
@@ -90,6 +90,35 @@ Opvarmningen må gerne udfordre, udvikle og skabe baggrund for udfoldelse, samti
 
 Trænertypen entertaineren (Jensen 2000) forsøger at have et stort repertoire af øvelser. Det kan netop være en fordel i opvarmningen, selvom øvelser bare er øvelser, og det er formålet med træningen eller opvarmningen, som skal styre øvelsesvalget. Du bør gøre opvarmningen til en væsentlig bestanddel af træningen også i spillernes hoveder.
 
+## Hvad er virkningen af opvarmning?
+
+- Øger den fysiske præstationsevne.
+- Øger den psykiske præstationsevne.
+- Styrker motivationen.
+- Regulere kroppens psykiske spænding.
+- Forebygger skader.
+
+## Fysiologiske virkning af opvarmning
+
+Kropstemperaturen skal helst øges til omkring 39°C, som er den mest effektive temperatur for musklens biokemiske processer.
+
+Øget kropstemperatur bevirker, at:
+
+- Enzymaktiviteten øges, så de kemiske processer i kroppen forløber hurtigere.
+- Nervefibrenes ledningsevne forbedres, så nerveimpulserne strømmer hurtigere og lettere. Det betyder en bedre koordination og mindsket risiko for skader.
+- Den viskøse modstand i muskler, bindevæv og led reduceres, hvilket bl.a. betyder, at blodet og vævsvæskerne strømmer lettere. Dermed bliver transporten af næringsstoffer og ilt til de arbejdende muskler også hurtigere.
+- Ilten afgives lettere fra hæmoglobin og myoglobin.
+- Vævet bliver mere eftergivende.
+
+## Psykologisk virkning af opvarmning
+
+- Øger koncentrationen.
+- Forbereder mentalt til efterfølgende aktivitet
+
+## Hvad kan du lave i opvarmningen til fodbold?
+
+Her har jeg samlet en række forskellige aktiviteter, som du kan bruge i opvarmningen. Alle aktiviteterne har et formål i sig selv ud over at varme kroppen op til den efterfølgende aktivitet.
+
 ## Koordinationstræning og løbeskoling
 
 Opvarmningen kunne eksempelvis være en kærkommen mulighed for at arbejde med koordinationstræning både med og uden bold. Efter vores overbevisning kan koordinationstræning og løbeskoling også være en genvej til hurtighed. I FC Köln har de gennem målrettet træning af disse parametre fundet en forbedring på 7-11% målt over korte, relevante sprintdistancer ganske vist med nogen træningsindsats (Sejerup). Desto mere alsidig træningen er ? især for ungdomsspillere ? desto bedre rustet er spillerne til at lære nye ting. Koordination kan defineres som evnen til at vælge blandt mange bevægelsesprogrammer (Dyhre-Poulsen 1985).
@@ -111,7 +140,7 @@ Vi opfordrer til at tænke lidt over, hvordan spillerne lærer på den mest hens
 Det ser imponerende ud, når afrikanske spillere varmer op i takt. Vi priser brasilianernes elegance og tilskriver den en udpræget sans for rytme. Men kun de færreste trænere tager fat i rytmen som et element i træningen.
 
 > Fodboldspilleren er strateg, han beregner sit spil ligesaavel som skakspilleren, men bare lynsnart. Men han har tillige den rytme i kroppen, som skal til for gennemførelsen af spillet. Det, der giver den gode sportsmand, er ikke muskler, det er først og fremmest fornemmelsen for rytmen i hans sport.
- 
+
 --- <cite>Steen Eiler Rasmussen</cite>
 
 Rytme er en flydende bevægelse i et mønster af spænding og afspænding mellem musklerne på det rigtige tidspunkt, en regelmæssig afveksling. En god rytme sørger for, at den enkelte koordinerer kroppens bevægelser så de udføres lettest muligt (Fredens 1989). På Vejle Idrætshøjskole forsøgte vi i "Brasilianske Fodboldrytmer" at få lidt af den sydlandske smidighed og løssluppenhed ind i eleverne.
@@ -124,7 +153,7 @@ For at blive en rigtig dygtig fodboldspiller er det væsentligt med en god balan
 
 Balancen trænes også individuelt i forskellige positioner med både åbne og lukkede øjne, og endelig kan den med lidt opfindsomhed trænes med bold. Mange trænere inkluderer behændighed og smidighed under en eller anden form i opvarmningen. Det være sig "lørdagsøvelsen", hvor spillerne placerer hænderne i siden, og hoften køres rundt, eller det kan være "møllen", hvor man med højre hånd rører venstre fod og omvendt. Også her kunne træneren med få midler gøre det hele lidt mere interessant. Træneren skal blot være opmærksom på, at det formentlig kræver lidt tilvænning hos spillerne. De færreste spillere tager skade af at prøve at stå på hovedet, at lave små brydekampe eller for den sags skyld kolbøtter. Det udvikler kropsfornemmelsen og stillingssansen.
 
-Dog er dog ikke hensigtsmæssigt at påbegynde disse aktiviteter dagen før en kamp. Det forsøgte træneren i AC Horsens sig med, og det resulterede i to hold i nakken til weekendens kamp. Det kræver tilvænning at følge med i trænerens lidt skøre indfald. Sjove styrkeøvelser kan også være en god måde at varme op på. Det skal naturligvis ikke være hård styrketræning, men fx sjove udfordrende makkerøvelser, som du fx kan finde hos go-motion.dk.
+Dog er dog ikke hensigtsmæssigt at påbegynde disse aktiviteter dagen før en kamp. Det forsøgte træneren i AC Horsens sig med, og det resulterede i to hold i nakken til weekendens kamp. Det kræver tilvænning at følge med i trænerens lidt skøre indfald. Sjove styrkeøvelser kan også være en god måde at varme op på. Det skal naturligvis ikke være hård styrketræning, men fx sjove udfordrende makkerøvelser.
 
 ## Kommunikation og udstråling i fodboldopvarmningen
 
@@ -148,7 +177,7 @@ Skriv dit navn, mens du løber fremad med bolden. Prøv at skrive det så småt,
 
 ### Italiensk opvarmning (koordination med redskaber)
 
-Italienerne er dygtige til koordination; træn det på italiensk i opvarmningen med en masse koordinationsøvelser. Opstil en koordinationsbane, hvor man skal løbe på forskellige måder igennem. fx med høje knæløft over kegler; drible gennem kegler med forskellige betingelser; jonglere mellem to kegler; lave balancer med bolden; hollænderhop mellem to kegler, hvor man springer frem på højre, et lille tilbagehop, springer frem på venstre, et lille tilbagehop og så fremdeles. Kig fx i _Koordinationstræning og løbeskoling_ (Sejerup, 2000) og sammensæt et godt italiensk opvarmningsprogram. Spillerne vil elske det
+Italienerne er dygtige til koordination; træn det på italiensk i opvarmningen med en masse koordinationsøvelser. Opstil en koordinationsbane, hvor man skal løbe på forskellige måder igennem. fx med høje knæløft over kegler; drible gennem kegler med forskellige betingelser; jonglere mellem to kegler; lave balancer med bolden; hollænderhop mellem to kegler, hvor man springer frem på højre, et lille tilbagehop, springer frem på venstre, et lille tilbagehop og så fremdeles. Kig fx i _Koordinationstræning og løbeskoling_ (Sejerup, 2000) og sammensæt et godt italiensk opvarmningsprogram. Spillerne vil elske det.
 
 ### Lynlåsen ([Schreiner](https://amzn.to/2UDpy85), 2000)
 
@@ -245,6 +274,15 @@ Løbe stille og roligt fremad med bolden på tæerne. Det er reaktionen der er v
 - To og to sammen, ryg mod ryg, én bold. Kan bruges som opvarmningsøvelse for ryggen. Skiftevis aflevere modtager bolden ved siden af hoften. Brug hænderne.
 - To og to sammen, ryg mod ryg, én bold. Kan bruges som opvarmningsøvelse for ryggen. Skiftevis aflevere modtager bolden op over hovedet og i mellem benene. Brug hænderne.
 
+### Balancetræning
+
+- Med åbne og lukkede øjne laves:
+- Det ene ben strækkes frem, mens det andet bøjes.
+- Det ene ben strækkes bagud, mens det andet bøjes.
+- Ned i knæ, op på tæer, stræk benene, hold balancen på tæerne. Forfra.
+- Balance med modsatte hånd og fod i græsset. Skift på trænerens signal.
+- Arbejd sammen to og to. Den ene lukker øjnene, den anden skal give vedkommende små lette, følte skub på brystet, skulderen, hoften, panden. Personen som bliver skubbet skal så hurtigt som muligt finde grundstillingen. Det betyder, at man skal være meget opmærksom på, hvilke muskler der er spændt og hvilke der er afslappet.
+
 ## Handlebane og teknikbane til opvarmning eller frikvarter i træningen
 
 Som et integreret frikvarter og teknisk øvelse kan en handlebane bruges. Rundt på en halv fodboldbane opstilles en slags forhindringsbane, hvor spilleren vil blive mødt med nogle opgaver. Træneren stiller sig et sted, hvor der vil blive arbejdet målrettet med et teknisk element, mens gennemløbet af resten af banen er forbundet med forskellige opgaver. Disse kan evt. annonceres på et skilt ved hver ny opgave.
@@ -252,6 +290,16 @@ Som et integreret frikvarter og teknisk øvelse kan en handlebane bruges. Rundt 
 Et eksempel kunne være, at man ønskede at arbejde med en bestemt dribling eller et bestemt skud på mål. Denne færdighed underviser træneren i et sted på banen, og resten af banen stilles op ud fra dette. På rundbanen kunne være nogle bestemte driblinger, man skal øve, bestemte sparkeformer, jongleringsformer etc. Jf. nedenstående eksempel:
 
 [<i class='far fa-file-pdf'></i> Download poster til handlebanen](/assets/pdf/handlebane-poster.pdf){: .btn .btn--large .btn--danger }
+
+## Retningslinjer for opvarmning
+
+- **Tidsudstrækning**: Mindst 10 minutter, men helst 15-20 minutter, for at legemstemperaturen kan nå at stige tilstrækkeligt.
+- **Påklædning**: Behold overtøjet på under opvarmningen.
+- **Form**: Aktiv opvarmning med dynamiske øvelser er at foretrække frem for passiv opvarmning i fx sauna eller varmt bad.
+- **Intensitet**: Start med lette øvelser, derefter stigende intensitet gennem programmet.
+- Alle muskelgrupper og led skal gennemarbejdes.
+- Lav øvelserne med 8-10 gentagelser uden pauser mellem øvelserne.
+- **Udstrækning**: Musklerne skal udspændes.
 
 ## Afslutning
 
