@@ -1,5 +1,6 @@
 ---
-title: &title "Styrketræning for fodboldspillere"
+title: &title "Styrketræning for fodboldspillere: Hvordan bliver du en stærkere fodboldspiller?"
+seo_title: "Styrketræning i fodbold: Hvordan bliver du stærkere?"
 permalink: /styrketraening-fodboldspillere/
 language: da
 header:
@@ -12,7 +13,7 @@ tags:
   - styrketræning
 last_modified_at: 2021-06-11T10:33:33Z
 ---
-Styrketræning for fodboldspillere er et rigtig stort emne. Her får du en basal indføring til, hvordan du kan gribe styrketræningen an.
+Styrketræning for fodboldspillere er et rigtig stort emne. Her får du en basal indføring til, hvordan du kan gribe styrketræningen an i forbindelse med fodbold.
 
 I forbindelse med dette afsnit er det nødvendigt for forståelsen lige at forklare enkelte momenter indenfor basal fysiologi.
 
