@@ -1,5 +1,5 @@
 ---
-title: &title "Fodboldøvelser for børn: Øvelser til 12-15 årige (U15)"
+title: &title "Fodboldøvelser for børn: Øvelser til 12-15 årige (U13, U14, U15, U16)"
 permalink: /fodboldovelser-12-15-aar/
 language: da
 header:
@@ -9,9 +9,10 @@ header:
 categories:
   - Fodboldøvelser
 tags:
-  - u8
-  - u9
-  - u10
+  - u13
+  - u14
+  - u15
+  - u16
 last_modified_at: 2021-06-11T10:33:33Z
 ---
 
@@ -780,3 +781,7 @@ tæller selvfølgelig også – men kun enkelt.
 ## Konklusion på fodboldøvelser til U12, U13 og U14 og U15
 
 Når du skal vælge fodboldøvelser til denne aldersgruppe, så husk at kigge på, hvad formålet med øvelsen er som det allerførste.
+
+Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).
+
+Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).

@@ -1,7 +1,7 @@
 ---
 layout: tag
-title: Feedback
-excerpt: "Fodboldens Legestue om feedback."
+title: Hvordan giver man feedback på bevægelser?
+excerpt: "Her får du nogle fif til, hvordan du kan give feedback i fodbold til dine spillere, når de skal lære tekniske færdigheder."
 permalink: /feedback/
 comments: false
 taxonomy: feedback
@@ -18,8 +18,14 @@ feature_row_thesis:
     title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
     excerpt: "Bogen besvarer følgende to spørgsmål: (1) Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? (2) Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?"
     url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
+    btn_label: "Køb hos Saxo"
+    btn_class: "btn--danger"
 ---
 
+Jeg har skrevet speciale om motorisk læring og kontrol, og hvordan man giver feedback ved motorisk læring. Altså hvad kan man sige til spillerne, når de er ved at lære tekniske færdigheder, så man understøtter deres læring og ikke spolerer deres læring.
+
+Du kan købe mit speciale som e-bog nedenfor hos Saxo.
+
 {% include feature_row id="feature_row_thesis" type="left" %}
+
+## Artikler om at give feedback i fodbold

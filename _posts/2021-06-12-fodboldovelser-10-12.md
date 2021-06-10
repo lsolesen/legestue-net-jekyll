@@ -1,5 +1,5 @@
 ---
-title: &title "Fodboldøvelser for børn: Øvelser til 10-12 årige (U12)"
+title: &title "Fodboldøvelser for børn: Øvelser til 10-12 årige (U11, U12, U13)"
 permalink: /fodboldovelser-10-12-aar/
 language: da
 header:
@@ -9,9 +9,10 @@ header:
 categories:
   - Fodboldøvelser
 tags:
-  - u8
-  - u9
   - u10
+  - u11
+  - u12
+  - u13
 last_modified_at: 2021-06-11T10:33:33Z
 ---
 
@@ -21,7 +22,9 @@ Når du skal vælge fodboldøvelser til din fodboldtræning, så husk først og 
 
 Når du har valgt en øvelse, så kan det sagtens være, at du skal tilrette den lidt for at få den til at passe nøjagtigt til de børn, du skal træne.
 
-Her kommer en lang liste med fodboldøvelser og til mange forskellige tekniske færdigheder inden for fodbold, som er målrettet mod di 10-12 årige spillere.
+Her kommer en lang liste med fodboldøvelser og til mange forskellige tekniske færdigheder inden for fodbold, som er målrettet mod de 10-12 årige spillere.
+
+Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U14, U15 og U16]({% link _posts/2021-06-12-fodboldovelser-13-15.md %}).
 
 ## Øvelser til indersidespark
 
@@ -540,3 +543,7 @@ afslutninger!
 ## Konklusion på fodboldøvelser til U10, U11 og U12
 
 Når du skal vælge fodboldøvelser til denne aldersgruppe, så husk at kigge på, hvad formålet med øvelsen er som det allerførste.
+
+Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U14, U15 og U16]({% link _posts/2021-06-12-fodboldovelser-13-15.md %}).
+
+Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).

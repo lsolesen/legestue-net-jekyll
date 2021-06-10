@@ -1,5 +1,5 @@
 ---
-title: &title "Fodboldøvelser for børn: Øvelser til 8-10 årige (U10)"
+title: &title "Fodboldøvelser for børn: Øvelser til 8-10 årige (U8, U9, U10, U11)"
 permalink: /fodboldovelser-8-10-aar/
 language: da
 header:
@@ -22,6 +22,8 @@ Når du skal vælge fodboldøvelser til din fodboldtræning, så husk først og 
 Når du har valgt en øvelse, så kan det sagtens være, at du skal tilrette den lidt for at få den til at passe nøjagtigt til de børn, du skal træne.
 
 Her kommer en langliste med fodboldøvelser og til mange forskellige tekniske færdigheder inden for fodbold.
+
+Hvis du er på udkig efter øvelser til lidt ældre spillere, så har jeg også skrevet følgende indlæg. [Find fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}) og [fodboldøvelser for U14, U15 og U16]({% link _posts/2021-06-12-fodboldovelser-13-15.md %}).
 
 ## Øvelser til indersidespark
 
@@ -529,3 +531,7 @@ ene hold har ’scoret’ 25 lave 1. berøringer. Der kan spilles med forskellig
 ## Konklusion på fodboldøvelser til U6, U7, U8, U9, U10
 
 Når du skal vælge fodboldøvelser til denne aldersgruppe, så husk at kigge på, hvad formålet med øvelsen er som det allerførste.
+
+Hvis du er på udkig efter øvelser til lidt ældre spillere, så har jeg også skrevet følgende indlæg. [Find fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}) og [fodboldøvelser for U14, U15 og U16]({% link _posts/2021-06-12-fodboldovelser-13-15.md %}).
+
+Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).

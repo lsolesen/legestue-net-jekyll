@@ -18,6 +18,10 @@ feature_row:
 toc: false
 ---
 
+Jeg har har skrevet Børnetræningsmanualen, hvor du kan lære mere om at træne børn i alderen 6-14 år. Der er masser af rigtig god information i hæftet, som du kan købe som en PDF, men jeg har også samlet rigtig meget af indholdet som indlæg her på sitet.
+
+Tjek artikeloversigten nedenunder.
+
 {% include feature_row type="left" %}
 
 ## Køb Børnetræningsmanualen som PDF
