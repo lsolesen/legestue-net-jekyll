@@ -102,6 +102,14 @@ Jeg har skrevet mere om [hvem der opfandt fodbold og fodboldens historie her]({%
 
 En bold kan have forskellig størrelse alt efter boldens lufttryk. Hvis du pumper din bold hårdt, så vil den have en lidt større omkreds end hvis der er mindre luft i bolden. Du skal huske at tjekke boldens bedste lufttryk.
 
+## Hvilken størrelse fodbold spiller kvinder med?
+
+Kvinder spiller med en almindelig størrelse 5 bold.
+
+{%- for size in page.soccer_sizes offset:4 -%}
+Kvinder bruger altså en **{{ size.title }}**, som er {{ size.circumference }} i omkreds og vejer {{ size.weight }}.
+{% endfor %}
+
 ## Select bruger stadig sit oprindelige design
 
 Select har lavet deres bold af 20 lædersekskanter og 12 læderfemkanter. Dette design giver ifølge Select den perfekt runde bold. Select er dansk og har markedsført denne bold siden 1962.
