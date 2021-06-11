@@ -84,6 +84,10 @@ Spillerne arbejder fra en cirkel ind mod midten og tilbage igen. Deres bevægels
 kan veksles med, at de ind mod midten laver øvelsen forlæns, mens de tilbage til
 udgangspunktet laver øvelsen baglæns.
 
+## Frem og tilbage med lynlås
+
+{% include video provider="youtube" id="YJCXGvLmYzs" %}
+
 ### Chassé eller sidestep
 
 I den afrikanske opvarmning bevæger vi os ofte med et chassé eller et sidestep. Et

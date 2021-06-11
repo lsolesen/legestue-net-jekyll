@@ -33,6 +33,8 @@ fodboldaerobic, fodboldrock’n’roll og teknik til musik:
 
 ## Fodboldaerobic
 
+{% include video provider="youtube" id="bPEr40_Q90o" %}
+
 Du har hjemmefra bestemt dig for nogle trin, som
 du synes spillerne skal lære. Du forsøger at sætte det
 sammen til musikken, og I laver sammen en lille serie.
@@ -102,6 +104,8 @@ rundt, mens rytmen holdes.
 
 ### Variationer til fodboldaerobic
 
+{% include video provider="youtube" id="JcbZ-J8_b1c" %}
+
 Her er nogle få variationer, du også kan prøve kræfter med. Du kan fx lave otte af en af
 basistrinene. Derefter kan du lave otte gentagelser af en af variationerne og slutte af
 med otte basistrin igen. Husk at lytte efter rytmen i musikken. Prøv fx en af følgende,
@@ -122,6 +126,10 @@ den lidt ud til siden med indersiden (som fristefinten).
 træd over med venstre ben indefra og udefter. Step bagved bolden som en kropsfinte
 med højre ben. Step bagved bolden med venstre ben... og forfra.
 Du kan også bruge mange af øvelserne under footwork sat sammen til musik.
+
+## Parøvelser i rytme til musik
+
+{% include video provider="youtube" id="dj1h_LHq3AA" %}
 
 ## Fodboldrock’n’roll
 
@@ -182,7 +190,7 @@ overskue at tænke på taktslagene i musikken.
 
 ## Konklusion på musik og fodbold
 
-Det var nogle forslag til, hvordan du kan bruge musik i fodobold. Jeg har skrevet endnu mere om [fodboldrytmer](/fodboldrytmer/), hvis du vil have mere inspiration til rytme i fodboldtræningen.
+Det var nogle forslag til, hvordan du kan bruge musik i fodbold. Jeg har skrevet endnu mere om [fodboldrytmer](/fodboldrytmer/), hvis du vil have mere inspiration til rytme i fodboldtræningen.
 
 Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).
 

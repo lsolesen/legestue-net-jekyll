@@ -151,9 +151,13 @@ Du kan også lave øvelsen, så spillerne dribler ind mod keglen i midten. De ka
 vending ved keglen eller lave en finte på vej derind. Med denne opstilling er der rigtig
 mange muligheder, og det ser flot og rytmisk ud, når øvelsen kører.
 
+## At gøre ting i takt
+
+{% include video provider="youtube" id="z-Cq9C3ncgc" %}
+
 ## Konklusion på teknik og rytme
 
-Det var nogle forslag til, hvordan du kan bruge musik i fodobold. Jeg har skrevet endnu mere om [fodboldrytmer](/fodboldrytmer/), hvis du vil have mere inspiration til rytme i fodboldtræningen.
+Det var nogle forslag til, hvordan du kan bruge teknik og rytme i fodbold. Jeg har skrevet endnu mere om [fodboldrytmer](/fodboldrytmer/), hvis du vil have mere inspiration til rytme i fodboldtræningen.
 
 Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).
 

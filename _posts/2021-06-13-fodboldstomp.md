@@ -69,6 +69,12 @@ gulv) falde ind.
 stilhed. Når gruppen begynder igen er det spændende at se, om rytmen stadig er der.
 Kunne gruppen under pausen fornemme rytmen i dem selv?
 
+## Tjek denne stomp ud med bolde
+
+Og i denne video kan du se, hvordan STOMP viser, hvordan du kan lave stomp med bolde:
+
+{% include video provider="youtube" id="wv4NeQm35SA" %}
+
 ## Andre forslag rytmer
 
 De følgende rytmer kører som den høje dribling – altså i samme niveau som en
@@ -101,10 +107,20 @@ Musiklærerforenings forlag i 2002.
 Heri kan du læse om stomp med
 flere instrumenter end boldene.
 
-## Konklusion på teknik og rytme
+## Eksempler på stomp med bold
 
-Det var nogle forslag til, hvordan du kan bruge musik i fodobold. Jeg har skrevet endnu mere om [fodboldrytmer](/fodboldrytmer/), hvis du vil have mere inspiration til rytme i fodboldtræningen.
+Stomp bliver ofte lavet med basketbolde, men du kan lave nogle af de samme ting med en fodbold. Her kan du se stomp med Harlem Globetrotters:
+
+{% include video provider="youtube" id="YhQwsw03yk" %}
+
+## Konklusion på stomp og fodbold
+
+Det var nogle forslag til, hvordan du kan bruge stomp i fodbold. Jeg har skrevet endnu mere om [fodboldrytmer](/fodboldrytmer/), hvis du vil have mere inspiration til rytme i fodboldtræningen.
 
 Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).
 
 Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).
+
+Jeg synes den her video er fed. Det er godt nok ikke rigtig stomp, men den hedder Stomp To My Beat og er lavet i forbindelse med i 2010.
+
+{% include video provider="youtube" id="VGEkMabO6no" %}
