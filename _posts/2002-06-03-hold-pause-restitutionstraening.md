@@ -101,7 +101,7 @@ Poul Hansen tror ikke på strækøvelser som en del af restitutionstræningen fo
 
 --- <cite>Poul Hansen 2000: 63</cite>
 
-Jeg er dog uenig i, at der ikke er beviser på, at [udstrækning virker for smidigheden](/udstraekning-udspaending/). Det er også meget sjældent at du kommer til en behandler, som ikke foreslår at øget mobilitet er en fordel.
+Jeg er dog uenig i, at der ikke er beviser på, at [udstrækning virker for smidigheden](https://www.motionsplan.dk/udstraekning-udspaending/). Det er også meget sjældent at du kommer til en behandler, som ikke foreslår at øget mobilitet er en fordel.
 
 Udstrækningsøvelser kan i hvert fald være med til at gøre kroppen vant til at være i flere forskellige positioner.
 

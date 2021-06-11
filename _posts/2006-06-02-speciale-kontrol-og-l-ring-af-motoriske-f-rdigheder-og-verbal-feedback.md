@@ -36,11 +36,11 @@ feature_row:
     url: "https://www.saxo.com/dk/motor-learning-and-performance_richard-a-schmidt_ukendt_9781492571186"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-  - image_path: https://imgcdn.saxo.com/_9781260084023/0x500
+  - image_path: https://imgcdn.saxo.com/_9781260570557/0x500
     alt: "Motor Learning and Control: Concepts and Applications"
     title: "Motor Learning and Control: Concepts and Applications"
     excerpt: "En af biblerne inden for motorisk læring og kontrol, som er løbende bliver revideret for at være _up to date_."
-    url: "https://www.saxo.com/dk/motor-learning-and-control-concepts-and-applications_richard-magill_paperback_9781260084023"
+    url: "https://www.saxo.com/dk/ise-motor-learning-and-control-concepts-and-applications_richard-magill_paperback_9781260570557"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 feature_row_thesis:

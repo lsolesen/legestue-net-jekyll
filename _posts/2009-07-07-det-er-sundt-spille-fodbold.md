@@ -27,7 +27,9 @@ Det er i sig selv ikke så overraskende, når man tager en gruppe utrænede og b
 
 Det er sandsynligvis de alsidige bevægelsesformer i fodbold, der gør udslaget.
 
-> I fodbold skubber du de tanker til side (tanker om at det er anstrengende, red.). Spillerne bliver opslugt af fodboldspillet og tænker ikke på om deres hjerte hamrer derudaf. Det er sjovt og holdet har brug for at alle arbejder, man bliver revet med og glemmer at det er hårdt. At det samtidig er god træning er en positiv sidegevinst, siger [Peter Krustrup fra Institut for Idræt](http://www.ifi.ku.dk/Forskning/projekter/integreret_fysiologi/pk_fodbold_maend/motionsfodbold/).
+> I fodbold skubber du de tanker til side (tanker om at det er anstrengende, red.). Spillerne bliver opslugt af fodboldspillet og tænker ikke på om deres hjerte hamrer derudaf. Det er sjovt og holdet har brug for at alle arbejder, man bliver revet med og glemmer at det er hårdt. At det samtidig er god træning er en positiv sidegevinst.
+
+--- <cite>[Peter Krustrup fra Institut for Idræt](https://www.folkeskolen.dk/48376/fodbold-er-sundere-end-loebetraening)</cite>
 
 Hvis fodboldspillerne i stedet var blevet sammenlignet med folk, der lavede noget mere udfordrende [løbetræning](http://motionsplan.dk/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb) eller noget [træning hvor man kombinerer løb og styrketræning](https://www.motionsplan.dk/artikel/bedste-kombination-af-loeb-og-styrketraening/) i samme træningsmængde, havde resultaterne nok ikke været så meget bedre.
 
