@@ -1,14 +1,12 @@
 ---
-layout: collection
+layout: single
 title: Fodboldrytmer
 seo_title: "Fodboldrytmer • 20+ videoer med rytme i opvarmningen »"
 excerpt: "Her beskriver vi afrikansk opvarmning, rytmisk opvarmning og fodboldrytmer, så du kan lave opvarmningen lidt mere spændende."
 permalink: /fodboldrytmer/
 comments: false
-collection: soccerrythms
 header:
   teaser: /assets/images/books/fodboldrytmer-2005.png
-entries_layout: grid
 classes: wide
 author_profile: true
 feature_row:
@@ -21,7 +19,9 @@ feature_row:
     #btn_class: "btn--success"
 ---
 
-Her kan du se nogle eksempler på afrikansk opvarmning. Hvis du vil læse mere om fodboldrytmer, kan du klikke dig rundt nedenunder.
+Her beskriver vi afrikansk opvarmning, rytmisk opvarmning og fodboldrytmer, så du kan lave opvarmningen lidt mere spændende.
+
+Hvis du vil læse mere om fodboldrytmer, kan du klikke dig rundt nedenunder.
 
 ## Rytmer og fodbold
 
@@ -162,6 +162,9 @@ gange, så spillerne får et lille pusterum, hvor indtrykkene kan lagre sig.
 
 ## Referencer
 
+<details markdown="1">
+  <summary>Referencer om fodboldrytmer</summary>
+
 - Kjeld Fredens (1989): ’Bevægelse, musikalitet og rytmesans:
 grundlaget for vores udvikling’,
 i: Krop og Sjæl, Mosegård
@@ -172,6 +175,8 @@ Steen Eiler Rasmussen: ’Michelangelo og fodbold’
 i: Essays gennem mange Aar, Gyldendal
 - Roger Spry
 http://eteamz.active.com/sites/fitness4soccer
-- Peter Thybo (1999): ’Rytmer - om menneskets bevægelseskoordination’
+- Peter Thybo (1999): ’[Rytmer - om menneskets bevægelseskoordination](http://www.birgitte-christensen.dk/artiklernye/artikler/rytmebev.htm)’
 Danske Fysioterapeuter nr. 22/1999
-(http://www.birgitte-christensen.dk/artiklernye/artikler/rytmebev.htm)
+</details>
+
+{% include paypal id="WTWGF2QGQLH7U" cta="Køb Fodboldrytmer 10 DKK" %}
