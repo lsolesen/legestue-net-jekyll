@@ -5,8 +5,11 @@ language: da
 header:
   overlay_image: /assets/images/maxresdefault.jpg
   teaser: /assets/images/maxresdefault.jpg
+categories:
+  - Fodboldrytmer
 tags:
   - fodboldrytmer
+  - opvarmning
 last_modified_at: 2013-01-02T13:43:52Z
 ---
 
@@ -53,6 +56,41 @@ Marc Tommy, som bl.a. træner UPE FCKs U15-hold, giver et lidt overraskende, men
 > aha, du mener "happy clappy". Det er godt for koordinationen, men jeg er mere tilhænger af, at man bruger bolden mere i opvarmningen inden en kamp, så spillerne får mere boldføling. Mange hold bruger faktisk kun "happy clappy", og de synes jeg ikke er rigtigt.
 
 Marc har fat i noget. Alle gode ting mister noget værdi, hvis de ikke bruges på den rigtige måde, eller de overdrives. Det er altså op til den træner, som gerne vil introducere rytmisk opvarmning for sine spillere, at finde en god balance. Men så er der også masser at smil at hente. Træneren skal dog samtidig være forberedt på, at spillerne måske i begyndelsen kan gøre lidt modstand, så længe tingene er lidt vanskelige at koordinere. Men Ronaldinho lærte jo heller ikke alle sine tricks på en dag.
+
+## Organisation af afrikansk opvarmning og fodboldrytmer
+
+Du kan organisere den afrikanske opvarmning på forskellige måder. I Afrika ser man
+den oftest praktiseret med spillerne på rækker, men cirkelorganisationen giver
+lejlighed til at nyde de andres udførelse af øvelserne.
+Når du laver øvelserne, kan det være en god ide at bruge stemmen som en del af
+øvelserne. Når man klapper på ydersiden, kan alle samtidig råbe yderside.
+
+### Rækkevis
+
+Der stilles fire kegler op. Rækkerne starter på indvendige side af de to første kegler
+og arbejder ned mod den anden ende markeret af to kegler. Når spillerne når til disse
+kegler, vender de om ved at løbe rundt om keglen og løbe ned igen på udvendige side.
+Ved de lettere øvelser laver spillerne bare øvelsen begge veje. Ved hurtigere øvelser
+slapper spillerne af på vej tilbage.
+
+Når spillerne står rækkevis, kan du vælge at arbejde modsat spillerne, så de kan
+se, hvornår I starter. Hvis du arbejder modsat spillerne skal du huske at gøre det
+spejlvendt, ellers kan det blive vanskeligt for spillerne at omsætte dine bevægelser og
+vende dem om inden i hovedet.
+
+### Cirkelorganisation
+
+Spillerne arbejder fra en cirkel ind mod midten og tilbage igen. Deres bevægelser
+kan veksles med, at de ind mod midten laver øvelsen forlæns, mens de tilbage til
+udgangspunktet laver øvelsen baglæns.
+
+### Chassé eller sidestep
+
+I den afrikanske opvarmning bevæger vi os ofte med et chassé eller et sidestep. Et
+chassé er når du tager et skridt til siden, samler benene og tager endnu et skridt til
+siden. Det er faktisk det samme, som når man laver sidestep fremad. Denne måde at
+bevæge sig på bruges meget inden for gymnastik og dans, og den er også flittigt brugt
+i afrikansk opvarmning.
 
 ## Lav selv afrikansk opvarmning
 
