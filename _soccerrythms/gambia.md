@@ -9,4 +9,5 @@ tags:
 last_modified_at: 2013-02-15T09:47:03Z
 ---
 
-
+Hop frem med samlede fødder. Drej højre fod udad. Klap på højre yderside.
+Hop fremad igen. Drej venstre fod udad og klap på venstre yderside.

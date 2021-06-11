@@ -9,4 +9,5 @@ tags:
 last_modified_at: 2014-04-08T06:54:35Z
 ---
 
-
+Samme som ovenstående. Men i stedet for at føre benet udad, fører du det
+udefra og indad. På den måde skal du lave chassé-trinet lidt mere fremadrettet.

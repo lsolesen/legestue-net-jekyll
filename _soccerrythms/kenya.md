@@ -9,4 +9,6 @@ tags:
 last_modified_at: 2013-02-15T09:47:38Z
 ---
 
-
+Små gadedrengehop fremad. Armene føres samtidig tilbage med den ene arm
+over hovedet og den anden arm nede langs siden. Næste gang skifter armene position.
+Derefter klappes tre gange hurtigt efter hinanden.
