@@ -122,7 +122,7 @@ gallery_ads:
     rel: sponsored
 ---
 
-På [Saxo\*](https://www.saxo.com/){ rel="sponsored nofollow noopener" } kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
+På [Saxo\*](https://www.saxo.com/){: rel="sponsored nofollow noopener" } kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
 
 {% include feature_row type="left" %}
 

@@ -26,7 +26,7 @@ feature_row:
     rel: sponsored
 sidebar:
   - text: >
-      <div id="ezoic-pub-ad-placeholder-121" markdown="1">[![](https://imgcdn.saxo.com/_9788777497711/0x500)](https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711){ rel="sponsored nofollow noopener" }</div>
+      <div id="ezoic-pub-ad-placeholder-121" markdown="1">[![](https://imgcdn.saxo.com/_9788777497711/0x500)](https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711){: rel="sponsored nofollow noopener" }</div>
 toc: true
 ---
 

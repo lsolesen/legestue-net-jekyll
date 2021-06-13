@@ -156,4 +156,4 @@ Alle mand står op. Der spilles med maksimalt to berøringer. Der er en i midten
 
 ## Referencer
 
-- Hansen, Poul: [Fra Ulkebøl til Superligaen](https://www.saxo.com/dk/fra-ulkeboel-til-superligaen_poul-hansen_haeftet_9788711114278){ rel='sponsored nofollow noopener' }, Aschehoug 2000.
+- Hansen, Poul: [Fra Ulkebøl til Superligaen](https://www.saxo.com/dk/fra-ulkeboel-til-superligaen_poul-hansen_haeftet_9788711114278){: rel='sponsored nofollow noopener' }, Aschehoug 2000.

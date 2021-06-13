@@ -52,7 +52,7 @@ Børn er ikke små voksne og skal trænes som børn
 
 **Vil du vide mere**
 
-Du kan læse mere om børns udvikling i [Aldersrelateret Træning](https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012){ rel="sponsored nofollow noopener" } (Pryce, 2005) eller i [Leg, læring og mestring](https://www.saxo.com/dk/leg-laering-og-mestring_freddy-lund-joergensen_paperback_9788776910570){ rel="sponsored nofollow noopener" } (Jørgensen, 2006).
+Du kan læse mere om børns udvikling i [Aldersrelateret Træning](https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012){: rel="sponsored nofollow noopener" } (Pryce, 2005) eller i [Leg, læring og mestring](https://www.saxo.com/dk/leg-laering-og-mestring_freddy-lund-joergensen_paperback_9788776910570){: rel="sponsored nofollow noopener" } (Jørgensen, 2006).
 
 {% include feature_row id="feature_row_aldersrelateret" type="left" %}
 

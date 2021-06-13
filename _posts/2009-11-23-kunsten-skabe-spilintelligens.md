@@ -38,4 +38,4 @@ En god øvelse, jeg vil anbefale, er 1:1 eller 2:2 med fire stationære bander i
 
 {% include feature_row type="left" %}
 
-[Se flere bøger om spilintelligens på Saxo\*](https://www.saxo.com/dk/products/search?query=spilintelligens){ rel="sponsored nofollow noopener" }
+[Se flere bøger om spilintelligens på Saxo\*](https://www.saxo.com/dk/products/search?query=spilintelligens){: rel="sponsored nofollow noopener" }
