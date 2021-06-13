@@ -131,12 +131,14 @@ På [Saxo\*](https://www.saxo.com/) kan du finde mange bøger om fodbold og fodb
 
 {% include gallery layout="quarter" %}
 
-## Samarbejdspartnere
-
-{% include gallery id="gallery_ads" %}
-
 ## Kan du lide vores arbejde?`
 
 Du kan jo overveje at forære os en kop kaffe, så vi har noget at drikke, mens vi laver mere indhold til inspiration.
 
 {% include buymeacoffee.html %}
+
+<div id="ezoic-pub-ad-placeholder-123" markdown="1">
+## Samarbejdspartnere (reklamelinks)
+
+{% include gallery id="gallery_ads" %}
+</div>
