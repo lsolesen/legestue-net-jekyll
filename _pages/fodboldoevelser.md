@@ -52,7 +52,6 @@ Jeg har udvalgt en række fodboldøvelser, som du kan bruge til at træne forsva
 
 [Find øvelser til forsvar og forsvarsspil]({% link _posts/2021-06-15-forsvarsovelser.md %})
 
-
 ## Artikler med fodboldøvelser og fodboldtræning til børn
 
 {% assign site_posts = site.posts | where: "categories", "Fodboldøvelser" | sort: "date" %}
