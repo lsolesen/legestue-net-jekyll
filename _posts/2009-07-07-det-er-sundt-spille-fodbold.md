@@ -17,6 +17,7 @@ feature_row:
     url: "https://www.saxo.com/dk/boldspil-for-livet_peter-rejkjaer-krustrupjens-bangsbo_haeftet_9788771189759"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 ---
 
 Det er efterhånden ved at være gamle nyheder, men det er alligevel værd at nævne igen. Det er sundt at spille fodbold. [Institut for Idræt i København har undersøgt motionsfodbolds effekt på sundheden](http://www.ifi.ku.dk/)

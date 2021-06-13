@@ -29,6 +29,7 @@ gallery:
     image_path: /assets/images/cover.jpg
     alt: "Bevægelser og verbal feedback"
     title: "Bevægelser og verbal feedback"
+    rel: sponsored
   - url: /champions-league/
     image_path: /assets/images/books/championsleague.png
     alt: Champions League

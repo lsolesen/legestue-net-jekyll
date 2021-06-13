@@ -12,6 +12,7 @@ feature_row_thesis:
     url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
 gallery:
   - url: /fodboldtricks/
     image_path: /assets/images/books/tricks-2020.png
@@ -34,6 +35,7 @@ gallery:
     alt: "Fodboldens Minihjælper"
     title: "Fodboldens Minihjælper"
   - url: https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378
+    rel: sponsored
     image_path: /assets/images/cover.jpg
     alt: "Bevægelser og verbal feedback"
     title: "Bevægelser og verbal feedback"

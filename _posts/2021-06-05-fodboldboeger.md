@@ -39,6 +39,7 @@ feature_row:
     alt: Kontrol og læring af motoriske færdigheder og verbal feedback
     btn_label: Tjek prisen hos Bod*
     btn_class: btn--danger
+    rel: sponsored
   - image_path: https://imgcdn.saxo.com/_9788702192087/0x500
     alt: "Når talent forpligter"
     title: "Når talent forpligter"
@@ -46,6 +47,7 @@ feature_row:
     url: "https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://imgcdn.saxo.com/_9788777497711/0x500
     alt: "Motivation - nå i mål med din træning!"
     title: "Motivation - nå i mål med din træning!"
@@ -53,6 +55,7 @@ feature_row:
     url: "https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 ---
 
 Kender du nogle gode fodboldhistorier, facts om fodbold og fodboldlegenderne? Der er masser af rigtig gode bøger om fodbold. Jeg har samlet en liste med de bedste fodboldbøger, så du kan lære mere om fodboldhistorien.
@@ -69,7 +72,7 @@ Men først kigger vi lige på fodboldbøger til børn.
 
 ### Peter Pedal spiller fodbold
 
-{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/p/e/peter-pedal-spiller-fodbold_385088.jpg&w=200" class="align-right" caption="Køb Peter Pedal spiller fodbold hos [Gucca*](https://www.gucca.dk/peter-pedal-spiller-fodbold-bog-p385088)" %}
+{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/p/e/peter-pedal-spiller-fodbold_385088.jpg&w=200" class="align-right" caption="Køb Peter Pedal spiller fodbold hos [Gucca*](https://www.gucca.dk/peter-pedal-spiller-fodbold-bog-p385088){ rel='sponsored nofollow noopener' }" %}
 
 Pixibøger med Peter Pedal er virkelig nogle af mine favoritter at læse højt for min piger, da de var fra 2-6 år.
 
@@ -81,7 +84,7 @@ Det gode ved Pixibøger med Peter Pedal er, at det jo ikke er en bog, der bare s
 
 ## Læs med landsholdet
 
-{% include gallery id="gallery_landsholdet" caption="Hele serien med Læs med landsholdet kan købes hos [Gucca*](https://www.gucca.dk/soegning/L%25C3%25A6s+Med+Landsholdet)." %}
+{% include gallery id="gallery_landsholdet" caption="Hele serien med Læs med landsholdet kan købes hos [Gucca*](https://www.gucca.dk/soegning/L%25C3%25A6s+Med+Landsholdet){ rel='sponsored nofollow noopener' }." %}
 
 _Læs med Landsholdet_ er en serie bøger, der er lavet i samarbejde med DBU. De handler om de største danske fodboldstjerner - og du kan både læse om spillerne fra Herrelandsholdet og Kvindelandsholdet.
 
@@ -93,7 +96,7 @@ Bøgerne indholder en række fede fodboldbilleder, og der er masser af historier
 
 Bækager Boldklub er en skør og skæv serie om at kæmpe for noget, selvom man måske er vildt dårlig til det. Serien består af fem bøger, og de er virkelig sjove.
 
-{% include gallery id="gallery_baekager" caption="Du kan købe hele serien med Bækager Boldklub hos [Gucca*](https://www.gucca.dk/soegning/B%25C3%25A6kager+Boldklub)" %}
+{% include gallery id="gallery_baekager" caption="Du kan købe hele serien med Bækager Boldklub hos [Gucca*](https://www.gucca.dk/soegning/B%25C3%25A6kager+Boldklub){ rel='sponsored nofollow noopener' }" %}
 
 Bøgerne handler først og fremmest om venner og sammenhold.
 
@@ -105,7 +108,7 @@ Du behøver ikke at være fan af fodbold, for at læse denne serie, for du grine
 
 ### EM 2021 – Bogen med landsholdet
 
-{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/e/m/em-2020-den-store-bog-med-fodboldlandsholdet_472855.jpg&w=200" class="align-right" caption="Køb EM 2021 – Bogen med landsholdet hos [Gucca*](https://www.gucca.dk/em-2021-bogen-med-landsholdet-bog-p472855)" %}
+{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/e/m/em-2020-den-store-bog-med-fodboldlandsholdet_472855.jpg&w=200" class="align-right" caption="Køb EM 2021 – Bogen med landsholdet hos [Gucca*](https://www.gucca.dk/em-2021-bogen-med-landsholdet-bog-p472855){ rel='sponsored nofollow noopener' }" %}
 
 EM 2021 - Bogen om landsholdet - forbereder dig til EM-slutrunden 2021. Bogen egner sig nok bedst for de 8-14 årige.
 
@@ -119,7 +122,7 @@ Der er naturligvis også en quiz, fede billeder og masser af historier. Hvis jeg
 
 ### Verdens 100 bedste fodboldspillere 2020
 
-{% include figure image_path="//images.weserv.nl/?url=https://imgcdn.saxo.com/_9788711985038/0x500&w=200" class="align-right" caption="Verdens 100 bedste fodboldspillere 2020 hos [Saxo*](https://www.saxo.com/dk/verdens-100-bedste-fodboldspillere_carsten-wergeper-frimann_indbundet_9788711985038)" %}
+{% include figure image_path="//images.weserv.nl/?url=https://imgcdn.saxo.com/_9788711985038/0x500&w=200" class="align-right" caption="Verdens 100 bedste fodboldspillere 2020 hos [Saxo*](https://www.saxo.com/dk/verdens-100-bedste-fodboldspillere_carsten-wergeper-frimann_indbundet_9788711985038){ rel='sponsored nofollow noopener' }" %}
 
 Hvem var de 100 bedste fodboldspillere i 2020?
 
@@ -131,7 +134,7 @@ Er nr. 1 igen en forsvarsspiller? Er Messi og Ronaldo stadigvæk i top 3? Hvor m
 
 ### Mirakelmageren - om Richard Møller Nielsen
 
-{% include figure image_path="//images.weserv.nl/?url=https://imgcdn.saxo.com/_9788771417425/0x500&w=200" class="align-right" caption="Køb Mirakelmageren hos [Saxo*](https://www.saxo.com/dk/mirakelmageren_nils-finderupmartin-davidsen_indbundet_9788771417425)" %}
+{% include figure image_path="//images.weserv.nl/?url=https://imgcdn.saxo.com/_9788771417425/0x500&w=200" class="align-right" caption="Køb Mirakelmageren hos [Saxo*](https://www.saxo.com/dk/mirakelmageren_nils-finderupmartin-davidsen_indbundet_9788771417425){ rel='sponsored nofollow noopener' }" %}
 
 Richard Møller Nielsen var en dansk fodboldspiller og -træner. Han begyndte sin karriere som fodboldspiller i OB, og spillede for Danmark to landskampe i henholdsvis 1959 og 1961.
 
@@ -141,7 +144,7 @@ Kort efter den seneste kamp måtte han indstille karrieren på grund af en skade
 
 ### Min største kamp
 
-{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/m/i/min-stoerste-kamp_440492.jpg&w=200" class="align-right" caption="Køb Min største kamp hos [Gucca*](https://www.gucca.dk/min-stoerste-kamp-bog-p440492)" %}
+{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/m/i/min-stoerste-kamp_440492.jpg&w=200" class="align-right" caption="Køb Min største kamp hos [Gucca*](https://www.gucca.dk/min-stoerste-kamp-bog-p440492){ rel='sponsored nofollow noopener' }" %}
 
 Min største kamp er flere generationer af danske fodboldstjerners egne øjenvidneberetninger om deres største kamp. Aldrig før har så mange fodboldstjerner – fra Brian Laudrup, Peter Schmeichel og Jon Dahl Tomasson til Kasper Schmeichel, Christian Eriksen, Nadia Nadim og mange flere –optrådt i en bog sammen. Alle fortæller de her om deres absolut største fodboldøjeblik.
 
@@ -149,7 +152,7 @@ Læs fx om Christian Eriksens sparketræning inden hattrickkampen mod Irland i 2
 
 ### Det er genialt, det der
 
-{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/d/e/det-er-genialt-det-der_488271.jpg&w=200" class="align-right" caption="Køb _Det er genialt, det der_ hos [Gucca*](https://www.gucca.dk/det-er-genialt-det-der-bog-p488271)" %}
+{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/d/e/det-er-genialt-det-der_488271.jpg&w=200" class="align-right" caption="Køb _Det er genialt, det der_ hos [Gucca*](https://www.gucca.dk/det-er-genialt-det-der-bog-p488271){ rel='sponsored nofollow noopener' }" %}
 
 Det er genialt, det der De største kampe, stadioner og stjerner af Carsten Werge & Svend Gehrs & Flemming Toft
 
@@ -159,7 +162,7 @@ I Det er genialt, det der fortæller Svend Gehrs, Flemming Toft og Carsten Werge
 
 ### Miraklet i Madrid - om OBs sejr over Real Madrid
 
-{% include figure image_path="//images.weserv.nl/?url=https://imgcdn.saxo.com/_9788793782020/0x500&w=200" class="align-right" caption="Køb Miraklet i Madrid hos [Saxo*](https://www.saxo.com/dk/miraklet-i-madrid_martin-davidsen_haeftet_9788793782020)" %}
+{% include figure image_path="//images.weserv.nl/?url=https://imgcdn.saxo.com/_9788793782020/0x500&w=200" class="align-right" caption="Køb Miraklet i Madrid hos [Saxo*](https://www.saxo.com/dk/miraklet-i-madrid_martin-davidsen_haeftet_9788793782020){ rel='sponsored nofollow noopener' }" %}
 
 Martin Davidsen har skrevet historien om dansk klubfodbolds største bedrift. Bogen handler om dengang Odense Boldklub eller OB spillede europæisk fodbold mod mægtige Real Madrid.
 
@@ -171,7 +174,7 @@ Hvis du godt kan lide at læse en god biografi om fodboldspillere, så kan jeg v
 
 ### Jagten på frihed - om William Kvist
 
-{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/j/a/jagten-paa-frihed_448891.jpg&w=200" class="align-right" caption="Køb Jagten på frihed hos [Gucca*](https://www.gucca.dk/jagten-paa-frihed-bog-p448891)" %}
+{% include figure image_path="//images.weserv.nl/?url=https://content.gucca.dk/covers/big/j/a/jagten-paa-frihed_448891.jpg&w=200" class="align-right" caption="Køb Jagten på frihed hos [Gucca*](https://www.gucca.dk/jagten-paa-frihed-bog-p448891){ rel='sponsored nofollow noopener' }" %}
 
 Jagten på frihed er William Kvists åbenhjertige beretning om livet på fodboldens førsteklasse på godt og ondt.
 

@@ -20,6 +20,7 @@ feature_row_thesis:
     url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Køb hos Saxo"
     btn_class: "btn--danger"
+    rel: sponsored
 ---
 
 Jeg har skrevet speciale om motorisk læring og kontrol, og hvordan man giver feedback ved motorisk læring. Altså hvad kan man sige til spillerne, når de er ved at lære tekniske færdigheder, så man understøtter deres læring og ikke spolerer deres læring.

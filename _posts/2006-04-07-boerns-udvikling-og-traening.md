@@ -1,5 +1,5 @@
 ---
-title: "Børns udvikling og fodboldtræning"
+title: "Børns udvikling og fodboldtræning for børn og unge"
 permalink: /boerns-udvikling-og-traening/
 language: da
 header:
@@ -11,7 +11,7 @@ categories:
 tags:
   - Børnetræningsmanual 2006
   - børns udvikling
-last_modified_at: 2015-04-07T15:16:02Z
+last_modified_at: 2021-06-07T15:16:02Z
 toc: true
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780736069489/0x500
@@ -21,6 +21,7 @@ feature_row:
     url: "https://www.saxo.com/dk/developing-youth-football-players_horst-wein_paperback_9780736069489"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 feature_row_aldersrelateret:
   - image_path: https://imgcdn.saxo.com/_9788798388012/0x500
     alt: "Aldersrelateret træning - målrettet og forsvarlig træning af børn og unge"
@@ -29,6 +30,7 @@ feature_row_aldersrelateret:
     url: "https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://imgcdn.saxo.com/_9788776910570/0x500
     alt: "Leg, læring og mestring - Fodboldtræning af de 5–10 årige. En fodboldbog med overvejelser, ideer og holdninger"
     title: "Leg, læring og mestring - Fodboldtræning af de 5–10 årige. En fodboldbog med overvejelser, ideer og holdninger"
@@ -36,6 +38,7 @@ feature_row_aldersrelateret:
     url: "https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 ---
 
 I dette kapitel skitseres nogle af de væsentligste udviklingstræk for børn og unge i alderen 5-15 år. Hver enkelt aldersgruppe har nogle generelle kendetegn, men alle børn er unikke og forskellige, og derfor er aldersgrupperne også kun tommelfingerregler for, hvornår børnene er på de forskellige udviklingstrin.
@@ -49,15 +52,17 @@ Børn er ikke små voksne og skal trænes som børn
 
 **Vil du vide mere**
 
-Du kan læse mere om børns udvikling i [Aldersrelateret Træning](https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012) (Pryce, 2005) eller i [Leg, læring og mestring](https://www.saxo.com/dk/leg-laering-og-mestring_freddy-lund-joergensen_paperback_9788776910570) (Jørgensen, 2006).
+Du kan læse mere om børns udvikling i [Aldersrelateret Træning](https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012){ rel="sponsored nofollow noopener" } (Pryce, 2005) eller i [Leg, læring og mestring](https://www.saxo.com/dk/leg-laering-og-mestring_freddy-lund-joergensen_paperback_9788776910570){ rel="sponsored nofollow noopener" } (Jørgensen, 2006).
 
 {% include feature_row id="feature_row_aldersrelateret" type="left" %}
 
-## Fysisk udvikling
+## Fysisk udvikling for børn og unge
 
 ### Selektion
 
-Børn og unges vækst sætter ind på forskellige tidspunkter i deres liv. Det betyder, at børns faktiske alder ikke nødvendigvis er sammenfaldende med deres biologiske alder. Træneren skal være opmærksom på, at idrætsudøverens fysiske og fysiologiske profil påvirker ydeevnen og derved præstationen. Det er vigtigt, at træneren er opmærksom på, hvilket udviklingstrin de unge idrætsudøvere befinder sig på, så talentidentifikationen tager højde for, at nogle spillere er senere udviklet end andre spillere (Damsgaard, 2005; Bordinggaard, 2005).
+Børn og unges vækst sætter ind på forskellige tidspunkter i deres liv. Det betyder, at børns faktiske alder ikke nødvendigvis er sammenfaldende med deres biologiske alder. Træneren skal være opmærksom på, at idrætsudøverens fysiske og fysiologiske profil påvirker ydeevnen og derved præstationen.
+
+Det er vigtigt, at træneren er opmærksom på, hvilket udviklingstrin de unge idrætsudøvere befinder sig på, så talentidentifikationen tager højde for, at nogle spillere er senere udviklet end andre spillere (Damsgaard, 2005; Bordinggaard, 2005).
 
 Selektion bør vente Børn udvikler sig i forskelligt tempo. Selektion af spillere bør derfor vente så længe som muligt. 
 {: notice-info }
@@ -66,27 +71,33 @@ Selektion bør vente Børn udvikler sig i forskelligt tempo. Selektion af spille
 
 Børnenes vækst og modning er i vid udstrækning arveligt betinget, og børns deltagelse i idræt ændrer ikke ved deres vækst og modning, selv ikke ved intensiv træning. Kroppens proportioner ændres heller ikke af hård træning. (Damsgaard, 2005).
 
-### Pubertetsudvikling
+### Pubertetsudvikling for drenge og piger
 
-Pigernes pubertet både begynder og slutter generelt et par år før drengene. Det er især kønshormonerne, der styrer pubertetsudviklingen. Pigerne begynder at danne mere østrogen, mens drengene begynder at danne mere testosteron. Stigningen i østrogenniveauet for kvinderne er nødvendigt for modningen af kvindens kønsorganer og ægløsningen. Testosteron har betydning for sædproduktionen, skægvækst og muskeltilvækst; faktisk er testosteronniveauet omkring 20 gange højere efter pubertetens indtræden end før (Klarlund Pedersen, 2005).
+Pigernes pubertet både begynder og slutter generelt et par år før drengene. Det er især kønshormonerne, der styrer pubertetsudviklingen. Pigerne begynder at danne mere østrogen, mens drengene begynder at danne mere testosteron. Stigningen i østrogenniveauet for kvinderne er nødvendigt for modningen af kvindens kønsorganer og ægløsningen.
 
-### Højdetilvækst
+Testosteron har betydning for sædproduktionen, skægvækst og muskeltilvækst; faktisk er testosteronniveauet omkring 20 gange højere efter pubertetens indtræden end før (Klarlund Pedersen, 2005).
+
+### Højdetilvækst for børn
 
 Piger og drenges vækstmønster ligner hinanden indtil vækstspurten sætter ind i puberteten. Pigernes vækstspurt ligger gennemsnitlig to år før drengene. 
 
 I forbindelse med vækstspurten er den motoriske præstationsevne hos nogle børn (mindre end 30%) forstyrret i op mod et halvt år i det der ofte kaldes lemmedaskerperioden (Damsgaard, 2005).
 
-### Kropssammensætning og muskelstyrke 
+### Kropssammensætning og muskelstyrke for børn og unge
 
-I puberteten begynder drenge og piger at udvikle sig forskelligt. Hormonet østrogen bevirker, at pigerne får mere fedt på kroppen. Testosteronen hos drengene fremmer derimod muskelvæksten. Evnen til at producere kraft er knyttet til muskelmassen. Det betyder, at drengene fra puberteten bliver stærkere end piger. Men det har også stor betydning, hvor mange muskelfibre man formår at aktivere, når man laver en bevægelse. At aktivere alle muskelfibrene kræver træning.
+I puberteten begynder drenge og piger at udvikle sig forskelligt. Hormonet østrogen bevirker, at pigerne får mere fedt på kroppen. Testosteronen hos drengene fremmer derimod muskelvæksten. Evnen til at producere kraft er knyttet til muskelmassen.
 
-### Skelettet
+Det betyder, at drengene fra puberteten bliver stærkere end piger. Men det har også stor betydning, hvor mange muskelfibre man formår at aktivere, når man laver en bevægelse. At aktivere alle muskelfibrene kræver træning.
+
+### Skelettets udvikling
 
 Børns skelet er blødere og mere bøjeligt end voksnes. Almindelig og alsidig træning skader ikke skelettet, men faktisk er træning med til at øge knogletætheden. Knoglebrud tæt på vækstzonerne kan være skadelige for væksten. Derfor bør børn altid spille med benskinner, og de skal opfordres til at tage hensyn til hinanden, selvom de meget gerne må gå til den.
 
-## Motorisk udvikling
+## Motorisk udvikling for børn
 
-Den motoriske udvikling er aldersrelateret, men den er ikke aldersdetermineret. Så selvom der eksisterer en forudsigelig udvikling, kan vi ikke bruge et skema til at bedømme barnet. Det hænger sammen med, at alle børn har deres eget udviklingsmønster og væksthastighed. Det er således ikke muligt at identificere nøjagtigt det tidspunkt, hvor barnet er mest modtagelig for at lære nye bevægelser. Generelt kan man sige, at alderen 8-12 år er en meget vigtig periode i børns motoriske udvikling (Damsgaard, 2005). Denne aldersgruppe kaldes ofte guldalderen.
+Den motoriske udvikling er aldersrelateret, men den er ikke aldersdetermineret. Så selvom der eksisterer en forudsigelig udvikling, kan vi ikke bruge et skema til at bedømme barnet. Det hænger sammen med, at alle børn har deres eget udviklingsmønster og væksthastighed.
+
+Det er således ikke muligt at identificere nøjagtigt det tidspunkt, hvor barnet er mest modtagelig for at lære nye bevægelser. Generelt kan man sige, at alderen 8-12 år er en meget vigtig periode i børns motoriske udvikling (Damsgaard, 2005). Denne aldersgruppe kaldes ofte guldalderen.
 
 ### 5-8 år
 
@@ -112,15 +123,19 @@ Perceptionen er først udviklet 11-12 årsalderen (Jørgensen, 2006). Yngre bør
 
 ![Perceptionscirklen](/assets/images/perceptionscirklen.png)
 
-## Kondition
+## Børns kondition
 
-Børn og unge bør ikke lave øvelser, som kun har til formål at forbedre deres kondition. Kondition er et mål for, hvor stor en iltoptagelse spilleren har pr. kg kropsvægt. De får tilstrækkelig træningseffekt ved blot at spille, evt. med betingelser om at alle skal være over midten, når der scores, hvorved børnene kommer til at løbe lidt mere. Børn og unge kan forbedre deres aerobe ydeevne (altså evnen til at arbejde med ilt over længere tid). Forbedringerne er dog kun små i den maksimale iltoptagelse. Til gengæld forøger børn der træner formentlig deres bevægelsesøkonomi, så nyttevirkningen af deres arbejde bliver bedre i forhold til kammerater, der ikke træner (Rowland, 2005). Tiden er imidlertid bedre brugt på aktiviteter, hvor de også forbedre deres kropsbeherskelse, teknik og spilopfattelse.
+Børn og unge bør ikke lave øvelser, som kun har til formål at forbedre deres kondition. Kondition er et mål for, hvor stor en iltoptagelse spilleren har pr. kg kropsvægt. De får tilstrækkelig træningseffekt ved blot at spille, evt. med betingelser om at alle skal være over midten, når der scores, hvorved børnene kommer til at løbe lidt mere.
+
+Børn og unge kan forbedre deres aerobe ydeevne (altså evnen til at arbejde med ilt over længere tid). Forbedringerne er dog kun små i den maksimale iltoptagelse. Til gengæld forøger børn der træner formentlig deres bevægelsesøkonomi, så nyttevirkningen af deres arbejde bliver bedre i forhold til kammerater, der ikke træner (Rowland, 2005). Tiden er imidlertid bedre brugt på aktiviteter, hvor de også forbedre deres kropsbeherskelse, teknik og spilopfattelse.
 
 ## Kortvarige eksplosive aktiviteter
 
-Noget tyder på at børn er dårligere end voksne til at danne energi, når der ikke er ilt til stede. Der kan ikke på baggrund af undersøgelser siges meget om trænérbarheden af den anaerobe præstationsevne (Damsgaard, 2005). Træningen må meget gerne indeholde øvelser, hvor spillerne når op på maksimal hastighed eller springer. Da børn godt kan forbedre sig ved styrketræning, er det sandsynligt, at maksimale aktiviteter som sprint og spring også kan forbedre deres præstationsevne, fordi nervesystemet optimerer udnyttelsen af hele musklens kapacitet (Rowland, 2005). Øvelser hvor spillerne danner mælkesyre bør undgås.
+Noget tyder på at børn er dårligere end voksne til at danne energi, når der ikke er ilt til stede. Der kan ikke på baggrund af undersøgelser siges meget om trænérbarheden af den anaerobe præstationsevne (Damsgaard, 2005). Træningen må meget gerne indeholde øvelser, hvor spillerne når op på maksimal hastighed eller springer.
 
-## Udspænding
+Da børn godt kan forbedre sig ved styrketræning, er det sandsynligt, at maksimale aktiviteter som sprint og spring også kan forbedre deres præstationsevne, fordi nervesystemet optimerer udnyttelsen af hele musklens kapacitet (Rowland, 2005). Øvelser hvor spillerne danner mælkesyre bør undgås.
+
+## Udspænding for børn
 
 Der er efterhånden sagt så meget om udspænding, at man næsten ikke kan nå gulvet længere. I det følgende forsøger vi at opsummere, hvad gældende forskning siger om udspænding:
 
@@ -139,7 +154,9 @@ Der er efterhånden sagt så meget om udspænding, at man næsten ikke kan nå g
 
 - styrken og hastigheden for kraftudvikling (rate of force development) i op til en time efter udspænding (Critchell, 2002)
 
-Undersøgelserne viser, at man bliver funktionelt mere smidig af at strække ud. Det skal forstås således, at man efter at have strukket ud i en periode kan komme længere ud i yderpositioner. Men samtidig viser undersøgelserne, at det tilsyneladende ikke er hensigtsmæssigt at lave en meget grundig statisk udstrækning inden aktivitet, fordi det tilsyneladende nedsætter styrken, og det samtidig ikke ser ud til at være skadesforebyggende. Derfor anbefaler vi, at man bruger tid på en lidt grundigere udspænding efter træning. Noget tyder på, at selvom man bruger ret begrænset tidsrum på udstrækning, så forbedrer det den funktionelle smidighed (Magnusson, 1998).
+Undersøgelserne viser, at man bliver funktionelt mere smidig af at strække ud. Det skal forstås således, at man efter at have strukket ud i en periode kan komme længere ud i yderpositioner. Men samtidig viser undersøgelserne, at det tilsyneladende ikke er hensigtsmæssigt at lave en meget grundig statisk udstrækning inden aktivitet, fordi det tilsyneladende nedsætter styrken, og det samtidig ikke ser ud til at være skadesforebyggende.
+
+Derfor anbefaler vi, at man bruger tid på en lidt grundigere udspænding efter træning. Noget tyder på, at selvom man bruger ret begrænset tidsrum på udstrækning, så forbedrer det den funktionelle smidighed (Magnusson, 1998).
 
 Den største effekt på den funktionelle smidighed fås formentlig ved at holde strækket i omkring 30 sekunder.
 
@@ -176,7 +193,7 @@ Det giver ikke nogen mening at operere med en tommelfingerregel, hvor belastning
 
 Derfor er ovenstående retningslinjer bedre som tommelfingerregler, selvom man så har brug for lidt flere tommelfingre.
 
-## Psykologisk og social udvikling
+## Psykologisk og social udvikling for børn
 
 ### 5-8 år
 
@@ -184,7 +201,9 @@ Børnene kan ikke koncentrere sig i længere tid af gangen, og motivationen for 
 
 ### 8-10 år
 
-I 8-10 års alderen kan børn begynde at overskue samværet i mindre grupper. Det er alderen, hvor de begynder at udforske det sociale. De har generelt et afslappet forhold til, om de vinder eller taber og kommer sig hurtigt over et nederlag. De kan have svært ved at overskue en stor bane. De er gode til at klare situationer i øjeblikket, men lægger ikke taktik. Generelt har de stor tiltro til egne evner (Klarlund Pedersen, 2005). Børnene befinder sig bedst i legegrupper, der har 5-9 personer.
+I 8-10 års alderen kan børn begynde at overskue samværet i mindre grupper. Det er alderen, hvor de begynder at udforske det sociale. De har generelt et afslappet forhold til, om de vinder eller taber og kommer sig hurtigt over et nederlag.
+
+De 8-10 årige kan have svært ved at overskue en stor bane. De er gode til at klare situationer i øjeblikket, men lægger ikke taktik. Generelt har de stor tiltro til egne evner (Klarlund Pedersen, 2005). Børnene befinder sig bedst i legegrupper, der har 5-9 personer.
 
 ### 10-13 år
 
@@ -192,18 +211,22 @@ I præpuberteten fra 10-13 år er børn meget motiverede for at lære noget. De 
 
 Legegrupperne kan nu være større og rumme 10-15 personer.
 
-## Træning af piger
+## Fodboldtræning for piger
 
 Piger og drenge skal trænes ens, men behandles forskelligt.
 {: .notice-success }
 
-Piger er mere følsomme og har større behov for at snakke end drenge. Piger skal først og fremmest føle sig velkomne. Flere piger end drenge kommer til fodbold, fordi veninderne går til fodbold, og så er det jo meget passende at kunne hyggesnakke lidt med hende. Det skal der være plads til. Under træningen er det en god ide at rokere meget rundt med pigerne, så klikedannelse undgås. Samtidig skal de dog også have lov til at være sammen med veninderne. Der skal være tid til sjov og hyggesnak under træningen. Det gælder især, når der arbejdes i mindre grupper. Endvidere er det vigtigt, at der bruges tid på andre aktiviteter end fodbold.
+Piger er mere følsomme og har større behov for at snakke end drenge. Piger skal først og fremmest føle sig velkomne. Flere piger end drenge kommer til fodbold, fordi veninderne går til fodbold, og så er det jo meget passende at kunne hyggesnakke lidt med hende.
+
+Det skal der være plads til. Under træningen er det en god ide at rokere meget rundt med pigerne, så klikedannelse undgås. Samtidig skal de dog også have lov til at være sammen med veninderne. Der skal være tid til sjov og hyggesnak under træningen. Det gælder især, når der arbejdes i mindre grupper. Endvidere er det vigtigt, at der bruges tid på andre aktiviteter end fodbold.
 
 Du skal som træner hele tiden opmuntre pigerne. Du skal tage dig god tid til at forklare øvelserne og vise dem grundigt, og du skal altid huske at forklare pigerne formålet med den enkelte øvelse. Du skal få pigerne til at føle sig ligeværdige med drengene på fodboldbanen. Piger er mere opmærksomme på uretfærdigheder end drenge, så det er vigtigt at du tilstræber at behandle alle ens.
 
-## Opsamling og udblik
+## Opsamling på børns udvikling
 
-Børn og unge gennemgår forskellige udviklingstrin, som er aldersrelaterede, men ikke aldersdeterminerede. Træneren bør kende disse udviklingstrin for at målrette træningsøvelserne. Det følgende samler op på på indsigterne fra det ovenstående og giver bud på, hvad du kan præsentere på de forskellige alderstrin. Kommentarerne er tommelfingerregler, for træningen skal naturligvis altid tage udgangspunkt i den målgruppe, du står overfor. Tommelfingerreglerne retter sig især mod fodboldmæssige færdigheder, men der er også mange andre ting, man som skal træner skal være opmærksom på. Alle børnene skal lære, at de er en del af et fodboldhold – også uden for banen. Derfor skal de bl.a. også lære at være præcise, hjælpe med materialerne og behandle hinanden ordentligt.
+Børn og unge gennemgår forskellige udviklingstrin, som er aldersrelaterede, men ikke aldersdeterminerede. Træneren bør kende disse udviklingstrin for at målrette træningsøvelserne. Det følgende samler op på på indsigterne fra det ovenstående og giver bud på, hvad du kan præsentere på de forskellige alderstrin.
+
+Kommentarerne er tommelfingerregler, for træningen skal naturligvis altid tage udgangspunkt i den målgruppe, du står overfor. Tommelfingerreglerne retter sig især mod fodboldmæssige færdigheder, men der er også mange andre ting, man som skal træner skal være opmærksom på. Alle børnene skal lære, at de er en del af et fodboldhold – også uden for banen. Derfor skal de bl.a. også lære at være præcise, hjælpe med materialerne og behandle hinanden ordentligt.
 
 Spillere på forskelligt alderstrin skal trænes forskelligt.
 
@@ -260,7 +283,9 @@ Med disse to regler bliver børnene nødt til at kontrollere bolden og forsøge 
 
 Målmanden derimod bør opfordres til at forsøge at sparke bolden op ad banen i luften, selvom hun naturligvis skal forsøge at ramme en. Det er en vigtig færdighed for en målmand, og det er med til at forbedre fod-øje-koordinationen. Hvis det bliver for let for målmanden, kan hun bruge den svage fod, og hvis det også bliver for let, kan hun begynde at kaste den ud.
 
-Spillerne skal have lov at drible. Spillerne har endnu ikke fuldstændig lært, at de er en del af et hold. Du kan rose spillerne, hvis de laver en god aflevering, men lad ellers spillerne selv finde ud af, hvordan de vil spille fodbold. Børnene skal først og fremmest lære at forbedre deres eget spil og kontrollere bolden i denne aldersgruppe. Derfor skal du ikke bede de yngste spillere spillerne kigge op og aflevere hele tiden. Efterhånden som spillerne bliver ældre kan du bruge mere og mere tid på afleveringsspillet – og i denne aldersklasse er nærmeste afleveringsmulighed inden for rækkevidde.
+Spillerne skal have lov at drible. Spillerne har endnu ikke fuldstændig lært, at de er en del af et hold. Du kan rose spillerne, hvis de laver en god aflevering, men lad ellers spillerne selv finde ud af, hvordan de vil spille fodbold.
+
+Børnene skal først og fremmest lære at forbedre deres eget spil og kontrollere bolden i denne aldersgruppe. Derfor skal du ikke bede de yngste spillere spillerne kigge op og aflevere hele tiden. Efterhånden som spillerne bliver ældre kan du bruge mere og mere tid på afleveringsspillet – og i denne aldersklasse er nærmeste afleveringsmulighed inden for rækkevidde.
 
 Hvis du har spillere, som ikke er så dygtig og som måske ikke formår at deltage så meget i spillet, kan du involvere mere ved at lade dem tage hjørnespark, indkast og nogle af frisparkene. Udførelsen bliver ikke den bedst mulige, men alle spillerne bliver mere involveret i træning og kamp.
 
@@ -296,7 +321,9 @@ Træneren skal ikke afbryde for ofte. Det er langt bedre at få noget flow i spi
 
 **10-13 årige lærer det grundlæggende**
 
-Når barnet bliver 10-11 år kan man begynde at træne fodbold lidt mere seriøst. Spillerne skal stadig spille en masse, arbejde med kropsbeherskelse og teknik, men nu kan spillerne overskue mere komplekse sammenhænge, og de kan bedre forstå mere komplekse taktiske forhold. Dog vil spillerne stadig lave mange uhensigtsmæssige valg i en kamp. Der er imidlertid kun en ting at gøre, og det er at træne. Mange boldtab skyldes i lige så høj grad forkerte valg på banen som dårlig teknik. Det gælder om at sætte spilleren i valgsituationer mange gange, og efterhånden bliver han bedre til at foretage de rigtige valg i forskellige situationer.
+Når barnet bliver 10-11 år kan man begynde at træne fodbold lidt mere seriøst. Spillerne skal stadig spille en masse, arbejde med kropsbeherskelse og teknik, men nu kan spillerne overskue mere komplekse sammenhænge, og de kan bedre forstå mere komplekse taktiske forhold. Dog vil spillerne stadig lave mange uhensigtsmæssige valg i en kamp.
+
+Der er imidlertid kun en ting at gøre, og det er at træne. Mange boldtab skyldes i lige så høj grad forkerte valg på banen som dårlig teknik. Det gælder om at sætte spilleren i valgsituationer mange gange, og efterhånden bliver han bedre til at foretage de rigtige valg i forskellige situationer.
 
 **10-13 årige skal først og fremmest lære**
 

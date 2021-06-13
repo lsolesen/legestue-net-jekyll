@@ -17,6 +17,7 @@ feature_row:
     excerpt: "With patience, a little hard work and consistent practice, you can train yourself to develop the mind of a champion. Mental toughness can be learned You can do it This book provides you with all the strategies you need to become a mentally tough soccer player."
     btn_class: "btn--danger"
     btn_label: "Køb den hos Saxo*"
+    rel: sponsored
 ---
 
 Alan Goldberg har efter min mening tænkt sig ret godt om, da han skrev sin lille bog om at spille hjernen ud af hovedet. Bogen hedder Playing Out Your Mind.

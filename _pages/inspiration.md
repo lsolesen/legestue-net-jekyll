@@ -13,6 +13,7 @@ feature_row:
     url: "https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
   - image_path: https://imgcdn.saxo.com/_9788777497711/0x500
     alt: "Motivation - nå i mål med din træning!"
     title: "Motivation - nå i mål med din træning!"
@@ -20,6 +21,7 @@ feature_row:
     url: "https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 gallery:
   - url: http://www.asv-fodbold.dk/media/1639/aldersrelateret-traening-forsvarlig-og-maalrettet-traening-af-boern-og-unge.pdf
     image_path: /assets/images/covers/aldersrelateret-traening.jpg
@@ -107,21 +109,24 @@ gallery_ads:
     image_path: https://track.adtraction.com/t/t?a=1140875995&as=1484571947&t=1&tk=1&i=1
     alt: Sportmaster
     title: Sportmaster
+    rel: sponsored
   - url: https://apuls.dk/
     image_path: https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=38829
     alt: A-puls
     title: A-puls
+    rel: sponsored
   - image_path: https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51749
     url: http://www.saxo.com/
     alt: Saxo
     title: Saxo
+    rel: sponsored
 ---
 
-På [Saxo\*](https://www.saxo.com/) kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
+På [Saxo\*](https://www.saxo.com/){ rel="sponsored nofollow noopener" } kan du finde mange bøger om fodbold og fodboldtræning. Her fremhæver jeg mine favoritter. _(Du støtter sitet ved at bruge mit link til Saxo)_
 
 {% include feature_row type="left" %}
 
-[Køb bøger på Saxo\*](https://www.saxo.com/){: .btn .btn--large .btn--danger}
+[Køb bøger på Saxo\*](https://www.saxo.com/){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
 ## Vores hæfter
 

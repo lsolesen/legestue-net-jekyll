@@ -27,6 +27,7 @@ feature_row:
     url: "https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 feature_row_meng:
   - image_path: https://content.gucca.dk/covers/big/n/o/noeoejjj-det-er-dit-liv-saa-hvad-vil-du-goere-ved-det_277162.jpg
     alt: "NØØJJJ"
@@ -35,6 +36,7 @@ feature_row_meng:
     url: "https://www.gucca.dk/noeoejjj-det-er-dit-liv-saa-hvad-vil-du-goere-ved-det-bog-p277162"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 feature_row_wulf:
   - image_path: "https://imgcdn.saxo.com/_9780736062701/0x500"
     alt: "Attention and Motor Skill Learning"
@@ -43,6 +45,7 @@ feature_row_wulf:
     url: "https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 feature_row_thesis:
   - image_path: /assets/images/cover.jpg
     alt: "Kontrol og læring af motoriske færdigheder og verbal feedback"
@@ -51,6 +54,7 @@ feature_row_thesis:
     url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 ---
 
 I dette indlæg kigger vi lidt på trænerens værktøjskasse. Det handler både om personlighed og organisation, når træneren skal få sin træning til at lykkes.
@@ -61,11 +65,11 @@ I dette indlæg kigger vi lidt på trænerens værktøjskasse. Det handler både
 
 Du skal naturligvis være forberedt, når du går på banen. Det er vigtig at gøre sig nogle tanker om, hvordan man vil gribe træningerne an. Det er dog mindst lige så vigtigt, at man er bevidst om den meget store rolle man som voksen har i påvirkningen af de børn, man træner. Trænere er en væsentlig person i børnenes tilværelse og bliver et emne for masser af historier derhjemme: ’min træner siger’ og ’min træner gør sådan’.
 
-Derfor skal man være optimalt forberedt til alle træningspas – både på papiret, men også mentalt. Den ti-dobbelte verdensmester i roning Arne Nilsson lever i dag af at coache idræts- og erhvervsfolk, holde foredrag og skrive bøger. Arne Nielsson filosofi er, at det handler om at begejstres og skabe begejstring. Det er efter hans mening et bevidst valg, om en oplevelse skal være positiv eller negativ. Blandt andet skriver han i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061) (Nielsson, 2005):
+Derfor skal man være optimalt forberedt til alle træningspas – både på papiret, men også mentalt. Den ti-dobbelte verdensmester i roning Arne Nilsson lever i dag af at coache idræts- og erhvervsfolk, holde foredrag og skrive bøger. Arne Nielsson filosofi er, at det handler om at begejstres og skabe begejstring. Det er efter hans mening et bevidst valg, om en oplevelse skal være positiv eller negativ. Blandt andet skriver han i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061){ rel='sponsored nofollow noopener' } (Nielsson, 2005):
 
 > ’Begejstring skal vises. Det kan være: ’Yes!’ Eller: ’Ih, hvor er du god i dag!’ eller ’Ih, hvor er jeg glad!’ Og du kan godt øve dig i at vise begejstring. Børn er eksempelvis ret gode til det. Der er jo ingen af os voksne der ikke som børn har suset rundt og ment at vi simpelthen var verdens bedste. Selv legede jeg Allan Simonsen. Og når jeg scorede var hænderne oppe. Hele verden skulle se det, men da jeg blev ældre, var begejstring og glæde ikke noget jeg viste, for folk kiggede underligt på mig’.
 
---- <cite>Arne Nielsson i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061)</cite>
+--- <cite>Arne Nielsson i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061){ rel='sponsored nofollow noopener' }</cite>
 
 {% include feature_row type="left" %}
 

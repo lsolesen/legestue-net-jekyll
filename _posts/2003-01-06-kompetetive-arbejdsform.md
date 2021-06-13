@@ -19,6 +19,7 @@ feature_row:
     url: "https://www.saxo.com/dk/coaching-laering-og-udvikling_reinhard-stelter_haeftet_9788777063237"
     btn_label: "Køb bogen hos Saxo"
     btn_class: "btn--danger"
+    rel: sponsored
   - image_path: https://imgcdn.saxo.com/_9788772160801/0x500
     alt: "Hvis det ikke er held, hvad fanden er det så?"
     title: "Hvis det ikke er held, hvad fanden er det så?"
@@ -26,6 +27,7 @@ feature_row:
     url: "https://www.saxo.com/dk/hvis-det-ikke-er-held-hvad-fanden-er-det-saa_jacob-lindeblad_indbundet_9788772160801"
     btn_label: "Køb bogen hos Saxo"
     btn_class: "btn--danger"
+    rel: sponsored
 ---
 
 Idrætslærere og -trænere er ofte på udkig efter nye måder at motivere udøvere eller elever på. Fra vores baggrund i hhv. elitevolleyball og eliteatletik har vi begge oplevet, at det kompetitive element i idrætten motiverede os meget og var en central del af nogle af vore bedste idrætsoplevelser. Derfor besluttede vi os for at undersøge emnet nærmere og se på, om disse kvaliteter og gode oplevelser kunne overføres til en undervisningssituation.

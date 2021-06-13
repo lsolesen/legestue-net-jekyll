@@ -24,6 +24,7 @@ feature_row:
     url: "https://www.saxo.com/dk/fodbold-traening-og-undervisning_jens-bangsbo_indbundet_9788778874757"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored
 ---
 
 Hvordan kan vi lave den fysiske træning i fodbold gennem spil, så vi forbereder spillernes kondition og energisystemer til kampen? Her er der nogle bud på, hvordan du kan arbejde med kondition og energisystemerne i din træning.

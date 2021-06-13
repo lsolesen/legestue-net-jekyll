@@ -33,6 +33,7 @@ feature_row:
       kulisserne i en Superligakluds hverdag og kampe.
     url: https://www.saxo.com/dk/fra-ulkeboel-til-superligaen_poul-hansen_haeftet_9788711114278
     btn_label: Køb brugt hos Saxo*
+    rel: sponsored
 language: da
 ---
 Mælkesyredannelse og ømme muskler efter træning, lyder det bekendt? Det er, for de flestes vedkommende, ingen overraskelse at man bliver øm og træt efter træning.
@@ -155,4 +156,4 @@ Alle mand står op. Der spilles med maksimalt to berøringer. Der er en i midten
 
 ## Referencer
 
-- Hansen, Poul: [Fra Ulkebøl til Superligaen](https://www.saxo.com/dk/fra-ulkeboel-til-superligaen_poul-hansen_haeftet_9788711114278), Aschehoug 2000.
+- Hansen, Poul: [Fra Ulkebøl til Superligaen](https://www.saxo.com/dk/fra-ulkeboel-til-superligaen_poul-hansen_haeftet_9788711114278){ rel='sponsored nofollow noopener' }, Aschehoug 2000.

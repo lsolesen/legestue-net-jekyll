@@ -24,6 +24,7 @@ feature_row:
     url: "https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742"
     btn_label: "Læs mere*"
     btn_class: "btn--success"
+    rel: sponsored
 ---
 
 Mads Hovgaard udviklede i 2009 modellen _aktivitetshjulet_, der kan bruges til at beskrive, analysere og udvikle aktiviteter. Det er en god model at bruge til udarbejdelsen af egen undervisning.
@@ -52,9 +53,9 @@ Spilhjulet og aktivitetscirklen har ikke energi med som et grundlæggende parame
 
 Aktivitetshjulet er lavet af Mads Hovgaard for at kunne planlægge og tilpasse aktiviteter.
 
-Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfolder den i bogen [Aktivitetsudvikling i Idrætten\*](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742):
+Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfolder den i bogen [Aktivitetsudvikling i Idrætten\*](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742){ rel="sponsored nofollow noopener" }:
 
-{% include figure image_path="/assets/images/posts/aktivitetshjulet.png" caption="Aktivitetshjulet fra [Aktivitetsudvikling\*](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742)" %}
+{% include figure image_path="/assets/images/posts/aktivitetshjulet.png" caption="Aktivitetshjulet fra [Aktivitetsudvikling\*](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742){ rel='sponsored nofollow noopener' }" %}
 
 ## Hvad bruges aktivitetshjulet til?
 
