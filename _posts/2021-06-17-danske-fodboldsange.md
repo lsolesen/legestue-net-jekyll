@@ -27,7 +27,7 @@ songs:
     artist: Dodo Gad
     year: 1986
     event: VM i Mexico
-    description: "’Re-Sepp-Ten’ med Dodo Gad er uden tvivl en af de mest ikoniske danske fodboldsange. Alle kender sangen. Sangen blev skrevet i anledning af VM i 1986 i Mexico, som var det første VM Herrelandsholdet kvalificerede sig til. Teksten blev til med input fra Ekstra Bladets læsere. Sangen var så ikonisk, at den også blev brugt som den officielle slagsang for Danmark ved EM i 1992, hvor vi jo som bekendt vandt EM."
+    description: "’Re-Sepp-Ten’ med Dodo Gad er uden tvivl en af de mest ikoniske danske fodboldsange. Alle kender sangen. Sangen blev skrevet i anledning af VM i 1986 i Mexico, som var det første VM Herrelandsholdet kvalificerede sig til. Teksten blev til med input fra Ekstra Bladets læsere. Sangen var så ikonisk, at den også blev spillet heftigt ved EM i 1992, hvor vi jo som bekendt vandt EM."
     video:
       provider: youtube
       id: YQuJQtcw1kA
@@ -43,7 +43,7 @@ songs:
     artist: Dodo and the Dodos
     year: 1992
     event: EM i Sverige
-    description: "Danmark kom med på et afbud, så der var ingen, der havde forestillet sig, at der skulle produceres en fodboldsang til sommerens EM. Derfor måtte man tilbage i tiden, og hvad var mere nærliggende end at genoplive Re-Sepp-Ten, selvom træneren nu hed Richard Møller Nielsen. Som alle danskere formentlig husker, så vandt vi slutrunden."
+    description: "Danmark kom med på et afbud på grund af borgerkrigen i Jugoslavien. Derfor nåede DBU ikke at arrangere en officiel udgivelse. Der var ingen, der havde forestillet sig, at der skulle produceres en fodboldsang til sommerens EM. Der blev arrangeret **uofficielle singler**, som fx 'Gi' dem en på frakken' med Lonnie Devantier. Vi genbrugte vi derfor Re-Sepp-Ten som den officielle sang, selvom træneren nu hed Richard Møller Nielsen. Som alle danskere formentlig husker, så vandt vi slutrunden."
     video:
       provider: youtube
       id: YQuJQtcw1kA
