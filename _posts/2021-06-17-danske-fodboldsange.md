@@ -24,10 +24,10 @@ songs:
       provider: youtube
       id: sh1fzPKuaZE
   - title: Re-Sepp-Ten
-    artist: Dodo and the Dodos
+    artist: Dodo Gad
     year: 1986
     event: VM i Mexico
-    description: "’Re-Sepp-Ten’ fra Dodo and the Dodos er uden tvivl en af de mest ikoniske danske fodboldsange. Alle kender sangen. Sangen blev skrevet i anledning af VM i 1986 i Mexico, som var det første VM Herrelandsholdet kvalificerede sig til. Teksten blev til med input fra Ekstra Bladets læsere. Sangen var så ikonisk, at den også blev brugt som den officielle slagsang for Danmark ved EM i 1992, hvor vi jo som bekendt vandt EM. Men da vi var med på afbud, så kunne ingen nå at producere en ny slagsang."
+    description: "’Re-Sepp-Ten’ med Dodo Gad er uden tvivl en af de mest ikoniske danske fodboldsange. Alle kender sangen. Sangen blev skrevet i anledning af VM i 1986 i Mexico, som var det første VM Herrelandsholdet kvalificerede sig til. Teksten blev til med input fra Ekstra Bladets læsere. Sangen var så ikonisk, at den også blev brugt som den officielle slagsang for Danmark ved EM i 1992, hvor vi jo som bekendt vandt EM."
     video:
       provider: youtube
       id: YQuJQtcw1kA
@@ -166,6 +166,24 @@ Lad os kaste os ud i at kigge på musikvidoer og få en lille historie om de enk
 {% include video provider=song.video.provider id=song.video.id %}
 {% endfor %}
 
+## Hvad er den bedste fodboldsang?
+
+Om man kan lide en sang er naturligvis smag og behag. Men [Gaffa.dk](https://gaffa.dk/nyhed/149761/laeserne-har-stemt-her-er-danmarks-bedste-officielle-fodboldsang-nogensinde) har lavet en afstemning, og de har kåret den bedste sang ifølge deres læsere:
+
+1. "Re-Sepp-ten" fra 1986 med Herrelandsholdet og Dodo Gad fik 61,55% af stemmerne
+2. Rocazinos "En for alle" fra 1988 med 10,43% 
+3. Nephew med "The Danish Way to Rock" fra 2010 med 6,64% af stemmerne
+
+## Hvad er den værste fodboldsang?
+
+I bunden af [Gaffas](https://gaffa.dk/nyhed/149761/laeserne-har-stemt-her-er-danmarks-bedste-officielle-fodboldsang-nogensinde) har de kåret de værste fodboldsange:
+
+1. Thomas Helmigs "Hele Danmark op at stå" fra 2018 med 0,43 procent af stemmerne
+2. Birthe Kjær, B-Boys og Safri Duos "Hvor' vi fra?" fra 2004, der har fået 0,60 procent af stemmerne
+3. Det Brune Punktums "All We Need Is Love" med 0,69% af stemmerne.
+
+Personligt kan jeg faktisk godt lide de fleste sange.
+
 ## Hvad er den mest streamede fodboldsang i 2021?
 
 [Gaffa.dk](https://gaffa.dk/nyhed/149831/her-er-de-mest-streamede-fodboldsange/) har i 2021 samlet op på, hvad den mest streamede fodboldsang er. Listen er taget fra Spotifys top fem-liste.
@@ -183,6 +201,8 @@ Den sidste på listen er naturligvis ikke en dansk fodboldsang, men derfor kan d
 {% include video provider="youtube" id="kGT73GcwhCU" %}
 
 Jeg har lavet en [komplet liste over de officielle EM-sange her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
+
+Men hvorfor bruger vi så egentlig ikke bare Re-Sepp-Ten hvert år? [Politiken.dk](https://politiken.dk/podcast/dulyttertilpolitiken/art8241432/Fodboldsange-Hvorfor-bruger-de-ikke-bare-Re-Sepp-ten-hvert-%C3%A5r) har lavet en glimrende podcast om de danske fodboldsange.
 
 ## Har du glemt en rigtig vigtig fodboldsang?
 
