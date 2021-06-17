@@ -127,6 +127,14 @@ songs:
     video:
       provider: youtube
       id: 7ipVMbUuXx0
+  - title: Brug Bolden
+    artist: Rasmus Bjerg, Kibsgaard & Findsen
+    year: 2021
+    event: EM 2020
+    description: "Som en hyldest til landsholdet, fodbolden og folkeligheden har vi lavet en sang. Det er et bidrag fra hjertet, ingen har bedt os om det og vi gør det simpelthen fordi vi ikke kan lade være."
+    video:
+      provider: youtube
+      id: tQe7QF2SpNM
 ---
 
 Jeg har samlet alle de danske fodboldsange, så du kan komme i stemning til at se landsholdet spille landskamp. Der er mange mindeværdige kampsange, og mange af disse landsholdssange har været en del af soundtracket til min barndom.
@@ -171,7 +179,7 @@ Lad os kaste os ud i at kigge på musikvidoer og få en lille historie om de enk
 Om man kan lide en sang er naturligvis smag og behag. Men [Gaffa.dk](https://gaffa.dk/nyhed/149761/laeserne-har-stemt-her-er-danmarks-bedste-officielle-fodboldsang-nogensinde) har lavet en afstemning, og de har kåret den bedste sang ifølge deres læsere:
 
 1. "Re-Sepp-ten" fra 1986 med Herrelandsholdet og Dodo Gad fik 61,55% af stemmerne
-2. Rocazinos "En for alle" fra 1988 med 10,43% 
+2. Rocazinos "En for alle" fra 1988 med 10,43%
 3. Nephew med "The Danish Way to Rock" fra 2010 med 6,64% af stemmerne
 
 ## Hvad er den værste fodboldsang?
