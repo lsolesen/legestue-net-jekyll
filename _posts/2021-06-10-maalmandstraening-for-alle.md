@@ -12,6 +12,13 @@ tags:
   - lege
   - målmandstræning
 last_modified_at: 2021-06-06T10:33:33Z
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9788792999900/0x500
+    title: Målmand - bag om fodboldspillets mest udsatte job
+    excerpt: Målmanden er den spiller på fodboldbanen, der har det tungeste ansvar. Det er ham, der skal forhindre bolden i at gå ind, og det er ham, der i sidste ende kan bestemme, om holdet vinder eller taber.
+    url: https://www.saxo.com/dk/maalmand_martin-davidsen_haeftet_9788792999900
+    btn_class: btn--danger
+    btn_label: Se pris på Saxo
 ---
 
 Målmandstræning bør være for alle fodboldspillere. Alle til fodbold kan have rigtig godt af at bevæge sig som målmand - og prøve kræfter med de målmandstekniske færdigheder. Det gælder både for de yngste spillere, men også ældre spillere kan få stor fornøjelse af målmandstræning og de grundlæggende færdigheder.
@@ -188,3 +195,5 @@ mellem målmanden og forsvareren.
 Sådan kan du lave nogle træningspas, hvor du har hele holdet med til træning, hvor alle lærer målmandstekniske færdigheder.
 
 Du kan også sagtens bruge elementer af øvelserne til din opvarmning.
+
+{% include feature_row type="left" %}

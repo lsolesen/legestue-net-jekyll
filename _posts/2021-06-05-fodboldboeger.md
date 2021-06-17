@@ -56,6 +56,23 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored
+davidsen:
+  - image_path: https://imgcdn.saxo.com/_9788711990094/0x500
+    alt: "Drømmeland - sejren og sommeren der forandrede Danmark"
+    title: "Drømmeland - sejren og sommeren der forandrede Danmark"
+    excerpt: "Alle voksne danskere husker, hvor de var, da en stortudende Flemming Povlsen på en smuk juniaften i 1992 løftede EM-pokalen i en af europæisk fodbolds mest overraskende triumfer nogensinde."
+    url: "https://www.saxo.com/dk/droemmeland-sejren-og-sommeren-der-forandrede-danmark_martin-davidsensebastian-stanbury_paperback_9788711990094"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+    rel: sponsored
+  - image_path: https://imgcdn.saxo.com/_9788792999900/0x500
+    alt: "Målmand - bag om fodboldspillets mest udsatte job"
+    title: "Målmand - bag om fodboldspillets mest udsatte job"
+    excerpt: "Målmanden er den spiller på fodboldbanen, der har det tungeste ansvar. Det er ham, der skal forhindre bolden i at gå ind, og det er ham, der i sidste ende kan bestemme, om holdet vinder eller taber."
+    url: "https://www.saxo.com/dk/maalmand_martin-davidsen_haeftet_9788792999900"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+    rel: sponsored
 ---
 
 Kender du nogle gode fodboldhistorier, facts om fodbold og fodboldlegenderne? Der er masser af rigtig gode bøger om fodbold. Jeg har samlet en liste med de bedste fodboldbøger, så du kan lære mere om fodboldhistorien.
@@ -167,6 +184,10 @@ I Det er genialt, det der fortæller Svend Gehrs, Flemming Toft og Carsten Werge
 Martin Davidsen har skrevet historien om dansk klubfodbolds største bedrift. Bogen handler om dengang Odense Boldklub eller OB spillede europæisk fodbold mod mægtige Real Madrid.
 
 Martin Davidsen er en vaskeægte OB-ekspert, og han driver bl.a. også podcasten [Stemmer fra Ådalen](https://obstemmer.dk/). Ådalen i Odense er netop hjemstedet for OBs træningsanlæg.
+
+Martin Dadvidsen har også skrevet et par ekstra gode bøger her:
+
+{% include feature_row type="left" id="davidsen" %}
 
 ## Fodboldbøger biografier og selvbiografier
 
