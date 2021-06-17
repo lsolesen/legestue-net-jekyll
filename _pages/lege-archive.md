@@ -226,7 +226,7 @@ skal alle spille imod alle og sparke på skift. Gruppen
 må så deles i hold á 4-5 spillere. Mere kan du ikke
 holde styr på.
 
-### Alternativ opstilling til fodboldkroket 
+### Alternativ opstilling til fodboldkroket
 
 {% include figure image_path="/assets/images/fodboldlege/fodboldkroket-alternativ.png" caption="" alt="fodboldkroket" %}
 
@@ -282,10 +282,10 @@ Du er altid velkommen til at foreslå nye fodboldlege, som du mener skal være i
 
 <div class="feature__wrapper">
 
-{% assign site_posts = site.posts | where: "category", "Fodboldlege" | sort: "last_modified_at" | reverse %}
+{% assign site_posts = site.posts | where: "categories", "Fodboldlege" | sort: "last_modified_at" | reverse %}
 
 {% if site_posts.size > 0 %}
-  {% for post in site_posts limit:4 %}
+  {% for post in site_posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 {% endif %}
