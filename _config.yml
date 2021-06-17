@@ -16,7 +16,7 @@ future                   : true
 # Site Settings
 locale                   : "da"
 title                    : "Fodboldens Legestue"
-title_separator          : "-"
+title_separator          : false # "-"
 subtitle                 : "Fodboldtricks, fodboldrytmer, fodboldlege og fodboldøvelser"
 logo                     : "/android-chrome-192x192.png"
 name                     : "Fodboldens Legestue"
