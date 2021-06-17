@@ -123,7 +123,7 @@ songs:
     artist: Gulddreng
     year: 2021
     event: EM 2020
-    description: "Gulddreng genopstod i forbindelse med Euro 2020 med en **uofficiel** landsholdssang til at samle danskerne. Gulddreng er i ’Helt Sikker’ overbevist om, at Danmark vinder guld til slutrunden"
+    description: "Gulddreng genopstod i forbindelse med Euro 2020 med en **uofficiel** landsholdssang til at samle danskerne. Gulddreng er i ’Helt Sikker’ overbevist om, at Danmark vinder guld til slutrunden. Måske er det derfor, at Helt Sikker er [mere populær](https://politiken.dk/kultur/art8243528/Uofficiel-EM-sang-er-langt-mere-popul%C3%A6r-end-den-officielle) end den officielle sang fra Alphabeat."
     video:
       provider: youtube
       id: 7ipVMbUuXx0
@@ -144,9 +144,9 @@ I dette indlæg kan du finde følgende:
 - Komplet liste over alle de fodboldsange, der er blevet lavet i forbindelse med slutrunder for Herrelandsholdet.
 - Musikvideoer og titler på alle fodboldslagsangene og landsholdssangene!
 
-## Liste over alle danske fodboldsange
+## Liste over alle danske fodboldsange med musikvideoer
 
-Her har du en hurtig oversigt over de forskellige fodboldsange, der er lavet til fodbold og slutrunder i Danmark. Nedenunder kommer en kort beskrivelse og **musikvidoer** til sangene.
+Her har du en hurtig oversigt over de forskellige fodboldsange, der er lavet til fodbold og slutrunder i Danmark. Nedenunder kommer en kort beskrivelse og **musikvideoer** til sangene.
 
 | Sangtitel | År | Begivenhed | Kunstner |
 |-|-|-|-|
@@ -154,7 +154,7 @@ Her har du en hurtig oversigt over de forskellige fodboldsange, der er lavet til
 | {{ song.title }} | {{ song.year }} | {{ song.event }} | {{ song.artist }} |
 {%- endfor %}
 
-## Danske fodboldsange, slagsange og kampsange
+## Danske fodboldsange, slagsange og kampsange gennem tiden
 
 Lad os kaste os ud i at kigge på musikvidoer og få en lille historie om de enkelte sange.
 
@@ -166,7 +166,7 @@ Lad os kaste os ud i at kigge på musikvidoer og få en lille historie om de enk
 {% include video provider=song.video.provider id=song.video.id %}
 {% endfor %}
 
-## Hvad er den mest streamede fdodboldsang i 2021?
+## Hvad er den mest streamede fodboldsang i 2021?
 
 [Gaffa.dk](https://gaffa.dk/nyhed/149831/her-er-de-mest-streamede-fodboldsange/) har i 2021 samlet op på, hvad den mest streamede fodboldsang er. Listen er taget fra Spotifys top fem-liste.
 
@@ -182,6 +182,8 @@ Den sidste på listen er naturligvis ikke en dansk fodboldsang, men derfor kan d
 
 {% include video provider="youtube" id="kGT73GcwhCU" %}
 
+Jeg har lavet en [komplet liste over de officielle EM-sange her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
+
 ## Har du glemt en rigtig vigtig fodboldsang?
 
 Når man kigger på mindeværdige fodboldsange, så er der mange lister der glemmer, at nationalsangen jo også afsynges på stadion. "Der er et yndigt land" egner sig fortrinligt til fællessang inden de store landskampe.
@@ -196,7 +198,7 @@ Kvindelandsholdet har trods alt også kvalificeret sig til store slutrunder, så
 
 ## Playliste med danske fodboldsange
 
-Jeg har lavet en [playliste på Youtube](https://www.youtube.com/playlist?list=PLNkD7iq9OqKhOvUVXj18zgB5OGy54YMM-) med alle de danske fodboldsange. Så er det bare at sætte listen på, når du skal i stemning til landskamp og har brug for en kampsang.
+Jeg har lavet en [playliste på Youtube](https://www.youtube.com/playlist?list=PLNkD7iq9OqKhOvUVXj18zgB5OGy54YMM-) med alle de danske fodboldsange. Så er det bare at sætte listen på, når du skal i stemning til landskamp og har brug for en kampsang. Husk at abonnere på vores kanal.
 
 ## Musikquiz med danske fodboldsange
 
@@ -216,3 +218,5 @@ Så nu skal du egentlig bare have valgt den bedste fodboldslagsang. Her har du l
 {%- endfor %}
 
 Rigtig god fornøjelse med at nyde Herrelandsholdet og Kvindelandsholdet, når de tørner ud for Danmark.
+
+Husk at tjekke den [komplette liste over de officielle EM-sange her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
