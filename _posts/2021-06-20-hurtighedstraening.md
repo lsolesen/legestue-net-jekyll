@@ -47,16 +47,13 @@ Her er nogle øvelser til at arbejde med spillernes hurtighed.
 
 Spillerne starter i forskellige heat. Den hurtigste rykker op, den langsomste ned. Der startes fra forskellige stillinger på divergerende signaler (råb, visuelt, føle).
 
-
-
-
-
-
 ## Funktionel hurtighedstræning
 
 ### Sprintøvelse efter bold med afslutning
 
 Spillerne står, så de ikke kan se bolden. Træneren spiller den fremad, og så snart spillerne får øje på bolden må der sprintes. Vedkommende som får først fat i bolden afslutter, mens den anden forsvarer.
+
+{% include figure image_path="/assets/images/oevelser/hurtighed-funktionel-sprint-afslutning.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
 
 ## Konklusion
 

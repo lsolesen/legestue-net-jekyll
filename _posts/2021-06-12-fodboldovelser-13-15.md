@@ -137,10 +137,12 @@ afsnittet om de 11-12-årige. Der er ikke noget bedre
 end at lege med bolden og snyde en kammerat eller
 veninde.
 
-### Eksempler på dribleøvelser:
+### Eksempler på dribleøvelser
 
 1. A afleverer til B, der tæmmer og dribler imod A,
 som passiv modstander. B afleverer til C osv.
+
+{% include figure image_path="/assets/images/oevelser/dribleovelser-eksempel-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
 
 2. Lav fire områder på en lang række. I hvert område
 placeres en spiller, som sætter sig som en ’krabbe’.
@@ -154,10 +156,14 @@ god 1. berøring og dribler mod mål. A løber ud mod
 B, der finter og dribler omkring A og afslutter mod
 mål.
 
+{% include figure image_path="/assets/images/oevelser/dribleovelser-eksempel-3-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+
 4. A afleverer til B, der dribler lige mod mål. A løber
 efter B som modstander. B afslutter. Spilles såvelfra
 venstre som fra højre side. Der byttes række efter
 hver omgang.
+
+{% include figure image_path="/assets/images/oevelser/dribleovelser-eksempel-4-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
 
 ## Positionsspil
 
@@ -255,7 +261,7 @@ Bandespil er syneladende ganske simpelt: boldholderen spiller bolden til en meds
 modstanderen og får bolden igen. Bandespil kræver
 imidlertid en god timing og en god teknik.
 
-### Instruktionsmomenter for træneren
+### Instruktionsmomenter for bandespil for træneren
 
 Boldholderen skal være opmærksom på
 
@@ -298,7 +304,7 @@ dersiden af den fod, der er længst væk fra forsvars-
 spilleren, bliver afleveringsvinklen størst mulig, og
 afleveringen bliver derfor sværere at opfange.
 
-### Øvelsesforslag
+### Øvelsesforslag til bandespil
 
 1. 12-16 spillere i et område
 Der er tre, der har en bold (her A, B og C). De dribler
@@ -313,15 +319,21 @@ Der skal altid være 2 afleveringsmuligheder for
 boldholderen (ved nærmeste kegler). Midtermanden
 kommer ud, enten når han rører eller erobrer bolden.
 
+{% include figure image_path="/assets/images/oevelser/bandespil-3vs1-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+
 3. To rækker med spillere
 C er bandespiller. A spiller til C, der spiller til A, der
 er løbet i position. A spiller til B, der nu bruger C
 som bande. Husk at skifte bandespilleren efter hver
 omgang.
 
+{% include figure image_path="/assets/images/oevelser/bandespil-to-raekker-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+
 4. Dobbelt bandespil
 A dribler laver bandespil med C, og bagefter med B,
 hvorefter der skydes på mål. Pas på ’køen’!
+
+{% include figure image_path="/assets/images/oevelser/bandespil-dobbelt-bandespil-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
 
 5. Overtalsspil
 Der spilles 5:5+5 på begrænset område. Det gælder
@@ -496,6 +508,8 @@ løbet op langs sidelinien. Backen tager et træk og
 sparker bolden ind over til angriberen, som i en
 bue er løbet mod første stolpe og midtbanespil-
 leren, som i en bue er løbet mod bageste stolpe.
+
+{% include figure image_path="/assets/images/oevelser/indlaeg-skabelonoevelse.png" caption="Øvelse til at træne indlæg efter dribling" alt="indlæg efter dribling fodbold" %}
 
 2. Spil på halv bane med grøfter
 F.eks. 7:7 + målmænd. Spilleren i grøften har frit

@@ -173,6 +173,33 @@ neutrale område, før der må afsluttes. Ellers almin-
 deligt spil. Ingen markspiller må være i det neutrale
 område.
 
+## Afslutningsspil
+
+### Afslutningsøvelse
+
+A sparker et indlæg fra siden, som B tæmmer og sparker på mål. C må begynde at forsvare, så snart der er sparket.
+Man kan evt. sætte begrænsninger på B’s antal berøringer.
+
+{% include figure image_path="/assets/images/oevelser/afslutning-oevelse-indlaeg.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
+
+### Festival street fodbold
+
+Der spilles 4:4 med 4:4 bander. Banderne må kun befinde sig i angrebszonen, og de har en berøring. Efter et bestemt tidsrum, fx 2 minutter, skiftes bander ved, at holdene på banen lader bolden ligge, og spillet fortsætter. Der spilles i alt 5-6 runder.
+
+{% include figure image_path="/assets/images/oevelser/afslutning-festivalstreetfodbold.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
+
+### Intervalspil
+
+Der kan spilles 2:2 eller 3:3. Målene står forholdsvist tæt på hinanden, fx 2x16 meter, og der er en målmand i hvert mål, som fortsætter.
+Ved scoring og dødbolde får man en ny bold fra eget mål.
+Der spilles 1 minut med 1 eller 2 minutters pause.
+Hver spiller skal på banen 8-10 gange, evt. med en lidt længere pause midtvejs.
+
+
+
+
+
+
 ## Konklusion på skudtræning og afslutningstræning
 
 Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).

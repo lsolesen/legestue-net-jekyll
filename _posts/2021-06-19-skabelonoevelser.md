@@ -18,7 +18,7 @@ last_modified_at: 2021-06-11T10:33:33Z
 
 Skabelonøvelser i fodbold kan være en god måde at lave taktisk træning på. Du får stillet spillerne op på faste positioner og kan arbejde med løbemønstre.
 
-Jeg har her skitseret nogle forskellige skabelonøvelser, men det er vigtigt, at du vælger en skabelonøvelse, der passer til dit [spillesystem og spillestil]({% link _posts2021-06-15-spillesystmer-spillestile.md %}) og naturligvis dine spilleres fysiske og mentale udviklingstrin.
+Jeg har her skitseret nogle forskellige skabelonøvelser, men det er vigtigt, at du vælger en skabelonøvelse, der passer til dit [spillesystem og spillestil]({% link _posts/2021-06-15-spillesystmer-spillestile.md %}) og naturligvis dine spilleres fysiske og mentale udviklingstrin.
 
 ## Skabelon øvelser til fodbold
 
@@ -33,11 +33,26 @@ B laver modløb og modtager bolden fra A. B returnerer med inderside  en vinkel,
 
 {% include figure image_path="/assets/images/oevelser/skabelon-4-om-1-bold.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
 
-## Opspilssekvens
+## Skabelonøvelse til indlæg efter dribling
+
+En midtbanespiller spiller bolden ud på en back.
+Backen tager et træk og spiller bolden op på en
+angriber som lægger bolden af til midtbanespil-
+leren, der i mellemtiden er løbet frem for at mod-
+tage bolden. Midtbanespilleren sparker så vidt
+muligt første gang bolden ud til backen, som er
+løbet op langs sidelinien. Backen tager et træk og
+sparker bolden ind over til angriberen, som i en
+bue er løbet mod første stolpe og midtbanespil-
+leren, som i en bue er løbet mod bageste stolpe.
+
+{% include figure image_path="/assets/images/oevelser/indlaeg-skabelonoevelse.png" caption="Øvelse til at træne indlæg efter dribling" alt="indlæg efter dribling fodbold" %}
+
+## Opspilsøvelse
 
 {% include figure image_path="/assets/images/oevelser/skabelon-opspil.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
 
-## Opspilssekvens udvidelse
+## Udvidelse til opspilsøvelsen
 
 {% include figure image_path="/assets/images/oevelser/skabelon-opspil-udvidelse.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
 
