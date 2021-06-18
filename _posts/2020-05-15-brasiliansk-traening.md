@@ -35,7 +35,7 @@ Vi starter med lidt inspiration fra bogen.
 
 ### Banen
 
-Vores bane var den gade jeg boede i, og vores mål var gadens to ender. Vores sidelinier var der, hvor kantstenen skulle have været, hvis gaden havde været brolagt. Da den ikke var det, krævede det en del blot at holde balancen. 
+Vores bane var den gade jeg boede i, og vores mål var gadens to ender. Vores sidelinjer var der, hvor kantstenen skulle have været, hvis gaden havde været brolagt. Da den ikke var det, krævede det en del blot at holde balancen. 
 
 ### Bolden
 

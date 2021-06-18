@@ -157,7 +157,7 @@ angriberne, som forsøger at score. Erobrer
 forsvaret bolden, skal den spilles til træneren,
 som så spiller angriberne igen. Giver f.eks.
 points til forsvaret. Kan ændres, så der er to små
-mål ved midterlinien. Når forsvaret har scoret i de
+mål ved midterlinjen. Når forsvaret har scoret i de
 små mål, skifter de to hold plads. Det er mest
 attraktivt at skyde mod stort mål.
 11. Der spilles 3:3 i et område på kanten af

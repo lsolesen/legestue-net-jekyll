@@ -41,7 +41,7 @@ angriber som lægger bolden af til midtbanespil-
 leren, der i mellemtiden er løbet frem for at mod-
 tage bolden. Midtbanespilleren sparker så vidt
 muligt første gang bolden ud til backen, som er
-løbet op langs sidelinien. Backen tager et træk og
+løbet op langs sidelinjen. Backen tager et træk og
 sparker bolden ind over til angriberen, som i en
 bue er løbet mod første stolpe og midtbanespil-
 leren, som i en bue er løbet mod bageste stolpe.

@@ -26,7 +26,7 @@ Medaljer og krus i indeværende sæson bør ikke være trænerens fokus, men sna
 
 Træningen af den konditionelle formåen bør tidligst have en central plads i træningen som ynglingespiller.
 
-Spillerne i ungdomsrækkerne bør på intet tidspunkt blive sat til at spæne op og ned ad linierne uden bold, hverken som opvarmning eller konditionstræning. Snarere skal træningen (og i særdeleshed opvarmningen) involvere bolden eller sigte mod løbetekniske færdigheder. I erkendelse af dette har DBU netop (re)lanceret teknikmærket.[^note4]
+Spillerne i ungdomsrækkerne bør på intet tidspunkt blive sat til at spæne op og ned ad linjerne uden bold, hverken som opvarmning eller konditionstræning. Snarere skal træningen (og i særdeleshed opvarmningen) involvere bolden eller sigte mod løbetekniske færdigheder. I erkendelse af dette har DBU netop (re)lanceret teknikmærket.[^note4]
 
 Det er dog tankevækkende, at DBU ikke i samme forbindelse ikke har tilkendegivet mange tanker om, hvordan den enkelte lærer på den bedste måde.
 

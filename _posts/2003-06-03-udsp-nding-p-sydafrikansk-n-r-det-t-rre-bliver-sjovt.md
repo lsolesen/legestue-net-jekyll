@@ -24,7 +24,7 @@ Alle pigerne stiller sig op i en rundkreds med let afstand til hinanden. En før
 Min kommentar
 -------------
 
-Set fra sidelinien eller som medlem af kredsen er dette et hit. Det giver sammenhold og spreder glæde og gode miner blandt spillerne. I stedet for blot at stå hist og pist og strække ud individuelt lærer spillerne at arbejde sammen som et hold med selvdisciplin. De går meget op i at alle øvelser er udført rigtigt, og at alle spillere strækker det samme ben samtidig. Måden de strækker på motiverer dem til at stå sammen, bringer dem tættere og igennem det tørre græs blæser der en god stemning og liv. Det sure, tørre eller kedelige til træning bliver lidt sjovere. Det kan det i hvert fald let blive.
+Set fra sidelinjen eller som medlem af kredsen er dette et hit. Det giver sammenhold og spreder glæde og gode miner blandt spillerne. I stedet for blot at stå hist og pist og strække ud individuelt lærer spillerne at arbejde sammen som et hold med selvdisciplin. De går meget op i at alle øvelser er udført rigtigt, og at alle spillere strækker det samme ben samtidig. Måden de strækker på motiverer dem til at stå sammen, bringer dem tættere og igennem det tørre græs blæser der en god stemning og liv. Det sure, tørre eller kedelige til træning bliver lidt sjovere. Det kan det i hvert fald let blive.
 
 Det er nogle gange små ting, der skal til og det og glæden kunne vi lære noget af i Danmark. Samtidig er det en fortrinlig måde at lære/huske tallene på mange forskellige sprog.
 

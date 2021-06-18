@@ -22,7 +22,7 @@ feature_row:
 
 **Små fodboldben på hårdt arbejde i sommervarmen, men der er ingen sure miner. Børnene har selv valgt at bruge lidt af forældrenes penge på DBUs årligt tilbagevendende fodboldskole. Året er 1996.**
 
-Evigt trippende på sidelinien med et køligt og analyserende blik rettet mod begivenhederne på keglebanen står jeg. Min uudgrundelige faglige baggrund er en udtømmende fodboldmanual og et fem måneders langt idrætsskoleophold, så selvtilliden er omsiggribende, idet det opsatte spil faktisk viser sig at fungere. Da det er tid, afbryder jeg spillet og stiller en ny opgave:
+Evigt trippende på sidelinjen med et køligt og analyserende blik rettet mod begivenhederne på keglebanen står jeg. Min uudgrundelige faglige baggrund er en udtømmende fodboldmanual og et fem måneders langt idrætsskoleophold, så selvtilliden er omsiggribende, idet det opsatte spil faktisk viser sig at fungere. Da det er tid, afbryder jeg spillet og stiller en ny opgave:
 
 > "Nu skal vi lave en huttelihut. I sparker bolden op i luften, og lader den ramme jorden. Samtidig med dette skal I med det ene ben hoppe over bolden, og med det andet bens hæl eller inderside sparke bolden lidt op i luften igen, så I kan jonglere videre."
 
