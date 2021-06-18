@@ -146,9 +146,9 @@ songs:
       id: kGT73GcwhCU
 ---
 
-EM har siden 1992 haft officielle slutrundesange. Jeg har her samlet de internationale EM-sange i en komplet liste, og du kan også få en liste over de danske EM-sange.
+EM har siden 1992 haft officielle slutrundesange. Jeg har her samlet de internationale EM-sange i en komplet liste, og du får også en liste over de danske EM-sange.
 
-UEFA laver til hver EM-slutrunde en officiel sang, som bliver brugt som opvarmning. Det gør de hver enekste år, og kunstnerne til EM-sangene er nogle store kunstere. EM-sangene synges på på engelsk.
+UEFA laver til hver EM-slutrunde en officiel sang, som bliver brugt som opvarmning. Det gør de hver eneste år, og ophavsmændene til EM-sangene er nogle store kunstere. EM-sangene synges på på engelsk.
 
 Jeg har lavet en komplet liste over [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %})
 

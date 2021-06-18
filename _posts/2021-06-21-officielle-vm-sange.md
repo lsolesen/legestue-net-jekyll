@@ -171,9 +171,9 @@ songs:
       id: V15BYnSr0P8
 ---
 
-VM har siden 1992 haft officielle slutrundesange. Jeg har her samlet de internationale VM-sange udgivet af FIFA i en komplet liste, og du kan også få en liste over de danske VM-sange.
+FIFA har siden 1962 udgivet en officiel sang til hver VM-slutrunde. Jeg har her samlet de internationale VM-sange i en komplet liste, og du får også en liste over de danske VM-sange.
 
-FIFA har siden 1962 udgivet en officiel sang til hver VM-slutrunde. Det gør de hver enekste år, og kunstnerne til VM-sangene er nogle store kunstere. VM-sangene synges på flere forskellige sprog.
+Det gør de hver eneste år, og kunstnerne til VM-sangene er nogle store kunstere. VM-sangene synges på flere forskellige sprog.
 
 Jeg har lavet en komplet liste over [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}) og du kan se de [officielle EM-sange fra UEFA her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
 
