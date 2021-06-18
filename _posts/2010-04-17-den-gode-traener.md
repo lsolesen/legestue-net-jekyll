@@ -1,5 +1,5 @@
 ---
-title: "Den gode træner?"
+title: &title "Fodboldtræner: Hvad kendetegner den gode træner?"
 redirect_from:
   - /content/den-gode-traener
   - /anmeldelse-fodboldtr-ning-et-v-ld-af-velser/
@@ -9,14 +9,20 @@ language: da
 header:
   overlay_image: /assets/images/den-gode-traener.jpg
   teaser: /assets/images/den-gode-traener.jpg
+  caption: *title
 categories:
-  - Webclips
+  - Fodboldtræning
 tags:
   - træner
+  - fodboldtræner
 last_modified_at: 2013-02-15T10:31:31Z
 ---
 
-Hvad vil det sige at være en god træner? For at komme tættere på svaret, kan vi lade os inspirere af nogle af pointerne fra bogen Praktisk Pædagogik skrevet af Helle Bjerregaard, lektor i professionspædagogik ved University College Syd.
+Hvad vil det sige at være en god træner? Hvad lægger børnene vægt på hos en god fodboldtræner, og hvordan bliver du bedre til det alsidige hverv?
+
+## 5 karakteristika for den gode fodboldtræner og lærer
+
+For at komme tættere på svaret, kan vi lade os inspirere af nogle af pointerne fra bogen Praktisk Pædagogik skrevet af Helle Bjerregaard, lektor i professionspædagogik ved University College Syd.
 
 Hun har spurgt børn i folkeskolen, hvad de vigtigste karakteristika for en god lærer er:
 
@@ -39,7 +45,7 @@ Dette er ifølge Helle Bjerregaard de væsentligste punkter for en god lærer i 
 
 Gælder det også for den gode træner, eller mangler der noget?
 
-## Hvordan er den gode træning skruet sammen?
+## 5 kriterier fodboldtræneren skal indtænke i en god fodboldtræning
 
 God forberedelse til træning er efter min mening karakteriseret ved, at:
 
@@ -64,7 +70,7 @@ Når først træneren har nogle mere præcise ideer med træningen, bør han åb
 
 Jeg har lige siddet og ryddet op i nogle gamle overheads, og der stødte jeg på et par overheads jeg har brugt i forbindelse med kurser for Danmarks Idræts-Forbund om trænerrollen. Her fandt jeg en overhead, der handlede om frafald i idræt. Jeg kan ikke huske hvilken undersøgelse tallene er fra (måske nogen af jer kan hjælpe), men det er i hvert fald ganske tankevækkende.
 
-## Årsager til frafald i idræt
+## 7 årsager til frafald i idræt
 
 - 50% ikke kontakt nok til træneren
 - 55% ikke opmuntrende nok
@@ -75,3 +81,5 @@ Jeg har lige siddet og ryddet op i nogle gamle overheads, og der stødte jeg på
 - 50% ville have fortsat hvis træneren havde været anderledes.
 
 Hvordan synes du træneren skal være? Kender undersøgelser, der belyser trænerrollen ift. fastholdelse af spillere?
+
+Jeg har rigtig gode minder om mine fodboldtrænere. Det har i høj grad været med til at forme min barndom.
