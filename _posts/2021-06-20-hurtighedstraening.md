@@ -1,5 +1,6 @@
 ---
 title: &title "Hurtighedstræning i fodbold: Sådan bliver du hurtigere!"
+seo_title: "Hurtighedstræning i fodbold - 4 gode øvelser!"
 permalink: /hurtighedstraening-fodbold/
 language: da
 header:
