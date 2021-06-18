@@ -283,6 +283,59 @@ Løbe stille og roligt fremad med bolden på tæerne. Det er reaktionen der er v
 - Balance med modsatte hånd og fod i græsset. Skift på trænerens signal.
 - Arbejd sammen to og to. Den ene lukker øjnene, den anden skal give vedkommende små lette, følte skub på brystet, skulderen, hoften, panden. Personen som bliver skubbet skal så hurtigt som muligt finde grundstillingen. Det betyder, at man skal være meget opmærksom på, hvilke muskler der er spændt og hvilke der er afslappet.
 
+### Overtalsspil til funktionel fodboldopvarmning
+
+- Overtalsspil
+3:1 – 4:1 – 5:1
+Justeres vha. aktivitetscirklen.
+
+- Undertalsspil
+4:2 – 5:2 – 6:2
+Justeres vha. aktivitetscirklen.
+
+- Ligetalsspil
+3:3 – 4:4 – 5:5
+Justeres vha. aktivitetscirklen.
+
+### Formelle øvelser
+
+- En spiller, en bold
+- To spillere, en bold.
+- Tre spillere, en-to bolde.
+- Tekniske aktiviteter ved at serve til hinanden.
+- Se under teknisk træning
+
+### Mængdespil
+
+Aktiviteter ud fra formlen: x antal spillere mod 0 (dvs. ingen modstand).
+x antal mennesker i et bestemt område, 1 eller flere bolde
+betingelser for afleveringsspil
+
+### Nummerspil
+
+Spil i bestemt rækkefølge.
+
+### Perceptionsspil
+
+Spil efter en bestemt farve.
+
+### Stafetter
+
+### Icebreakers til fodbold
+
+#### Katten efter musen
+
+Spillerne skal stå to og to sammen. I midten starter en mus og en kat. Hvis musen stiller sig ved siden af et par, bliver vedkommende på den anden side af den musen stiller sig ved siden af mus.
+Legen kan varieres ved, at vedkommende, som frigives, i stedet bliver kat og skal jagte den tidligere kat.
+
+#### Dyrelyden
+
+Alle mand går rundt i en firkant i en vilkårlig stilling og siger en lyd, de selv synes de er gode til at sige. Lyde ændres til at fortælle livretter til den, man bumper ind i.
+
+#### Rytterleg
+
+Ovenstående kan udvides til, at man går sammen parvis. Den ene (lille) hopper op på ryggen af den anden (store), og det gælder om at få rytteren af de andre heste til at falde af.
+
 ## Handlebane og teknikbane til opvarmning eller frikvarter i træningen
 
 Som et integreret frikvarter og teknisk øvelse kan en handlebane bruges. Rundt på en halv fodboldbane opstilles en slags forhindringsbane, hvor spilleren vil blive mødt med nogle opgaver. Træneren stiller sig et sted, hvor der vil blive arbejdet målrettet med et teknisk element, mens gennemløbet af resten af banen er forbundet med forskellige opgaver. Disse kan evt. annonceres på et skilt ved hver ny opgave.

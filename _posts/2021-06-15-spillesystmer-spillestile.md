@@ -16,23 +16,25 @@ last_modified_at: 2021-06-11T10:33:33Z
 
 I dette indlæg har vi forsøgt at beskrive forskellige spillessystemer og spillestile til fodbold. Som træner er det rigtig godt at vælge en måde, du gerne vil spille på. Det kalder man en spillestil og et spillesystem. Spillestilsbolden kan være et godt værktøj til at få lidt struktur på dine tanker.
 
-Hvad og hvem der afgør hvilken stil og hvilket system der vælges til holdet, afhænger af:
+Hvad og hvem der afgør hvilken stil, og hvilket system der vælges til holdet, afhænger af:
 
 - Spillermateriale (styrker / udviklingspotentialer / svagheder).
 - Trænerens indstilling (erfaring / indlæring).
 - Klubben (traditioner / fast spillestil og –system / målsætning).
 
-> ”Den nemmeste måde at vindepå er ved at spille godt, havebolden meget og angribe. Det er langt farligere at forsøge at spilleuden risiko.”
+> ”Den nemmeste måde at vinde på er ved at spille godt, have bolden meget og angribe. Det er langt farligere at forsøge at spille uden risiko.”
 
 --- <cite>Guardiola</cite>
 
 ## Spillesystemer i fodbold
 
-Spillesystemet fortæller hvordan vi organiserer os, og hvor mange spillere, der er i de tre kæder. Eksempelvis er det meget brugt i tiden at spille 4:4:2 eller 4:3:3. Man kan også spille 3:5:2 og 4:5:1. De skematiske betegnelser refererer til udgangsopstillingen.
+Spillesystemet fortæller hvordan vi organiserer os, og hvor mange spillere, der er i de tre kæder. Eksempelvis er det meget brugt i tiden at spille 4:4:2 eller 4:3:3. Man kan også spille 3:5:2 og 4:5:1. De skematiske betegnelser refererer til **udgangsopstillingen**.
 
 Så skal der tages stilling til, hvordan formationerne skal være i de tre kæder. Det vil sige, om man spiller på linie i bagkæden eller spiller med sweeper, om man spiller i diamant på midten, eller på linie, eller i en halvbue.
 
-Inden for systemet har spillerne forskellige arbejdsopgaver (som Allan Michaelsen fortalte meget om). Nogle af de gængse systemer beskrives kort i det følgende.
+Inden for systemet har spillerne forskellige arbejdsopgaver. Nogle af de gængse systemer beskrives kort i det følgende.
+
+**For alle spillesystemer gælder det, at du kan bruge forskellige spillestile. Her kan du læse nogle meget overordnede betragtninger om de enkelte spillesystemer.
 
 ### 4:4:2
 
@@ -42,35 +44,35 @@ Forsvarets vigtigste opgaver er sideforskydning og opbakning. Hvis eksempelvis b
 
 Midtbanen spiller på stort set samme måde.
 
-### 3:5:2
+{% include figure image_path="/assets/images/spillesystem/442.png" caption="Eksempel på opstilling i 4:4:2 i fodbold" alt="opstilling 4-4-2 fodbold" %}
 
-Forsvaret spiller med en sweeper og to forsvarsspillere. Ved denne spillestil, ligger sweeperen med dybde ift. de to øvrige forsvarsspillere. Sweeperen fungere som opbakningsspiller, mens de to andre enten spiller som markering eller i en zone.
+### 3:5:2 med sweeper
+
+Forsvaret spiller med en sweeper og to forsvarsspillere. Ved denne spillestil, ligger sweeperen med dybde ift. de to øvrige forsvarsspillere. Sweeperen fungerer som opbakningsspiller, mens de to andre enten spiller som markering eller i en zone.
 
 Midtbanen ligger med en bagerste mand som fungerer som vende- og støttespiller. Desuden fungere han som opbakningsspiller for de to kantspillere. Angrebsmæssigt arbejder de to kantspillere primært ved bredde og dybdespil. Man de skal sideforskyde ved forsvar.
 
 To forreste midtbanespillere som fungere som bindeled mellem angreb og midtbane.
 
-### 4:4:2
+{% include figure image_path="/assets/images/spillesystem/352.png" caption="Eksempel på opstilling i 3:5:2 i fodbold" alt="opstilling 3-5-2 fodbold" %}
+
+### 4:4:2 med sweeper
 
 4:4:2 kan også spilles med sweeper / libero ved at spille med det, man kalder en diamant. Forsvaret fungerer stort set som i den før omtalte 4:4:2. Dog ligger der én foran forsvaret, kaldt forstopperen. Det gør at ansvarsområderne for forsvaret bliver mindre.
 
 Midtbanen fungerer nu med kun én forreste midtbane, men ellers med samme system.
 
-### Norsk zoneforsvar
-
-v/ Allan Michaelsen, assistenttræner for Vejle Boldklub i Faxe Kondi Ligaen.
+{% include figure image_path="/assets/images/spillesystem/442-sweeper.png" caption="Eksempel på opstilling i 4:4:2 med sweeper i fodbold" alt="opstilling 4-4-2 fodbold med sweeper" %}
 
 ### 4:3:3
 
-Vejle forsøger at spille 4:3:3 med en flad 4-kæde, som skal forsøge at ligge 25 meter fra mållinien, hvis modstanderne har bolden. Angriberne ligger bredt med wings og en central.
+4:3:3 med en flad 4-kæde, som skal forsøge at ligge 25 meter fra mållinjen, hvis modstanderne har bolden. Angriberne ligger bredt med wings og en central.
 
 4:3:3 er i øjeblikket et modesystem i Danmark.
 
-### 4:5:1
+{% include figure image_path="/assets/images/spillesystem/433.png" caption="Eksempel på opstilling i 4:3:3 i fodbold" alt="opstilling 4-3-3" %}
 
-4:3:3 kan hurtigt konverteres til 4:5:1, hvor angriberen leder angrebet og resten ligger i to kæder, som forsøger at erobre bolden efter zoneprincipperne (se yderligere under taktisk træning).
-
-### Principper i 4:3:3 (kursiverede særligt for den norske måde at forsvare på)
+### Principper i 4:3:3
 
 - forsvaret falder, hvis der ikke er tryk på boldholder.
 - tidspunkt for at falde er når angriberen giver tegn til en lang pasning.
@@ -85,7 +87,11 @@ Vejle forsøger at spille 4:3:3 med en flad 4-kæde, som skal forsøge at ligge 
 - Tvivl om arbejdsfordeling.
 - Fordeling af arbejdsbyrde.
 
-### Aftaler i systemet og Vejle Boldklub
+### 4:5:1
+
+4:3:3 kan hurtigt konverteres til 4:5:1, hvor angriberen leder angrebet og resten ligger i to kæder, som forsøger at erobre bolden efter zoneprincipperne.
+
+### Aftaler i 4:3:3
 
 - En skal gå kort, en anden dybt. Samarbejde parvist i angrebssituationer.
 - Midtbanespillerne må ikke komme for tæt på bagkæden, da bagkæden i dette tilfælde vil komme til at mangle afspilsmuligheder.

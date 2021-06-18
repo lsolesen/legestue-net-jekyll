@@ -523,12 +523,16 @@ almindelig vis.
 skifter mellem at være server og afslutter – og også
 skifter fra side til side.
 
+{% include figure image_path="/assets/images/oevelser/afslutning-almindelig-skudtraening-u1012.png" caption="Forslag til afslutningstræning i fodbold." alt="afslutningstræningtræning fodbold" %}
+
 2. Med modstand. Spilleren (A) dribler mod mål, af-
 dribler modstander (B eller C) og afslutter. Får fat i
 egen bold og stiller sig bag i rækken. Modstander B
 løber efter at have forsvaret bag i modsatte række
 (C). På et tidspunkt deler A-rækken sig og bytter
 med B- og C-rækken.
+
+{% include figure image_path="/assets/images/oevelser/afslutning-skudtranening-med-modstand-u1012.png" caption="Forslag til afslutningstræning i fodbold." alt="afslutningstræningtræning fodbold" %}
 
 3. 2:2 med træneren som server. To minutters arbejde.
 Træneren server, og der spilles 2:2 med afslutning.

@@ -64,7 +64,7 @@ Med restitutionstræning handler det om at træne med ømme muskler og aktivt f�
 
 Løb er måske den mest fremtrædende træningsform, men man kan overveje om det ikke er at spilde en chance for fx at forbedre sine tekniske evner på banen samtidig med man restituerer?
 
-[Restution og restitutionstræning](https://www.motionsplan.dk/artikel/restitution-hvordan-bliver-jeg-hurtigst-klar-igen/) er altså et spørgsmål om, at sænke din [restitutionstid](https://www.motionsplan.dk/restitutionstid-og-alder/), så du er klar til at træne igen.
+[Restitution og restitutionstræning](https://www.motionsplan.dk/artikel/restitution-hvordan-bliver-jeg-hurtigst-klar-igen/) er altså et spørgsmål om, at sænke din [restitutionstid](https://www.motionsplan.dk/restitutionstid-og-alder/), så du er klar til at træne igen.
 
 Der findes mange forskellige tricks til at sænke restitutionstiden: Nogle foreslår [kompressionsstrømper](https://www.motionsplan.dk/kompressionsstroemper-restitution-praestation-bivirkninger/), [sportsmassage](https://www.motionsplan.dk/massage/), [isbad og kryoterapi](https://www.motionsplan.dk/isbad-og-kryoterapi/), [recovery boots og vakuum bukser](https://www.motionsplan.dk/recovery-boots-restitution/) eller [åndedrætstræning og vejrtrækningsøvelser](https://www.motionsplan.dk/aandedraetstraening-forbedrer-udholdenheden/).
 
@@ -141,6 +141,8 @@ Den klassiske måde er at løbe rundt og slutte med at strække. Man kan måske 
 ### Afleveringsøvelse
 
 Fem sammen delt i to rækker. Man afleverer til vedkommende i den anden række og løber om i den modsatte række. Sørg for rimelig afstand, så løbet bliver restitution. Kvalitetskravet kan være: lav 100 afleveringer. Så begynder udstrækningen, og spillerne kan gå ind.
+
+{% include figure image_path="/assets/images/oevelser/restitution-afleveringsoevelse.png" caption="Forslag til afleveringsøvelse, som du kan bruge i restitutionstræningen." alt="restitutionstræning fodbold" %}
 
 ### Sidste klapper dukker
 
