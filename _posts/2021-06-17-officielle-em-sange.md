@@ -150,7 +150,7 @@ EM har siden 1992 haft officielle slutrundesange. Jeg har her samlet de internat
 
 UEFA laver til hver EM-slutrunde en officiel sang, som bliver brugt som opvarmning. Det gør de hver enekste år, og kunstnerne til EM-sangene er nogle store kunstere. EM-sangene synges på på engelsk.
 
-Jeg har lavet en komplet liste over [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}).
+Jeg har lavet en komplet liste over [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %})
 
 Det fede ved at se **musikvideoerne til de officielle EM-sange** er, at de er fyldt med rigtig lækre fodboldbilleder også.
 
@@ -204,7 +204,7 @@ Her har du en hurtig oversigt over de forskellige fodboldsange, der er lavet til
 | {{ song.title }} | {{ song.year }} | {{ song.event }} | {{ song.artist }} |
 {%- endfor %}
 
-Jeg har lavet en [playliste på Youtube](https://www.youtube.com/playlist?list=PLNkD7iq9OqKhOvUVXj18zgB5OGy54YMM-) med de danske EM-sange.
+Tjek alle de [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}).
 
 ## Playliste med officielle EM-sange
 
@@ -218,4 +218,4 @@ Så nu skal du egentlig bare have valgt den bedste EM-sang. Her har du lige den 
 - {{ song.artist }}: {{ song.title }} --- {{ song.year }}, {{ song.event }}
 {%- endfor %}
 
-Rigtig god fornøjelse med at nyde EM-slutrunderne. Husk at tjekke den [komplette liste over danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}).
+Rigtig god fornøjelse med at nyde EM-slutrunderne. Husk at tjekke den [komplette liste over danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}) og [listen over VM-sange]({% link _posts/2021-06-21-officielle-vm-sange.md %})

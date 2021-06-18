@@ -247,4 +247,4 @@ Så nu skal du egentlig bare have valgt den bedste fodboldslagsang. Her har du l
 
 Rigtig god fornøjelse med at nyde Herrelandsholdet og Kvindelandsholdet, når de tørner ud for Danmark.
 
-Husk at tjekke den [komplette liste over de officielle EM-sange her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
+Husk at tjekke den [komplette liste over de officielle EM-sange her]({% link _posts/2021-06-17-officielle-em-sange.md %}) og [listen over VM-sange]({% link _posts/2021-06-21-officielle-vm-sange.md %}).
