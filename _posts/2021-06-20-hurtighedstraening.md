@@ -34,6 +34,12 @@ Her er nogle øvelser til at arbejde med spillernes hurtighed.
 - sammensætninger med hælspark og knæløft.
 - sammen to og to: kig på løbeteknikken.
 
+## Stigeøvelser
+
+Du kan træne hurtige fødder med stigeøvelser. Det er også glimrende koordinationstræning. Om du kommer til at løbe hurtigere af stigeøvelser er ikke helt sikkert.
+
+{% include video provider="youtube" id="awjcuxLUywQ" %}
+
 ## Formel hurtighedstræning
 
 - pausen skal ved sprints være mindst 25 sekunder.

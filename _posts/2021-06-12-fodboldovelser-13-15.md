@@ -319,7 +319,7 @@ Der skal altid være 2 afleveringsmuligheder for
 boldholderen (ved nærmeste kegler). Midtermanden
 kommer ud, enten når han rører eller erobrer bolden.
 
-{% include figure image_path="/assets/images/oevelser/bandespil-3vs1-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+{% include figure image_path="/assets/images/oevelser/bandespil-3vs1-u1315.png" caption="Forslag til bandespil i fodbold." alt="bandespil fodbold" %}
 
 3. To rækker med spillere
 C er bandespiller. A spiller til C, der spiller til A, der
@@ -327,13 +327,13 @@ er løbet i position. A spiller til B, der nu bruger C
 som bande. Husk at skifte bandespilleren efter hver
 omgang.
 
-{% include figure image_path="/assets/images/oevelser/bandespil-to-raekker-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+{% include figure image_path="/assets/images/oevelser/bandespil-to-raekker-u1315.png" caption="Forslag til bandespil i fodbold." alt="bandespil fodbold" %}
 
 4. Dobbelt bandespil
 A dribler laver bandespil med C, og bagefter med B,
 hvorefter der skydes på mål. Pas på ’køen’!
 
-{% include figure image_path="/assets/images/oevelser/bandespil-dobbelt-bandespil-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+{% include figure image_path="/assets/images/oevelser/bandespil-dobbelt-bandespil-u1315.png" caption="Forslag til bandespil i fodbold." alt="bandespil fodbold" %}
 
 5. Overtalsspil
 Der spilles 5:5+5 på begrænset område. Det gælder
