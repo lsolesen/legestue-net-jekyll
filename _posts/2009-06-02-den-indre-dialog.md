@@ -9,10 +9,10 @@ header:
   teaser: /assets/images/den-indre-dialog.jpg
   caption: *title
 categories:
-  - Fodboldtræning
-  - Læring
-  - Veje til udvikling
+  - Psykologi
 tags:
+  - læring
+  - Veje til udvikling
   - mental træning
 last_modified_at: 2020-02-20T10:43:21Z
 feature_row:

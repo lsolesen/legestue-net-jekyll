@@ -7,13 +7,14 @@ header:
   caption: *title
   alt: "Photo by Jannik Skorna on Unsplash"
 categories:
-  - Veje til udvikling
+  - Balance
 tags:
   - Børnetræningsmanual 2006
   - balance
   - motorik
   - kropsbeherskelse
   - balancetræning
+  - Veje til udvikling
 last_modified_at: 2021-02-18T09:16:02Z
 ---
 

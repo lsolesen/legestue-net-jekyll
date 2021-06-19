@@ -11,9 +11,9 @@ header:
   teaser: /assets/images/opvarmning-fodbold.jpg
   caption: *title
 categories:
-  - Veje til udvikling
   - Fodboldtræning
 tags:
+  - Veje til udvikling
   - Børnetræningsmanual 2006
   - opvarmning
 last_modified_at: 2021-04-10T15:16:02Z

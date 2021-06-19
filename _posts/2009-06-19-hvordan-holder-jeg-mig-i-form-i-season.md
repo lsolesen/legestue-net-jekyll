@@ -10,9 +10,6 @@ redirect_from:
 language: da
 categories:
   - Fodboldtræning
-  - Videnskab
-  - Undervisning
-  - Veje til udvikling
 tags:
   - Fodboldtræning
   - Veje til udvikling

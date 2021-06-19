@@ -7,10 +7,11 @@ header:
   teaser: https://www.kristeligt-dagblad.dk/sites/default/files/styles/main-wide-944/public/2016/08/95967597-1000x50we.jpg
   caption: Billede fra Kristelig Dagblad
 categories:
-  - Veje til udvikling
+  - Viden om
 tags:
   - Børnetræningsmanual 2006
   - børns udvikling
+  - Veje til udvikling
 last_modified_at: 2021-06-07T15:16:02Z
 toc: true
 feature_row:

@@ -8,7 +8,6 @@ header:
   teaser: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=400&q=80
 categories:
   - Undervisning
-  - Veje til udvikling
 tags:
   - Fodboldtræning
   - Veje til udvikling

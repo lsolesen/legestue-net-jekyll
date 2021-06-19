@@ -14,8 +14,7 @@ header:
   caption: *title
   alt: Photo by Baylee Gramling on Unsplash
 categories:
-  - Undervisning
-  - Veje til udvikling
+  - Restitution
 tags:
   - Børnetræningsmanual 2006
   - nedvarmning

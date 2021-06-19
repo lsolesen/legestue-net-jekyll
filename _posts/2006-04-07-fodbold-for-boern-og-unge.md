@@ -6,10 +6,11 @@ header:
   teaser: https://parasport.dk/media/1097/fodbold3.jpg?crop=0.041903881166372822,0.23418124349202729,0.3078634800450834,0.31104084988706471&cropmode=percentage&width=940&height=430&rnd=131949609520000000
   caption: Billede fra Parasport Danmark
 categories:
-  - Veje til udvikling
+  - Fodboldtræning
 tags:
   - Børnetræningsmanual 2006
   - træning
+  - Veje til udvikling
 last_modified_at: 2015-04-07T15:16:02Z
 ---
 

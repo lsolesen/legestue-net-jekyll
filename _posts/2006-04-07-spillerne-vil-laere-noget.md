@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/motivation-fodbold-traening.jpg
   caption: *title
 categories:
-  - Veje til udvikling
   - Fodboldtræning
 tags:
   - Fodboldtræning

@@ -13,8 +13,9 @@ header:
   teaser: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
 categories:
-  - Veje til udvikling
+  - Fodboldtræner
 tags:
+  - Veje til udvikling
   - Børnetræningsmanual 2006
   - værktøjskasse
 last_modified_at: 2021-04-07T15:16:02Z

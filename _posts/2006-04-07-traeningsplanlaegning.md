@@ -10,8 +10,9 @@ header:
   teaser: https://previews.123rf.com/images/matimix/matimix1602/matimix160200011/53762250-coach-giving-young-soccer-team-instructions-youth-soccer-team-together-before-final-game-football-ma.jpg
   caption: *title
 categories:
-  - Veje til udvikling
+  - Fodboldtræning
 tags:
+  - Veje til udvikling
   - Børnetræningsmanual 2006
   - træningsplanlægning
 last_modified_at: 2021-04-07T15:16:02Z
