@@ -48,7 +48,7 @@ Baner, der er anlagt før 2012, bliver også godkendt af DBU i størrelsen 102 m
 
 Her har jeg samlet en oversigt over, hvor stort et fodboldmål er. Igen afhænger det af, hvor mange spillere der er på banen til de forskellige kampe.
 
-|               | Bredde | Højde  |
+|               | Bredde (m) | Højde (m)  |
 |---------------|--------|--------|
 | 11-mandsbane  | 7,32   | 2,44   |
 | 7/8-mandsbane | 5      | 2      |
@@ -67,6 +67,46 @@ I denne tabel kan du se, hvor stort straffesparksfeltet er i fodbold. Der er et 
 | 3-mandsbane   | Ingen             | Ingen  |
 
 Måske kan du også være interesseret i, hvor stort et målfelt er? Det er det lille felt inden i straffesparksfeltet på en 11-mandsbane. Et målfelt er 18,32 cm langt og 5,5 meter bredt. Der er ikke et målfelt på de mindre baner.
+
+## Hvor stor er en 11-mandsbane i fodbold?
+
+Størrelsen på en 11-mandsbane er faktisk ikke helt så nøjagtige som man skulle tro. Både længden og bredden kan variere:
+
+- **Længde (sidelinjer)**: Minimum 90 meter - Maksimum 120 meter
+- **Bredde (mållinjer)**: Minimum 45 meter - Maksimum 90 meter
+
+Linjerne på en fodboldbane skal være 10 cm brede, og de skal være vide.
+
+I **internationale kampe** er der lidt mere snævre grænser for, hvor stor fodboldbanen skal være:
+
+- **Længde (sidelinjer)**: Minimum 100 meter - Maksimum 110 meter
+- **Bredde (mållinjer)**: Minimum 64 meter - Maksimum 75 meter
+
+Den **mest anvendte størrelse** på en fodboldbane er imidlertid 105 x 68 meter, som er de mål, jeg har skrevet ovenfor.
+
+De indvendige mål for et fodboldmål er 7,32 og 2,44.
+
+## Yderligere informationer om fodboldbanen
+
+En fodboldbane skal være rektangulær (længden skal være større end bredden), og den skal være afmærket med linjer. Linjerne hører med til banen.
+
+Banen har sidelinjer og baglinjerne hedder i virkeligheden mållinjer.
+
+Banen er delt i to halvdele af midterlinjen, som går helt ud til sidelinjerne.
+
+På en 11-mandsbane er der fra banens centrum en midtercirkel på 9,15 meter i radius.
+
+**Målfeltet** er det mindste felt lige omkring målet. Det har en bredde på 5,5 meter fra indersiden af hver målstolpe. Linjerne er 5,5 meter lange. 
+ 
+**Straffesparksfeltet** er det store felt, hvor målmanden må tage med hænder. Fra indersiden af hver målstolpe er der 16,5 til siderne af straffesparksfeltet. Linjerne er også 16,5 meter lange.
+
+**Straffesparkspletten** eller **straffesparksmærket** er 11 meter fra mållinjen. Straffesparkspletten er 22 cm i diameter. Der laves en cirkelbue med en radius på 9,15 meter fra straffesparkspletten.
+
+**Hjørneflagene** står i hver hjørne af af banen. Hjørneflagne skal være mindst 1,5 meter høje og have et flag på den.
+
+Ved hjørneflagene er der en kvartcirkel, der har en radius på 1 meter.
+
+{% include figure image_path="/assets/images/posts/fodboldbanestorrelse-11.png" caption="Her kan du se målene på en fodboldbane til 11-mands" alt="størrelse fodboldbane" %}
 
 ## Konklusion
 
