@@ -70,6 +70,8 @@ ind til opgiveren, og pointstællingen stopper. Byt
 f.eks. når alle på indeholdet har sparket – eller lad det
 foregå på tid. Der er ingen, der ’dør’.
 
+![](/assets/images/fodboldlege/fodboldrundbold.png)
+
 ### Udviklingsmuligheder af fodboldrundbold
 
 Udvikling kan foregå ved at alle på indeholdet har
@@ -165,6 +167,7 @@ legen.
 ## 21 andre opvarmningslege til fodbold
 
 ### 1. Snuppe haler
+
 En bold og en vest pr. spiller. Vesten sættes fast i
 buksekanten. Afhængig af spillerantallet vælges x
 antal fangere, der ikke har nogle veste. Alle dribler

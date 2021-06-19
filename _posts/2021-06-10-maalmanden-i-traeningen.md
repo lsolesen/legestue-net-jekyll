@@ -119,39 +119,50 @@ i stedet for at lave f.eks. hovedstød, gå op og gribe
 bolden over hovedet. Han kan samle den op i stedet for at lave indersidespark. Husk blot på, at han
 også bør vide, at det er vigtigt, at han kan bruge
 fødderne.
+
 2. Bold i egne rækker. Der spilles 7 mod 7 på et
 afgrænset område. Der scores ved at sparke op i
 målmandens hænder. Det giver et lidt mere dynamisk spil, hvis der er to målmænd, som begge kan
 fungere som mål.
+
 3. Vendespil. Der spilles på et afgrænset område med
 en målmand i hver sin ende. Det gælder om at
 spille den ned til målmanden i den ene ende. Når
 man har gjort det, får man bolden af målmanden
 igen, og nu skal man spille ned i den anden ende.
+
 4. Trekantmål. Spillerne spiller på et afgrænset
 område to hold mod hinanden. I nogen afstand
 fra hinanden opstilles en trekant af kegler. Målmandens opgave er at forsvare de tre mål, denne
 trekant udgør. Scoring hvis bolden går gennem tre-
 kanten. Spillerne må ikke løbe gennem trekanten.
+
 5. Bold gennem målområde. Der laves tre områder.
 I midterområdet står målmanden på et fire-fem
 meter bredt keglemål. I yderområderne spiller hol-
 dene 2:1 hhv. 1:2. Der må gerne afleveres gennem
 midterområdet, men der bliver kun scoret, hvis den
 kommer igennem målet.
+
+![](/assets/images/oevelse/maalmandsspil.png)
+
 6. Intervalspil. Der spilles på en kort bane med mange
 afslutninger. Målmanden hele tiden aktiv. Spillerne
 skal være kort tid på banen.
+
 7. Grøftespil. Der må kun scores efter indlæg. Mål-
 manden må gerne gå ud i feltet og gribe bolden.
+
 8. Spil på 1/2 bane. Målmanden som igangsætter.
 Ved afslutning forsøger målmanden hurtigt at
 kaste/sparke bolden præcist ud. I modsatte side
 er der ofte plads.
+
 9. Kortbanespil ca. 20-25 meter. 3:3 eller 4:4 og
 to målmænd. Der kan kun afsluttes fra egen
 banehalvdel (langskud), men gerne spilles over
 hele banen. Se på målmandens placering.
+
 10. 4:4 til 1 mål. Træneren eller en spiller server til
 angriberne, som forsøger at score. Erobrer
 forsvaret bolden, skal den spilles til træneren,
@@ -160,6 +171,7 @@ points til forsvaret. Kan ændres, så der er to små
 mål ved midterlinjen. Når forsvaret har scoret i de
 små mål, skifter de to hold plads. Det er mest
 attraktivt at skyde mod stort mål.
+
 11. Der spilles 3:3 i et område på kanten af
 straffesparkfeltet. Pludselig skyder én af spillerne.
 

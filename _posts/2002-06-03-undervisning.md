@@ -127,11 +127,9 @@ Hagenbo slår til lyd for, at skolelærerne skal udskiftes af pølsemænd med de
 
 Anders Levinsen påpeger dog også, at bosnierne især er gode, når de har bolden, for de mangler struktur og organisation i deres spil. Men indøvelsen af teknik og rumopfattelse kan godt være dele af samme øvelse. Fx når du under en dribleøvelse i kaosorganisation inden for en firkant beder om, at der er spillere over hele området.
 
-{% comment %}
-INGEN BEGÅR FEJL MED VILJE
-KOM IGEN ERSTATTES AF PRØV I STEDET 1-2-finten
-ROS I SMÅ DOSER
-{% endcomment %}
+- INGEN BEGÅR FEJL MED VILJE
+- KOM IGEN ERSTATTES AF PRØV I STEDET 1-2-finten
+- ROS I SMÅ DOSER
 
 [^note7]: Citeret fra Levinsen, Anders: ”Ind over til fantasien”, i: Politiken, 21. august 2000.
 [^note8]: Citeret fra Kragh, Nina: ”Pølsemænd frem for skolelærere”, i: Politiken, 11. oktober 1999. Mik Hagenbo er håndboldtræner på eliteniveau, men hans ideer rækker bredere end håndboldspillet.

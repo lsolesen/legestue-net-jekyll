@@ -53,66 +53,66 @@ Alle organisationsændringer har en betydning for aktiviteternes kendetegn, og h
 ## Banen
 
 Lille
-:Driblinger og tacklinger og hurtigt positionsspil.
+: Driblinger og tacklinger og hurtigt positionsspil.
 
 Stor
-:Lange afleveringer, lettere at spille sammen, udnytte spilbredde og -dybde.
+: Lange afleveringer, lettere at spille sammen, udnytte spilbredde og -dybde.
 
 Aflang
-:Spildybde, høje afleveringer, dybdeløb, presspil.
+: Spildybde, høje afleveringer, dybdeløb, presspil.
 
 Bred 
-:Udnytte banens bredde, tværafleveringer, arbejde med opbakning i forsvaret.
+: Udnytte banens bredde, tværafleveringer, arbejde med opbakning i forsvaret.
 
 Trekantet
-:Split vision og beslutningstagning.
+: Split vision og beslutningstagning.
 
 ## Mål
 
 Små
-:Driblinger, hurtigt positionsspil.
+: Driblinger, hurtigt positionsspil.
 
 Store
-:Forbedre afslutningsmulighederne, samarbejde målmand og forsvar.
+: Forbedre afslutningsmulighederne, samarbejde målmand og forsvar.
 
 Andre
-:Scoringer efter antal afleveringer animerer til hurtigt positionsspil, scoringer ved at drible over baglinje fremprovokerer driblinger, scoring med bestemte kropsdele.
+: Scoringer efter antal afleveringer animerer til hurtigt positionsspil, scoringer ved at drible over baglinje fremprovokerer driblinger, scoring med bestemte kropsdele.
 
 ## Bold
 
 En
-:Almindelig fodbold.
+: Almindelig fodbold.
 
 Flere
-:Split vision og beslutningstagning.
+: Split vision og beslutningstagning.
 
 ## Spillere
 
 Overtal
-:Fremmer afleveringsspillet, lettere at komme til afslutning, spilbredde, pres på modspiller med bolden.
+: Fremmer afleveringsspillet, lettere at komme til afslutning, spilbredde, pres på modspiller med bolden.
 
 Undertal
-:Forsvarsspil, holde på bolden.
+: Forsvarsspil, holde på bolden.
 
 Ligetal
-:Bandespil, afleveringsmuligheder, hurtig omstilling.
+: Bandespil, afleveringsmuligheder, hurtig omstilling.
 
 Få 
-:Mange boldberøringer, stor deltagelse i spillet, fysisk krævende.
+: Mange boldberøringer, stor deltagelse i spillet, fysisk krævende.
 
 Mange
-:Arbejdsdeling mellem spillerne.
+: Arbejdsdeling mellem spillerne.
 
 Tre hold
-:Beslutningstagning.
+: Beslutningstagning.
 
 ## Betingelser
 
 Friområde
-:Gør det lettere at slå indlæg, fremmer temposkift.
+: Gør det lettere at slå indlæg, fremmer temposkift.
 
 Berøringer
-:Vendinger og driblinger hvis man spiller med mindst 5 berøringer, hurtigt pasningsspil hvis man spiller med maksimalt to berøringer, førsteberøring hvis man spiller med nøjagtig to berøringer.
+: Vendinger og driblinger hvis man spiller med mindst 5 berøringer, hurtigt pasningsspil hvis man spiller med maksimalt to berøringer, førsteberøring hvis man spiller med nøjagtig to berøringer.
 
 Det var blot nogen af justeringsmulighederne. Aktivitetsbolden er dit vigtigste redskab, hvis du har sat en aktivitet i gang, og du gerne vil have et eller andet aspekt i spillet tydeligere frem.
 

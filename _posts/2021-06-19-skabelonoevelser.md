@@ -16,11 +16,15 @@ tags:
 last_modified_at: 2021-06-11T10:33:33Z
 ---
 
-Skabelonøvelser i fodbold kan være en god måde at lave taktisk træning på. Du får stillet spillerne op på faste positioner og kan arbejde med løbemønstre.
+Skabelonøvelser i fodbold kan være en god måde at lave taktisk træning på. I opspilsøvelser får du stillet spillerne op på faste positioner og kan arbejde med løbemønstre i jeres opspil.
 
 Jeg har her skitseret nogle forskellige skabelonøvelser, men det er vigtigt, at du vælger en skabelonøvelse, der passer til dit [spillesystem og spillestil]({% link _posts/2021-06-15-spillesystmer-spillestile.md %}) og naturligvis dine spilleres fysiske og mentale udviklingstrin.
 
-## Skabelon øvelser til fodbold
+## Skabelon øvelser og opspilsøvelser til fodbold
+
+Skabelonøvelser i fodbold kan bruges til at træne opspil, men opspilsøvelser behøver ikke nødvendigvis være på hele banen.
+
+Vi starter med en skabelonøvelse, som træner gode løbemønstrene i afleveringerne.
 
 ## 4 om en bold: Kort, kort, lang
 

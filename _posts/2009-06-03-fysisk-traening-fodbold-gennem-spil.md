@@ -45,7 +45,9 @@ Den fysiske træner ville som det første beskrive de fysiske arbejdskrav i fodb
 
 Desuden ville han konkludere, at en spiller bevæger sig mellem 9 og 14 kilometer i løbet af en divisionskamp (Bangsbo: 59), og at det er mere betydningsfuldt at kunne arbejde med høj intensitet i flere perioder af kampen, end at kunne tilbagelægge en lang løbedistance i løbet af de 90 minutter (Bangsbo: 68).
 
-Spilleren kan kun forvente at være i boldbesiddelse omkring 3% af kampen. Arbejdet uden bold er altså meget betydningsfuldt. Den fysiske træner ville også vide, at der er forskel på arbejdskravene fra position til position på banen (Bangsbo: 65). Arbejdskravet i fodbold er af intermittent karakter, og derfor skal konditionstræningen også planlægges som sådan, hvilket 'Trænerens Bibel' er enig i. Spillerne skal kunne arbejde med en høj intensitet i korte perioder. Intervaltræning er den bedste træningsform til at opnå dette, da spillerne kan arbejde med en højere intensitet gennem længere tid end ved kontinuerlig træning (distancetræning) (Åstrand og Rodahl: 423).
+Spilleren kan kun forvente at være i boldbesiddelse omkring 3% af kampen. Arbejdet uden bold er altså meget betydningsfuldt. Den fysiske træner ville også vide, at der er forskel på arbejdskravene fra position til position på banen (Bangsbo: 65). Arbejdskravet i fodbold er af intermittent karakter, og derfor skal konditionstræningen også planlægges som sådan, hvilket 'Trænerens Bibel' er enig i.
+
+Spillerne skal kunne arbejde med en høj intensitet i korte perioder. Intervaltræning er den bedste træningsform til at opnå dette, da spillerne kan arbejde med en højere intensitet gennem længere tid end ved kontinuerlig træning (distancetræning) (Åstrand og Rodahl: 423).
 
 Det beror altså på en fejlslagen opfattelse, når distancerne til intervalløb foreslås udregnet fra [Coopers løbetest](https://www.motionsplan.dk/cooper-test/) i 'Trænerens Bibel'. Det er umåde få tilfælde, hvor en spiller løber kontinuerligt i 12 minutter i en fodboldkamp. De mere opfindsomme trænere organiserer intervalløbene med udgangspunkt i spillets arbejdskrav med mange vendinger indlagt. Men det er ikke nødvendigt, og det er ikke særligt befordrende for glæden ved spillet, og da mange spillere kun træner to eller tre gange om ugen, bør der være en masse bold i øvelserne.
 
@@ -55,13 +57,17 @@ Spillernes konditionelle formåen er af stor betydning for den måde, vi ønsker
 
 Hurtigt positionsspil med vægt på gensidig forståelse spillerne imellem og overskud hos den enkelte spiller til at forsøge noget på egen hånd. Det handler om at have løbestærke og løbevillige spillere, som er udholdende og har en evne til at arbejde intensivt gennem et længere tidsrum. Den gode kondition gør, at det tekniske og taktiske niveau kan være højt kampen igennem.
 
-Her skelner vi bevidst mellem udholdenhed og den maksimale iltoptagelse. Udholdenheden er evnen til at arbejde med høj intensitet gennem lang tid, som er vigtigt i fodbold. Den maksimale iltoptagelse er et udtryk for evnen til at arbejde intensivt gennem et kort tidsrum. Men det skal også være kloge spillere, som ikke løber en masse unødvendige meter, og vigtigst af alt: de skal bevæge sig fornuftigt i forhold til hinanden. Som Steno Montanus skriver på sin underfundige, ironiske facon:
+Her skelner vi bevidst mellem udholdenhed og den maksimale iltoptagelse. Udholdenheden er evnen til at arbejde med høj intensitet gennem lang tid, som er vigtigt i fodbold. Den maksimale iltoptagelse er et udtryk for evnen til at arbejde intensivt gennem et kort tidsrum.
+
+Men det skal også være kloge spillere, som ikke løber en masse unødvendige meter, og vigtigst af alt: de skal bevæge sig fornuftigt i forhold til hinanden. Som Steno Montanus skriver på sin underfundige, ironiske facon:
 
 > Jeg er afgjort tilhænger af distanceløb. Der er ikke noget så frustrerende for en træner som, at spillerne hele tiden skal orientere sig om medspillernes position, koncentrere sig om at aflevere rigtigt og løbe de rigtige steder hen. Spillerne har også muligheden for at hænge hjernen på knagen, inden de går ud (men det er de også bedst til).
 
 --- <cite>Steno Montanus</cite>
 
-Vi opfatter adskillelsen af bold og konditionstræning som den lette løsning, hvor træneren har opgivet at finde på og justere spillene, så de tilgodeser den intensitet, som er nødvendig for at øge udholdenheden. Konditionstræning i spilnære betingelser træner også perception, tekniske og taktiske færdigheder, og således vil træningen være meget mere relevant. Spillerne lærer hinanden at kende. Derfor burde afsnittet om kredsløbstræning i "Trænerens Bibel" måske indeholde et bud på, hvordan man som fodboldtræner kan (eller måske snarere bør) træne sit hold.
+Vi opfatter adskillelsen af bold og konditionstræning som den lette løsning, hvor træneren har opgivet at finde på og justere spillene, så de tilgodeser den intensitet, som er nødvendig for at øge udholdenheden. Konditionstræning i spilnære betingelser træner også perception, tekniske og taktiske færdigheder, og således vil træningen være meget mere relevant.
+
+Spillerne lærer hinanden at kende. Derfor burde afsnittet om kredsløbstræning i "Trænerens Bibel" måske indeholde et bud på, hvordan man som fodboldtræner kan (eller måske snarere bør) træne sit hold.
 
 Det er ikke nok at skrive, at det er lettest at lave konditionstræning med store muskelgrupper, selvom opfattelsen er i sig selv rigtig. Men en forøgelse af den maksimale iltoptagelse er kun rigtig værdifuld, hvis den er opnået i forhold svarende til konkurrencesituationen, da det bl.a. er optagelsen af ilt i musklerne, som er den begrænsende faktor i iltoptagelsen, mens selve udholdenheden øges gennem, at musklerne fx trænes til at kunne lagre mere glucose. Derfor skal konditionen og udholdenheden opnås i de fodboldrelevante muskler, for at være optimalt anvendelig i kampsituationen (kravet om specificitet).
 

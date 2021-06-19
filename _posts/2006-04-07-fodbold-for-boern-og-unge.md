@@ -53,11 +53,15 @@ Fodbold handler dog først og fremmest om at spille. Men hvordan sikrer vi os, a
 
 ### Hvad siger forskerne?
 
-Der er lavet flere undersøgelser (for en kortfattet gennemgang Bordinggaard, 2005), der viser at denenkeltes involvering i spillet bliver større, når banen bliver mindre. En undersøgelse fra Italien sammenlignede 7v7 med 11v11. Den andel af tiden spillerne brugte på at stå, gå, jogge, løbe og sprinte kunne nogenlunde sammenlignes for de to kampe. Derimod var der i 7v7 markant flere afleveringer pr. spiller (156 vs. 107) og færre tacklinger (43 vs. 51) end for 11v11 (Capranica, 2001). En undersøgelse fra USA sammenlignede 8v8 med 4v4, og undersøgelsen viste, at spillerne i 8v8 kampen havde under 0,4 berøring i minuttet, mens spillerne i 4v4 kampen havde 4,3 berøringer i minuttet (Buckley, 2004).
+Der er lavet flere undersøgelser (for en kortfattet gennemgang Bordinggaard, 2005), der viser at denenkeltes involvering i spillet bliver større, når banen bliver mindre. En undersøgelse fra Italien sammenlignede 7v7 med 11v11.
+
+Den andel af tiden spillerne brugte på at stå, gå, jogge, løbe og sprinte kunne nogenlunde sammenlignes for de to kampe. Derimod var der i 7v7 markant flere afleveringer pr. spiller (156 vs. 107) og færre tacklinger (43 vs. 51) end for 11v11 (Capranica, 2001). En undersøgelse fra USA sammenlignede 8v8 med 4v4, og undersøgelsen viste, at spillerne i 8v8 kampen havde under 0,4 berøring i minuttet, mens spillerne i 4v4 kampen havde 4,3 berøringer i minuttet (Buckley, 2004).
 
 ### Tilpas dimensionerne!
 
-Dimensionerne på banen skal tilpasses de enkelte aldersgrupper, for at gøre banen overskuelig for det enkelte barn. De mindre baner sætter oftere spillerne i situationer, hvor de skal løse nogle af de problemer, som de kan overskue. De 8-10 årige kan ikke overskue store grupper og store arealer, og derfor lærer de ikke de taktiske forpligtelser spillerne langt fra bolden på et 11-mands hold har. En af de væsentligste indikatorer for, hvor dygtige spillere bliver, er træning og antallet af gentagelser. Men det skal netop være træning som problemløsning, og gentagelserne skal ikke være kopier af tidligere forsøg. De mindre dimensioner er altså ideelle for læring af fodboldrelevante færdigheder. En anden konsekvens af de ændrede dimensioner, er at spillerne gerne skal finde spillet sjovere, fordi det rammer mere præcist deres niveau, så de derved bibeholder interessen for fodbold (Bordinggaard, 2005).
+Dimensionerne på banen skal tilpasses de enkelte aldersgrupper, for at gøre banen overskuelig for det enkelte barn. De mindre baner sætter oftere spillerne i situationer, hvor de skal løse nogle af de problemer, som de kan overskue. De 8-10 årige kan ikke overskue store grupper og store arealer, og derfor lærer de ikke de taktiske forpligtelser spillerne langt fra bolden på et 11-mands hold har. En af de væsentligste indikatorer for, hvor dygtige spillere bliver, er træning og antallet af gentagelser.
+
+Men det skal netop være træning som problemløsning, og gentagelserne skal ikke være kopier af tidligere forsøg. De mindre dimensioner er altså ideelle for læring af fodboldrelevante færdigheder. En anden konsekvens af de ændrede dimensioner, er at spillerne gerne skal finde spillet sjovere, fordi det rammer mere præcist deres niveau, så de derved bibeholder interessen for fodbold (Bordinggaard, 2005).
 
 Dimensionerne for spillet skal tilpasses børnenes udviklingstrin, så de kommer til at løse problemer, de kan overskue, så ofte som muligt. 
 

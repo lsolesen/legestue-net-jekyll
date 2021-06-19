@@ -21,7 +21,7 @@ feature_row:
     url: "https://www.saxo.com/dk/developing-youth-football-players_horst-wein_paperback_9780736069489"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored noopener nofollow
 ---
 
 Begrebet spilintelligens er ofte benyttet som betegnelse for en velbemidlet, teknisk fodboldspiller. Det kan imidlertid være svært at definere, hvad spilintelligens i fodbold præcist dækker over. Jeg vil forsøge at give min definition af begrebet samt give eksempler på spillere, som både har og ikke har spilintelligens. Først en definition.
@@ -38,4 +38,4 @@ En god øvelse, jeg vil anbefale, er 1:1 eller 2:2 med fire stationære bander i
 
 {% include feature_row type="left" %}
 
-[Se flere bøger om spilintelligens på Saxo\*](https://www.saxo.com/dk/products/search?query=spilintelligens){: rel="sponsored nofollow noopener" }
+[Se flere bøger om spilintelligens på Saxo](https://www.saxo.com/dk/products/search?query=spilintelligens){: rel="sponsored nofollow noopener" }

@@ -75,9 +75,10 @@ Bandespil og boldovertagelse ved at de i midten har bolden.
 ### Langs med teknikken
 
 Stå i to rækker over for hinanden. Når den forreste har afleveret over i den anden række, skal han enten løbe enten bag i egen række, eller om i modsatte række.
-alle tekniske afleveringsformer.
-boldovertagelse.
-bandespil.
+
+- alle tekniske afleveringsformer.
+- boldovertagelse.
+- bandespil.
 
 {% include figure image_path="/assets/images/oevelser/teknisk-traening-langs-med-teknikken.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
 
