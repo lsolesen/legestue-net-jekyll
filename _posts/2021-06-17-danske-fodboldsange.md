@@ -39,6 +39,14 @@ songs:
     video:
       provider: youtube
       id: zBdGnx9V7nA
+  - title: Stjerneskud (når lysene tændes i Parken)
+    artist: Savage Rose
+    year: 1989
+    event: DBUs 100 års jubilæum
+    description: "Savage Rose blev bedt om at skrive en jubilæumssang til DBU i 1989 i anledning af 100 års jubilæet. Det kom der den her sang ud af. En god gedigen popsang."
+    video:
+      provider: youtube
+      id: Nzt0kQurRmQ
   - title: Re-Sepp-Ten
     artist: Dodo and the Dodos
     year: 1992
