@@ -108,6 +108,8 @@ rytmen i en afleveringsøvelse skal være, men vi forsøger at give nogle pejlin
 og så må du give øvelserne dit eget personlige præg på baggrund af den målgruppe,
 du underviser.
 
+{% include video provider="youtube" id="LeEv0Gy0xZE" %}
+
 Fodboldrytmer kan faktisk findes i alle træningsøvelser. Det er blot et spørgsmål om
 at udvælge egnede øvelser, bruge fantasien og eksperimentere med kombinationen af
 rytmer og fodboldrelaterede bevægelser.

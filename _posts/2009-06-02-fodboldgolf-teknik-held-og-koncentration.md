@@ -16,6 +16,8 @@ last_modified_at: 2013-02-20T10:41:41Z
 
 **I en lille idyllisk svensk landsby, en times kørsel fra København, ligger Sveriges første fodboldgolfbane. Prisen er billig, mulighederne store og underholdningen i top. En dag med fodboldgolf Hinsidan skal ganske enkelt prøves.**
 
+Jeg har skrevet en grundig [guide til fodboldgolf og fodboldgolfbaner i Danmark her]({% link _posts/2021-06-21-fodboldgolf.md %}).
+
 ## Flotte forhold
 
 Vi tog 7 gutter af sted fra København og ankom en time senere til den skånske natur mellem byerne Hörby og Söderto. Man kunne vælge to forskellige 18 hullers baner, og vi startede med den "nemme". Vi delte os i to hold, for at undgå alt for lang ventetid.
@@ -34,4 +36,8 @@ Priserne er virkelig acceptable, vi betalte 135 pr. person for at spille på beg
 
 Man skal tids bestille og nummeret samt andre oplysninger kan man finde på hjemmesiden: [www.fotbollsgolf.nu](http://www.fotbollsgolf.nu/).
 
+## Konklusion
+
 Et besøg i den svenske natur kan varmt anbefales, da fodboldgolf er noget for alle fodboldinteresserede. Selvfølgelig er det en fordel at have en smule boldfølelse, men nybegyndere kan også sagtens spille med. Omgivelserne er dejlige, hyggelige og man bliver virkelig bidt af fodboldgolf, fordi det giver spillet med den lille runde en helt ny dimension.
+
+Husk at tjekke vores [oversigt over fodboldgolfbaner i Danmark her]({% link _posts/2021-06-21-fodboldgolf.md %}).
