@@ -241,6 +241,8 @@ holde styr på.
 9. Spil bolden ind i ringen.
 10. Spil bolden i sandgryden.
 
+Du kan jo også altid spille lidt [fodboldgolf på en af de mange fodboldgolfbaner]({% link _posts/2021-06-21-fodboldgolf.md %}) eller lave din egen fodboldgolfbane.
+
 ## Fodboldboccia
 
 Spillet består af 2 hold med hver 2 spillere. Anføreren

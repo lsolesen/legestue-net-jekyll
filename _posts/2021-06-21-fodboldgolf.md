@@ -1,7 +1,9 @@
 ---
 title: &title "Fodboldgolf: Regler og 65 fodboldgolfbaner du kan prøve!"
 description: Prøv vores gratis oversigt over samtlige fodboldgolfbaner i Danmark, og lær hvordan du spiller fodboldgolf.
-permalink: /fodboldgolf/
+permalink: /fodboldgolf-og-fodboldgolfbaner/
+redirect_from:
+  - /fodboldgolf/
 language: da
 header:
   overlay_image: http://gludstedfodboldgolf.dk/wp-content/uploads/2017/12/Header-slider-1.jpg
