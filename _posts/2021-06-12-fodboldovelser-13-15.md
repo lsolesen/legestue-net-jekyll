@@ -251,10 +251,9 @@ målmanden, så det bliver naturligt i spillet.
 
 ### Korte afleveringer
 
-I dette modul skal du introducere korte afleveringer.
+Når man arbejder med korte afleveringer, så kan de ofte bruges i bandespil.
 
-For at få øvelserne brugt i mere kamplignende situa-
-tioner, bør du også introducere nogle af øvelserne om
+For at få øvelserne brugt i mere kamplignende situationer, bør du også introducere nogle af øvelserne om
 bandespil.
 
 Bandespil er syneladende ganske simpelt: boldholderen spiller bolden til en medspiller, rykker om bag

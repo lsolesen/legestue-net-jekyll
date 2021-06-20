@@ -126,8 +126,8 @@ bolden. Step op på bolden med venstre fod osv.
 
 ## Flere om en bold
 
-**Parvis.** Der arbejdes med korte afl everinger. Først spilles en hård afl evering,
-modtageren dæmper afl everingen, og næste afl evering er også relativt blød. Derefter
+**Parvis.** Der arbejdes med korte afleveringer. Først spilles en hård afl evering,
+modtageren dæmper afl everingen, og næste aflevering er også relativt blød. Derefter
 skal den anden spiller spille en hård afl evering, som makkeren dæmper. Du kan selv
 finde på andre rytmer at spille i, eller du kan stille krav til, hvilket ben afl everingerne
 skal afleveres til.
