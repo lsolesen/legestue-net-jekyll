@@ -4,8 +4,8 @@ description: Prøv vores gratis oversigt over samtlige fodboldgolfbaner i Danmar
 permalink: /fodboldgolf/
 language: da
 header:
-  overlay_image: http://vejlefodboldgolf.dk/wordpress/wp-content/uploads/2014/01/syd%C3%B8st-overblik-1-1024x576.png
-  teaser: http://vejlefodboldgolf.dk/wordpress/wp-content/uploads/2014/01/syd%C3%B8st-overblik-1-1024x576.png
+  overlay_image: http://gludstedfodboldgolf.dk/wp-content/uploads/2017/12/Header-slider-1.jpg
+  teaser: https://filskovkrofodboldgolf.dk/CustomerData/Files/Images/Gallery/galleri-forside_14435/randi_hul_12_968.jpg
   caption: *title
 categories:
   - Fodboldlege
@@ -27,7 +27,6 @@ I dette indlæg kan du få svar på følgende:
 - Hvilken teknik bruger man i fodboldgolf?
 
 {% include figure image_path="https://filskovkrofodboldgolf.dk/CustomerData/Files/Images/Gallery/galleri-forside_14435/randi_hul_12_968.jpg" caption="Stemningsbillede fra fodboldgolf på [Filskov Kro Fodboldgolf](https://filskovkrofodboldgolf.dk)." %}
-
 
 ## Hvad er fodboldgolf?
 
@@ -55,7 +54,7 @@ Der er god tid til at snakke sammen, mens man går rundt og spiller fodboldgolf.
 
 Alle fodboldgolfbaner har rammer til hyggelige timer for større og mindre grupper. Du kan på langt de fleste baner selv medbringe mad og drikke. De fleste steder er der opstillet borde og bænke - og nogle steder kan du endda selv grille dit medbragte mad.
 
-{% include figure image_path="http://vejlefodboldgolf.dk/wordpress/wp-content/uploads/2014/01/syd%C3%B8st-overblik-1-1024x576.png" caption="Fodboldgolfbanen ved [Vejle Fodboldgolf](http://vejlefodboldgolf.dk/)." alt="fodboldgolfbane vejle fodboldgolf" %}
+{% include figure image_path="http://gludstedfodboldgolf.dk/wp-content/uploads/2017/12/Header-slider-1.jpg" caption="Fodboldgolfbanen ved [Gludsted Fodboldgolf](http://gludstedfodboldgolf.dk/)." alt="fodboldgolfbane vejle fodboldgolf" %}
 
 ## Hvor kan du spille fodboldgolf?
 
