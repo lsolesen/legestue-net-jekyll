@@ -175,7 +175,7 @@ Steen Eiler Rasmussen: ’Michelangelo og fodbold’
 i: Essays gennem mange Aar, Gyldendal
 - Roger Spry
 http://eteamz.active.com/sites/fitness4soccer
-- Peter Thybo (1999): ’[Rytmer - om menneskets bevægelseskoordination](http://www.birgitte-christensen.dk/artiklernye/artikler/rytmebev.htm)’
+- Peter Thybo (1999): ’[Rytmer - om menneskets bevægelseskoordination](https://www.peterthybo.dk/?page_id=105)’
 Danske Fysioterapeuter nr. 22/1999
 </details>
 
