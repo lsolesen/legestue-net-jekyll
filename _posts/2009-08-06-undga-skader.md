@@ -37,7 +37,7 @@ Center for Idrettsskadeforskning har på [Klok Av Skade](http://www.klokavskade.
 
 Jesper Emil Jakobsgaard, som bl.a. har været fysisk træner i superligaen, foreslår på Motionsplan [seks rigtig gode styrketræningsøvelser for benene](https://www.motionsplan.dk/skadesforebyggelse-skadesforebyggende-traening/). Øvelserne er med til at forebygge skader særligt i knæ, baglår, lyske og læggene. Hvis du gerne vil holde dig selv eller dine spillere skadesfri, så vil jeg virkelig anbefale, at du går i gang med at lave øvelserne. Du kan fx lave et par af øvelserne til hver træning i løbet af opvarmningen.
 
-Lad os kigge på de rigtig gode skadesforebyggende øvelser, du kan lave. Du kan læse mere i artiklen med [skadesforebyggende træning](https://www.motionsplan.dk/skadesforebyggelse-skadesforebyggende-traening/), hvorfor netop disse øvelser virker så godt i forhold ti lat forebygge skader for fodboldspillere.
+Lad os kigge på de rigtig gode skadesforebyggende øvelser, du kan lave. Du kan læse mere i artiklen med [skadesforebyggende træning](https://www.motionsplan.dk/skadesforebyggelse-skadesforebyggende-traening/), hvorfor netop disse øvelser virker så godt i forhold til at forebygge skader for fodboldspillere.
 
 ## Forlår, inderlår og lægge
 

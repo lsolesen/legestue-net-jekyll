@@ -13,16 +13,16 @@ tags:
 last_modified_at: 2021-06-06T10:33:33Z
 ---
 
-Fodboldstratego er en sjov leg, som bruger brætspillet stratego som inspiration til at lave en aktivitet, hvor du bruger en fodbold.
+Fodboldstratego er en sjov fodboldleg, som bruger brætspillet stratego som inspiration til at lave en aktivitet, hvor du bruger en fodbold.
 
 ## Materialer til fodboldstratego
 
 - Bolde, minimum en pr. deltager.
 - 16 stk. små toppe (Paddehatte) eller tøndebånd til
 afmærkning af hjemland og fjendeland.
-- 1 stk. 7-mandsbane eller 8-10 kegler til afmærkning
+- 1 7-mandsbane eller 8-10 kegler til afmærkning
 af spilleområde.
-- 2 stk. hjørneflag.
+- 2 hjørneflag.
 - ’Værdi/grads kort’ 2 x 8 stk., men altid så antallet
 passer til det antal spillere der er med i legen. Hvis
 der er mere end 8 spillere fremstilles der bare nogle
@@ -47,7 +47,9 @@ Spillerne fordeles ligeligt på 2 hold. Det ene hold tager overtræksveste på �
 dog altid lige mange ’bomber’/bolde til hvert hold.
 Holdene uddeler værdi/grads kortene imellem sig,
 der skal bruges 1 kort pr. deltager, dvs. 8 deltagere =
-med 8 kort, 10 deltagere = 10 kort osv. Disse kort skal
+med 8 kort, 10 deltagere = 10 kort osv.
+
+Disse kort skal
 være forsynet med en værdi fra 1 til 8 på den ene side,
 samt en betingelse på den anden side. Man kan jo
 eventuelt graduere betingelserne efter graden, f.eks.
@@ -75,7 +77,9 @@ Melde krig, kan kun ske når en deltager, som ingen
 Når der er meldt krig skal de 2 duellanter vise deres
 ’værdi/grads kort’ og laveste værdi taber og skal
 udføre den betingelse der står på modstanderens
-kort. Den med den højeste grad overtager ’bomben’
+kort.
+
+Den med den højeste grad overtager ’bomben’
 og kan tage den med tilbage til sit eget ’hjemland’.
 Er det deltageren som meldte krig der har det laveste ’værdi/grads kort’ skal han/hun udføre den betingelse der står på modstanderens ’værdi/grads kort’ og modstanderen må forsætte med sin ’bombetransport’
 
@@ -98,8 +102,7 @@ Våbenhvile bruges til ombytning af ’Værdi/Grads
 kort’ omlægning af strategi.
 
 Erobring af fanen, kan kun ske hvis man har fjernet
-alle ’bomber’ fra ’fjende-land’ Slaget er tabt når man har mistet sin ’fane’ og den befinder sig i modstan-
-derens ’Hjemland’. Tilbageerobringen af ’fanen’ kan ske i sidste øjeblik på ’slagmarken’ hvis holdet der er
+alle ’bomber’ fra ’fjende-land’ Slaget er tabt når man har mistet sin ’fane’ og den befinder sig i modstanderens ’Hjemland’. Tilbageerobringen af ’fanen’ kan ske i sidste øjeblik på ’slagmarken’ hvis holdet der er
 ved at miste sin fane, kan nå og afhente minimum
 en ’bombe’ fra ’fjendeland’ og anbringe denne i sit
 ’hjemland’ inden modstanderholdet får den fane de

@@ -40,7 +40,7 @@ spark de andres bolde ud.
 
 ### To sammen – en løber
 
-Den ene bliver på sidelinien og jonglerer, mens den anden løber på til den anden side af banen og tilbage igen med forskellige løbeformer. Derefter byttes. Gentages nogle gange.
+Den ene bliver på sidelinjen og jonglerer, mens den anden løber på til den anden side af banen og tilbage igen med forskellige løbeformer. Derefter byttes. Gentages nogle gange.
 Derefter har løberen bolden og laver forskellige øvelser. Den tilbageværende strækker. Gentages nogle gange.
 
 ### To sammen – en server
@@ -75,9 +75,10 @@ Bandespil og boldovertagelse ved at de i midten har bolden.
 ### Langs med teknikken
 
 Stå i to rækker over for hinanden. Når den forreste har afleveret over i den anden række, skal han enten løbe enten bag i egen række, eller om i modsatte række.
-alle tekniske afleveringsformer.
-boldovertagelse.
-bandespil.
+
+- alle tekniske afleveringsformer.
+- boldovertagelse.
+- bandespil.
 
 {% include figure image_path="/assets/images/oevelser/teknisk-traening-langs-med-teknikken.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
 
@@ -126,7 +127,7 @@ Bolden kan også tages med på alle mulige måder i samme organisation.
 ### Konkurrencer
 
 - Hvem kan lave flest indersidespark i et givent tidsrum?
-- Hvem har den mest følsomme fod og kan ramme en linie?
+- Hvem har den mest følsomme fod og kan ramme en linje?
 
 ### Kaosorganisation med to om en bold
 

@@ -17,6 +17,12 @@ main:
   - title: "Om"
     url: /om/
 blog:
+  - title: "Populære sider"
+    children:
+      - title: "Fodboldgolf og fodboldgolfbaner"
+        url: /fodboldgolf-og-fodboldgolfbaner/
+      - title: "Opvarmningsøvelser"
+        url: /opvarmning/
   - title: "Populære søgninger"
     children:
       - title: "hvornår blev fodbold opfundet"

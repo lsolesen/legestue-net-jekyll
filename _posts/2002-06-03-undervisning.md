@@ -8,7 +8,6 @@ header:
   teaser: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=400&q=80
 categories:
   - Undervisning
-  - Veje til udvikling
 tags:
   - Fodboldtræning
   - Veje til udvikling
@@ -26,7 +25,7 @@ Medaljer og krus i indeværende sæson bør ikke være trænerens fokus, men sna
 
 Træningen af den konditionelle formåen bør tidligst have en central plads i træningen som ynglingespiller.
 
-Spillerne i ungdomsrækkerne bør på intet tidspunkt blive sat til at spæne op og ned ad linierne uden bold, hverken som opvarmning eller konditionstræning. Snarere skal træningen (og i særdeleshed opvarmningen) involvere bolden eller sigte mod løbetekniske færdigheder. I erkendelse af dette har DBU netop (re)lanceret teknikmærket.[^note4]
+Spillerne i ungdomsrækkerne bør på intet tidspunkt blive sat til at spæne op og ned ad linjerne uden bold, hverken som opvarmning eller konditionstræning. Snarere skal træningen (og i særdeleshed opvarmningen) involvere bolden eller sigte mod løbetekniske færdigheder. I erkendelse af dette har DBU netop (re)lanceret teknikmærket.[^note4]
 
 Det er dog tankevækkende, at DBU ikke i samme forbindelse ikke har tilkendegivet mange tanker om, hvordan den enkelte lærer på den bedste måde.
 
@@ -127,11 +126,9 @@ Hagenbo slår til lyd for, at skolelærerne skal udskiftes af pølsemænd med de
 
 Anders Levinsen påpeger dog også, at bosnierne især er gode, når de har bolden, for de mangler struktur og organisation i deres spil. Men indøvelsen af teknik og rumopfattelse kan godt være dele af samme øvelse. Fx når du under en dribleøvelse i kaosorganisation inden for en firkant beder om, at der er spillere over hele området.
 
-{% comment %}
-INGEN BEGÅR FEJL MED VILJE
-KOM IGEN ERSTATTES AF PRØV I STEDET 1-2-finten
-ROS I SMÅ DOSER
-{% endcomment %}
+- INGEN BEGÅR FEJL MED VILJE
+- KOM IGEN ERSTATTES AF PRØV I STEDET 1-2-finten
+- ROS I SMÅ DOSER
 
 [^note7]: Citeret fra Levinsen, Anders: ”Ind over til fantasien”, i: Politiken, 21. august 2000.
 [^note8]: Citeret fra Kragh, Nina: ”Pølsemænd frem for skolelærere”, i: Politiken, 11. oktober 1999. Mik Hagenbo er håndboldtræner på eliteniveau, men hans ideer rækker bredere end håndboldspillet.

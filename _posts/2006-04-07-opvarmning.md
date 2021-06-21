@@ -11,9 +11,9 @@ header:
   teaser: /assets/images/opvarmning-fodbold.jpg
   caption: *title
 categories:
-  - Veje til udvikling
   - Fodboldtræning
 tags:
+  - Veje til udvikling
   - Børnetræningsmanual 2006
   - opvarmning
 last_modified_at: 2021-04-10T15:16:02Z
@@ -121,11 +121,13 @@ Her har jeg samlet en række forskellige aktiviteter, som du kan bruge i opvarmn
 
 ## Koordinationstræning og løbeskoling
 
-Opvarmningen kunne eksempelvis være en kærkommen mulighed for at arbejde med koordinationstræning både med og uden bold. Efter vores overbevisning kan koordinationstræning og løbeskoling også være en genvej til hurtighed. I FC Köln har de gennem målrettet træning af disse parametre fundet en forbedring på 7-11% målt over korte, relevante sprintdistancer ganske vist med nogen træningsindsats (Sejerup). Desto mere alsidig træningen er ? især for ungdomsspillere ? desto bedre rustet er spillerne til at lære nye ting. Koordination kan defineres som evnen til at vælge blandt mange bevægelsesprogrammer (Dyhre-Poulsen 1985).
+Opvarmningen kunne eksempelvis være en kærkommen mulighed for at arbejde med koordinationstræning både med og uden bold. Efter vores overbevisning kan koordinationstræning og løbeskoling også være en genvej til hurtighed. I FC Köln har de gennem målrettet træning af disse parametre fundet en forbedring på 7-11% målt over korte, relevante sprintdistancer ganske vist med nogen træningsindsats (Sejerup).
 
-En bevægelse stykkes sammen af tidligere indlærte motoriske programdele, og de nye elementer tilføjes og indpasses. Desto flere motoriske programdele den enkelte behersker, desto større øvelse den enkelte har i at udvælge det, der bedst løser den pågældende situation, desto bedre koordination har den enkelte ? og desto bedre er den enkeltes forudsætninger for at lære teknik (jf. afsnittet: hvordan lærer man?).
+Desto mere alsidig træningen er - især for ungdomsspillere - desto bedre rustet er spillerne til at lære nye ting. Koordination kan defineres som evnen til at vælge blandt mange bevægelsesprogrammer (Dyhre-Poulsen 1985).
 
-Forskellige koordinationsserier med bold, kan yderligere være med til at indpode spillerne rytme, samtidig med at de får en masse boldkontakter. I denne forbindelse anbefaler vi _Løbeskoling og koordinationstræning_ af Karsten Sejerup ? en bog han i øvrigt netop har udgivet i en opdateret aldersopdelt version. Her finder du en brugbar introduktion til løbeskoling og et hav af øvelsesforslag til at forbedre koordinationen.
+En bevægelse stykkes sammen af tidligere indlærte motoriske programdele, og de nye elementer tilføjes og indpasses. Desto flere motoriske programdele den enkelte behersker, desto større øvelse den enkelte har i at udvælge det, der bedst løser den pågældende situation, desto bedre koordination har den enkelte - og desto bedre er den enkeltes forudsætninger for at lære teknik (jf. afsnittet: hvordan lærer man?).
+
+Forskellige koordinationsserier med bold, kan yderligere være med til at indpode spillerne rytme, samtidig med at de får en masse boldkontakter. I denne forbindelse anbefaler vi _Løbeskoling og koordinationstræning_ af Karsten Sejerup - en bog han i øvrigt netop har udgivet i en opdateret aldersopdelt version. Her finder du en brugbar introduktion til løbeskoling og et hav af øvelsesforslag til at forbedre koordinationen.
 
 ## Tekniske fodboldøvelser
 
@@ -151,7 +153,9 @@ Det gjorde vi bl.a. ved at lave nogle fodboldrelevante bevægelser og spille bol
 
 For at blive en rigtig dygtig fodboldspiller er det væsentligt med en god balance og behændighed, som bl.a. kan defineres som evnen til at genvinde balancen. I denne artikel bruges det mere i betydningen almen kropsbeherskelse. Balancen skal trænes i mange forskellige situationer. Fx fordeler spillerne sig på et lille område. Hver anden lukker øjnene. De "seende" må skubbe let (senere hårdere) til de "blinde", som forsøger at stå klippefast.
 
-Balancen trænes også individuelt i forskellige positioner med både åbne og lukkede øjne, og endelig kan den med lidt opfindsomhed trænes med bold. Mange trænere inkluderer behændighed og smidighed under en eller anden form i opvarmningen. Det være sig "lørdagsøvelsen", hvor spillerne placerer hænderne i siden, og hoften køres rundt, eller det kan være "møllen", hvor man med højre hånd rører venstre fod og omvendt. Også her kunne træneren med få midler gøre det hele lidt mere interessant. Træneren skal blot være opmærksom på, at det formentlig kræver lidt tilvænning hos spillerne. De færreste spillere tager skade af at prøve at stå på hovedet, at lave små brydekampe eller for den sags skyld kolbøtter. Det udvikler kropsfornemmelsen og stillingssansen.
+Balancen trænes også individuelt i forskellige positioner med både åbne og lukkede øjne, og endelig kan den med lidt opfindsomhed trænes med bold. Mange trænere inkluderer behændighed og smidighed under en eller anden form i opvarmningen. Det være sig "lørdagsøvelsen", hvor spillerne placerer hænderne i siden, og hoften køres rundt, eller det kan være "møllen", hvor man med højre hånd rører venstre fod og omvendt.
+
+Også her kunne træneren med få midler gøre det hele lidt mere interessant. Træneren skal blot være opmærksom på, at det formentlig kræver lidt tilvænning hos spillerne. De færreste spillere tager skade af at prøve at stå på hovedet, at lave små brydekampe eller for den sags skyld kolbøtter. Det udvikler kropsfornemmelsen og stillingssansen.
 
 Dog er dog ikke hensigtsmæssigt at påbegynde disse aktiviteter dagen før en kamp. Det forsøgte træneren i AC Horsens sig med, og det resulterede i to hold i nakken til weekendens kamp. Det kræver tilvænning at følge med i trænerens lidt skøre indfald. Sjove styrkeøvelser kan også være en god måde at varme op på. Det skal naturligvis ikke være hård styrketræning, men fx sjove udfordrende makkerøvelser.
 
@@ -159,7 +163,9 @@ Dog er dog ikke hensigtsmæssigt at påbegynde disse aktiviteter dagen før en k
 
 I fodbold er det meget vigtigt at kunne sende nogle klare og brugbare signaler til sine medspillere, ligesom det er væsentligt at kunne aflæse medspillernes signaler. Ikke desto mindre trænes sjældent i at sende og modtage disse signaler. Hvorfor ikke øge spillernes bevidsthed om kroppens signaler i opvarmningen?
 
-I næsten ethvert opvarmningsspil kan spillerne øve sig i at give gode signaler hurtigt og lære at placere sig, så de har gode forudsætninger for at kunne signalere. I stedet for at fokusere på, at spillerne skal løbe, kan fokus være mere generelt rettet mod de kropslige signaler eller mod verbale direktioner (Nielsen 2000) Her vil der for langt hovedparten af spillerne være noget at lære, lige som mange trænere også ville kunne udvide deres horisont. Hvordan ser det ikke-verbale signal for, at man er klar til at modtage en aflevering fx ud?
+I næsten ethvert opvarmningsspil kan spillerne øve sig i at give gode signaler hurtigt og lære at placere sig, så de har gode forudsætninger for at kunne signalere. I stedet for at fokusere på, at spillerne skal løbe, kan fokus være mere generelt rettet mod de kropslige signaler eller mod verbale direktioner (Nielsen 2000).
+
+Her vil der for langt hovedparten af spillerne være noget at lære, lige som mange trænere også ville kunne udvide deres horisont. Hvordan ser det ikke-verbale signal for, at man er klar til at modtage en aflevering fx ud?
 
 ## Tør du lave en mere spændende opvarmning?
 
@@ -372,6 +378,6 @@ Vi er enige i, at vi ikke under indledningen skal stille "de største krav til o
 - Per Nielsen: Foredrag på "Det Fynske Fodbolduniversitet" 1999. Upubliceret.
 - Rasmussen, Steen Eiler: "Michelangelo og fodbold", i: Essays gennem mange Aar, Gyldendal
 - Fredens, Kjeld (1989): "Bevægelse, musikalitet og rytmesans: grundlaget for vores udvikling", i: Krop og Sjæl, Mosegård
-- Nielsen, Knud Aage (1999): Spil bold ? med livet som indsats, DGI
+- Nielsen, Knud Aage (1999): Spil bold - med livet som indsats, DGI
 - Olesen, Lars (2000): Fodboldens Legestue, DBU - udgivet i en ny udgave i 2003 under navnet Fodboldens Tricks.
 - Jensen, Karl Erik Fisker (2000): "Ka'paciteter træner?", i Fodboldtræning, nr. 1

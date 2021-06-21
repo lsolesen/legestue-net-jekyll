@@ -14,8 +14,7 @@ header:
   caption: *title
   alt: Photo by Baylee Gramling on Unsplash
 categories:
-  - Undervisning
-  - Veje til udvikling
+  - Restitution
 tags:
   - Børnetræningsmanual 2006
   - nedvarmning
@@ -106,7 +105,9 @@ Jeg er dog uenig i, at der ikke er beviser på, at [udstrækning virker for smid
 
 Udstrækningsøvelser kan i hvert fald være med til at gøre kroppen vant til at være i flere forskellige positioner.
 
-Forskere har sammenlignet en gruppe voksne, der aktivt varmer ned i 12 minutter med en gruppe, som siddende slapper af i 12 minutter. Begge grupper blev testet før en kamp og fulgt efter kampen. Gruppen der varmede ned med fem minutters jogging, fem minutters strækøvelser og to minutter hvor spillerne fik benene rystet af deres holdkammerater, restituerede hurtigere, når man sammenlignede med kontrolgruppen – og de klarede sig bedre på både spring- og sprinttests. Forskerne viste, at man 72 timer efter en kamp kan være fuldstændig restitueret, hvis man varmer ned, mens det tager længere tid, hvis man ikke gør. Det er uklart nøjagtig, hvilke faktorer der forårsager forskellene mellem grupperne.
+Forskere har sammenlignet en gruppe voksne, der aktivt varmer ned i 12 minutter med en gruppe, som siddende slapper af i 12 minutter. Begge grupper blev testet før en kamp og fulgt efter kampen. Gruppen der varmede ned med fem minutters jogging, fem minutters strækøvelser og to minutter hvor spillerne fik benene rystet af deres holdkammerater, restituerede hurtigere, når man sammenlignede med kontrolgruppen – og de klarede sig bedre på både spring- og sprinttests.
+
+Forskerne viste, at man 72 timer efter en kamp kan være fuldstændig restitueret, hvis man varmer ned, mens det tager længere tid, hvis man ikke gør. Det er uklart nøjagtig, hvilke faktorer der forårsager forskellene mellem grupperne.
 
 Årsagerne kan være, at mælkesyre fjernes hurtigere fra blodet og at kropstemperaturen falder mere jævnt, når man varmer ned. En vigtig sideeffekt er, at aktiviteten i nervesystemet formentlig dæmpes hurtigere, hvis man varmer ned (se Reilly, 2005).
 

@@ -40,7 +40,7 @@ Den samme spiller må ikke modtage bolden igen.
 
 ### 6:6 med 6 bander (4:4 med 8 bander)
 
-Hold bolden i egne rækker i et afgrænset område. Fordelt over linierne står spillere, som fungerer som bander med en berøring. Ved tre hold byttes hver andet minut, så man spiller fire minutter og er bande i to minutter.
+Hold bolden i egne rækker i et afgrænset område. Fordelt over linjerne står spillere, som fungerer som bander med en berøring. Ved tre hold byttes hver andet minut, så man spiller fire minutter og er bande i to minutter.
 
 Banden må måske ikke spille tilbage til spiller, som banden fik bolden fra.
 
@@ -60,7 +60,7 @@ Der spilles 6:6 på en halv bane med to berøringer. Hvert hold har et friområd
 
 ### 2:2 zoneprincipper
 
-I aflange firkanter server et par, der står uden for banen til et angrebspar på baglinien. Så snart afleveringen er slået må forsvarerne rykke frem.
+I aflange firkanter server et par, der står uden for banen til et angrebspar på baglinjen. Så snart afleveringen er slået må forsvarerne rykke frem.
 Sørg for at forsvarerne får flere ture ad gangen, så de får fornemmelsen af, hvordan de skal stå. Sørg for mange rettelser.
 
 {% include figure image_path="/assets/images/oevelser/taktisk-traening-22-zoneforsvarsprincipper.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}

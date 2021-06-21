@@ -60,7 +60,7 @@ hold vælter keglerne og det andet hold rejser dem.
 
 5. Afslutte med indersidespark
 Spillerne står ved ’halvcirklen’ – løber frem til en
-flad aflevering fra træneren som står ved baglinien
+flad aflevering fra træneren som står ved baglinjen
 og triller bolden til spilleren – afslutter i målet med
 hårdt indersidespark. Øvelsen kan laves fra begge
 sider og med forhindringer (blandt andet liggende
@@ -220,13 +220,13 @@ kvadratet.
 
 2. Ekspresbold
 Banestørrelse: 20 x 40 meter. To hold stiller op på
-hver sin linie. Hver spiller har en bold. Legen går ud
+hver sin linje. Hver spiller har en bold. Legen går ud
 på at sparke så mange bolde som muligt fra egen
-baglinie over på modstandernes område. Hvilket
+baglinje over på modstandernes område. Hvilket
 hold har færrest bolde på sin banehalvdel, når træ-
 neren giver signal? Der må kun sparkes fra egen li-
 nie. Bolde, der ender på eget område, må hentes og
-sparkes fra linien. Disse bolde skal hentes af dem,
+sparkes fra linjen. Disse bolde skal hentes af dem,
 der har sparket dem ud. Spillet kan bl.a. ændres på
 flg. måder: Området kan gøres bredere/smallere,
 længere/kortere forskellige boldtyper, bruge højre
@@ -281,7 +281,7 @@ sparket.
 let og spilleren forsøger at flugte bolden i mål.
 
 - B Spillerne løber rundt ’ i kaos’ udenfor 16 meter
-linien, og på trænerens meldning løber spilleren
+linjen, og på trænerens meldning løber spilleren
 frem til den hoppende bold og forsøger flugtning
 mod mål.
 
@@ -390,11 +390,11 @@ drible gennem et keglemål. Husk pauser.
 
 2. 2:2 eller 3:3
 Der opstilles små baner. Almindeligt spil. Scoring
-ved at drible over baglinien.
+ved at drible over baglinjen.
 
 3. 6:6 eller 7:7
 Uden mål. Der scores ved at drible bolden over
-modstanderens baglinie.
+modstanderens baglinje.
 
 4. 7:7
 Almindeligt spil med 2 målmænd. Husk også at
@@ -426,7 +426,7 @@ egen bold og går med i legen igen.
 
 4. Stjæle hinandens bolde II
 To hold. Mindst en bold pr. spiller. Boldene ligger
-på hver sin baglinie. Det gælder om at få fat i så
+på hver sin baglinje. Det gælder om at få fat i så
 mange af det andet holds bolde som muligt ved at
 drible dem tilbage. Driblere kan tages af det andet
 holds spillere blot ved berøring, og de skal så afle-
@@ -511,7 +511,7 @@ og sparkes mod mål.
 ### Spil
 
 1. 3:3 eller 4:4
-Når bolden passerer sidelinien/baglinien, er der
+Når bolden passerer sidelinjen/baglinjen, er der
 indkast. Dette tages som indspark.
 - A Den, der modtager bolden, skal benytte ret-
 ningsbestemt 1. berøring, og han må ikke pres-

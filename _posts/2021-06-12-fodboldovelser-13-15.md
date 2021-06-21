@@ -201,7 +201,7 @@ Husk at lade spillerne skifte hold.
 
 3. 4:4 på håndboldbane eller lignende
 Der scores ved at drible bolden over modstander-
-nes baglinie i fuld fart.
+nes baglinje i fuld fart.
 
 4. 6:6 eller 7:7 på f.eks. halv bane
 Én spiller skal blive på modstandernes banehalvdel
@@ -251,10 +251,9 @@ målmanden, så det bliver naturligt i spillet.
 
 ### Korte afleveringer
 
-I dette modul skal du introducere korte afleveringer.
+Når man arbejder med korte afleveringer, så kan de ofte bruges i bandespil.
 
-For at få øvelserne brugt i mere kamplignende situa-
-tioner, bør du også introducere nogle af øvelserne om
+For at få øvelserne brugt i mere kamplignende situationer, bør du også introducere nogle af øvelserne om
 bandespil.
 
 Bandespil er syneladende ganske simpelt: boldholderen spiller bolden til en medspiller, rykker om bag
@@ -319,7 +318,7 @@ Der skal altid være 2 afleveringsmuligheder for
 boldholderen (ved nærmeste kegler). Midtermanden
 kommer ud, enten når han rører eller erobrer bolden.
 
-{% include figure image_path="/assets/images/oevelser/bandespil-3vs1-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+{% include figure image_path="/assets/images/oevelser/bandespil-3vs1-u1315.png" caption="Forslag til bandespil i fodbold." alt="bandespil fodbold" %}
 
 3. To rækker med spillere
 C er bandespiller. A spiller til C, der spiller til A, der
@@ -327,13 +326,13 @@ er løbet i position. A spiller til B, der nu bruger C
 som bande. Husk at skifte bandespilleren efter hver
 omgang.
 
-{% include figure image_path="/assets/images/oevelser/bandespil-to-raekker-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+{% include figure image_path="/assets/images/oevelser/bandespil-to-raekker-u1315.png" caption="Forslag til bandespil i fodbold." alt="bandespil fodbold" %}
 
 4. Dobbelt bandespil
 A dribler laver bandespil med C, og bagefter med B,
 hvorefter der skydes på mål. Pas på ’køen’!
 
-{% include figure image_path="/assets/images/oevelser/bandespil-dobbelt-bandespil-u1315.png" caption="Forslag til dribleøvelser i fodbold." alt="dribleøvelser fodbold" %}
+{% include figure image_path="/assets/images/oevelser/bandespil-dobbelt-bandespil-u1315.png" caption="Forslag til bandespil i fodbold." alt="bandespil fodbold" %}
 
 5. Overtalsspil
 Der spilles 5:5+5 på begrænset område. Det gælder
@@ -360,7 +359,7 @@ På tilbagevejen har spillerne opgaver, f.eks. 10 head-
 ninger eller 10 jongleringer.
 
 8. I et område spilles 2:2 med 4 bander
-På linien imellem keglerne er placeret 4 spillere, der
+På linjen imellem keglerne er placeret 4 spillere, der
 deltager som bandespillere. De skal spille bolden
 tilbage til den spiller, de fik bolden fra. Det er faktisk
 en ret svær øvelse. Sørg for hyppige skift, for det er en
@@ -425,7 +424,7 @@ boldholderen og overlapperen kommunikerer.
 1. Touch-rugby. 2 hold à 6-8 spillere
 Bolden skal afleveres bagud, men løbes fremad. Der
 scores ved at løbe bolden over modstandernes bag-
-linie. Hvis man bliver berørt af en modstander, skal
+linje. Hvis man bliver berørt af en modstander, skal
 man stoppe og kaste bolden bagud inden 3 sekunder.
 
 Øvelsen indøver løbet bag om boldholderen. Kan i øv-
@@ -435,7 +434,7 @@ og afleveres bagud.
 2. Skud på mål
 Boldholderen (A) afleverer til en medspiller (B), der
 dribler direkte mod forsvareren (C) og udfordrer ham.
-A løber hurtigt bag om B, får bolden mod baglinien,
+A løber hurtigt bag om B, får bolden mod baglinjen,
 og spiller den indover til afslutning. Husk at bytte
 forsvareren ud af og til.
 
@@ -504,7 +503,7 @@ angriber som lægger bolden af til midtbanespil-
 leren, der i mellemtiden er løbet frem for at mod-
 tage bolden. Midtbanespilleren sparker så vidt
 muligt første gang bolden ud til backen, som er
-løbet op langs sidelinien. Backen tager et træk og
+løbet op langs sidelinjen. Backen tager et træk og
 sparker bolden ind over til angriberen, som i en
 bue er løbet mod første stolpe og midtbanespil-
 leren, som i en bue er løbet mod bageste stolpe.
@@ -584,7 +583,7 @@ Når der er flere forsvarsspillere, skal de:
 
 - Kommunikere (snakke sammen).
 
-### 2:2 til mål eller baglinie
+### 2:2 til mål eller baglinje
 
 Her trænes både markerings- og opbakningsarbejdet,
 og der vil hele tiden være et skift mellem de forsvars-
@@ -611,7 +610,7 @@ ved at spille bolden til målmanden i midtercirklen
 (skal ramme ham i cirklen). Fokusér igen på forsvarets
 arbejde ud fra de givne betingelser.
 
-### 8:8 + målmænd bag baglinien
+### 8:8 + målmænd bag baglinjen
 
 Der stilles op i kæder, som vist på skitsen. Der spilles
 kampe á f.eks. 4 minutter. Holdets forsvarsarbejde er
@@ -698,7 +697,7 @@ Der coaches på
 - Sideforskyding.
 - Afstand mellem spillerne i forsvarskæden.
 - Pres-støtte-sikring.
-- Om kæden står på linie.
+- Om kæden står på linje.
 - Om kæden skubber op.
 
 ## Lange afleveringer
@@ -735,7 +734,7 @@ som vedkommende kan tæmme. Man får point, hvis
 bolden kan tæmmes inde i den andens firkant.
 
 Når spillerne bliver dygtigere, kan du lave krav om,
-at spilleren skal tæmme bolden ud over sidelinien i
+at spilleren skal tæmme bolden ud over sidelinjen i
 firkanten og sparke bolden op til den anden spiller,
 uden bolden ligger stille.
 
@@ -775,8 +774,8 @@ headet nok i løbet af modulet.
 ### Øvelsesforslag
 
 1. Spillerne arbejder sammen 3 og 3 i grupper ved
-midterlinien – eventuelt ved at heade til hinanden.
-Pludselig dribler en af dem (A) mod baglinien og
+midterlinjen – eventuelt ved at heade til hinanden.
+Pludselig dribler en af dem (A) mod baglinjen og
 derfra spilles bolden indover. Den spiller (C), der er
 nærmest målet, løber på plads som forsvarer, der skal
 heade væk. Den sidste (B) er angriber, der skal forsøge

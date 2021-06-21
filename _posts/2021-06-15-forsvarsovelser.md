@@ -72,7 +72,7 @@ fokusere på den individuelle forsvarsteknik.
 
 ### 1:1 med pause
 
-4 (3) om en firkant. 2 (1) står på siden af firkanten, mens der er en angriber på den ene baglinie og en forsvarer på den anden. Vedkommende ved siden af firkanten server til angriberen. Så snart bolden er sat i gang må forsvareren rykke frem.
+4 (3) om en firkant. 2 (1) står på siden af firkanten, mens der er en angriber på den ene baglinje og en forsvarer på den anden. Vedkommende ved siden af firkanten server til angriberen. Så snart bolden er sat i gang må forsvareren rykke frem.
 Fokus på forsvarerens udgangsstilling. Der skiftes ved efter hver tur. Kan evt. udformes som en konkurrence. Hvem får færrest scoringer imod?
 Fokus på dribleren. Hvem kan score flest mål?
 
@@ -80,7 +80,7 @@ Fokus på dribleren. Hvem kan score flest mål?
 
 ### 1:1 med vending
 
-Samme firkant bruges, men nu står angriber og forsvarer i firkant og serveren står bag angriberens baglinie. Serveren spiller bolden i fødderne af angriberen, og fokus er på, at angriberen ikke får lov at vende med bolden.
+Samme firkant bruges, men nu står angriber og forsvarer i firkant og serveren står bag angriberens baglinje. Serveren spiller bolden i fødderne af angriberen, og fokus er på, at angriberen ikke får lov at vende med bolden.
 
 {% include figure image_path="/assets/images/oevelser/forsvar-1-1-vending.png" caption="Forslag til teknisk træning i fodbold." alt="teknisk træning fodbold" %}
 

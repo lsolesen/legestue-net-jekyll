@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/motivation-fodbold-traening.jpg
   caption: *title
 categories:
-  - Veje til udvikling
   - Fodboldtræning
 tags:
   - Fodboldtræning
@@ -64,13 +63,17 @@ Det må være trænerens opgave at give spillerne gunstige muligheder for at for
 
 Vi har begge set og deltaget i megen træning, hvor vi ikke har lært noget (som helst). Selv på divisionsplan har vi været vidner til hovedløs træning. Det skal forstås i dobbelt betydning. Spillerne betræder ikke altid træningsbanen med den indstilling, at nu vil de blive bedre. Opmærksomheden er ikke rettet mod udvikling gennem træningen, men mod afvikling af træningen. Ikke det bedste udgangspunkt for en ihærdig træner, men en udfordring. 
 
-Træneren forsømmer ofte at delagtiggøre spillerne i sine ideer (her ser vi bort fra træneren, som blot bygger træningen op omkring erfaringen, og træneren rent faktisk ikke har gjort sig overvejelser om, hvad øvelserne gør godt for). Spillerne skal have at vide, hvor opmærksomheden skal rettes. Populært formuleres det ofte som: træneren skal gøre spilleren til sin egen træner. Træneren skal ikke læne sig tilbage i magelighed og blot gøre, som spillerne synes er bedst. Det kan indebære en konfrontation at føre sine ideer ud i livet. Træneren bør tage den åbne dialog.
+Træneren forsømmer ofte at delagtiggøre spillerne i sine ideer (her ser vi bort fra træneren, som blot bygger træningen op omkring erfaringen, og træneren rent faktisk ikke har gjort sig overvejelser om, hvad øvelserne gør godt for).
+
+Spillerne skal have at vide, hvor opmærksomheden skal rettes. Populært formuleres det ofte som: træneren skal gøre spilleren til sin egen træner. Træneren skal ikke læne sig tilbage i magelighed og blot gøre, som spillerne synes er bedst. Det kan indebære en konfrontation at føre sine ideer ud i livet. Træneren bør tage den åbne dialog.
 
 Dette skal altså også læses som en opfordring til spillerne om ikke blot at gå og brokke sig i det (for træneren) skjulte, men rent faktisk konfrontere trænerne med den konstruktive kritik. Det er nemlig også vores opfattelse, at (de fleste) trænere er meget lærevillige og ivrige.
 
 ## 2. Træningen skal være glædelig
 
-Træneren skal ud over at være inspirerende og engageret søge at fastholde kvaliteten i træningen; en kvalitet som fordrer udviklingen og ikke (kun) resultatet. Der findes et utal af bøger, hvor et af budskaberne er, at fodbold skal være sjovt - for børn. Dette budskab burde også gælde for voksne, mener vi. Idrætspsykologen og idrætshøjskolelæreren, Jørn Richter, fastholder glæden som et nødvendigt og befriende element i både træning og kamp (Richter 1999) Glæden og begejstringen fremelskes ved glædelig træning, som i første omgang er en uhåndterlig størrelse. Vi vil forsøge at give vores bud på, hvad glædelig træning kunne indeholde.
+Træneren skal ud over at være inspirerende og engageret søge at fastholde kvaliteten i træningen; en kvalitet som fordrer udviklingen og ikke (kun) resultatet. Der findes et utal af bøger, hvor et af budskaberne er, at fodbold skal være sjovt - for børn. Dette budskab burde også gælde for voksne, mener vi.
+
+Idrætspsykologen og idrætshøjskolelæreren, Jørn Richter, fastholder glæden som et nødvendigt og befriende element i både træning og kamp (Richter 1999) Glæden og begejstringen fremelskes ved glædelig træning, som i første omgang er en uhåndterlig størrelse. Vi vil forsøge at give vores bud på, hvad glædelig træning kunne indeholde.
 
 Efter vores bedste overbevisning er den bedste måde at træne på, den måde der fører frem til den skønneste spillestil og den største spilleglæde:
 
@@ -86,11 +89,15 @@ Det er sjovere at vinde 6-3 end 1-0.
 
 ## 3. ’Det skal være sjovt, og jeg vil være dygtigere’
 
-Det er først og fremmest vigtigt at børn og unge trives i idræt. Børn og unge vægter ’at dygtiggøre sig’, ’at have det sjovt’ og ’samværet med kammerater’ højt, når de skal vurdere, hvad der betyder noget for dem, når de træner. Meget færre nævner ’at vinde’ som noget, der er væsentligt for dem (se bl.a. Jensen, 1999; Ewing, 1990). At komme til træning skal skabe glæde hos børnene – glæden bør være et befriende og nødvendigt element i både træning og kamp (Richter, 1999). Den gode trænings- og kampkultur er kendetegnet ved at være lærerig, sjov, spændende og social, og hvor sejre og nederlag ikke overskygger glæden og er det altafgørende.
+Det er først og fremmest vigtigt at børn og unge trives i idræt. Børn og unge vægter ’at dygtiggøre sig’, ’at have det sjovt’ og ’samværet med kammerater’ højt, når de skal vurdere, hvad der betyder noget for dem, når de træner. Meget færre nævner ’at vinde’ som noget, der er væsentligt for dem (se bl.a. Jensen, 1999; Ewing, 1990).
+
+At komme til træning skal skabe glæde hos børnene – glæden bør være et befriende og nødvendigt element i både træning og kamp (Richter, 1999). Den gode trænings- og kampkultur er kendetegnet ved at være lærerig, sjov, spændende og social, og hvor sejre og nederlag ikke overskygger glæden og er det altafgørende.
 
 ## 4. Hvordan bliver jeg bedre som fodboldspiller?
 
-Spillernes arveanlæg spiller en rolle for hvor god en spiller kan blive, men træning er endnu vigtigere. Træning er den mest betydningsfulde faktor, når man skal forudsige, hvor dygtig en spiller er. Dygtige spillere træner sammenlagt mere, og især den tid der bruges i organiseret træning med holdet kan bruge til at forudsige, hvor god spilleren er (se Williams, 2005). Der er ikke nogen tvivl om, at gentagelser og træning er en årsag til, at spillere bliver dygtigere uanset hvilket niveau, man træner på – og det er formentlig vedholdenhed og motivation til at træne, der er den mest betydningsfulde faktor for at blive en rigtig dygtig spiller.
+Spillernes arveanlæg spiller en rolle for hvor god en spiller kan blive, men træning er endnu vigtigere. Træning er den mest betydningsfulde faktor, når man skal forudsige, hvor dygtig en spiller er. Dygtige spillere træner sammenlagt mere, og især den tid der bruges i organiseret træning med holdet kan bruge til at forudsige, hvor god spilleren er (se Williams, 2005).
+
+Der er ikke nogen tvivl om, at gentagelser og træning er en årsag til, at spillere bliver dygtigere uanset hvilket niveau, man træner på – og det er formentlig vedholdenhed og motivation til at træne, der er den mest betydningsfulde faktor for at blive en rigtig dygtig spiller.
 
 ## 5. Udvikling er vigtigere end sejre
 
@@ -106,7 +113,9 @@ Mange bøger om træning fremhæver, at træneren skal lave et miljø, hvor der 
 
 ## 8. Motivation
 
-Nøglebegrebet i al undervisning er motivation. Uden motivation er det umuligt at lære nogen noget som helst. Nielsen (1999) kobler motivation med opmærksomhed, og opmærksomhed er en af de egenskaber, træneren bør fremelske hos sine spillere. Uopmærk- somme spillere er ikke nødvendigvis bare dovne eller ugidelige – måske er der noget galt med den måde der trænes eller undervises på. Motivation er kernen i al undervisning, og spillere skal måske gribes an på forskellige måde. Ofte arbejder man med begreberne indre og ydre motivation.
+Nøglebegrebet i al undervisning er motivation. Uden motivation er det umuligt at lære nogen noget som helst. Nielsen (1999) kobler motivation med opmærksomhed, og opmærksomhed er en af de egenskaber, træneren bør fremelske hos sine spillere.
+
+Uopmærksomme spillere er ikke nødvendigvis bare dovne eller ugidelige – måske er der noget galt med den måde der trænes eller undervises på. Motivation er kernen i al undervisning, og spillere skal måske gribes an på forskellige måde. Ofte arbejder man med begreberne indre og ydre motivation.
 
 - **Den indre motivation** er den motivation, der kommer fra spilleren selv. Det er når spilleren gerne vil træne, fordi vedkommende synes, at spillet er sjovt og ufordrende.
 
@@ -116,15 +125,21 @@ Det er ikke overraskende, at spillere hvor motivationen kommer indefra er de spi
 
 ## 9. Præstationer er ikke det samme som læring
 
-Læring er en proces over tid. Læring har fundet sted, hvis en spiller kan noget, vedkommende ikke kunne før. Læring kan foregå, når spilleren øver sig. Spilleren behøver ikke nødvendigvis øve sig med det formål at blive bedre, men når man gentager en færdighed, så bliver man sikkert på et eller andet tidspunkt bedre til at udføre færdigheden. Læring er en ændring i spillerens præstationspotentiale. Læring er ikke noget, der kan overføres fra træneren, men noget der sker spilleren. Det er ikke noget, vi kan observere direkte.
+Læring er en proces over tid. Læring har fundet sted, hvis en spiller kan noget, vedkommende ikke kunne før. Læring kan foregå, når spilleren øver sig. Spilleren behøver ikke nødvendigvis øve sig med det formål at blive bedre, men når man gentager en færdighed, så bliver man sikkert på et eller andet tidspunkt bedre til at udføre færdigheden.
 
-Det vi kan se er spillerens præstationer. En præstation er det vi kan observere en spiller gøre på et bestemt tidspunkt i en bestemt situation. Præstationer kan imidlertid variere mærkbart fra situation til situation; spilleren kan fx være nervøs, uopmærksom og træt. Når vi kigger på om spilleren har lært noget, er det altså spillerens præstationer, vi kigger på, og hvis de generelt virker til at blive bedre, siger vi, at spilleren har lært noget. 
+Læring er en ændring i spillerens præstationspotentiale. Læring er ikke noget, der kan overføres fra træneren, men noget der sker spilleren. Det er ikke noget, vi kan observere direkte.
+
+Det vi kan se er spillerens præstationer. En præstation er det vi kan observere en spiller gøre på et bestemt tidspunkt i en bestemt situation. Præstationer kan imidlertid variere mærkbart fra situation til situation; spilleren kan fx være nervøs, uopmærksom og træt.
+
+Når vi kigger på om spilleren har lært noget, er det altså spillerens præstationer, vi kigger på, og hvis de generelt virker til at blive bedre, siger vi, at spilleren har lært noget. 
 
 Denne forskel mellem præstationer og læring har snydt mange trænere og mange forskere. Træneren bør ikke kun iagttage sine spillere i en enkelt træning, men holde øje med dem over et par uger, for at se om de rent faktisk lærer noget af øvelserne.
 
 ## Konklusion
 
-"Trænerens Bibel" er ikke uanvendelig i sine generelle betragtninger om træningsplanlægning og skader, men den bidrager ikke med interessante tilføjelser til fodboldtræningen. Beskeden til trænerne er: fremhæv glæden i spillet og lær os en masse, når vi nu bruger en del af vores tid på at spille fodbold. Det gælder uanset om vi knap kan sparke bolden fire meter med små tykke ben, eller vi spiller på eliteniveau. På den måde lærer I også selv mere, og således giver hæftets titel mening i dobbelt betydning.
+"Trænerens Bibel" er ikke uanvendelig i sine generelle betragtninger om træningsplanlægning og skader, men den bidrager ikke med interessante tilføjelser til fodboldtræningen. Beskeden til trænerne er: fremhæv glæden i spillet og lær os en masse, når vi nu bruger en del af vores tid på at spille fodbold.
+
+Det gælder uanset om vi knap kan sparke bolden fire meter med små tykke ben, eller vi spiller på eliteniveau. På den måde lærer I også selv mere, og således giver hæftets titel mening i dobbelt betydning.
 
 ## Referencer
 

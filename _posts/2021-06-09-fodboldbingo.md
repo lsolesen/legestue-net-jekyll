@@ -38,7 +38,7 @@ Legen kan afvikles med par eller med individuelle deltagere. Hver deltager/par s
 lade med de forskellige øvelser. Det er en god idé at lave bingopladerne på en sådan måde, at øvelserne
 afvikles i forskellige rækkefølge af deltagerne., dog
 skal man så vidt muligt sørge for, at alle deltagere/par slutter med samme øvelse. Det gør det overskueligt for træneren at se, hvornår deltagerne/parrene er færdige. Øvelserne skal afvikles i rækkefølge jævf.
-Bingopladerne.
+bingopladerne.
 
 Alle starter samme sted. Hvis legen er individuelt
 dribler man f.eks. sin bold igennem 10 kegler inden
@@ -51,7 +51,9 @@ igennem inden man igen kommer til firkant nummer
 en kegle med en opgave eller nitte, som ikke svarer
 til den øvelse man har på sin bingoplade, så løbes
 der direkte igennem firkant nummer 2 og videre til
-driblebanen (de 10 kegler). Det sjove i denne leg er, at
+driblebanen (de 10 kegler).
+
+Det sjove i denne leg er, at
 man kan komme til at løbe langt hvis man ikke finder
 den rigtige øvelse i henhold til rækkefølgen på bingopladen, og jo mere træt man bliver, jo sværere er det
 at huske hvad der er under de forskellige kegler.
@@ -70,7 +72,7 @@ ren, som skal spille tilbage med højt indersidespark, halvflugtning eller hoved
 
 Øverste felt kan eventuelt bruges som afkrydsning
 når man har været igennem øvelsen. De 5 første
-øvelser blandes fra bingoplade til binkoplade.
+øvelser blandes fra bingoplade til bingoplade.
 Dette gør at man undgår ’bold-kø’.
 
 Når træneren planlægger, er det en god ide at have samme øvelse som sidste øvelse på samtlige Bingoplader.

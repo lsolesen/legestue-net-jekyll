@@ -13,8 +13,9 @@ header:
   teaser: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
 categories:
-  - Veje til udvikling
+  - Fodboldtræner
 tags:
+  - Veje til udvikling
   - Børnetræningsmanual 2006
   - værktøjskasse
 last_modified_at: 2021-04-07T15:16:02Z
@@ -65,9 +66,13 @@ I dette indlæg kigger vi lidt på trænerens værktøjskasse. Det handler både
 
 Du skal naturligvis være forberedt, når du går på banen. Det er vigtig at gøre sig nogle tanker om, hvordan man vil gribe træningerne an. Det er dog mindst lige så vigtigt, at man er bevidst om den meget store rolle man som voksen har i påvirkningen af de børn, man træner. Trænere er en væsentlig person i børnenes tilværelse og bliver et emne for masser af historier derhjemme: ’min træner siger’ og ’min træner gør sådan’.
 
-Derfor skal man være optimalt forberedt til alle træningspas – både på papiret, men også mentalt. Den ti-dobbelte verdensmester i roning Arne Nilsson lever i dag af at coache idræts- og erhvervsfolk, holde foredrag og skrive bøger. Arne Nielsson filosofi er, at det handler om at begejstres og skabe begejstring. Det er efter hans mening et bevidst valg, om en oplevelse skal være positiv eller negativ. Blandt andet skriver han i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061){: rel='sponsored nofollow noopener' } (Nielsson, 2005):
+Derfor skal man være optimalt forberedt til alle træningspas – både på papiret, men også mentalt. Den ti-dobbelte verdensmester i roning Arne Nilsson lever i dag af at coache idræts- og erhvervsfolk, holde foredrag og skrive bøger.
 
-> ’Begejstring skal vises. Det kan være: ’Yes!’ Eller: ’Ih, hvor er du god i dag!’ eller ’Ih, hvor er jeg glad!’ Og du kan godt øve dig i at vise begejstring. Børn er eksempelvis ret gode til det. Der er jo ingen af os voksne der ikke som børn har suset rundt og ment at vi simpelthen var verdens bedste. Selv legede jeg Allan Simonsen. Og når jeg scorede var hænderne oppe. Hele verden skulle se det, men da jeg blev ældre, var begejstring og glæde ikke noget jeg viste, for folk kiggede underligt på mig’.
+Arne Nielsson filosofi er, at det handler om at begejstres og skabe begejstring. Det er efter hans mening et bevidst valg, om en oplevelse skal være positiv eller negativ. Blandt andet skriver han i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061){: rel='sponsored nofollow noopener' } (Nielsson, 2005):
+
+> ’Begejstring skal vises. Det kan være: ’Yes!’ Eller: ’Ih, hvor er du god i dag!’ eller ’Ih, hvor er jeg glad!’ Og du kan godt øve dig i at vise begejstring. Børn er eksempelvis ret gode til det. Der er jo ingen af os voksne der ikke som børn har suset rundt og ment at vi simpelthen var verdens bedste.
+
+Selv legede jeg Allan Simonsen. Og når jeg scorede var hænderne oppe. Hele verden skulle se det, men da jeg blev ældre, var begejstring og glæde ikke noget jeg viste, for folk kiggede underligt på mig’.
 
 --- <cite>Arne Nielsson i [Viljen til sejr](https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061){: rel='sponsored nofollow noopener' }</cite>
 
@@ -112,7 +117,11 @@ Den mest effektive for læringen er at lave det man kalder variabel træning, hv
 - **Bloktræning.** Her trænes den samme færdighed i et længere tidsrum ad gangen. Fx kunne træneren vælge først at træne skud på mål i 20 minutter og derefter træne driblinger i 20 minutter.
 - **Blandet træning.** De forskellige færdigheder trænes i blandet rækkefølge. Fx kan afslutninger, afleveringer og driblinger blandes i samme træningsøvelse.
 
-I mange studier har man lavet en træning, hvor rækkefølgen var tilfældig, men i træningsøjemed foretrækker vi betegnelsen blandet træning, fordi det formentlig giver nogenlunde samme resultater. Der er evidens for, at bloktræning meget tidligt i indlæringsforløbet er blandet træning overlegent på kort sigt. Det er imidlertid vigtigt, at træneren hurtigt begynder at introducere blandet træning, fordi den er mest effektiv på lang sigt. Det er en udfordring at introducere blandet træning på det rigtige tidspunkt, men den blandede træning bør introduceres så tidligt som overhovedet muligt. Selvom bloktræningen under den enkelte træning viser den hurtigste fremgang, men den blandede træning giver den største læring over tid. Den blandede træning fordrer, at spillerne ind- går i en problemløsningssituation og det øger lærin- gen hos spillerne. Enhver træning bør altså bestå af en masse forskellige færdigheder. Formentlig er blandet træning den mest gavnlige organisation, jo mere færdighederne adskiller sig fra hinanden (Williams, 2005).
+I mange studier har man lavet en træning, hvor rækkefølgen var tilfældig, men i træningsøjemed foretrækker vi betegnelsen blandet træning, fordi det formentlig giver nogenlunde samme resultater. Der er evidens for, at bloktræning meget tidligt i indlæringsforløbet er blandet træning overlegent på kort sigt.
+
+Det er imidlertid vigtigt, at træneren hurtigt begynder at introducere blandet træning, fordi den er mest effektiv på lang sigt. Det er en udfordring at introducere blandet træning på det rigtige tidspunkt, men den blandede træning bør introduceres så tidligt som overhovedet muligt. Selvom bloktræningen under den enkelte træning viser den hurtigste fremgang, men den blandede træning giver den største læring over tid.
+
+Den blandede træning fordrer, at spillerne ind- går i en problemløsningssituation og det øger lærin- gen hos spillerne. Enhver træning bør altså bestå af en masse forskellige færdigheder. Formentlig er blandet træning den mest gavnlige organisation, jo mere færdighederne adskiller sig fra hinanden (Williams, 2005).
 
 ## Hold fokus
 
@@ -134,29 +143,39 @@ Når træningen planlægges er det naturligvis vigtigt, at der tages højde for 
 
 I det efterfølgende eksempel, skal der laves en træning i indersidespark.
 
-1. Indledningsvis er spillerne sammen 2 og 2. Sparket vises og spillerne bliver bedt om at sparke inderside spark til hinanden med varieret afstand (2-10 meter), mens instruktionsmomenterne gennemgåes. Spillerne stopper bolden efter hvert spark, ændrer afstanden ved at bevæge sig tættere sammen eller længere væk fra hinanden og sparker så bolden retur.
+#### 1
+
+Indledningsvis er spillerne sammen 2 og 2. Sparket vises og spillerne bliver bedt om at sparke inderside spark til hinanden med varieret afstand (2-10 meter), mens instruktionsmomenterne gennemgåes. Spillerne stopper bolden efter hvert spark, ændrer afstanden ved at bevæge sig tættere sammen eller længere væk fra hinanden og sparker så bolden retur.
 
 ![](/assets/images/posts/inderside-1.png)
 
-2. Det vil være spillere, der allerede eller meget hurtigt behersker denne øvelse, de opfordres nu til i højere grad at bruge begge ben og at sparke til bolden uden at stoppe den først (førstegangsafleveringer).
+#### 2
 
-3. Nu kan der sættes et keglemål på ca. 2 meters bredde op midt mellem spillerne. Uanset om bolden stoppes mellem sparkene eller om der sparkes første gang kan man nu lave nye regler:
+Det vil være spillere, der allerede eller meget hurtigt behersker denne øvelse, de opfordres nu til i højere grad at bruge begge ben og at sparke til bolden uden at stoppe den først (førstegangsafleveringer).
 
-a. Får begge spillere bolden gennem målet, så rykker begge spillere yderligere en meter væk fra kegle- målet i midten, og der sparkes igen.
-b. Rammer en af spillerne ved siden af målet eller vælter en af keglerne rykker begge spillere en meter tættere på, og der sparkes igen.
-c. Man kan også lade det helt individuelt, så den der rammer gennem keglemålet går væk fra keglerne, mens makkeren der måske rammer går tættere på.
+#### 3
+
+Nu kan der sættes et keglemål på ca. 2 meters bredde op midt mellem spillerne. Uanset om bolden stoppes mellem sparkene eller om der sparkes første gang kan man nu lave nye regler:
+
+- Får begge spillere bolden gennem målet, så rykker begge spillere yderligere en meter væk fra kegle- målet i midten, og der sparkes igen.
+- Rammer en af spillerne ved siden af målet eller vælter en af keglerne rykker begge spillere en meter tættere på, og der sparkes igen.
+- Man kan også lade det helt individuelt, så den der rammer gennem keglemålet går væk fra keglerne, mens makkeren der måske rammer går tættere på.
 
 Sværhedsgraden i øvelsen justeres på den måde hele tiden og der vil ikke være særlig lang tid mellem at man lykkes med sparket.
 
 ![](/assets/images/posts/inderside-2.png)
 
-4. Når dette beherskes, er den næste progression, at der sættes en god førsteberøring på modtagelsen.
+#### 4
+
+Når dette beherskes, er den næste progression, at der sættes en god førsteberøring på modtagelsen.
 
 ![](/assets/images/posts/inderside-3.png)
 
 Enten spilles bolden på tværs af kroppen med den ene fods inderside og tilbage til makkeren med modsatte fod. Eller bolden skubbes ud til siden med højre yderside og returneres til makkeren med højre inderside. Bolden skal hele tiden være i bevægelse.
 
-5. Der opsættes en port (cirka 3 meter) ved hver af spillerne, der står med 10 til 15 meters afstand.
+#### 5
+
+Der opsættes en port (cirka 3 meter) ved hver af spillerne, der står med 10 til 15 meters afstand.
 
 ![](/assets/images/posts/inderside-4.png)
 

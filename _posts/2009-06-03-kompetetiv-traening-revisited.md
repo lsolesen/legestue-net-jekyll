@@ -9,7 +9,7 @@ redirect_from:
   - /legendarisk-straf-til-uduelige-spillere/
 language: da
 categories:
-  - Veje til Udvikling
+  - Fodboldøvelser
 tags:
   - Veje til Udvikling
 last_modified_at: 2021-03-02T13:43:18Z

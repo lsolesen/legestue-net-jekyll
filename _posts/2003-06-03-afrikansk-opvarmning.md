@@ -78,6 +78,8 @@ se, hvornår I starter. Hvis du arbejder modsat spillerne skal du huske at gøre
 spejlvendt, ellers kan det blive vanskeligt for spillerne at omsætte dine bevægelser og
 vende dem om inden i hovedet.
 
+{% include figure image_path="/assets/images/oevelser/teknisk-traening-koordinationsoevelse.png" caption="Afrikansk opvarmning til fodbold kan foregå i to rækker, hvor øvelserne foregår i takt." alt="afrikansk opvarmning til fodbold i to rækker" %}
+
 ### Cirkelorganisation
 
 Spillerne arbejder fra en cirkel ind mod midten og tilbage igen. Deres bevægelser

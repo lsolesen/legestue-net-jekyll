@@ -8,8 +8,6 @@ excerpt: "Nicklas Pyrdol gennemgår et videnskabeligt review fra 2012, som tager
 author: nicklas.pyrdol
 categories:
   - Talentudvikling
-  - Veje til udvikling
-  - Videnskab
 tags:
   - Talentudvikling
   - Veje til udvikling

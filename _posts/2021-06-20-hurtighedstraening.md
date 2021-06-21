@@ -1,5 +1,6 @@
 ---
 title: &title "Hurtighedstræning i fodbold: Sådan bliver du hurtigere!"
+seo_title: "Hurtighedstræning i fodbold - 4 gode øvelser!"
 permalink: /hurtighedstraening-fodbold/
 language: da
 header:
@@ -32,6 +33,12 @@ Her er nogle øvelser til at arbejde med spillernes hurtighed.
 - løb med hænder over hovedet, samme som c og d.
 - sammensætninger med hælspark og knæløft.
 - sammen to og to: kig på løbeteknikken.
+
+## Stigeøvelser
+
+Du kan træne hurtige fødder med stigeøvelser. Det er også glimrende koordinationstræning. Om du kommer til at løbe hurtigere af stigeøvelser er ikke helt sikkert.
+
+{% include video provider="youtube" id="awjcuxLUywQ" %}
 
 ## Formel hurtighedstræning
 

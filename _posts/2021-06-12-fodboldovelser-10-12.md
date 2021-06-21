@@ -68,10 +68,10 @@ Husk at spille bolden begge veje rundt om keglerne, og spark med nærmeste ben.
 - Bruge begge ben.
 
 5. 4:1. De 4 spillere med bolden står alle udenfor
-linierne mellem keglerne
+linjerne mellem keglerne
 Bolden skal spilles ind imellem keglerne til mak-
 keren. Spilleren i midten skal prøve at røre bolden
-og hun/han må ikke komme udenfor linien mellem
+og hun/han må ikke komme udenfor linjen mellem
 keglerne. Når bolden er rørt, bytter spillerne. Kan
 spilles med 1. gangsafleveringer med gode spillere.
 
@@ -112,9 +112,9 @@ prik de andres ud af området.
 deltager at forbedre sin egen tid.
 
 3. 2:2 (eventuelt 3:3)
-Scoring ved at lægge bold død på baglinie.
+Scoring ved at lægge bold død på baglinje.
 
-### Lege ti lat træne driblinger
+### Lege til at træne driblinger
 
 1. Fodboldrytmer
 - arbejde/observer spillernes
@@ -146,7 +146,7 @@ der bestemmer ruten og farten.
 
 5. 5:5 eller lignende
 Bolden skal dribles fremad og spilles bagud. Scoring
-ved at drible over modstandernes baglinie.
+ved at drible over modstandernes baglinje.
 NB: Vær påpasselig som dommer.
 
 6. Spil 7:7 med målmænd
@@ -176,7 +176,7 @@ Kan gennemføres med fangere:
 - B Der byttes med den, der fanger.
 
 3. 4:4 og 3:3
-Scoring ved at drible over modstanderens baglinie.
+Scoring ved at drible over modstanderens baglinje.
 Spillerne er inddelt i små grupper for at fremprovokere driblinger.
 Driblinger og finter kan yderligere fremprovokeres
 ved at indføre regel om fast mandsopdækning.
@@ -231,7 +231,7 @@ modsatte række (bytter)
 
 5. Kaste-heade-gribe
 5:5 eller 6:6 på forholdsvis kort bane. Der kan kun
-scores på hovedstød – enten i mål eller over baglinie, hvor medspiller griber bolden. Der skal skiftevis kastes, heades og gribes. Griberen skal så igen
+scores på hovedstød – enten i mål eller over baglinje, hvor medspiller griber bolden. Der skal skiftevis kastes, heades og gribes. Griberen skal så igen
 kaste. Hvis bolden rammer jorden, får det andet
 hold bolden. Bolderobring kan ske ved at vinde
 headning efter kast eller ved at gribe bolden efter
@@ -266,18 +266,15 @@ lere.
 ### Princip for 1. berøringer
 
 At møde bolden og give efter med kropsdelen
-samtidig med, at bolden føres i ny retning (retnings-
-bestemt), når det er påkrævet. Forestil dig, at bolden
+samtidig med, at bolden føres i ny retning (retningsbestemt), når det er påkrævet. Forestil dig, at bolden
 rammer en dyne.
 
 ### Selvtræning
 
-- Holde bolden i hånden – lad bolden fald – retnings-
-bestemt 1. berøring.
+- Holde bolden i hånden – lad bolden fald – retningsbestemt 1. berøring.
 - Tilføj temposkift efter 1. berøring.
 
-### Parvise øvelser med aflevering – 1. berøring –
-aflevering
+### Parvise øvelser med aflevering – 1. berøring – aflevering
 
 1. Det er vigtigt, at begge spillere arbejder med deres 1. berøring. Derfor må der byttes roller i nogle af
 øvelserne.
@@ -303,12 +300,10 @@ spille bolden igennem keglemålene, så medspiller
 kan tæmme den.
 
 2. Almindeligt spil f.eks. 5:5 med målmænd. Træneren
-vejleder i aktuelle situationer vedrørende 1. berørin-
-ger.
+vejleder i aktuelle situationer vedrørende 1. berøringer.
 
 1\. berøringer i luften (lår, bryst samt hoved) er også
-nødvendigt at træne. Eventuelt kan plasticbolde bru-
-ges til bryst- og hoved 1. berøringer.
+nødvendigt at træne. Eventuelt kan plasticbolde bruges til bryst- og hoved 1. berøringer.
 
 ### Parvise øvelser
 
@@ -327,7 +322,7 @@ mod mål. Byt B ud efter 6 1. berøringer.
 ### Spil
 
 1. Spil på smal bane 3:3/4:4. Når bolden passerer side-
-og baglinier, er der indkast. De skal kastes, så de kan
+og baglinjer, er der indkast. De skal kastes, så de kan
 tæmmes, mens bolden er i luften. Vejled undervejs.
 - A Den spiller, der tæmmer, må ikke presses!
 - B Frit spil.
@@ -436,13 +431,13 @@ og skal forsvare/score i hver sit mål. Skift for
 hvert minut.
 
 12. Der spilles 2:2 i et kegleområde. Der scores ved
-at drible over makkerens baglinie i fuld fart. Kan
+at drible over makkerens baglinje i fuld fart. Kan
 selvfølgelig spilles mod keglemål.
 
 13. 4:4 på begrænset område (gerne lang og smal for
 at fremprovokere tacklinger). Bolden skal dribles
 fremad og må kun afleveres bagud. Scoring ved
-at drible over baglinien.
+at drible over baglinjen.
 
 Til yderligere fordybelse kan man måske arbejde lidt
 med forsvarstaktik og komme ind på emner som
@@ -495,7 +490,7 @@ samtidig med, at den rammer jorden.
 har hver en bold. Den halvflugtes i marken, hvor-
 efter der løbes. Hver omgang tæller 1 point. Ude-
 holdets spillere henter hver en bold så hurtigt som
-muligt, og dribler den ind på mållinien. Derefter
+muligt, og dribler den ind på mållinjen. Derefter
 byttes roller.
 
 3. Der dribles i keglelandskab. I nærheden af kegler

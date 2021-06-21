@@ -30,7 +30,7 @@ I det efterfølgende har vi givet et par bud på, hvordan man kan lære og lagre
 - Deltagerne sidder i hesteskoform eller i rundkreds.
 - Den første skal sige sit navn og fortælle kort om sig selv.
 - Den næste siger denne persons navn, sit eget samt fortæller kort om sig selv.
-- Den tredie siger første og anden persons navn og fortæller kort om sig selv.
+- Den tredje siger første og anden persons navn og fortæller kort om sig selv.
 - Dette fortsættes der med, til man har været hele kredsen rundt. På denne måde repeteres navnene så mange gange, at man har lettere ved at huske dem, og børnene er bedre til at huske billeder (ansigter) end ord.
 
 ## 2. Kaste eller sparke bold med navn på

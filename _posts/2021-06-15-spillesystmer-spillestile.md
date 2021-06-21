@@ -30,7 +30,7 @@ Hvad og hvem der afgør hvilken stil, og hvilket system der vælges til holdet, 
 
 Spillesystemet fortæller hvordan vi organiserer os, og hvor mange spillere, der er i de tre kæder. Eksempelvis er det meget brugt i tiden at spille 4:4:2 eller 4:3:3. Man kan også spille 3:5:2 og 4:5:1. De skematiske betegnelser refererer til **udgangsopstillingen**.
 
-Så skal der tages stilling til, hvordan formationerne skal være i de tre kæder. Det vil sige, om man spiller på linie i bagkæden eller spiller med sweeper, om man spiller i diamant på midten, eller på linie, eller i en halvbue.
+Så skal der tages stilling til, hvordan formationerne skal være i de tre kæder. Det vil sige, om man spiller på linje i bagkæden eller spiller med sweeper, om man spiller i diamant på midten, eller på linje, eller i en halvbue.
 
 Inden for systemet har spillerne forskellige arbejdsopgaver. Nogle af de gængse systemer beskrives kort i det følgende.
 
@@ -79,7 +79,7 @@ Midtbanen fungerer nu med kun én forreste midtbane, men ellers med samme system
 - falder hvis man er i tvivl.
 - bolden holdes indad ved pres af bagkæden.
 - backs må kun løse sig fra 4-kæden, hvis de er sikker på at vinde bolden.
-- hvis backen møder en ved siden af feltet, skal de resterende ikke bakke op, men ligge på linie.
+- hvis backen møder en ved siden af feltet, skal de resterende ikke bakke op, men ligge på linje.
 
 ### Risiko ved systemet
 

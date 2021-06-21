@@ -44,7 +44,7 @@ ind over fra kort afstand og med lidt vinkel på.
 
 {% include figure image_path="/assets/images/oevelser/afslutning-to-raekker.png" caption="Forslag til afslutningstræning i fodbold." alt="afslutningstræningtræning fodbold" %}
 
-2. Fra baglinien dribles gennem en keglerække ud
+2. Fra baglinjen dribles gennem en keglerække ud
 foran målet, hvorfra der afsluttes. Ved den sidste
 kegle kan bolden spilles indenom keglen, mens
 spilleren løber udenom til skud (max. 5 kegler).

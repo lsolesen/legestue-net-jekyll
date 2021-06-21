@@ -35,11 +35,12 @@ Vi starter med lidt inspiration fra bogen.
 
 ### Banen
 
-Vores bane var den gade jeg boede i, og vores mål var gadens to ender. Vores sidelinier var der, hvor kantstenen skulle have været, hvis gaden havde været brolagt. Da den ikke var det, krævede det en del blot at holde balancen. 
+Vores bane var den gade jeg boede i, og vores mål var gadens to ender. Vores sidelinjer var der, hvor kantstenen skulle have været, hvis gaden havde været brolagt. Da den ikke var det, krævede det en del blot at holde balancen. 
 
 ### Bolden
 
 Vi stoppde den største mandesok vi kunne inde med tøjstumper og avispapir og rullede den sammen i så megen fo af en bold, som vi kunne komme og bandt en snor om. Nogle af de sokker og tøjstumper vi brugte huggede vi fra tøjsnorerne uden at ejernve var klar over, at han bidrog, men for det meste klarede vi os med at låne. Man kan altid gå uden sokker - det gjorde vi - men en dreng skal have noget at sparke til. (22).
+
 Boldens vægt varierede efter, hvornår den sidst var blevet udstoppet, og om den kom igennem nogle mudderpøle. Men det var vi ligeglade med; fornøjelsen ved at sparke til bolden, få den til at bevæge sig, at kune styre den var den dejligste følelse af magt, jeg nogensinde har følt. (23)
 
 ### Fodboldopvækst
@@ -49,6 +50,7 @@ Peles mor kunne ikke lide, at han spillede fodbold. Hun fandt på flere ting, de
 > "Jeg kan ikke komme ud før, jeg har stablet alt det her. Og hvis jeg ikke kommer, kommer bolden heller ikke" (27).
 
 ### Lærerne
+
 Som straf for at snakke i timen skulle jeg stoppe munden fuld af papirskugler, til mine kinder gjorde ondt...
 
 For de mere alvorlige forbrydelser - som for eksempel at kaste med papirskugler, eller at knibe pigerne eller at slås - havde denne lærer udvalgt en lille firkant i et hjørne af klasseværelset, som hun havde fyldt med majskerner, som er lige så hårde som granitsten. Her skulle forbryderen - i reglen mig - knæle ned på sine bare knæ.

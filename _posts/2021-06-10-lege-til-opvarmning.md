@@ -70,12 +70,14 @@ ind til opgiveren, og pointstællingen stopper. Byt
 f.eks. når alle på indeholdet har sparket – eller lad det
 foregå på tid. Der er ingen, der ’dør’.
 
+![](/assets/images/fodboldlege/fodboldrundbold.png)
+
 ### Udviklingsmuligheder af fodboldrundbold
 
 Udvikling kan foregå ved at alle på indeholdet har
 en bold, der sparkes ud samtidig, hvorefter der løbes
 points hjem. Hver spiller på udeholdet skal nu have
-en bold hver og drible den hen til opgiverlinien. Så
+en bold hver og drible den hen til opgiverlinjen. Så
 har de to hold byttet plads, og spillet kan fortsætte
 med nyt inde- og udehold.
 
@@ -126,7 +128,7 @@ stemmer selv, hvad de vil være).
 
 De to holds spillere placeres liggende på maven og
 lige overfor hinanden (så de ser på hinanden) ved
-midterlinien med en afstand af ca. 3 meter.
+midterlinjen med en afstand af ca. 3 meter.
 
 Spillernes bold er placeret ca. 2 meter fra dem i løbe-
 retningen (i starten kan bolden udelades).
@@ -135,7 +137,7 @@ Træneren bestemmer, hvornår cowboys må forsøge
 at fange indianerne. På et signal (råb, klap, bold der
 slippes osv.) rejser cowboys sig op, får fat i bolden og
 løber mod indianerne. Indianerne skal hurtigt vende
-rundt og løbe ned bag deres egen baglinie med bol-
+rundt og løbe ned bag deres egen baglinje med bol-
 den for at få ’helle’.
 
 De indianere, der blev fanget, bliver nu gjort til
@@ -165,6 +167,7 @@ legen.
 ## 21 andre opvarmningslege til fodbold
 
 ### 1. Snuppe haler
+
 En bold og en vest pr. spiller. Vesten sættes fast i
 buksekanten. Afhængig af spillerantallet vælges x
 antal fangere, der ikke har nogle veste. Alle dribler
@@ -185,9 +188,9 @@ benene på en af de fangede.
 
 ### 3. Stjæl en bold
 
-To hold på hver sin baglinie. I et område midt imellem de to hold ligger samtlige bolde. Ved signal
+To hold på hver sin baglinje. I et område midt imellem de to hold ligger samtlige bolde. Ved signal
 forsøger hver spiller at få fat i en bold og drible den
-tilbage til sin baglinie og sætte sig med bolden.
+tilbage til sin baglinje og sætte sig med bolden.
 Holdet, der sidder først, har vundet. Variation: Færre
 antal bolde end spillere. Fire hold på hver sin side i et
 kvadrat.
@@ -226,7 +229,7 @@ skal dribles, bæres, holdes mellem fødderne eller andet, hjem til reden. Hvilk
 
 ### 8. Ekspresbold
 
-To hold stiller sig op på hver side af midterlinien med
+To hold stiller sig op på hver side af midterlinjen med
 en bold pr. spiller. Spillerne skal sparke så mange
 bolde som muligt over på modstanderens banehalvdel. Hvem har færrest bolde, når fløjten lyder?
 

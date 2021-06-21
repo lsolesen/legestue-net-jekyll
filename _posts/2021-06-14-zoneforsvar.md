@@ -39,7 +39,7 @@ De nederlag skal du formentlig retfærdiggøre overfor omgivelserne, og så er d
 - Presfodbold kan bedst organiseres ud fra zoneprincipper.
 - Zone skaber en offensiv holdning hos spillerne og gør spillerne klogere, så de bliver nødt til at tænke fodbold.
 - Gunstigere position for angreb.
-- Vi gør det samme i hver kamp, hvilket giver tryghed for spillerne, og der er klare og enkle retningslinier.
+- Vi gør det samme i hver kamp, hvilket giver tryghed for spillerne, og der er klare og enkle retningslinjer.
 - Zonespillet skaber mange breakdownmuligheder, hvor boldbanen kan brydes.
 
 ## DE HAR BOLDEN
@@ -60,7 +60,7 @@ Vi veksler mellem at presse højt oppe på banen og spille afventende.
 
 ## Spillestilselementer defensivt
 
-### 4-kæden på linie ved pres
+### 4-kæden på linje ved pres
 
 - Altid se efter bold, medspiller og modspiller i nævnte rækkefølge.Flytte sig efter bold og medspiller.
 - Kompakt organisation (lad os rotte os sammen)
@@ -72,7 +72,7 @@ Vi veksler mellem at presse højt oppe på banen og spille afventende.
 
 ### Sideforskydning: ishockeystav
 
-- Bagerste kæde på linie ved hårdt pres på boldhold.Midterforsvarer (MF) bestemmer, hvor linien sættes.
+- Bagerste kæde på linje ved hårdt pres på boldhold.Midterforsvarer (MF) bestemmer, hvor linjen sættes.
 - Luk altid midten på bageste tredjedel af banen. Mindst to spillere.
 - Fjerneste midterforsvarer falder ved ubalance.
 
@@ -112,7 +112,7 @@ Vi veksler mellem at presse højt oppe på banen og spille afventende.
 - En kantforsvarer i 1:2 (som ved overlap) følges med på kanten, mens MF overtager boldholder.
 - Hvis der afleveres på tværs foran MF, så samme princip som flad bold i fødderne på fejlvendt spydspids.
 - Kantforsvarer bakker op bagved foranliggende KM.
-- Overspilles en af de centrale MS i dybden forsøger en midterforsvarer at nå frem og de 3 andre falder ind bag ved på linie.
+- Overspilles en af de centrale MS i dybden forsøger en midterforsvarer at nå frem og de 3 andre falder ind bag ved på linje.
 - Ubalance ved kontraer falder alle, så der vindes tid og forsøge at kontrollere boldholderen.
 - Ved ubalance på kontra modtager nærmeste forsvarer og tvinger til at spille udad. Øvrige ligger dybt.
 - Ved ubalance centralt søger alle sammen ind i banen, mens nærmeste midterforsvarer modtager og tvinger til at spille bolden udad.
@@ -146,7 +146,7 @@ Vi veksler mellem at presse højt oppe på banen og spille afventende.
 
 ### MF har bolden
 
-- Lav spillet bredt. Start cirka på linie med din MF. Så er det lettest at tæmme bolden. Tæm bolden med det yderste ben - og lav tæmningen retningsbestemt gerne fremad, hvis det kan lade sig gøre.
+- Lav spillet bredt. Start cirka på linje med din MF. Så er det lettest at tæmme bolden. Tæm bolden med det yderste ben - og lav tæmningen retningsbestemt gerne fremad, hvis det kan lade sig gøre.
 
 ### Andre spillere har bolden
 
