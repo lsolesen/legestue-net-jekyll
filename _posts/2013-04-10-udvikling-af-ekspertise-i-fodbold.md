@@ -21,7 +21,7 @@ feature_row:
     url: "https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 sidebar:
   - text: >
       <div markdown="1" id="ezoic-pub-ad-placeholder-121">

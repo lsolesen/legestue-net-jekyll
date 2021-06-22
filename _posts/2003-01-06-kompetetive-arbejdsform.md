@@ -19,7 +19,7 @@ feature_row:
     url: "https://www.saxo.com/dk/coaching-laering-og-udvikling_reinhard-stelter_haeftet_9788777063237"
     btn_label: "Køb bogen hos Saxo"
     btn_class: "btn--danger"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788772160801/0x500
     alt: "Hvis det ikke er held, hvad fanden er det så?"
     title: "Hvis det ikke er held, hvad fanden er det så?"
@@ -27,20 +27,20 @@ feature_row:
     url: "https://www.saxo.com/dk/hvis-det-ikke-er-held-hvad-fanden-er-det-saa_jacob-lindeblad_indbundet_9788772160801"
     btn_label: "Køb bogen hos Saxo"
     btn_class: "btn--danger"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Idrætslærere og -trænere er ofte på udkig efter nye måder at motivere udøvere eller elever på. Fra vores baggrund i hhv. elitevolleyball og eliteatletik har vi begge oplevet, at det kompetitive element i idrætten motiverede os meget og var en central del af nogle af vore bedste idrætsoplevelser. Derfor besluttede vi os for at undersøge emnet nærmere og se på, om disse kvaliteter og gode oplevelser kunne overføres til en undervisningssituation.
 
-I den frivillige idræt har den kompetitive arbejdsform været anvendt som en del af træningen i mange år (1,2,3,4). I et elite-idrætsmiljø, hvor konkurrence er en vigtig del af indholdet, synes kompetitiv træning at virke meget fint, jvf. det amerikanske volleyballlandsholds resultater i 1980-1988, hvor arbejdsformen første gang blev introduceret på systematisk vis (1). Mange andre har efterfølgende opnået gode resultater gennem systematisk arbejde med den kompetitive arbejdsform bl.a. trænere for forskellige volleyballlandshold (4) og elitesvømmetræner Jacob Lindeblad (2). 
+I den frivillige idræt har den kompetitive arbejdsform været anvendt som en del af træningen i mange år (1,2,3,4). I et elite-idrætsmiljø, hvor konkurrence er en vigtig del af indholdet, synes kompetitiv træning at virke meget fint, jvf. det amerikanske volleyballlandsholds resultater i 1980-1988, hvor arbejdsformen første gang blev introduceret på systematisk vis (1). Mange andre har efterfølgende opnået gode resultater gennem systematisk arbejde med den kompetitive arbejdsform bl.a. trænere for forskellige volleyballlandshold (4) og elitesvømmetræner Jacob Lindeblad (2).
 
-I denne artikel har vi taget udgangspunkt i J. Iams definition af den kompetitive arbejdsform: 
+I denne artikel har vi taget udgangspunkt i J. Iams definition af den kompetitive arbejdsform:
 
-> Den kompetitive arbejdsform består i at relatere handlinger/afgørelser til et fastlagt bedømmelsessystem, der igennem karaktergivning/evaluering giver udøverne en meget nøjagtigt feedback på effekten af deres handlinger (1). 
+> Den kompetitive arbejdsform består i at relatere handlinger/afgørelser til et fastlagt bedømmelsessystem, der igennem karaktergivning/evaluering giver udøverne en meget nøjagtigt feedback på effekten af deres handlinger (1).
 
 ## Beskrivelse af den kompetitive arbejdsform
 
-Den kompetitive arbejdsform kan varieres på mange måder, men fælles for dem alle er, at der bliver opstillet nogle krav, som en eller flere udøvere skal leve op til for at vinde. I princippet kan man sige at et almindelig volleyballsæt eller et 100 meter løb med flere deltagere er en form for kompetitiv træning. 
+Den kompetitive arbejdsform kan varieres på mange måder, men fælles for dem alle er, at der bliver opstillet nogle krav, som en eller flere udøvere skal leve op til for at vinde. I princippet kan man sige at et almindelig volleyballsæt eller et 100 meter løb med flere deltagere er en form for kompetitiv træning.
 
 Som træner/underviser kan man dog være interesseret i at arbejde mere specifikt med et enkelt element end f.eks. at træne hele disciplinen på en gang. Det er da muligt at opstille kriterier, der sigter mod udvikling af dette specifikke element. Man kan i volleyball lave nogle kvalitetskriterier for servemodtagning og give 3 point for den perfekte modtagning, 2 for den gode, men ikke helt perfekte modtagning, 1 point for en modtagning der kan spilles videre på, men ikke særlig nemt og 0 point for den forfejlede modtagning. Når spillere så skal træne modtagning, kan de selv sætte sig et mål for 10 modtagninger (eksempelvis kunne en modtager vælge en målsætning på 17 point). Dernæst skal modtageren modtage de næste 10 server og prøve at opnå sin egen målsætning. Ved  en sådan øvelse vil modtageren blive konfronteret med sit eget niveau (Jeg var bedre/dårligere end jeg troede). Efterhånden vil udøveren blive meget bevidst om sit eget niveau og efterhånden også erfare at niveauet bliver højere og højere, jo længere tid man har trænet. Udøveren vil derfor ændre sin målsætning og således altid træne lige på grænsen af sit eget niveau. Således vil basis for optimale læringsbetingelser (flow) være skabt (5).
 
@@ -51,7 +51,7 @@ Baggrunden for at skabe en kompetitiv arbejdsform er:
 -  at elementer i idrætten skal kunne kvantificeres.
 -  at der skabes regler for vundne og tabte situationer i træningen (succeskriterier).
 
-At denne form for træning virker i et eliteidrætsmiljø er muligvis ikke så underligt, da man jo kontinuerligt vænner udøveren til at præstere i situationer, hvor der er noget på spil: Man spiller, når man anvender arbejdsformen, om at vinde over sig selv eller over andre, og vænner sig således til at konkurrere, hvilket er præcis, det man skal kunne i weekenden til stævne eller kamp. 
+At denne form for træning virker i et eliteidrætsmiljø er muligvis ikke så underligt, da man jo kontinuerligt vænner udøveren til at præstere i situationer, hvor der er noget på spil: Man spiller, når man anvender arbejdsformen, om at vinde over sig selv eller over andre, og vænner sig således til at konkurrere, hvilket er præcis, det man skal kunne i weekenden til stævne eller kamp.
 
 Det har for os været interessant at undersøge om man kan overføre nogle af disse kvaliteter fra eliteidrætten til et undervisningsmiljø.
 
@@ -70,10 +70,10 @@ Ved at anvende den kompetitive metode i træning eller undervisning kan man væn
 Der findes pt. undersøgelsesresultater med en studentermålgruppe, der dokumenterer, at forståelsen af boldspillet bliver større, hvis man udsættes for konkurrencesituationen, hvor man spiller for at vinde (6). Undersøgelsesresultaterne dokumenterer også at kommunikation, engagement, vurdering af spilkvalitet, tilbøjelighed til at rose og opmuntre hinanden var større i spil med konkurrenceelementet indlagt end i spil uden fokusering på resultatet.
 
 Argumenter imod anvendelse af den kompetitive arbejdsform
-Vi mener at anvendelse af den kompetitive arbejdsform i undervisningen kan have følgende negative effekter: 
+Vi mener at anvendelse af den kompetitive arbejdsform i undervisningen kan have følgende negative effekter:
 
-- De ikke konkurrencemindede kan specielt i begyndelsen føle, at de bliver udstillede. 
-- Nogen vil føle præstationskravet som ubehageligt og derfor  melde sig ud af træningen (være indifferente over for resultatet og derfor sjuske med øvelsen, hvorfor det modsatte opnås). 
+- De ikke konkurrencemindede kan specielt i begyndelsen føle, at de bliver udstillede.
+- Nogen vil føle præstationskravet som ubehageligt og derfor  melde sig ud af træningen (være indifferente over for resultatet og derfor sjuske med øvelsen, hvorfor det modsatte opnås).
 - I visse tilfælde kan man opleve nedsat motivation som følge af præstationsangst eller afstandtagen fra konkurrence som en del af idrætsbilledet.
 
 Begrebet kompetitiv arbejdsform lugter lidt af den sorte skole med opdeling af gode og dårlige, hvor de dårlige vil blive udsat for nedbrydende oplevelser.
@@ -89,13 +89,13 @@ Den kompetitive arbejdsform skal ses som en del af et bredt idrætsbegreb med fo
 **Situationen:** Man bør vurdere, hvornår i en lektion man skal anvende den kompetitive arbejdsform, ofte vil det være bedst efter en periode med non-kompetitivt arbejde. Det vil ofte være mere hensigtmæssigt ikke at arbejde med den kompetitive arbejdsform i begyndelsen af et forløb, da man har behov for først at skabe et godt fundament. I den enkelte time må man vurdere, hvordan stemningen er. Eksempelvis kan en klasse visse dage være meget lidt motiveret for den kompetitive arbejdsform.
 
 **Mængden:** Det er vigtigt at mængden af den kompetitive arbejdsform hverken er for stor eller for lille. Mængdens størrelse er hovedsageligt bestemt af målgruppen.
-Udformningen: Uanset hvornår man anvender den kompetitive metode, er det essentielt, at alle deltagere føler at der er en rimelig mulighed for at de kan nå deres mål. I det øjeblik en spiller føler, at det ikke er muligt at nå sit mål under de opstillede betingelser, falder dennes motivation, hvilket er stik imod hensigten. 
+Udformningen: Uanset hvornår man anvender den kompetitive metode, er det essentielt, at alle deltagere føler at der er en rimelig mulighed for at de kan nå deres mål. I det øjeblik en spiller føler, at det ikke er muligt at nå sit mål under de opstillede betingelser, falder dennes motivation, hvilket er stik imod hensigten.
 
 Udover disse fem faktorer mener vi også at følgende overvejelser er væsentlige.
 
 Undervejs i processen (dvs. i undervisningen) bør der være indlagt time-outs, hvor udøverne kan reflektere eller diskutere det, der foregår. Metoden bør i undervisningsmiljøer altid efter endt undervisning kobles med en evaluering af de processer der foregår i kampens hede, således at deltagerne, uanset resultatet, får et udbytte af at have været involveret i processen. I diskussionen bør det vægtes, at udøverne får mulighed for at diskutere deres egne oplevelser og de erfaringer de har gjort sig mht. hvad der kræves af dem for at vinde personligt, såvel som for holdet. Det skal gøres klart for udøverne, hvad målsætningen mht. indlæring har været.
 
-Den kompetitive metode fungerer som udgangspunkt bedst med udøvernes tilslutning. Der kan dog være tilfælde, hvor man med fordel kan lade elever, der er negative over for metoden, afprøve den alligevel. 
+Den kompetitive metode fungerer som udgangspunkt bedst med udøvernes tilslutning. Der kan dog være tilfælde, hvor man med fordel kan lade elever, der er negative over for metoden, afprøve den alligevel.
 
 ## Projektmål
 
@@ -125,12 +125,12 @@ Uanset karakteren af de variationer vi afprøvede ("straf", "belønning", "prest
 
 ### Refleksion
 
-Når den kompetitive arbejdsform anvendtes angav 0,5% (atletik) hhv. 4% (volleyball) at reflektere mindre. 40% (atl.) og 67% (vol.) angav at reflektere mere, medens det for 60% (atl.) hhv. 29% (vol.) ingen betydning havde for deres refleksion. 
+Når den kompetitive arbejdsform anvendtes angav 0,5% (atletik) hhv. 4% (volleyball) at reflektere mindre. 40% (atl.) og 67% (vol.) angav at reflektere mere, medens det for 60% (atl.) hhv. 29% (vol.) ingen betydning havde for deres refleksion.
 Som det også var tilfældet med motivation har karakteren af de variationer vi afprøvede ("straf", "belønning", "prestige", "vind eller forsvind") kun perifer betydning for graden af  refleksion.
 
 ## Diskussion
 
-Motivation (7,8) og refleksion (9) er som tidligere nævnt vigtige faktorer i relation til læring, hvorfor resultater som de ovenfor beskrevne giver dækning for, at man med fordel kan inddrage arbejde med kompetitive elementer i sin undervisning. De resultater, der er fremkommet i denne undersøgelse, gælder naturligvis kun for den undersøgte målgruppe. Studerende på Institut for Idræt er muligvis ikke repræsentative sammenlignet med f.eks. eliteidrætsudøvere, gymnasie- eller folkeskoleelever. Vi foreslår derfor, at man som underviser vurderer sin gruppe før man introducerer kompetitive elementer. 
+Motivation (7,8) og refleksion (9) er som tidligere nævnt vigtige faktorer i relation til læring, hvorfor resultater som de ovenfor beskrevne giver dækning for, at man med fordel kan inddrage arbejde med kompetitive elementer i sin undervisning. De resultater, der er fremkommet i denne undersøgelse, gælder naturligvis kun for den undersøgte målgruppe. Studerende på Institut for Idræt er muligvis ikke repræsentative sammenlignet med f.eks. eliteidrætsudøvere, gymnasie- eller folkeskoleelever. Vi foreslår derfor, at man som underviser vurderer sin gruppe før man introducerer kompetitive elementer.
 
 På trods af positive tilbagemeldinger vedr. den kompetitive træning, vil vi anbefale, at man er opmærksom på muligheden for at differentiere undervisningen af forskellige grupper af elever inden for den samme klasse. Selvom stort set ingen af vores studerende angav at den kompetitive træning havde negativ effekt, skal man være opmærksom på den relativt store gruppe, som angav at den ingen betydning havde. Denne gruppe kan muligvis få større udbytte af undervisningen ved brug af andre arbejdsformer.
 
@@ -155,5 +155,5 @@ _Artiklen er skrevet af Stig Eiberg og Mikkel Sørensen og bragt med tilladelse 
 6. Hagedorn, G.  Spielen. Praxis und Theorie. Rowahlt, Reinbek, 1987,  s. 175-76
 7. Jens Kyrstein og Ebbe Vestergaard, Undervisningslære - En elementær indføring, 2. udgave, 1993.
 8. Boyce, BA, Jounal of Human Movement studies, 18, s. 189-200, 1992.
-9. XX, Reflection and Reflective Practice, in Reflection and Learning, p70-78, 199X 
+9. XX, Reflection and Reflective Practice, in Reflection and Learning, p70-78, 199X
 </details>

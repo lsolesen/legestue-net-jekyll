@@ -20,7 +20,7 @@ feature_row:
     url: "https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Skal der trænes udelukkende elitært eller mere holistisk? Det er fodboldens evige diskussion.

@@ -22,7 +22,7 @@ feature_row:
     url: "https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9780815392842/0x500
     alt: "Skill Acquisition in Sport - Research, Theory and Practice"
     title: "Skill Acquisition in Sport - Research, Theory and Practice"
@@ -30,7 +30,7 @@ feature_row:
     url: "https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781492571186/0x500
     alt: "Motor Learning and Performance - From Principles to Application"
     title: "Motor Learning and Performance - From Principles to Application"
@@ -38,7 +38,7 @@ feature_row:
     url: "https://www.saxo.com/dk/motor-learning-and-performance_richard-a-schmidt_ukendt_9781492571186"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781260570557/0x500
     alt: "Motor Learning and Control: Concepts and Applications"
     title: "Motor Learning and Control: Concepts and Applications"
@@ -46,7 +46,7 @@ feature_row:
     url: "https://www.saxo.com/dk/ise-motor-learning-and-control-concepts-and-applications_richard-magill_paperback_9781260570557"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 feature_row_thesis:
   - image_path: /assets/images/cover.jpg
     alt: "Kontrol og læring af motoriske færdigheder og verbal feedback"
@@ -55,7 +55,7 @@ feature_row_thesis:
     url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Jeg har netop fået godkendt mit speciale fra Syddansk Universitet. Du skal ikke snydes for et kort resumé.

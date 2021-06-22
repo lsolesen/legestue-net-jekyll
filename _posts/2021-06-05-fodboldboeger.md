@@ -39,7 +39,7 @@ feature_row:
     alt: Kontrol og læring af motoriske færdigheder og verbal feedback
     btn_label: Tjek prisen hos Bod*
     btn_class: btn--danger
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788702192087/0x500
     alt: "Når talent forpligter"
     title: "Når talent forpligter"
@@ -47,7 +47,7 @@ feature_row:
     url: "https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777497711/0x500
     alt: "Motivation - nå i mål med din træning!"
     title: "Motivation - nå i mål med din træning!"
@@ -55,7 +55,7 @@ feature_row:
     url: "https://www.saxo.com/dk/motivation_henning-langberg_hardback_9788777497711"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 davidsen:
   - image_path: https://imgcdn.saxo.com/_9788711990094/0x500
     alt: "Drømmeland - sejren og sommeren der forandrede Danmark"
@@ -64,7 +64,7 @@ davidsen:
     url: "https://www.saxo.com/dk/droemmeland-sejren-og-sommeren-der-forandrede-danmark_martin-davidsensebastian-stanbury_paperback_9788711990094"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788792999900/0x500
     alt: "Målmand - bag om fodboldspillets mest udsatte job"
     title: "Målmand - bag om fodboldspillets mest udsatte job"
@@ -72,7 +72,7 @@ davidsen:
     url: "https://www.saxo.com/dk/maalmand_martin-davidsen_haeftet_9788792999900"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Kender du nogle gode fodboldhistorier, facts om fodbold og fodboldlegenderne? Der er masser af rigtig gode bøger om fodbold. Jeg har samlet en liste med de bedste fodboldbøger, så du kan lære mere om fodboldhistorien.

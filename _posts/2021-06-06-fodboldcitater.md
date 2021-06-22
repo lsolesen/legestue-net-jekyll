@@ -24,7 +24,7 @@ feature_row:
     url: "https://www.saxo.com/dk/screw-down-the-expectations-fodboldcitater_christian-mohr-boisen_epub_9788711338094"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 feature_quotes:
   - quote: Hvis det bevæger sig, spark til det. Hvis det ikke bevæger sig, spark til det og få det til at bevæge sig. Hvis det er for stort til at sparke til, byt det med noget mindre og spark til det.
     cite: Pelé

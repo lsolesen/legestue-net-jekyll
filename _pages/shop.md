@@ -10,7 +10,7 @@ feature_row_thesis:
     title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
     excerpt: "Bogen besvarer følgende to spørgsmål: (1) Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? (2) Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?"
     url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored
 gallery:

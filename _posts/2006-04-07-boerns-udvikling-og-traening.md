@@ -22,7 +22,7 @@ feature_row:
     url: "https://www.saxo.com/dk/developing-youth-football-players_horst-wein_paperback_9780736069489"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 feature_row_aldersrelateret:
   - image_path: https://imgcdn.saxo.com/_9788798388012/0x500
     alt: "Aldersrelateret træning - målrettet og forsvarlig træning af børn og unge"
@@ -31,7 +31,7 @@ feature_row_aldersrelateret:
     url: "https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788776910570/0x500
     alt: "Leg, læring og mestring - Fodboldtræning af de 5–10 årige. En fodboldbog med overvejelser, ideer og holdninger"
     title: "Leg, læring og mestring - Fodboldtræning af de 5–10 årige. En fodboldbog med overvejelser, ideer og holdninger"
@@ -39,7 +39,7 @@ feature_row_aldersrelateret:
     url: "https://www.saxo.com/dk/aldersrelateret-traening_hansen_haeftet_9788798388012"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 I dette kapitel skitseres nogle af de væsentligste udviklingstræk for børn og unge i alderen 5-15 år. Hver enkelt aldersgruppe har nogle generelle kendetegn, men alle børn er unikke og forskellige, og derfor er aldersgrupperne også kun tommelfingerregler for, hvornår børnene er på de forskellige udviklingstrin.
@@ -65,7 +65,7 @@ Børn og unges vækst sætter ind på forskellige tidspunkter i deres liv. Det b
 
 Det er vigtigt, at træneren er opmærksom på, hvilket udviklingstrin de unge idrætsudøvere befinder sig på, så talentidentifikationen tager højde for, at nogle spillere er senere udviklet end andre spillere (Damsgaard, 2005; Bordinggaard, 2005).
 
-Selektion bør vente Børn udvikler sig i forskelligt tempo. Selektion af spillere bør derfor vente så længe som muligt. 
+Selektion bør vente Børn udvikler sig i forskelligt tempo. Selektion af spillere bør derfor vente så længe som muligt.
 {: notice-info }
 
 ### Børn tager ikke skade af idræt
@@ -80,7 +80,7 @@ Testosteron har betydning for sædproduktionen, skægvækst og muskeltilvækst; 
 
 ### Højdetilvækst for børn
 
-Piger og drenges vækstmønster ligner hinanden indtil vækstspurten sætter ind i puberteten. Pigernes vækstspurt ligger gennemsnitlig to år før drengene. 
+Piger og drenges vækstmønster ligner hinanden indtil vækstspurten sætter ind i puberteten. Pigernes vækstspurt ligger gennemsnitlig to år før drengene.
 
 I forbindelse med vækstspurten er den motoriske præstationsevne hos nogle børn (mindre end 30%) forstyrret i op mod et halvt år i det der ofte kaldes lemmedaskerperioden (Damsgaard, 2005).
 
@@ -114,13 +114,13 @@ I præpuberteten fra 10-13 år er reaktionsevnen forbedret, og børnene begynder
 
 ### Giv børnene alsidige bevægelseserfaringer
 
-Der er ikke noget i vejen for, at børn og unge kun spiller fodbold, hvis blot de får alsidige bevægelseserfaringer gennem fodboldtræningen. Hvis børnene vil være rigtig gode til fodbold, er det en god ide at træne fodbold fra en ung alder (Lüders, 2001). Ensidig træning kan øge risikoen for overbelastningsskader, og det kan øge risikoen for at spilleren begynder at kede sig og derved medvirke til øget frafald. 
+Der er ikke noget i vejen for, at børn og unge kun spiller fodbold, hvis blot de får alsidige bevægelseserfaringer gennem fodboldtræningen. Hvis børnene vil være rigtig gode til fodbold, er det en god ide at træne fodbold fra en ung alder (Lüders, 2001). Ensidig træning kan øge risikoen for overbelastningsskader, og det kan øge risikoen for at spilleren begynder at kede sig og derved medvirke til øget frafald.
 
 ## Perception
 
 Vi opfatter perception som evnen til at opfatte situationen, vurdere handlingsalternativer og beslutte hvilket alternativ, der er det mest hensigtsmæssige. Selve udførslen kalder vi færdigheder, motorik, koordination eller teknik. Disse fire stadier er lavet af analytiske årsager, og formentlig er de ikke så adskilte. Desto mere øvelse man får, desto hurtigere kan denne kobling mellem de forskellige stadier laves.
 
-Perceptionen er først udviklet 11-12 årsalderen (Jørgensen, 2006). Yngre børn opfatter ikke så hurtigt, og de opfatter ofte noget andet end voksne. Fx har de vanskeligt ved at overskue en hel fodboldbane. 
+Perceptionen er først udviklet 11-12 årsalderen (Jørgensen, 2006). Yngre børn opfatter ikke så hurtigt, og de opfatter ofte noget andet end voksne. Fx har de vanskeligt ved at overskue en hel fodboldbane.
 
 ![Perceptionscirklen](/assets/images/perceptionscirklen.png)
 
@@ -176,7 +176,7 @@ Efter puberteten betyder det høje testosteronniveau hos drengene, at musklerne 
 Der er lavet en række undersøgelser om styrketræning med børn og unge. Nedenunder præsenteres nogle af konklusionerne fra undersøgelserne (for uddybning, se Zacho, 2004; Damsgaard, 2005; Rowland, 2005).
 
 - Træning med vægte hæmmer ikke børns vækst eller skader knoglerne. Der er ingen undersøgelser, der viser at børn ikke opnår deres forventede højde efter at have vægttrænet. Tværtimod viser undersøgelser med juniorvægtløftere, at de har højere knogletæthed end andre idrætsaktive og især sammenlignet med inaktive.
-- For hård træning kan overbelaste senetilhæftningerne. Dette problem deles med fysisk udfoldelse i alle idrætsgrene. Sener og tilhæftninger responderer langsommere til træning end muskler. Derfor er senetilhæftningerne ved de store muskler hos børn i vækstperioden særligt udsatte for overbelastningsskader. Et typisk eksempel er lårmusklens tilhæftning på skinnebenet (patellasenen), hvor trænerne skal være meget opmærksomme på ømhed i forbindelse med fodbold og styrketræning. 
+- For hård træning kan overbelaste senetilhæftningerne. Dette problem deles med fysisk udfoldelse i alle idrætsgrene. Sener og tilhæftninger responderer langsommere til træning end muskler. Derfor er senetilhæftningerne ved de store muskler hos børn i vækstperioden særligt udsatte for overbelastningsskader. Et typisk eksempel er lårmusklens tilhæftning på skinnebenet (patellasenen), hvor trænerne skal være meget opmærksomme på ømhed i forbindelse med fodbold og styrketræning.
 - Styrketræning giver ikke større belastning end fodbold. Styrketræning producerer ikke højere belastninger på kroppen, end musklerne selv producerer. Ved landing efter et hovedstød eller ved tacklinger er belastningen på kroppen større end egen kropsvægt.
 
 De potentielle problemer med styrketræning adskiller sig ikke fra andre idrætsudfoldelser. Børn kan sagtens styrketræne, men de skal gøre det under kyndig vejledning, så de får teknikken på plads.
@@ -268,10 +268,10 @@ Når man træner børn i denne alder, bør man lade forældrene deltage som hjæ
 - Kan ikke overskue større områder (på banen).
 - Opfatter verden i billeder.
 - Kan ikke koncentrere sig i lang tid – derfor hurtige skift mellem øvelser.
- 
+
 **8-10 årige leger og spiller (tilvænningsfasen)**
 
-Børnene i denne alder er stadig ret egocentriske. Det skal de have lov til, for de har stadig nok at gøre med at kontrollere bolden og spille selv. De yngste løber alle rundt efter bolden, og det kan være svært for boldholderen at gøre noget konstruktivt med bolden. 
+Børnene i denne alder er stadig ret egocentriske. Det skal de have lov til, for de har stadig nok at gøre med at kontrollere bolden og spille selv. De yngste løber alle rundt efter bolden, og det kan være svært for boldholderen at gøre noget konstruktivt med bolden.
 
 Boldholderen vil føle sig under et gevaldigt pres, og når man samtidig har svært ved at overskue større baner, kan det være vanskeligt at finde ud af, hvad man skal gøre med bolden. Det første boldholderen har lyst til er måske at skille sig af med bolden ved at sparke den fremad banen.
 
@@ -358,7 +358,7 @@ Der er imidlertid kun en ting at gøre, og det er at træne. Mange boldtab skyld
 
 Den bedste tid til at perfektionere færdigheder og forbedre den taktiske forståelse og viden. De kan prøve meget svære færdigheder. Færdigheder bør trænes så det er teknik, som kan bruges i kampsituationer på et begrænset område og under pres. Kun færdigheder der er udviklet og perfektioneret ved at spille spillet, vil være værdifulde når de skal bruges i kampsituationer.
 
-Alle tekniske færdigheder har et taktisk aspekt. Tingene ændrer sig hurtigt i en kamp, hvor man må improvisere og ændre. Vær opmærksom på at denne alder er vanskelig for spillerne. Der sker mange ting i deres liv. De bliver opmærksom på en masse nye aspekter, og de er ved at finde ud af hvilket ben, de skal stå på. 
+Alle tekniske færdigheder har et taktisk aspekt. Tingene ændrer sig hurtigt i en kamp, hvor man må improvisere og ændre. Vær opmærksom på at denne alder er vanskelig for spillerne. Der sker mange ting i deres liv. De bliver opmærksom på en masse nye aspekter, og de er ved at finde ud af hvilket ben, de skal stå på.
 
 **De 13-15 årige skal først og fremmest lære**
 

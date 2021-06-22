@@ -23,7 +23,7 @@ feature_row:
     url: "https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Uanset om en person dyrker idræt på topplan eller "bare" spiller fodbold i den lokale fodboldklub kræver det træning. Træning for at blive bedre, for at udvikle sig, for at forbedre sit bundniveau. Teknisk og taktisk træning er en væsentlig faktor i fodbold, men også **mental træning** er vigtigt for at opnå succes. Mental træning kan måske netop være det værktøj, du savner for at blive rigtig god?

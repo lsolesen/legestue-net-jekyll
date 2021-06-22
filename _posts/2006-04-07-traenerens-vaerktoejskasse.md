@@ -28,7 +28,7 @@ feature_row:
     url: "https://www.saxo.com/dk/viljen-til-sejr_arne-nielsson_haeftet_9788791293061"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 feature_row_meng:
   - image_path: https://content.gucca.dk/covers/big/n/o/noeoejjj-det-er-dit-liv-saa-hvad-vil-du-goere-ved-det_277162.jpg
     alt: "NØØJJJ"
@@ -37,7 +37,7 @@ feature_row_meng:
     url: "https://www.gucca.dk/noeoejjj-det-er-dit-liv-saa-hvad-vil-du-goere-ved-det-bog-p277162"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 feature_row_wulf:
   - image_path: "https://imgcdn.saxo.com/_9780736062701/0x500"
     alt: "Attention and Motor Skill Learning"
@@ -46,7 +46,7 @@ feature_row_wulf:
     url: "https://www.saxo.com/dk/attention-and-motor-skill-learning_gabriele-wulf_hardback_9780736062701"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 feature_row_thesis:
   - image_path: /assets/images/cover.jpg
     alt: "Kontrol og læring af motoriske færdigheder og verbal feedback"
@@ -55,7 +55,7 @@ feature_row_thesis:
     url: "https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 I dette indlæg kigger vi lidt på trænerens værktøjskasse. Det handler både om personlighed og organisation, når træneren skal få sin træning til at lykkes.
@@ -84,7 +84,7 @@ Det gælder med andre ord om, at glemme problemerne fra jobbet eller andre stede
 
 Arne Nielssson mener i øvrigt, at
 
-> ’Det er kendetegnende for den dygtige træner, at hun eller han kan fokusere på potentiale frem for udelukkende på fortidens eller nutidens præstatio nen. Potentialet er det, personen har af færdigheder eller evner, der endnu ikke er udviklet. Husk – det du ser efter, er det, du får øje på’. 
+> ’Det er kendetegnende for den dygtige træner, at hun eller han kan fokusere på potentiale frem for udelukkende på fortidens eller nutidens præstatio nen. Potentialet er det, personen har af færdigheder eller evner, der endnu ikke er udviklet. Husk – det du ser efter, er det, du får øje på’.
 
 Det handler et langt stykke hen af vejen om at skabe nogle muligheder for at lykkedes og om at se disse. Konsulent og coach Henrik Meng har i sine bøger; [Nøøjjj](https://www.arnoldbusck.dk/boeger/management-og-it/noeoejj) (Meng, 2000) og [Kan man revne af begejstring](https://www.arnoldbusck.dk/boeger/medicin-sundhed-sygdom/kan-man-revne-af-begejstring-og-andre-historier) taget stilling til vigtigheden af, at man tror på sig selv og skaber optimale rammer for at lykkedes med det, man er i gang med eller står foran at skulle igangsætte.
 
@@ -292,9 +292,9 @@ Ved en øvelse med spark kunne eksempler på gode vejledninger være:
 Følgende er ganske vist lavet ift. undervisning i et klasselokale, men kan garanteret overføres til fodboldtræningen.
 
 > John Hattie finder, at det mest betydningsfulde i undervisningen er, at der ikke er forstyrrende adfærd, og at læreren formår et lede eleverne og aktiviteterne i klasserne. Herefter kommer den faglige kvalitet af lærernes undervisning fulgt af relationerne mellem lærer og elev, lærerens feedback til eleverne og de midler, læreren har til at opnå viden om elevernes individuelle præstationer.
-> 
+>
 > Ser man på undervisningsmetoder, er det vigtigste, at lærerne lærer eleverne at verbalisere deres læring (at de kan sætte ord på deres læringsproces), at de lærer metakognition (at de får en overordnet forståelse for emnefelter), at eleverne lærer at løse problemer, at de lærer studieteknikker, at man maksimerer den tid, der bruges på læring, og at læreren anvender ’direkte undervisning’ (en metode, hvor læreren starter med at sætte klare mål for lektionen, gennemfører en grundig gennemgang, giver eleverne opgaver, giver feedback på opgaveløsningen og runder det hele af med henblik på, hvad der skal ske i næste lektion).
- 
+
 --- <cite>[Niels Egelund i _Hjælp, vi smed barnet ud med badevandet_](https://politiken.dk/debat/kroniken/art5469156/Hj%C3%A6lp-vi-smed-barnet-ud-med-badevandet)</cite>
 
 Hvad gør du for at optimere læringen hos dine spillere?

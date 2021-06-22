@@ -16,8 +16,8 @@ feature_row:
     title: "Playing Out of Your Mind"
     excerpt: "With patience, a little hard work and consistent practice, you can train yourself to develop the mind of a champion. Mental toughness can be learned You can do it This book provides you with all the strategies you need to become a mentally tough soccer player."
     btn_class: "btn--danger"
-    btn_label: "Køb den hos Saxo*"
-    rel: sponsored
+    btn_label: "Køb bogen"
+    rel: sponsored nofollow noopener
 ---
 
 Alan Goldberg har efter min mening tænkt sig ret godt om, da han skrev sin lille bog om at spille hjernen ud af hovedet. Bogen hedder Playing Out Your Mind.
@@ -34,7 +34,7 @@ Goldberg understreger, at præstation er selvopfyldende. Du får det, du forvent
 
 > Winners see what they want to have happen. Losers see what they are afraid will happen? (61).
 
-Det er træning, som bedst forbereder dig på konkurrence, der gør dig bedst muligt (32), skriver Goldberg. Et udsagn, som meget vel kan suppleres af vores egen Jørn Richter, når han siger: 
+Det er træning, som bedst forbereder dig på konkurrence, der gør dig bedst muligt (32), skriver Goldberg. Et udsagn, som meget vel kan suppleres af vores egen Jørn Richter, når han siger:
 
 > "Du spiller som du træner".
 

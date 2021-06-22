@@ -22,9 +22,9 @@ feature_row:
     title: "Aktivitetsudvikling i Idræt - Innovation i praksis"
     excerpt: "Mads Hovgaards _Aktivitetsudvikling i Idræt_ leverer en række innovative perspektiver på, hvordan fagpersoner kan bruge idrætten til helt nye formål, hvis de tænker ud af boksen."
     url: "https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742"
-    btn_label: "Læs mere*"
+    btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored
+    rel: sponsored nofollow noopener
 ---
 
 Mads Hovgaard udviklede i 2009 modellen _aktivitetshjulet_, der kan bruges til at beskrive, analysere og udvikle aktiviteter. Det er en god model at bruge til udarbejdelsen af egen undervisning.
