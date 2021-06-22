@@ -5,4 +5,5 @@ title: "Tricks efter kategori"
 excerpt: "Fodboldtricks efter kategori"
 author_profile: true
 classes: wide
+sitemap: false
 ---
