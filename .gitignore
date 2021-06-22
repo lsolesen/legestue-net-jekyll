@@ -15,3 +15,4 @@ _posts/.ztr-directory
 vendor/
 .bundle/*
 *:Zone.Identifier
+build/
