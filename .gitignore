@@ -16,3 +16,4 @@ vendor/
 .bundle/*
 *:Zone.Identifier
 build/
+*Zone.Identifier
