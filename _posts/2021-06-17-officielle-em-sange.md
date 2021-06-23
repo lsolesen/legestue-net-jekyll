@@ -190,9 +190,11 @@ Martin Garrix, Bono og The Edge har skrevet den officielle fodboldsang til EM 20
 
 ## Hvor er EM-sangene fra UEFA til kvindefodbold?
 
-Jeg har ledt vidt og bredt. Det er let at finde EM-sange til EM-slutrunderne for herrer, men jeg har ikke kunndet finde dem til slutrunderne for kvinderne.
+Det er let at finde EM-sange til EM-slutrunderne for herrer, men ikke helt så let for kvinderne. Jeg har dog fundet nogle af sangene.
 
-Hvis du ved mere, så skriv endelig, så vi kan få lavet listen over EM-sange til slutrunderne perfekt.
+Til EM i Holland 2017 skrev komiker og sanger, Molly Thornhill, sangen Røde Strømper, som skulle hjælpe kvindelandsholdet til sejr. [DBU](https://www.dbu.dk/nyheder/2017/juni/hoer-kvindelandsholdets-nye-em-sang/) har udgivet den på deres Youtube-kanal. 
+
+{% include video provider="youtube" id="ZWkiQBZVmDA" %}
 
 ## Liste over danske EM-sange
 
