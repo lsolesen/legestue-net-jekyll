@@ -25,7 +25,6 @@ Du skal bare bruge en fodbold og en bane, og så er du i gang.
 I dette indlæg kan du få svar på følgende:
 
 - Hvilke fodboldgolfbaner findes der i Danmark?
-- Hvordan spiller man fodboldgolf?
 - Hvilken teknik bruger man i fodboldgolf?
 
 {% include figure image_path="https://filskovkrofodboldgolf.dk/CustomerData/Files/Images/Gallery/galleri-forside_14435/randi_hul_12_968.jpg" caption="Stemningsbillede fra fodboldgolf på [Filskov Kro Fodboldgolf](https://filskovkrofodboldgolf.dk)." %}
@@ -34,16 +33,17 @@ I dette indlæg kan du få svar på følgende:
 
 Fodboldgolf henter en stor del af sin inspiration i minigolf. Du skal sparke en fodbold fra et tee-sted og hen til enten et hul eller ind i et mål.
 
-Du spiller fodboldgolf på en særligt anlagt bane med 9, 18 eller 27 huller. På banen er der diverse forhindringer, som du skal passere med færrest mulige spark.
+Du spiller på en særligt anlagt bane med 9, 18 eller 27 huller. På banen er der diverse forhindringer, som du skal passere med færrest mulige spark.
 
-Hver spiller i fodboldgolf har sin egen bold. Udover din egen bold, skal du også bruge noget, du kan føre regnskab på. Det får du typisk udleveret ved banerne.
+Hver spiller har sin egen bold. Udover din egen bold, skal du også bruge noget, du kan føre regnskab på. Det får du typisk udleveret ved banerne.
 
 Reglerne er simple.
 
 ## Fodboldgolf er for hele familien
 
 Fodboldgolf egner sig godt til hele familien, eller til en hyggelig eftermiddag med vennerne.
-Fodboldgolf er **udfordrende**, men det er også enkelt at spille. Derfor kan alle være med uanset alder og hvor god du er til at spille fodbold. 
+
+Det er **udfordrende**, men det er også enkelt at spille. Derfor kan alle være med uanset alder og hvor god du er til at spille fodbold.
 
 Det kræver ikke den store fysik, og du behøver ikke være at have en perfekt sparketeknik. Der er plads og udfordringer til både mormor og Mads på 6 år.
 
@@ -51,7 +51,8 @@ Fodboldgolf spilles under åben himmel i **den friske luft**, og det er netop en
 
 Du får altså gået en del af dine [10.000 skridt og daglige kilometer](https://www.motionsplan.dk/skridt-pr-km-10000/), mens du spiller fodboldgolf. Samtidig er det virkelig sjovt.
 
-Der er god tid til at snakke sammen, mens man går rundt og spiller fodboldgolf. Derfor kan fodboldgolf være en god aktivitet til fødselsdage, polterabends og andre begivenheder.
+Der er god tid til at snakke sammen, mens man går rundt og spiller. Derfor kan fodboldgolf være en god aktivitet til fødselsdage, polterabends og andre begivenheder.
+
 ## Fodboldgolfbaner
 
 Alle fodboldgolfbaner har rammer til hyggelige timer for større og mindre grupper. Du kan på langt de fleste baner selv medbringe mad og drikke. De fleste steder er der opstillet borde og bænke - og nogle steder kan du endda selv grille dit medbragte mad.
@@ -78,7 +79,7 @@ Vi har samlet en liste over steder, hvor man kan spille med kontaktinformationer
 - [Ejsing Fodboldgolf](https://www.ejsingfodboldgolf.dk/)
 - [Fanø Fodboldgolf](https://www.fanoe-fodboldgolf.dk/)
 - [Foulum Fodboldgolf](https://foulumfodboldgolf.dk/)
-- [Frederikssund Fodboldgolf](https://frederikssundfodboldgolf.dk/) 
+- [Frederikssund Fodboldgolf](https://frederikssundfodboldgolf.dk/)
 - [Frey's Fodboldgolf](https://www.freysplanteskole.dk/freys-fodboldgolf)
 - [Hejnsvig Fodboldgolf](https://www.hejnsvig-fodboldgolf.dk/)
 - [Himmerland Fodboldgolf](https://himmerland-fodboldgolf.dk/)
@@ -98,16 +99,17 @@ Vi har samlet en liste over steder, hvor man kan spille med kontaktinformationer
 
 ## Hvordan ser en fodboldgolfbane ud?
 
-Der er ikke to fodboldgolfbaner i Danmark, der er ens. Derfor er det sjovt at komme forskellige steder hen og spille.
+Der er ikke to baner i Danmark, der er ens. Derfor er det sjovt at komme forskellige steder hen og spille.
 
 Der er mange forskellige opfindsomme forhindringer.
 
 ## Hvad koster fodboldgolf?
 
-Prisen for fodboldgolf afhænger af de enkelte baner. På nogle baner kan du spille **gratis**, mens det på andre baner koster omkring det samme at spille fodboldgolf, som det koster at gå i biografen.
+Prisen for fodboldgolf afhænger af de enkelte baner. På nogle baner kan du spille **gratis**, mens det på andre baner koster omkring det samme som en biografbillet.
 
-Hvis I er flere der vil spille sammen, så kan I ofte få rabat på de enkelte fodboldgolfbaner.
-Hvis du bor i nærheden af en fodboldgolfbane, så kan du måske også købe et sæsonkort, så du kan komme ud og spille frit på banen.
+Hvis I er flere der vil spille sammen, så kan I ofte få rabat på de enkelte baner.
+
+Hvis du bor i nærheden af en bane, så kan du måske også købe et sæsonkort, så du kan komme ud og spille frit på banen.
 
 Når du har betalt for at spille på en bane, så får du udleveret det udstyr, du skal bruge.
 
@@ -115,7 +117,7 @@ Når du har betalt for at spille på en bane, så får du udleveret det udstyr, 
 
 Du skal bruge en fodbold for at spille fodboldgolf, men den udleveres typisk ved banen. Desuden skal du bruge en blok for at notere scoren ned.
 
-Det kan spille i det fodtøj, du gerne vil sparke til en bold med. Hvis du skal sparke langt, så kan det være rart, at man står godt fast. 
+Det kan spille i det fodtøj, du gerne vil sparke til en bold med. Hvis du skal sparke langt, så kan det være rart, at man står godt fast.
 
 Jeg har både prøvet at spille i almindelige sportssko, fodboldstøvler og grusbanestøvler. Du skal vælge det fodtøj, du synes er rart at spille i.
 
@@ -125,9 +127,7 @@ Jeg har både prøvet at spille i almindelige sportssko, fodboldstøvler og grus
 
 {% include video provider="youtube" id="rQcPStT7ar8" %}
 
-Det er relativt enkelt at spille fodboldgolf, men lad os kigge på reglerne. 
-
-Verdensmester, Anders Bollerup, forklarer i denne Youtube-video, hvordan man spiller fodboldgolf?
+Verdensmester, Anders Bollerup, forklarer i denne Youtube-video, hvordan man spiller fodboldgolf, og hvilke regler du skal være opmærksom på?
 
 {% include video provider="youtube" id="fgd0hOxd2f0" %}
 
@@ -147,9 +147,9 @@ Hvis der kommer en gruppe bagfra, som spiller hurtigere end jer, så lad gruppen
 
 ### 3. Rækkefølge for spark
 
-Ved udspark fra første hul sparker yngste spiller først og derefter sparkes efter alder.
-Ved udspark på senere huller: den spiller, der gik den foregående bane i færrest spark, starter.
-Ved efterfølgende spark: den spiller, hvis bold ligger længst fra hullet, sparker.
+- Ved udspark fra første hul sparker yngste spiller først og derefter sparkes efter alder.
+- Ved udspark på senere huller: den spiller, der gik den foregående bane i færrest spark, starter.
+- Ved efterfølgende spark: den spiller, hvis bold ligger længst fra hullet, sparker.
 
 ### 4. Udsparkssted
 
@@ -174,13 +174,13 @@ Hvis en medspillers bold ligger i vejen for et spark, kan man bede medspilleren 
 
 ### 9. Flag
 
-I de enkelte huller på en fodboldgolfbane vil der være flag. Typisk må du gerne tage flaget op, når du har bolden oppe på greenen.
+I de enkelte huller vil der være flag. Typisk må du gerne tage flaget op, når du har bolden oppe på greenen.
 
 ### 10. Bold rammes af anden bold
 
 Rammer en spiller ved sit spark en medspillers bold, skal medspillerens bold genplaceres. Det koster dig et ekstra spark.
 
-Men husk at tjekke de lokale fodboldgolfregler på den fodboldgolfbane, du skal til at spille på.
+Men husk at tjekke de lokale fodboldgolfregler på den bane, du skal til at spille på.
 
 ## Hvilken teknik skal man bruge i fodboldgolf?
 
@@ -202,8 +202,7 @@ I denne Youtube-video viser Brian Mengel, Brizze, hvordan man sparker langt.
 
 ## Mesterskaber i fodboldgolf?
 
-Der er både Danmarksmesterskaber og verdensmesterskaber i fodboldgolf.
-[Dansk Fodboldgolf Forening](https://www.dfgf.dk) arrangerer løbende [turneringer](https://www.dfgf.dk/da/s2124/DFGF-Touren/c2237-Turneringer), som du kan deltage i.
+Der er både Danmarksmesterskaber og verdensmesterskaber i fodboldgolf. [Dansk Fodboldgolf Forening](https://www.dfgf.dk) arrangerer løbende [turneringer](https://www.dfgf.dk/da/s2124/DFGF-Touren/c2237-Turneringer), som du kan deltage i.
 
 På Dansk Fodboldgolf Forening kan du naturligvis også læse mere om sporten generelt.
 

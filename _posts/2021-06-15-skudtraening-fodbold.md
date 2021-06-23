@@ -195,12 +195,9 @@ Ved scoring og dødbolde får man en ny bold fra eget mål.
 Der spilles 1 minut med 1 eller 2 minutters pause.
 Hver spiller skal på banen 8-10 gange, evt. med en lidt længere pause midtvejs.
 
+## Konklusion
 
-
-
-
-
-## Konklusion på skudtræning og afslutningstræning
+Det var nogle ideer til skudtræningen og afslutningstræningen. Øvelserne kan med få ændringer sagtens tilpasses forskellige aldersgrupper.
 
 Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).
 

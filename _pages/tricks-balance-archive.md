@@ -28,6 +28,36 @@ Det er en god ide at begynde med at lægge bolden der, hvor du vil balancere med
 
 {% include paypal id="MP55TM3U696BW" cta="Køb Fodboldens Tricks 25 DKK" %}
 
+## Balancetricks i fodbold
+
+### Armstrækning med bold på nakken
+
+Med bolden liggende på nakken sætter du dig først ned på knæ og sætter armene i jorden. Derefter strækker du benene, så du kommer til at hvile kun på armene og fødderne. Prøv at tage et par armstrækninger.
+
+### Balance på brystet
+
+Du kan fange bolden på brystet. Det gør du ved at sparke bolden op til brysthøjde. Lav en smule underskru i bolden. Nu skal du bøje lidt i knæene og læne dig godt bagover. Med en smule øvelse kan du få bolden til at ligge på brystet i et kort stykke tid (et par sekunder), inden den ruller ned ad igen, og du jonglerer videre.
+
+### Bryst til nakke
+
+Balancer med bolden på brystet. Få bolden til at rulle op på skulderen og derfra over på nakken. Billeder fra http://www.69a.com/
+
+### Hold i nakken
+
+Læg bolden på nakken. Rejs dig lidt op, så den begynder at trille bagud. Ram bolden med hælen, inden den rammer jorden, så den flyver over hovedet på dig.
+
+### Hovedgymnastik (balance på hovedet)
+
+Balancer med bolden på hovedet. Når du har kontrol over bolden, kan du enten lade den rulle ned på munden, kysse den og lade den rulle tilbage igen. Eller du kan lade den rulle ned på øret og tilbage igen. Bevægelsen skal være temmelig hurtig.
+
+### Øjet
+
+Du skal balancere med bolden, mens den ligger i øjet. Læn dig godt bagover, så du kan lægge bolden i din øjenhule. Det ser skørt ud, men det er ikke så svært.
+
+### Ydersidefiksering
+
+Grib bolden på ydersiden af foden. Det kræver en god balance. Davids kaster bolden hen over dit eget hoved og griber den på den anden yderside.
+
 ## Tricks med balance
 
 {% assign site_posts = site.tricks | where: "tags", "Balance" %}

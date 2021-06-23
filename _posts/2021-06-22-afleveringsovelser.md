@@ -19,7 +19,7 @@ Jeg bruger rigtig mange afleveringsøvelser, når jeg træner fodbold. Afleverin
 
 Afleveringsøvelser handler om rytme, timing og teknik. Det er ikke nok at kunne lave en god aflevering. Du skal også løbe hen i rummet på det rigtige tidspunkt, og afleveringen skal være afpasset præcist til modtageren.
 
-Det kan du træne i disse afleveringsøvelser til fodbold.
+Det kan du træne i disse pasningsøvelser til fodbold.
 
 ## Y-øvelsen med afleveringer
 
@@ -65,7 +65,7 @@ Ofte vil spillerne bare løbe fremad, men så bliver der ikke plads til at kunne
 
 Øvelserne kører naturligvis i begge sider på samme tid.
 
-## Gøre afleveringsøvelserne endnu mere funtionelle
+## Gøre pasningsøvelserne endnu mere funtionelle
 
 Jeg kan også lide at arbejde med en opstilling i afleveringsøvelserne, som jeg udnytter i et spil bagefter.
 
@@ -79,7 +79,7 @@ Du kan fx arbejde med tvungen restart, så du kan coache spillerne, hvis ikke he
 
 ## Konklusion
 
-Det var nogle af mine favoritøvelser til at træne korte afleveringer. Jeg har også beskrevet en række [opspilsøvelser eller skabelonøvelser]({% link _posts/2021-06-19-skabelonoevelser.md %}).
+Det var nogle af mine favoritøvelser til at træne korte afleveringer og pasninger. Jeg har også beskrevet en række [opspilsøvelser eller skabelonøvelser]({% link _posts/2021-06-19-skabelonoevelser.md %}).
 
 Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).
 

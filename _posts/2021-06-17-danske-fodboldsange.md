@@ -160,7 +160,7 @@ I dette indlæg kan du finde følgende:
 - Komplet liste over alle de fodboldsange, der er blevet lavet i forbindelse med slutrunder for Herrelandsholdet.
 - Musikvideoer og titler på alle fodboldslagsangene og landsholdssangene!
 
-## Liste over alle danske fodboldsange med musikvideoer
+## Liste over alle sange til de danske fodboldlandshold med musikvideoer
 
 Her har du en hurtig oversigt over de forskellige fodboldsange, der er lavet til fodbold og slutrunder i Danmark. Nedenunder kommer en kort beskrivelse og **musikvideoer** til sangene.
 
@@ -190,9 +190,9 @@ Om man kan lide en sang er naturligvis smag og behag. Men [Gaffa.dk](https://gaf
 2. Rocazinos "En for alle" fra 1988 med 10,43%
 3. Nephew med "The Danish Way to Rock" fra 2010 med 6,64% af stemmerne
 
-## Hvad er den værste fodboldsang?
+## Hvad er den værste danske fodboldsang?
 
-I bunden af [Gaffas](https://gaffa.dk/nyhed/149761/laeserne-har-stemt-her-er-danmarks-bedste-officielle-fodboldsang-nogensinde) har de kåret de værste fodboldsange:
+I bunden af [Gaffas](https://gaffa.dk/nyhed/149761/laeserne-har-stemt-her-er-danmarks-bedste-officielle-fodboldsang-nogensinde) har de kåret de værste sange til det danske Herrelandshold nogensinde:
 
 1. Thomas Helmigs "Hele Danmark op at stå" fra 2018 med 0,43 procent af stemmerne
 2. Birthe Kjær, B-Boys og Safri Duos "Hvor' vi fra?" fra 2004, der har fået 0,60 procent af stemmerne
@@ -204,7 +204,7 @@ Personligt kan jeg faktisk godt lide de fleste sange.
 
 [Gaffa.dk](https://gaffa.dk/nyhed/149831/her-er-de-mest-streamede-fodboldsange/) har i 2021 samlet op på, hvad den mest streamede fodboldsang er. Listen er taget fra Spotifys top fem-liste.
 
-Uden yderligere omsvøb er listen over de mest streamede fodboldsange:
+Uden yderligere omsvøb er listen over de mest streamede sange til fodbold:
 
 1. Re-Sepp-Ten af Landsholdet i 1986
 2. En For Alle (Alle For En) af Rocazino i 1988
@@ -236,7 +236,7 @@ Kvindelandsholdet har trods alt også kvalificeret sig til store slutrunder, så
 
 Jeg har lavet en [playliste på Youtube](https://www.youtube.com/playlist?list=PLNkD7iq9OqKhOvUVXj18zgB5OGy54YMM-) med alle de danske fodboldsange. Så er det bare at sætte listen på, når du skal i stemning til landskamp og har brug for en kampsang. Husk at abonnere på vores kanal.
 
-## Musikquiz med danske fodboldsange
+## Musikquiz med danske fodboldslagsange
 
 Jeg er ved at lave en musikquiz med danske fodboldsange. Her har du inspiration til nogle spørgsmål, man kan stille i en musikquiz:
 

@@ -171,9 +171,9 @@ songs:
       id: V15BYnSr0P8
 ---
 
-FIFA har siden 1962 udgivet en officiel sang til hver VM-slutrunde. Jeg har her samlet de internationale VM-sange i en komplet liste, og du får også en liste over de danske VM-sange.
+FIFA har siden 1962 udgivet en officiel sang til hver VM-slutrunde. Jeg har her samlet de internationale VM-sange i en komplet liste, og du får også en liste over de danske sange fra VM.
 
-Det gør de hver eneste år, og kunstnerne til VM-sangene er nogle store kunstere. VM-sangene synges på flere forskellige sprog.
+Det gør FIFA hver eneste år der er verdensmesterskaber. Kunstnerne til VM-sangene er nogle store kunstere, og de kan ofte blive sunget på flere sprog.
 
 Jeg har lavet en komplet liste over [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}) og du kan se de [officielle EM-sange fra UEFA her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
 
@@ -183,7 +183,7 @@ I dette indlæg kan du finde følgende:
 
 - Komplet liste over alle de officielle VM-sange lavet til VM-slutrunder siden 1962
 - Musikvideoer og titler på alle sangene
-- Liste over de danske VM-sange
+- Liste over de danske sange til VM
 
 ## Komplet liste over VM-sange siden 1962
 
@@ -209,7 +209,7 @@ Lad os kaste os ud i at kigge på musikvideoer og få en lille historie om de en
 {% include video provider=song.video.provider id=song.video.id %}
 {% endfor %}
 
-## Andre uofficielle og mindeværdige VM-sange
+## Andre uofficielle og mindeværdige sange fra verdensmesterskaberne i fodbold
 
 Det første VM jeg for alvor selv kan huske er VM i 1986 med den meget dominerende Diego Maradona. Der blev denne dejlige film Hero, som er den officielle VM-film fra FIFA:
 
@@ -227,7 +227,7 @@ Man har endnu ikke valgt en officiel sang til den næste VM-slutrunde. Jeg opdat
 
 Jeg har ledt vidt og bredt. Det er let at finde VM-sange til VM-slutrunderne for herrer, men jeg har ikke kunndet finde dem til slutrunderne for kvinderne.
 
-Hvis du ved mere, så skriv endelig, så vi kan få lavet listen over VM-sange til slutrunderne perfekt.
+Hvis du ved mere, så skriv endelig, så vi kan få lavet listen over slutrunde-sangene perfekt.
 
 ## Liste over danske VM-sange
 
@@ -241,7 +241,7 @@ Her har du en hurtig oversigt over de forskellige fodboldsange, der er lavet til
 
 Tjek alle de [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}).
 
-## Playliste med officielle VM-sange
+## Playliste med officielle sange fra FIFA
 
 Jeg har lavet en [playliste på Youtube](https://www.youtube.com/playlist?list=PLNkD7iq9OqKj8a503XkOTTQFOR6JJRce1) med alle de officielle VM-sange. Husk at abonnere på vores kanal.
 
