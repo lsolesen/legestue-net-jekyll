@@ -228,9 +228,17 @@ Når man kigger på mindeværdige fodboldsange, så er der mange lister der glem
 
 ## Hvor er fodboldslagsangene for kvindelandsholdet?
 
-Jeg har ledt vidt og bredt. Det er let at finde fodboldslagsange for Herrelandsholdet, men det er ikke lykkes mig at finde slagsange for kvindelandsholdet.
+Det er let at finde fodboldslagsange for Herrelandsholdet, men det er ikke helt så let at finde kampsangene for Kvindelandsholdet.
 
-Kvindelandsholdet har trods alt også kvalificeret sig til store slutrunder, så hvis du ved mere, så skriv endelig, så vi kan få lavet listen over danske landsholdssange komplet.
+Kvindelandsholdet har også fået udgivet nogle gode landsholdssange.
+
+- Signe Svendsen og Kvindelandsholdet (2005): Kvinder der vinder
+- Monique og Kvindelandsholdet (2007): [Danmarks seje tøser](https://monique.dk/project/danmarks-seje-toeser-2007/)
+- Molly Thornhill (EM Holland 2017): Røde Strømper. [DBU](https://www.dbu.dk/nyheder/2017/juni/hoer-kvindelandsholdets-nye-em-sang/). 
+
+{% include video provider="youtube" id="ZWkiQBZVmDA" %}
+
+Du kan også se en [playliste på Youtube](https://www.youtube.com/playlist?list=PLNkD7iq9OqKgtLkbSR62ISBUHgo_gtQJE).
 
 ## Playliste med danske fodboldsange
 
