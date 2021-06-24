@@ -70,7 +70,7 @@ balls:
   - year: 1970
     event: VM
     title: Telstar
-    excerpt: Telstar var den første bold med 32 paneler i sort og hvid. Der var kun leveret 20 bolde af Adidas. I to kampe blev brugt en anden farve bold, nemlig en brug i kampen mellem Tyskland-Peru og en hvid bold i kampen mellem Italien og Tyskland.
+    excerpt: Telstar var den første bold med 32 paneler i sort og hvid. Der var kun leveret 20 bolde af Adidas. I to kampe blev brugt en anden farve bold, nemlig en brug i kampen mellem Tyskland-Peru og en hvid bold i kampen mellem Italien og Tyskland. Målet med designet med på bolden lettere at se for tv-seerne. De brasilianske fans kunne notere sig endnu et verdensmesterskab.
     vendor:	Adidas
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Adidas_Telstar_Mexico_1970_Official_ball.jpg/2560px-Adidas_Telstar_Mexico_1970_Official_ball.jpg
   - year: 1974
@@ -82,7 +82,7 @@ balls:
   - year: 1978
     event: VM
     title: Tango
-    excerpt: Den første bold i en familie af fodbolde, som også blev brugt i UEFAs EM-slutrunder og sommer-OL indtil 1988.
+    excerpt: Den første bold i en familie af fodbolde, som også blev brugt i UEFAs EM-slutrunder og sommer-OL indtil 1988. Adidas Tango havde kun 20 paneler. Bolden havde et ikonisk design med i alt 7 hvide cirkler.
     vendor:	Adidas
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Adidas_Tango_Argentina_%28River_Plate%29_1978_cup_Official_ball.jpg/2560px-Adidas_Tango_Argentina_%28River_Plate%29_1978_cup_Official_ball.jpg
   - year: 1982
@@ -93,7 +93,7 @@ balls:
     image_path: https://upload.wikimedia.org/wikipedia/commons/6/6b/Adidas_Tango_Espa%C3%B1a.jpg
   - year: 1986
     event: VM
-    title: Azteca
+    title: Azteca Mexico
     excerpt: Den første syntetiske bold brugt til FIFA VM-slutrunde.
     vendor:	Adidas
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Adidas_Azteca_Mexico_1986_Official_ball.jpg/2560px-Adidas_Azteca_Mexico_1986_Official_ball.jpg
@@ -106,13 +106,13 @@ balls:
   - year: 1994
     event: VM
     title: Questra
-    excerpt: Hvis du kender VM-fodbolden, så skriv endelig.
+    excerpt: Adidas havde arbejdet på at forbedre VM-boldens vandafvisende egenskaber. Adidas Questra var sammensat af fem forskellige lag for at gøre bolden mere vandafvisende.
     vendor:	Adidas
     image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Adidas_Questra_USA_1994_Official_ball.jpg/2560px-Adidas_Questra_USA_1994_Official_ball.jpg
   - year: 1998
     event: VM
     title: Tricolore
-    excerpt: Den første fodbold med flere farver, som blev brugt i en VM-slutrunde.
+    excerpt: Den første fodbold med flere farver, som blev brugt i en VM-slutrunde. Men det var samtidig også sidste gang, at bolden havde det ikoniske design med syv hvide cirkler.
     vendor:	Adidas
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/5c/1998_-_Tricolore_%28France%29_%284170715889%29.jpg
   - year: 1999
@@ -123,13 +123,13 @@ balls:
   - year: 2002
     event: VM
     title: Fevernova
-    excerpt: Den første VM-fodbold med et trekantet design. Bolden til kvinderes VM i 2003 var igen den samme bold med et unikt design.
+    excerpt: Den første VM-fodbold med et trekantet design. Bolden blev også lavet med et tykkere inderlag, så boldens bane teoretisk set skulle blive forbedret. Bolden til kvinderes VM i 2003 var igen den samme bold med et unikt design.
     vendor:	Adidas
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/55/Fevernova_%284592803569%29.jpg
   - year: 2006
     event: VM
     title: Teamgeist
-    excerpt: _Teamgeist_ er en fodbold med 14 paneler. Hver kamp til VM havde deres egen individuelle bold, hvor datoen for kampen, stadion, landene var printet på selve bolden. Dette var den første år, hvor man fik særlige mønstre og farver til finalerne. En guldfarvet _Teamgeist Berlin_ blev brugt i finalekampene. Denne bold blev også brugt til kvindernes VM i 2007.
+    excerpt: _Teamgeist_ er en fodbold med 14 paneler. Bolden skulle ifølge Adidas være rundere Hver kamp til VM havde deres egen individuelle bold, hvor datoen for kampen, stadion, landene var printet på selve bolden. Dette var den første år, hvor man fik særlige mønstre og farver til finalerne. En guldfarvet _Teamgeist Berlin_ blev brugt i finalekampene. Denne bold blev også brugt til kvindernes VM i 2007.
     vendor:	Adidas
     image_path: https://upload.wikimedia.org/wikipedia/commons/9/9e/Teamgeist_Ball_World_Cup_2006_Brazil_vs._Croatia.jpg
   - year: 2010
@@ -146,7 +146,7 @@ balls:
   - year: 2014
     event: VM
     title: Brazuca
-    excerpt: Dette er den første FIFA VM-fodbold, som blev navngivet af fans. Bolden havde seks felter lavet af _polyurethane_, som var svejset sammen. I finalen brugte man en anden farvesammensætning med grøn, guld og sort.
+    excerpt: Dette er den første FIFA VM-fodbold, som blev navngivet af fans. Bolden havde seks felter lavet af _polyurethane_, som var svejset sammen. De symmetriske og identiske paneler skulle sammen med en lidt anderledes overflade gøre at man fik et bedre touch på bolden, at den var mere stabil og havde bedre aerodynamik. I finalen brugte man en anden farvesammensætning med grøn, guld og sort.
     vendor:	Adidas
     image_path: https://upload.wikimedia.org/wikipedia/commons/3/3b/Brazil_and_Colombia_match_at_the_FIFA_World_Cup_2014-07-04_%2815%29_%28cropped%29.jpg
   - year: 2015
