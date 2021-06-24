@@ -123,7 +123,7 @@ songs:
     artist: Alphabeat
     year: 2021
     event: EM 2020
-    description: "EM 2020 blev engltig først afviklet i 2021 pga. Corona. Det danske herrelandshold skal bl.a. spille på hjemmebane, og der blev naturligvis produceret en ny fodboldsang til lejligheden. Alphabeat har lavet det nyeste track til samlingen, og bandet har bl.a. undervejs fået hjælp af Kasper Schmeichel, Yussuf Poulsen og Pierre Emile-Højbjerg, der synger for, mens resten af holdet er med på kor. Det er faktisk 30 år siden herrelandsholdet selv får lov til at synge et vers på en officiel slutrundesang. Du kan se [Recepten på den perfekte landsholdssang på dr.dk](https://www.dr.dk/drtv/program/recepten-paa-den-perfekte-landsholdssang_258300)."
+    description: "EM 2020 blev engltig først afviklet i 2021 pga. Corona. Det danske herrelandshold skal bl.a. spille på hjemmebane, og der blev naturligvis produceret en ny fodboldsang til lejligheden. Alphabeat har lavet det nyeste track til samlingen, og bandet har bl.a. undervejs fået hjælp af Kasper Schmeichel, Yussuf Poulsen og Pierre Emile-Højbjerg, der synger for, mens resten af holdet er med på kor. Ikke siden Frank Arnesen i 1988 har Herrelandsholdet selv fået lov til at synge et vers på en officiel slutrundesang. Du kan se [Recepten på den perfekte landsholdssang på dr.dk](https://www.dr.dk/drtv/program/recepten-paa-den-perfekte-landsholdssang_258300)."
     video:
       provider: youtube
       id: IcQrGNP4e7c
@@ -234,7 +234,7 @@ Kvindelandsholdet har også fået udgivet nogle gode landsholdssange.
 
 - Signe Svendsen og Kvindelandsholdet (2005): Kvinder der vinder
 - Monique og Kvindelandsholdet (2007): [Danmarks seje tøser](https://monique.dk/project/danmarks-seje-toeser-2007/)
-- Molly Thornhill (EM Holland 2017): Røde Strømper. [DBU](https://www.dbu.dk/nyheder/2017/juni/hoer-kvindelandsholdets-nye-em-sang/). 
+- Molly Thornhill (EM Holland 2017): Røde Strømper. [DBU](https://www.dbu.dk/nyheder/2017/juni/hoer-kvindelandsholdets-nye-em-sang/).
 
 {% include video provider="youtube" id="ZWkiQBZVmDA" %}
 
