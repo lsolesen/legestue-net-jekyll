@@ -1,6 +1,9 @@
 ---
-title: &title "EM-bolde: Historisk tilbageblik på alle bolde fra 1968-2021"
-permalink: /em-bolde/
+title: &title "EM-fodbolde: Historisk tilbageblik på alle bolde fra 1968-2021"
+seo_title: "EM-fodbolden: 14 ikoniske fodbolde fra EM 1968-2021"
+permalink: /em-fodbolde/
+redirect_from:
+  - /em-bolde/
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
@@ -9,13 +12,15 @@ header:
 categories:
   - Viden om
 tags:
-  - bolde
+  - fodbolde
+  - EM
+  - fodboldhistorie
 last_modified_at: 2021-06-20T10:33:33Z
 balls:
   - year: 1968
     event: EM Italien
     title: Telstar Elast
-    excerpt: Adidas Telstar blev opkaldt efter Telstar-kommunikationssatellitten, som lignede fodbolden lidt. Et klassisk udseende for en fodbold.
+    excerpt: Adidas Telstar blev opkaldt efter Telstar-kommunikationssatellitten, som lignede fodbolden lidt. Et klassisk udseende for en fodbold. Og helt sikkert en af de ikoniske fodbolde til EM.
   - year: 1972
     event: EM Belgien
     title: Telstar Durlast
@@ -28,11 +33,11 @@ balls:
   - year: 1980
     event: EM Italien
     title: Tango River Plate
-    excerpt: Denne bold blev egentlig lavet til FIFA-verdensmesterskabet i 1978. Titlen og bolden var inspireret af værtslandet til VM Argentina. Men første gang Tango var en del af EURO-mesterskaberne.
+    excerpt: EM-fodbolden i 1980 blev egentlig lavet til FIFA-verdensmesterskabet i 1978. Titlen og bolden var inspireret af værtslandet til VM Argentina. Men første gang Tango var en del af EURO-mesterskaberne.
   - year: 1984
     title: Tango Mundial
     event: EM i Frankrig
-    excerpt: Til Danmarks første EM-deltagelse var det første gang, man spillede med en fodbold, som ikke var lavet af læder. Det var Platini rigtig godt tilfreds med. Dette var også første gang man havde lavet en officiel kampbold med et særligt design til EM-slutrunden. Det nye materiale havde et forbedret lagsystem og en forstærkning af polstringen på bolden.
+    excerpt: Til Danmarks første EM-deltagelse var det første gang, man spillede med en fodbold, som ikke var lavet af læder. Det virkede som om Platini var rigtig godt tilfreds med det. Dette var også første gang man havde lavet en officiel kampbold med et særligt design til EM-slutrunden. Det nye materiale havde et forbedret lagsystem og en forstærkning af polstringen på bolden.
     image_path: /assets/images/balls/em-adidas-1984-tango.png
   - year: 1988
     event: EM Vesttyskland
@@ -83,11 +88,13 @@ Adidas har en lang historie for at levere kampboldene til EM-slutrunderne. Her h
 
 Den første kendte EM-bold er Adidas Telstar Elast i 1968, og til EM-slutrunden i 2020 hedder bolden Uniforia.
 
-De første to EM-slutrunder i 1960 og 1964 har end ikke [UEFA](https://www.uefa.com/uefaeuro-2020/news/025e-0fc6971c8220-0ceba795a115-1000--every-euro-match-ball/) nogen registrering af den officielle kampbold. 
+De første to EM-slutrunder i 1960 og 1964 har end ikke [UEFA](https://www.uefa.com/uefaeuro-2020/news/025e-0fc6971c8220-0ceba795a115-1000--every-euro-match-ball/) nogen registrering af den officielle kampbold.
+
+Hvis du er på udkig efter at læse mere om [VM-fodbolden så tjek her]({% link _posts/2021-06-23-vm-fodbolde.md %}).
 
 Derfor starter den officielle historie over matchbolde til EM-turneringerne her i 1968.
 
-## Liste over alle EM-bolde
+## Liste over alle EM-fodbolde
 
 | År | EM-slutrunde | Boldens navn |
 |-|-|-|
@@ -95,9 +102,9 @@ Derfor starter den officielle historie over matchbolde til EM-turneringerne her 
 | {{ ball.year }} | {{ ball.event }} | {{ ball.title }} |
 {%- endfor %}
 
-## Beskrivelse af de enkelte bolde fra EM
+## Beskrivelse af de fodbolde fra EM
 
-Lad os kigge på de enkelte bolde fra de forskellige EM-turneringer:
+Lad os kigge på de enkelte EM-fodbolde fra de forskellige EM-turneringer:
 
 {%- for ball in page.balls %}
 ### {{ ball.year }}: {{ ball.title }}, {{ ball.event }}
@@ -113,7 +120,13 @@ Lad os kigge på de enkelte bolde fra de forskellige EM-turneringer:
 
 {%- endfor %}
 
-## Hvad er den officielle bold til EURO 2021?
+## Hvordan ser EM-fodboldene ud?
+
+{% assign balls = page.balls | where_exp: "item", "item.image_path contains '/'" %}
+
+{% include gallery images=balls layout="quarter" %}
+
+## EM-fodbolden: Hvad er den officielle bold til EURO 2021?
 
 Den officielle bold til EURO 2020 og 2021 hedder Uniforia og er lavet af Adidas. Boldens design med de sorte penselstrøg hen over bolden symboliserer udviskningen af grænserne mellem landene. I de brede streger er der blink i lyse farver, der repræsenterer EM-slutrundens mangfoldighed.
 
@@ -124,3 +137,5 @@ Det er ikke en billig bold. Du kan [tjekke prisen her](https://www.partner-ads.c
 Du kan se en Youtube-video om lanceringen af EM-bolden fra 2020/2021.
 
 {% include video provider="youtube" id="vznT3ibsWqs" %}
+
+Husk også at tjekke vores gennemgang af [VM fodbolde her]({% link _posts/2021-06-23-vm-fodbolde.md %}).

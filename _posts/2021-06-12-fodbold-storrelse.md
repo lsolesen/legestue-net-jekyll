@@ -10,7 +10,7 @@ header:
 categories:
   - Viden om
 tags:
-  - fodbold
+  - fodbolde
   - fodboldstørrelse
 last_modified_at: 2021-06-05T10:33:33Z
 soccer_sizes:
@@ -114,7 +114,7 @@ Kvinder bruger altså en **{{ size.title }}**, som er {{ size.circumference }} i
 
 Select har lavet deres bold af 20 lædersekskanter og 12 læderfemkanter. Dette design giver ifølge Select den perfekt runde bold. Select er dansk og har markedsført denne bold siden 1962.
 
-{% include figure image_path="https://images.unsplash.com/photo-1590669233095-90608d89c79c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80" caption="Select fodbold i størrelse fem følger de officielle retningslinjer for størrelse og vægt" alt="hvor stor er en fodbold" %} 
+{% include figure image_path="https://images.unsplash.com/photo-1590669233095-90608d89c79c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80" caption="Select fodbold i størrelse fem følger de officielle retningslinjer for størrelse og vægt" alt="hvor stor er en fodbold" %}
 
 ## Konklusion
 
