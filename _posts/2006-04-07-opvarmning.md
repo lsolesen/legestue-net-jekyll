@@ -157,7 +157,7 @@ Balancen trænes også individuelt i forskellige positioner med både åbne og l
 
 Også her kunne træneren med få midler gøre det hele lidt mere interessant. Træneren skal blot være opmærksom på, at det formentlig kræver lidt tilvænning hos spillerne. De færreste spillere tager skade af at prøve at stå på hovedet, at lave små brydekampe eller for den sags skyld kolbøtter. Det udvikler kropsfornemmelsen og stillingssansen.
 
-Dog er dog ikke hensigtsmæssigt at påbegynde disse aktiviteter dagen før en kamp. Det forsøgte træneren i AC Horsens sig med, og det resulterede i to hold i nakken til weekendens kamp. Det kræver tilvænning at følge med i trænerens lidt skøre indfald. Sjove styrkeøvelser kan også være en god måde at varme op på. Det skal naturligvis ikke være hård styrketræning, men fx sjove udfordrende makkerøvelser.
+Det er dog ikke hensigtsmæssigt at påbegynde disse aktiviteter dagen før en kamp. Det forsøgte træneren i AC Horsens sig med, og det resulterede i to hold i nakken til weekendens kamp. Det kræver tilvænning at følge med i trænerens lidt skøre indfald. Sjove styrkeøvelser kan også være en god måde at varme op på. Det skal naturligvis ikke være hård styrketræning, men fx sjove udfordrende makkerøvelser.
 
 ## Kommunikation og udstråling i fodboldopvarmningen
 
