@@ -72,6 +72,9 @@ Det er altid en god ide at booke plads i forvejen. I løbet af sommeren kan du o
 
 Vi har samlet en liste over steder, hvor man kan spille med kontaktinformationer til de enkelte fodboldgolfbaner.
 
+{% include table-fodboldgolfbaner.html %}
+
+{% comment %}
 **Jeg arbejer i øjeblikket på den komplette oversigt. Her er banerne, der er medlem af DFGU.**
 
 - [Ballum Fodbolfgolf](https://www.ballumfodboldgolf.dk/)
@@ -96,6 +99,7 @@ Vi har samlet en liste over steder, hvor man kan spille med kontaktinformationer
 - [Vendsyssel Fodboldgolf](http://www.18spark.dk/)
 - [Vestbjerg Fodboldgolf](http://vestbjergfodboldgolf.com/)
 - [Vestfyns Fodboldgolf](https://vestfyns-fodboldgolf.dk/)
+{% endcomment %}
 
 ## Hvordan ser en fodboldgolfbane ud?
 

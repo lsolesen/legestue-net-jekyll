@@ -1,0 +1,70 @@
+{% assign column = 0 %}
+{% assign area = include.area | default: '' %}
+
+{% if area %}
+  {% assign golfbaner = site.data.fodboldgolfbaner | where_exp: "item", "item.Area contains area" %}
+{% elsif group %}
+  {% assign golfbaner = site.data.fodboldgolfbaner | group_by: "Area" %}
+{% else group %}
+  {% assign golfbaner = site.data.fodboldgolfbaner %}
+{% endif%}
+
+<script>
+function GolfbanerSearch() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("golfbaner_search");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("golfbaner");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[{{ column }}];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+
+<input type="text" id="golfbaner_search" onkeyup="GolfbanerSearch()" placeholder="Søg efter golfbaner...">
+
+<table id="golfbaner">
+    <thead>
+    <tr>
+      <th>Bane</th>
+      <th>Adresse</th>
+      <th>Postnr</th>
+      <th>By</th>
+      <th>Område</th>
+      <th>Telefon</th>
+    </tr>
+    </thead>
+    {% for row in golfbaner %}
+    {% if forloop.length == 1 %}
+    <tbody>
+    {% endif %}
+          <tr>
+            <td>
+                {% if row.Website %}
+                {{ row.Title }}
+                {% else %}
+                <a href="{{ row.Website }}">{{ row.Title }}</a>
+                {% endif %}
+            </td>
+            <td>{{ row.Address }}</td>
+            <td>{{ row.Zip }}</td>
+            <td>{{ row.City }}</td>
+            <td>{{ row.Area }}</td>
+            <td>{{ row.Phone }}</td>
+          </tr>
+    {% if forloop.last %}
+    {% endif %}
+  {% endfor %}
+</table>
