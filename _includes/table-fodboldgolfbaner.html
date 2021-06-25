@@ -53,9 +53,9 @@ function GolfbanerSearch() {
           <tr>
             <td>
                 {% if row.Website %}
-                {{ row.Title }}
+                <a href="{{ row.Website }}" rel="nofollow noopener">{{ row.Title }}</a>
                 {% else %}
-                <a href="{{ row.Website }}">{{ row.Title }}</a>
+                {{ row.Title }}
                 {% endif %}
             </td>
             <td>{{ row.Address }}</td>

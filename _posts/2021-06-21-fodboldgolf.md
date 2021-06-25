@@ -68,7 +68,7 @@ Banerne er typisk åbne i sommerhalvåret, og de åbner typisk om formiddagen og
 På mange af banerne kan det være muligt at lave en aftale for at spille uden for sæsonen.
 Det er altid en god ide at booke plads i forvejen. I løbet af sommeren kan du også være spontan og bare møde op ved fodboldgolfbanen, når vejret tillader det.
 
-## Oversigt over fodboldgolfbaner?
+## Oversigt over {{ site.data.fodboldgolfbaner.size }} fodboldgolfbaner?
 
 Vi har samlet en liste over steder, hvor man kan spille med kontaktinformationer til de enkelte fodboldgolfbaner.
 
