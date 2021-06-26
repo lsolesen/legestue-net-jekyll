@@ -1,6 +1,9 @@
 ---
-title: "Fodboldgolf - teknik, held og koncentration"
-redirect_from: /blog/fodboldgolf-teknik-held-og-koncentration
+title: "Sveriges første bane i Hörby til fodboldgolf"
+permalink: /sveriges-forste-fodboldgolfbane/
+redirect_from:
+  - /blog/fodboldgolf-teknik-held-og-koncentration
+  - /fodboldgolf-teknik-held-og-koncentration/
 language: da
 author: mads.davidsen
 header:
@@ -8,7 +11,6 @@ header:
   teaser: /assets/images/fodboldgolf-teknik-held-og-koncentration.jpg
 categories:
   - Anmeldelse
-  - Oplevelser
 tags:
   - fodboldgolf
 last_modified_at: 2013-02-20T10:41:41Z
