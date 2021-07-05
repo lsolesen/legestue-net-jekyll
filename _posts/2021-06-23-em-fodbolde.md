@@ -86,7 +86,7 @@ balls:
 
 Adidas har en lang historie for at levere kampboldene til EM-slutrunderne. Her har jeg samlet en komplet liste over EM-bolde.
 
-Den første kendte EM-bold er Adidas Telstar Elast i 1968, og til EM-slutrunden i 2020 hedder bolden Uniforia.
+Den første kendte EM-fodboldbold er Adidas Telstar Elast i 1968, og til EM-slutrunden i 2020 hedder bolden Uniforia.
 
 De første to EM-slutrunder i 1960 og 1964 har end ikke [UEFA](https://www.uefa.com/uefaeuro-2020/news/025e-0fc6971c8220-0ceba795a115-1000--every-euro-match-ball/) nogen registrering af den officielle kampbold.
 
@@ -102,7 +102,7 @@ Derfor starter den officielle historie over matchbolde til EM-turneringerne her 
 | {{ ball.year }} | {{ ball.event }} | {{ ball.title }} |
 {%- endfor %}
 
-## Beskrivelse af de fodbolde fra EM
+## Beskrivelse af kampbolde fra EM
 
 Lad os kigge på de enkelte EM-fodbolde fra de forskellige EM-turneringer:
 

@@ -1,5 +1,5 @@
 ---
-title: &title "VM-fodbolde: Historisk tilbageblik på alle bolde fra 1968-2021"
+title: &title "VM-fodbolde: Historisk tilbageblik på alle kampbolde fra 1968-2021"
 seo_title: "VM-fodbolden: 14 ikoniske fodbolde fra VM 1968-2021"
 permalink: /vm-fodbolde/
 language: da
@@ -185,7 +185,7 @@ Husk at læse helt til enden af artiklen, hvor der er en video som giver et rigt
 | {{ ball.year }} | {{ ball.event }} | {{ ball.title }} | {{ ball.vendor }} |
 {%- endfor %}
 
-## Beskrivelse af de fodbolde fra VM
+## Beskrivelse af kampbolde fra VM
 
 Lad os kigge på de enkelte VM-fodbolde fra de forskellige VM-turneringer. Billederne er fra [Wikipedia](https://en.m.wikipedia.org/wiki/List_of_FIFA_World_Cup_official_match_balls).
 
