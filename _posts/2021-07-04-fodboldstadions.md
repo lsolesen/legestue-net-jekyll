@@ -47,7 +47,7 @@ Det største stadion hvor der har været spillet fodbold er Strahov Stadion, hvo
 
 Men lad os gå direkte til **oversigten over de største fodboldstadions i verden baseret på tilskuertal**.
 
-## Top 3 over fodboldbaner
+## Top 4 over fodboldbaner
 
 ### 1. Rungrado 1st of May Stadium, Pyongyang, Nordkorea
 
