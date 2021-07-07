@@ -1,0 +1,61 @@
+{% assign column = 0 %}
+
+{% assign stadions = site.data.stadions-danske  %}
+{% comment %}
+<script>
+function DanskeStadionSearch() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("stadion_search");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("stadion");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[{{ column }}];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+
+<input type="text" id="stadion_search" onkeyup="GolfbanerSearch()" placeholder="Søg efter stadions...">
+{% endcomment %}
+<table id="danske-stadions">
+    <caption>Oversigt over danske fodbold stadions</caption>
+    <thead>
+    <tr>
+      <th>Stadion</th>
+      <th>By</th>
+      <th>Kapacitet</th>
+      <th>Sæder</th>
+      <th>Klub</th>
+      <th>Kategori</th>
+    </tr>
+    </thead>
+    {% for row in stadions %}
+    {% if forloop.length == 1 %}
+    <tbody>
+    {% endif %}
+          <tr>
+            <td>
+                {{ row.Stadion }}
+            </td>
+            <td>{{ row.By }}</td>
+            <td>{{ row.Country }}</td>
+            <td>{{ row.Kapacitet }}</td>
+            <td>{{ row.Sæder }}</td>
+            <td>{{ row.Klub }}</td>
+            <td>{{ row.Kategori }}</td>
+          </tr>
+    {% if forloop.last %}
+    {% endif %}
+  {% endfor %}
+</table>

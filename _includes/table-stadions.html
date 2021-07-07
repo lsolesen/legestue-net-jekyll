@@ -1,0 +1,63 @@
+{% assign column = 0 %}
+{% assign region = include.region | default: '' %}
+
+{% if region %}
+  {% assign stadions = site.data.stadions | where_exp: "item", "item.Sports contains 'Association football'" | where_exp: "item", "item.Region contains region" %}
+{% else %}
+  {% assign stadions = site.data.stadions | where_exp: "item", "item.Sports contains 'Association football'" %}
+{% endif %}
+
+<script>
+function StadionSearch() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("stadion_search");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("stadion");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[{{ column }}];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+
+<input type="text" id="stadion_search" onkeyup="StadionSearch()" placeholder="Søg efter stadions...">
+
+<table id="stadion">
+    <caption>Oversigt over de største fodboldstadions</caption>
+    <thead>
+    <tr>
+      <th>Stadion</th>
+      <th>By</th>
+      <th>Land</th>
+      <th>Kapacitet</th>
+      <th>Hold</th>
+    </tr>
+    </thead>
+    {% for row in stadions %}
+    {% if forloop.length == 1 %}
+    <tbody>
+    {% endif %}
+          <tr>
+            <td>
+                {{ row.Stadium }}
+            </td>
+            <td>{{ row.City }}</td>
+            <td>{{ row.Country }}</td>
+            <td>{{ row.Capacity }}</td>
+            <td>{{ row.Teams }}</td>
+          </tr>
+    {% if forloop.last %}
+    {% endif %}
+  {% endfor %}
+</table>

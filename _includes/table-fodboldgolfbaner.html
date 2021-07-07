@@ -5,9 +5,9 @@
   {% assign golfbaner = site.data.fodboldgolfbaner | where_exp: "item", "item.Area contains area" %}
 {% elsif group %}
   {% assign golfbaner = site.data.fodboldgolfbaner | group_by: "Area" %}
-{% else group %}
+{% else %}
   {% assign golfbaner = site.data.fodboldgolfbaner %}
-{% endif%}
+{% endif %}
 
 <script>
 function GolfbanerSearch() {
@@ -36,6 +36,7 @@ function GolfbanerSearch() {
 <input type="text" id="golfbaner_search" onkeyup="GolfbanerSearch()" placeholder="Søg efter golfbaner...">
 
 <table id="golfbaner">
+    <caption>Samlet oversigt over danske fodboldgolfbaner</caption>
     <thead>
     <tr>
       <th>Bane</th>

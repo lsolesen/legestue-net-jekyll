@@ -1,0 +1,84 @@
+---
+title: &title "Verdens største fodboldstadions: Top 100 liste"
+permalink: /verdens-storste-fodboldstadion/
+language: da
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/ea/Wembley_Stadium_%2849789492566%29.jpg
+  teaser: https://upload.wikimedia.org/wikipedia/commons/e/ea/Wembley_Stadium_%2849789492566%29.jpg
+  caption: *title
+categories:
+  - Viden om
+tags:
+  - indendørs fodbold
+last_modified_at: 2021-07-03T10:33:33Z
+feature_row:
+  - image_path: https://content.gucca.dk/covers/big/m/a/matchday_445864.jpg
+    url: https://www.gucca.dk/matchday-turen-gaar-til-engelsk-fodbold-bog-p445864
+    title: "Matchday - Turen Går Til Engelsk Fodbold"
+    excerpt: "Morten Bruun tager læseren med på en passioneret rejse rundt til de største scener i engelsk fodbold. De engelske stadioner har været Mortens arbejdsplads som fodboldkommentator, og her deler han ud af sin facination."
+    btn_class: btn--danger
+    btn_label: Tjek prisen
+    rel: sponsored nofollow noopener
+  - image_path: https://content.gucca.dk/covers/400/k/a/kampdag-turen-gaar-til-dansk-fodbold_526591.jpg
+    url: https://www.gucca.dk/kampdag-turen-gaar-til-dansk-fodbold-bog-p526591
+    title: Kampdag - Turen Går Til Dansk Fodbold
+    excerpt: "Dansk fodbold er Morten Bruuns hjemmebane.
+Fodboldeksperten og fodboldkommentatoren Morten Bruun fortæller levende historier fra de danske stadioner og at bevæge sig rundt blandt det danske fodboldfolk."
+    btn_class: btn--danger
+    btn_label: Tjek prisen
+    rel: sponsored nofollow noopener
+---
+
+Jeg har samlet en liste over verdens største fodboldstadions. Hvis du godt kan lide live fodbold på stadion, så kan du bruge denne liste til at få tjekket af, hvor du skal se fodbold henne.
+
+## Verdens største fodboldstadion står færdigt i 2022
+
+I Guangzhou i Kina er de ifølge [ekstrabladet.dk](https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/vild-plan-her-vil-de-bygge-verdens-stoerste-stadion/8097585) i gang med at bygge verdens største fodboldstadion. Der bliver plads til 100.000 tilskuere på Guangzhou Evergrandes nye stadion, der forventes at stå færdigt i slutningen af 2022. Stadionbyggeriet forventes at komme til at koste mere end 11 milliarder danske kroner.
+
+Ifølge [Wikipedias](https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity) liste over verdens største stadions er stadion i Guangzhou dog ikke verdens største fodboldstadion.
+
+## Liste over verdens største stadions
+
+[worldstadiums.com](http://www.worldstadiums.com/) er også en rigtig fin kilde til hjemmebaner rundt omkring i verden. De har endda en dedikeret side om Danmark, men det er lidt lettere at få overblik over store fodboldstadions i listen, jeg har samlet nedenunder.
+
+På min liste her har jeg kun medtaget stadions, hvor der stadig bliver spillet fodbold regelmæssigt. Det er altså ikke nok, at der engang er blevet spillet fodboldkampe.
+
+Det største stadion hvor der har været spillet fodbold er Strahov Stadion, hvor der kunne være 220.000 tilskuere. Estádio do Maracanã i Brasilien kunne til VM i 1950 til den afgørende kamp, hvor Brasilien blev slået 2-1 af Urugua rumme 199.854 mennesker på lægterne.
+
+Men lad os gå direkte til **oversigten over de største fodboldstadions i verden baseret på tilskuertal**.
+
+{% include table-stadions.html %}
+
+## De største danske fodboldstadions
+
+Du lagde måske mærke til, at der ikke var nogen danske fodboldstadions på listen. Derfor har jeg samlet en liste over de største danske fodboldstadions også.
+
+Den mest omfattende oversigt over danske stadions, kan du finde på [stadions.dk](http://www.stadions.dk/), som siden kunne nu godt trænge til en opdatering, og ellers kan du finde en liste på [Wikipedia](https://da.wikipedia.org/wiki/Fodboldstadioner_i_Danmark).
+
+Du kan få en overskuelig oversigt over de danske stadions her:
+
+{% include table-stadions-denmark.html %}
+
+## Hashtag #herermitstadion
+
+Ens hjemmebane i fodbold betyder virkelig noget. Vi kan sikkert alle stadig huske vores egen hjemmebane, eller det stadion hvor vi følger vores yndlingshold.
+
+Det er en af grundene til, at fodboldekspert, Morten Bruun, startede sit virale hit med [#herermitstadion](https://twitter.com/search?q=%23herermitstadion) på sin Twitter-profil [@Bruun6eren](https://twitter.com/Bruun6eren).
+
+{% include figure image_path="/assets/images/posts/herermitstadion-morten-bruun.png" caption="Morten Bruuns #herermitstadion blev et viralt hit. Kilde: [nordjyske.dk](https://nordjyske.dk/nyheder/sport/viralt-hit-er-blevet-morten-bruuns-hjertebarn-herermitstadion/fd1df9a1-a1c1-4d47-b29e-7b3e8557d71f)" alt="morten bruun herermitstadion" %}
+
+Morten Bruuns interesse for fodbold og stadions har i øvrigt kastet et par bøger af sig.
+
+## Bøger om de største og mindste danske og engelske hjemmebaner
+
+Fodboldkommentator, Morten Bruun, elsker sit arbejde med fodbold. Han har haft stadions som arbejdsplads i rigtig mange år.
+
+Særligt har engelsk fodbold en plads i hans hjerte, og han skrev [Match Day](https://www.gucca.dk/matchday-turen-gaar-til-engelsk-fodbold-bog-p445864){: rel="sponsored nofollow noopener" } med historier om de engelske sadions.
+
+Den bog blev en stor succes, så han skrev en opfølger om de danske stadions, som han kaldte [Kampdag](https://www.gucca.dk/kampdag-turen-gaar-til-dansk-fodbold-bog-p526591){: rel="sponsored nofollow noopener" }.
+
+{% include figure image_path="/assets/images/posts/morten-bruun-aarhus-stadion.png" caption="Morten Bruuns foran Ceres Park. Kilde: [stiften.dk](https://stiften.dk/artikel/morten-bruun-skriver-bog-om-danske-stadions-et-storsl%C3%A5et-syn-i-aarhus)" alt="morten bruun foran Ceres Park Århus Stadion" %}
+
+## Konklusion
+
+Det største stadion i verden, hvor der spilles fodbold regelmæssigt ligger altså i Pyongyang Nordkorea, selvom det kan være lidt vanskeligt at finde ud af nøjagtigt, hvor mange tilskuerpladser der er plads til.
