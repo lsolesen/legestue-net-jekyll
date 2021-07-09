@@ -67,7 +67,7 @@ Wembley i England er et legendarisk stadion. Men det er faktisk ret nyt. Det nye
 
 Men Wembley er også en stor del af Danmarks fodboldhistorie. Lad os tage et par højdepunkter.
 
-Allan Simonsen scorer på straffe i **1983 på Wembley**, og så kvalificerede vi os til EM 1984.
+Allan Simonsen scorer på straffe i **1983 på Wembley**, hvor vi vinder med 0-1, og så kvalificerede vi os til EM 1984.
 
 {% include video provider="youtube" id="5VyWF5xrdBo" %}
 
@@ -75,9 +75,9 @@ Allan Simonsen scorer på straffe i **1983 på Wembley**, og så kvalificerede v
 
 --- <cite>[Allan Simonsen](https://www.dr.dk/sporten/fodbold/em/allan-simonsen-husker-foelelserne-i-landsholdstroejen-det-er-dit-land-du-har-i-0)</cite>
 
-I 2020 vinder vi igen over England på Wembley.
+I **2020** vinder vi igen over England på Wembley i Nations League Cup med 0-1.
 
-> - Det sjove er, at vi næsten kopierede landsholdets kamp i 1983 - da vi 37 år senere vandt 1-0 på Wembley sidste efterår. Christian Eriksen scorede et straffespark i det samme mål, som Allan Simonsen gjorde i 1983. Og Kasper Schmeichel havde en sindssyg redning ligesom Ole Kjær havde dengang.
+> Det sjove er, at vi næsten kopierede landsholdets kamp i 1983 - da vi 37 år senere vandt 1-0 på Wembley sidste efterår. Christian Eriksen scorede et straffespark i det samme mål, som Allan Simonsen gjorde i 1983. Og Kasper Schmeichel havde en sindssyg redning ligesom Ole Kjær havde dengang.
 
 --- <cite>[Kasper Hjulmand](https://www.dr.dk/sporten/fodbold/em/allan-simonsen-husker-foelelserne-i-landsholdstroejen-det-er-dit-land-du-har-i-0)</cite>
 

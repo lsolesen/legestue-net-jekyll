@@ -2,13 +2,18 @@
 layout: posts
 permalink: /blog/
 excerpt: "Fodboldens Legestues Blog med alle de læsevenlige blogindlæg."
-redirect_from: /artikler/
-title: Fodboldens Legestues Blog
+redirect_from:
+  - /artikler/
+title: Fodboldens Legestues fodboldblog
+seo_title: Fodboldblog - Blog om fodbold fra Fodboldens Legestue
+description: Læs de seneste opdateringer på vores fodboldblog. En blog om fodbold, fodboldøvelser, fodboldtræning og det at være fodboldtræner.
 classes: wide
 author_profile: true
 ---
 
-<h2>De senest opdaterede blog posts på Fodboldens Legetue</h2>
+{{ page.description }}
+
+<h2>Nyeste blog posts på Fodboldens Legestue</h2>
 
 <div class="feature__wrapper">
 
