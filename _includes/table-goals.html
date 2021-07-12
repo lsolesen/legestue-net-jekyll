@@ -1,0 +1,33 @@
+{% assign column = 0 %}
+{% assign goals = include.goals %}
+{% assign caption = include.caption %}
+{% assign limit = include.limit | default: 20 %}
+
+<table id="goals">
+    <caption>{{ caption }}</caption>
+    <thead>
+    <tr>
+      <th>Spiller</th>
+      <th>Dato</th>
+      <th>Liga</th>
+      <th>Kamp</th>
+      <th>Tid (sekunder)</th>
+    </tr>
+    </thead>
+    {% for row in goals limit: limit %}
+    {% if forloop.length == 1 %}
+    <tbody>
+    {% endif %}
+          <tr>
+            <td>
+                {{ row.Spiller }}
+            </td>
+            <td>{{ row.Year }}</td>
+            <td>{{ row.Event }}</td>
+            <td>{{ row.Match }}</td>
+            <td>{{ row.Tid }}</td>
+          </tr>
+    {% if forloop.last %}
+    {% endif %}
+  {% endfor %}
+</table>

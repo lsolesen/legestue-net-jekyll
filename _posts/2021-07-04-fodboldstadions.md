@@ -7,9 +7,9 @@ header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/e/ea/Wembley_Stadium_%2849789492566%29.jpg
   caption: *title
 categories:
-  - Viden om
+  - Fodboldhistorie
 tags:
-  - indendørs fodbold
+  - fodboldstadions
 last_modified_at: 2021-07-03T10:33:33Z
 feature_row:
   - image_path: https://content.gucca.dk/covers/big/m/a/matchday_445864.jpg

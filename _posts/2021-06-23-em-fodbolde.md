@@ -10,7 +10,7 @@ header:
   teaser: https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
 categories:
-  - Viden om
+  - Fodboldhistorie
 tags:
   - fodbolde
   - EM

@@ -15,8 +15,7 @@ language: da
 tags:
   - fodboldhistorie
 categories:
-  - Om
-  - Videnskab
+  - Fodboldhistorie
 description: Hvem var de første til at spille fodbold, og hvornår blev det til
   sporten vi kender? Bliv klogere på fodboldens historie når vi dykker ned i
   detaljerne.
