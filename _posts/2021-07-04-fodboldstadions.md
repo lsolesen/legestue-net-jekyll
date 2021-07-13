@@ -9,7 +9,7 @@ header:
 categories:
   - Fodboldhistorie
 tags:
-  - fodboldstadions
+  - indendørs fodbold
 last_modified_at: 2021-07-03T10:33:33Z
 feature_row:
   - image_path: https://content.gucca.dk/covers/big/m/a/matchday_445864.jpg
