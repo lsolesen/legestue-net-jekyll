@@ -7,7 +7,7 @@ permalink: /fodboldrytmer/
 comments: false
 header:
   teaser: /assets/images/books/fodboldrytmer-2005.png
-classes: wide
+toc: true
 author_profile: true
 feature_row:
   - image_path: /assets/images/books/fodboldrytmer-2005.png
@@ -25,9 +25,9 @@ Hvis du vil læse mere om fodboldrytmer, kan du klikke dig rundt nedenunder.
 
 ## Rytmer og fodbold
 
-De gamle grækere have en dyd, de kalder eubuli. Begrebet dækker over evnen til at se
+De gamle grækere have en dyd, de kalder _eubuli_. Begrebet dækker over evnen til at se
 noget på en ny baggrund og evnen til at se noget nyt i det gamle. I sin rene betydning
-betyder eubuli ”godt gået”. Det er en sans for mulighederne og en evne til at opdage
+betyder _eubuli_ ”godt gået”. Det er en sans for mulighederne og en evne til at opdage
 uopdagede muligheder (Fogh Kirkeby: 128). Hvis du tager temaet fodboldrytmer
 alvorligt, så er det godt gået. Ting er kun sjove, hvis det tages alvorligt!
 Rytme er måske den vigtigste bestanddel overhovedet i fodbold. Rytme har betydning
