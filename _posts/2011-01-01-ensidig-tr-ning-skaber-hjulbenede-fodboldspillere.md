@@ -13,6 +13,7 @@ categories:
   - Fodboldtræning
 tags:
   - træning
+  - fodboldskader
 last_modified_at: 2021-02-14T15:28:47Z
 ---
 

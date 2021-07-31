@@ -12,6 +12,7 @@ header:
   caption: *title
 categories:
   - Fodboldtræning
+  - Fodboldøvelser
 tags:
   - Veje til udvikling
   - Børnetræningsmanual 2006

@@ -2,15 +2,16 @@
 title: "Udvikling af ekspertise i fodbold"
 redirect_from: /blog/udvikling-af-ekspertise-i-fodbold
 header:
-  teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
+  teaser: https://images.unsplash.com/photo-1531704398041-6dd8b760d561?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay-image: https://images.unsplash.com/photo-1531704398041-6dd8b760d561?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
 language: da
 excerpt: "Nicklas Pyrdol gennemgår et videnskabeligt review fra 2012, som tager fat i om der er størst chance for at blive professionel fodboldspiller hvis man starter i en tidlig alder og specialiserer sig gennem fokuseret træning eller om man skal prøve forskellige sportsgrene af og lege med bolden istedet."
 author: nicklas.pyrdol
 categories:
   - Talentudvikling
 tags:
-  - Talentudvikling
-  - Videnskab
+  - talentudvikling
+  - videnskab
 last_modified_at: 2013-04-10T12:46:16Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788777497711/0x500

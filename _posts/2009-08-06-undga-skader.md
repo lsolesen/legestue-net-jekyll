@@ -14,6 +14,7 @@ categories:
 tags:
   - skadesforebyggelse
   - opvarmning
+  - fodboldskader
 last_modified_at: 2021-01-14T09:54:11Z
 ---
 

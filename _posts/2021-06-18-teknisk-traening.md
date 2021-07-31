@@ -8,8 +8,11 @@ header:
   caption: *title
 categories:
   - Fodboldøvelser
+  - Fodboldteknik
 tags:
   - teknisk træning
+  - fodboldteknik
+  - teknik
 last_modified_at: 2021-06-11T10:33:33Z
 ---
 

@@ -8,6 +8,7 @@ header:
   caption: *title
 categories:
   - Fodboldrytmer
+  - Fodboldteknik
 tags:
   - opvarmning
   - rytme

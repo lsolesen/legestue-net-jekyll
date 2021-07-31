@@ -8,7 +8,7 @@ header:
   teaser: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
   overlay_image: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80
   caption: *title
-classes: wide
+toc: true
 feature_row:
   - image_path: /assets/images/books/bornetraeningsmanual-2006.png
     alt: "Børnetræningsmanualen"

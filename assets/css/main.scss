@@ -37,3 +37,41 @@ figure {
     }
   }
 }
+
+body.layout--single {
+  .feature__item--left, .feature__item--right {
+      h2.archive__item-title {
+          margin-top: 1em !important;
+          margin-bottom: 0em !important;
+          font-size: 0.9em !important;
+      }
+      .archive__item-excerpt p:first {
+          margin-top: 0em !important;
+      }
+  }
+}
+
+/* Grid view */
+.layout--single .page__content .grid__item {
+
+  @include breakpoint($medium) {
+    margin-left: 0; /* override margin*/
+    margin-right: 0; /* override margin*/
+    width: span(4 of 12);
+
+    &:nth-child(3n + 1) {
+      margin-left: 0;
+      clear: both;
+    }
+
+    &:nth-child(3n + 2) {
+      clear: none;
+      margin-left: gutter(1 of 12);
+    }
+
+    &:nth-child(3n + 3) {
+      clear: none;
+      margin-left: gutter(1 of 12);
+    }
+  }
+}

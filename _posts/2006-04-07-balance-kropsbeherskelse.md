@@ -8,6 +8,7 @@ header:
   alt: "Photo by Jannik Skorna on Unsplash"
 categories:
   - Fodboldtræning
+  - Fodboldøvelser
 tags:
   - Børnetræningsmanual 2006
   - balance
