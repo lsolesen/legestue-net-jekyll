@@ -60,16 +60,16 @@ I en ganske almindelige fodboldweekend kan tv-programmet sagtens have flere end 
 
 I denne tabel kan du se, hvor fodboldligaerne bliver sendt på TV i denne sæson.
 
-| Ligaer | Kanaler |
-|-|-|
-| Superliga	| Canal 9, Eurosport 2, TV3 Sport, TV3 Max, TV3+ |
-| Champions League | TV3 Sport, TV3 Max, TV3+ |
-| Premier League | TV3+, TV3 Max, TV3 Sport, Xee |
-| Europa League	6'eren, Canal 9, Eurosport 2 |
-| La Liga | Live streaming hos bet365 |
-| Serie A | Live streaming hos bet365 |
-| Bundesliga | TV3 Max, TV3 Sport, Live streaming hos bet365 |
-| Fransk Ligue 1 | TV3 Sport, Live streaming hos bet365 |
+| Ligaer | Land | Kanaler |
+|-|-|-|
+| Superliga	| Danmark | Canal 9, Eurosport 2, TV3 Sport, TV3 Max, TV3+ |
+| Champions League | Europa | TV3 Sport, TV3 Max, TV3+ |
+| Premier League | England | TV3+, TV3 Max, TV3 Sport, Xee |
+| Europa League	| Europa | 6'eren, Canal 9, Eurosport 2 |
+| La Liga | Spanien | Live streaming hos bet365 |
+| Serie A | Italien | Live streaming hos bet365 |
+| Bundesliga | Tyskland | TV3 Max, TV3 Sport, Live streaming hos bet365 |
+| Ligue 1 | Frankrig | TV3 Sport, Live streaming hos bet365 |
 
 ## Landsholdet på tv
 
