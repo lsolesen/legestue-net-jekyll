@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/vm-uden-mindev-rdige-jeblikke-og-dog.jpg
   teaser: /assets/images/vm-uden-mindev-rdige-jeblikke-og-dog.jpg
 categories:
-  - Oplevelser
+  - Anmeldelse
 tags:
   - analyse
 last_modified_at: 2013-02-17T21:53:25Z

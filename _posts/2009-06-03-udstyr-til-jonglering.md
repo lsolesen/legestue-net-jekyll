@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 language: da
 categories:
+  - Anmeldelse
 tags:
   - anmeldelse
   - udstyr

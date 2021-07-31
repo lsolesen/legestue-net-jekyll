@@ -9,6 +9,7 @@ header:
   caption: *title
 categories:
   - Fodboldrytmer
+  - Fodboldhistorie
 tags:
   - fodboldsange
   - kampsange

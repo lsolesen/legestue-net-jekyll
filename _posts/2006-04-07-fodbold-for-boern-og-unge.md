@@ -10,7 +10,6 @@ categories:
 tags:
   - Børnetræningsmanual 2006
   - træning
-  - Veje til udvikling
 last_modified_at: 2015-04-07T15:16:02Z
 ---
 

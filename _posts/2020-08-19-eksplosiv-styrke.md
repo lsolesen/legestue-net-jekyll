@@ -18,7 +18,7 @@ tags:
   - styrketræning
   - eksplosivitet
 categories:
-  - Styrketræning
+  - Fodboldtræning
 ---
 Inden for fodboldens verden er eksplosiv muskelstyrke essentielt at træne, for at forbedre potentialet for at spillerne kan være eksplosive i sprints og spring. Hvis du gerne vil arbejde med eksplosivitet for fodboldspillere, så kan det være en god ide at bruge eksplosiv styrketræning, og i denne artikel kommer vi med konkrete forslag til et program og øvelser du kan bruge til eksplosiv styrketræning.
 

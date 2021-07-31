@@ -6,9 +6,8 @@ header:
   teaser: https://i.ytimg.com/vi/yHKa1tXwKC4/maxresdefault.jpg
   caption: *title
 categories:
-  - Målsætning
+  - Fodboldtræning
 tags:
-  - Veje til udvikling
   - Børnetræningsmanual 2006
   - målsætning
 last_modified_at: 2015-04-07T15:16:02Z

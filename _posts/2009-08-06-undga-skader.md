@@ -10,6 +10,7 @@ redirect_from:
   - /undga-skader/
 language: da
 categories:
+  - Fodboldtræning
 tags:
   - skadesforebyggelse
   - opvarmning

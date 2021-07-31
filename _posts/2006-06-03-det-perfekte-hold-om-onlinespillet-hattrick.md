@@ -8,7 +8,6 @@ header:
   teaser: /assets/images/det-perfekte-hold-om-onlinespillet-hattrick.jpg
 categories:
   - Anmeldelse
-  - Om
 tags:
   - computerspil
   - Hattrick

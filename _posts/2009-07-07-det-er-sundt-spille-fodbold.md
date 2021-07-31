@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 language: da
 categories:
-  - Træning
+  - Fodboldtræning
 tags:
   - forskning
 last_modified_at: 2009-07-07T08:42:29Z

@@ -12,7 +12,6 @@ header:
 categories:
   - Fodboldtræning
 tags:
-  - Veje til udvikling
   - Børnetræningsmanual 2006
   - træningsplanlægning
 last_modified_at: 2021-04-07T15:16:02Z

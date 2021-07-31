@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 language: da
 categories:
+  - Fodboldtræning
 tags:
   - analyse
   - kondition

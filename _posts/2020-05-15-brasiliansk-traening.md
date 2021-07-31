@@ -6,10 +6,11 @@ header:
   teaser: https://www.thesun.co.uk/wp-content/uploads/2019/04/NINTCHDBPICT000000798561.jpg?w=400
   caption: Getty - Contributor
 categories:
-  - Inspiration
+  - Fodboldtræning
 tags:
   - brasiliansk fodbold
   - ginga
+  - inspiration
 last_modified_at: 2020-04-30T15:16:02Z
 feature_row:
   - image_path: https://www.fodboldshop.org/wp-content/uploads/2013/10/fodbold-05.jpg

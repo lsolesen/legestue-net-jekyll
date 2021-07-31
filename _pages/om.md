@@ -69,3 +69,15 @@ Brugere kan frit udskrive materialet til eget brug på følgende betingelser:
 - At dokumenterne forbliver hele, uredigerede og uden ændringer.
 - At intet gebyr tages for privat udlån af materialet.
 - At ophaverettigheder og Fodboldens Legestues navn udtrykkeligt angives som kilde.
+
+## Artikler om Fodboldens Legestue
+
+{% assign site_posts = site.posts | where: "categories", "Om" | sort: "date" %}
+
+<div class="feature__wrapper">
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+</div>

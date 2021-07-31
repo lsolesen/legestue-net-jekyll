@@ -11,6 +11,7 @@ categories:
 tags:
   - opvarmning
   - rytme
+  - teknik
 last_modified_at: 2021-06-11T10:33:33Z
 ---
 

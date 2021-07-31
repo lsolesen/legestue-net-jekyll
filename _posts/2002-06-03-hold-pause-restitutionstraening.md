@@ -14,7 +14,7 @@ header:
   caption: *title
   alt: Photo by Baylee Gramling on Unsplash
 categories:
-  - Restitution
+  - Fodboldtræning
 tags:
   - Børnetræningsmanual 2006
   - nedvarmning

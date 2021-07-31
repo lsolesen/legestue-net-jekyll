@@ -22,6 +22,10 @@ toc: false
 
 {{ page.excerpt }}
 
+## Opvarmningøvelser
+
+Opvarmning er en vigtig del af fodbold. Du kan varme op på flere måder. Vi har skrevet mere om [opvarmning i fodbold](/opvarmning/). Fx kunne du bruge [fodboldrytmer som en del af opvarmningen](/fodboldrytmer/).
+
 ## Fodboldøvelser for 8-10 årige (U8, U9, U10)
 
 Disse øvelser er særligt udvalgt til at passe til de 8-10 årige. Fodboldøvelserne passer rigtig godt til aldersgruppen, men de kan også sagtens bruges til U6, U7, hvis du tilretter øvelserne lidt.

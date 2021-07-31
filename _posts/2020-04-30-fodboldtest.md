@@ -6,7 +6,7 @@ header:
   teaser: https://images.unsplash.com/photo-1587329311101-e21a731a0305?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: Photo by Chaos Soccer Gear on Unsplash
 categories:
-  - Træning
+  - Fodboldtræning
 tags:
   - fodboldtest
 last_modified_at: 2020-04-30T15:16:02Z

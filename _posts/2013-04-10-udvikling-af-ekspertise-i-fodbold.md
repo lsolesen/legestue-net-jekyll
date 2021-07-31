@@ -10,7 +10,6 @@ categories:
   - Talentudvikling
 tags:
   - Talentudvikling
-  - Veje til udvikling
   - Videnskab
 last_modified_at: 2013-04-10T12:46:16Z
 feature_row:

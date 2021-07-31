@@ -149,6 +149,8 @@ Rytme er en flydende bevægelse i et mønster af spænding og afspænding mellem
 
 Det gjorde vi bl.a. ved at lave nogle fodboldrelevante bevægelser og spille bold i takt til musik. Men musik er måske ikke engang nødvendig for at fremhæve rytmen. Vi fortæller ofte spillerne, at de skal få det til at se let ud. Hvis det ser let ud, er spillerne mere afslappede og bevægelserne er mest præcise. Du kan også i de tekniske øvelser fremelske rytmen og timingen i udførelsen. Du skal holde fast i det som et instruktionsmoment.
 
+Læs mere om [Fodboldrytmer her](/fodboldrytmer/).
+
 ## Balance, behændighed og styrkeøvelser
 
 For at blive en rigtig dygtig fodboldspiller er det væsentligt med en god balance og behændighed, som bl.a. kan defineres som evnen til at genvinde balancen. I denne artikel bruges det mere i betydningen almen kropsbeherskelse. Balancen skal trænes i mange forskellige situationer. Fx fordeler spillerne sig på et lille område. Hver anden lukker øjnene. De "seende" må skubbe let (senere hårdere) til de "blinde", som forsøger at stå klippefast.

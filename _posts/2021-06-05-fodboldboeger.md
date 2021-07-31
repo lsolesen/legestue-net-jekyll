@@ -8,6 +8,7 @@ header:
   caption: *title
 categories:
   - Anbefalinger
+  - Anmeldelse
 tags:
   - fodboldbøger
   - bøger

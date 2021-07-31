@@ -9,7 +9,7 @@ header:
 categories:
   - Anmeldelse
 tags:
-  - Anmeldelse
+  - anmeldelse
 last_modified_at: 2013-02-20T10:45:42Z
 ---
 

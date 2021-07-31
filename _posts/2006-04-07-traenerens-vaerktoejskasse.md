@@ -15,7 +15,6 @@ header:
 categories:
   - Fodboldtræner
 tags:
-  - Veje til udvikling
   - Børnetræningsmanual 2006
   - værktøjskasse
 last_modified_at: 2021-04-07T15:16:02Z

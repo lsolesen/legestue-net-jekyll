@@ -4,10 +4,14 @@ main:
     url: /fodboldtricks/
   - title: "Fodboldlege"
     url: /lege/
-  - title: "Fodboldrytmer"
-    url: /fodboldrytmer/
   - title: "Fodboldøvelser"
     url: /fodboldoevelser/
+  - title: "Fodboldtræning"
+    url: /fodboldtraening/
+  - title: "Fodboldøvelser"
+    url: /fodboldoevelser/
+  - title: "Fodboldrytmer"
+    url: /fodboldrytmer/
   - title: "Shop"
     url: /shop/
   - title: "Blog"

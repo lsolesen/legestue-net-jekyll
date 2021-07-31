@@ -7,11 +7,11 @@ header:
   overlay_image: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=2255&q=80
   teaser: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=400&q=80
 categories:
-  - Undervisning
-tags:
   - Fodboldtræning
+tags:
+  - fodboldtræning
   - Veje til udvikling
-  - Undervisning
+  - undervisning
 last_modified_at: 2020-04-27T22:04:50Z
 ---
 

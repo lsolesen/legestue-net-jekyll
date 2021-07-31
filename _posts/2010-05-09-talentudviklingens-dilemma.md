@@ -10,7 +10,6 @@ categories:
   - Talentudvikling
 tags:
   - talentudvikling
-  - Veje til udvikling
 last_modified_at: 2013-02-17T10:36:48Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788702192087/0x500

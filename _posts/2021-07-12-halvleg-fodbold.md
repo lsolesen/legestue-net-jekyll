@@ -8,6 +8,7 @@ header:
   caption: *title
 categories:
   - Viden om
+  - Fodboldregler
 tags:
   - fodbold
 last_modified_at: 2021-07-03T10:33:33Z

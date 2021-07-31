@@ -9,9 +9,11 @@ header:
   caption: *title
 categories:
   - Viden om
+  - Fodboldregler
 tags:
   - fodbolde
   - fodboldstørrelse
+  - fodboldregler
 last_modified_at: 2021-06-05T10:33:33Z
 soccer_sizes:
   - title: Str. 1

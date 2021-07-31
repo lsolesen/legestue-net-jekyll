@@ -12,6 +12,7 @@ header:
       label: "<i class='fab fa-fw fa-pinterest'></i> Få fodboldcitater på Pinterest"
 categories:
   - Anbefalinger
+  - Anmeldelse
 tags:
   - fodboldcitater
   - citater

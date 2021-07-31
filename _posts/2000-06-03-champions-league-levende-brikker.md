@@ -9,7 +9,7 @@ header:
     - label: "Få reglerne til spillet"
       url: "/champions-league/"
 categories:
-  - Fodboldspil
+  - Fodboldlege
 tags:
   - Fodboldspil
 last_modified_at: 2013-03-01T22:04:50Z

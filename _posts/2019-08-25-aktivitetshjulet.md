@@ -11,7 +11,7 @@ header:
   alt: Photo by Jeffrey F Lin on Unsplash
   caption: *title
 categories:
-  - Planlægning
+  - Fodboldtræning
 tags:
   - Planlægning
   - aktivitetshjulet

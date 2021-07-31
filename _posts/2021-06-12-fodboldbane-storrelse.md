@@ -9,8 +9,10 @@ header:
   caption: *title
 categories:
   - Viden om
+  - Fodboldregler
 tags:
   - fodboldbane
+  - fodboldregler
 last_modified_at: 2021-06-05T10:33:33Z
 ---
 

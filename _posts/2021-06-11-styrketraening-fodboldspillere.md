@@ -8,7 +8,7 @@ header:
   teaser: https://images.unsplash.com/photo-1579267329327-2370366d7f20?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
 categories:
-  - Fodboldøvelser
+  - Fodboldtræning
 tags:
   - styrketræning
 last_modified_at: 2021-06-11T10:33:33Z

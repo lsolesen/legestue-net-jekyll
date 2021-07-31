@@ -9,11 +9,12 @@ header:
   teaser: /assets/images/den-indre-dialog.jpg
   caption: *title
 categories:
-  - Psykologi
+  - Fodboldtræning
 tags:
   - læring
-  - Veje til udvikling
   - mental træning
+  - målsætning
+  - psykologi
 last_modified_at: 2020-02-20T10:43:21Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788770361521/0x500

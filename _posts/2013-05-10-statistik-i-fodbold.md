@@ -9,7 +9,6 @@ categories:
   - Fodboldtræning
 tags:
   - statistik
-  - Veje til udvikling
 last_modified_at: 2013-05-10T08:00:00Z
 ---
 

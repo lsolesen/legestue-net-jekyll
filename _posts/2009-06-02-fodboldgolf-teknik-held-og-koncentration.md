@@ -11,6 +11,7 @@ header:
   teaser: /assets/images/fodboldgolf-teknik-held-og-koncentration.jpg
 categories:
   - Anmeldelse
+  - Fodboldlege
 tags:
   - fodboldgolf
 last_modified_at: 2013-02-20T10:41:41Z
