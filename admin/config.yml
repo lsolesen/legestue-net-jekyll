@@ -57,7 +57,7 @@ collections:
             fields:
               - {label: "Label", name: "label", widget: "string"}
               - {label: "Url", name: "url", widget: "string"}
-      - {label: "Category", name: "category", widget: "list", allow_add: true}
+      - {label: "Category", name: "categories", widget: "list", allow_add: true}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: Feature row

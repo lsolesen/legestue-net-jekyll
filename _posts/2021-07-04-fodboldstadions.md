@@ -9,7 +9,7 @@ header:
 categories:
   - Fodboldhistorie
 tags:
-  - indendørs fodbold
+  - fodboldstadions
 last_modified_at: 2021-07-03T10:33:33Z
 feature_row:
   - image_path: https://content.gucca.dk/covers/big/m/a/matchday_445864.jpg
@@ -22,8 +22,7 @@ feature_row:
   - image_path: https://content.gucca.dk/covers/400/k/a/kampdag-turen-gaar-til-dansk-fodbold_526591.jpg
     url: https://www.gucca.dk/kampdag-turen-gaar-til-dansk-fodbold-bog-p526591
     title: Kampdag - Turen Går Til Dansk Fodbold
-    excerpt: "Dansk fodbold er Morten Bruuns hjemmebane.
-Fodboldeksperten og fodboldkommentatoren Morten Bruun fortæller levende historier fra de danske stadioner og at bevæge sig rundt blandt det danske fodboldfolk."
+    excerpt: "Dansk fodbold er Morten Bruuns hjemmebane. Fodboldeksperten og fodboldkommentatoren Morten Bruun fortæller levende historier fra de danske stadioner og at bevæge sig rundt blandt det danske fodboldfolk."
     btn_class: btn--danger
     btn_label: Tjek prisen
     rel: sponsored nofollow noopener

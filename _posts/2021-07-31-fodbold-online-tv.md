@@ -36,7 +36,7 @@ Formålet med denne guide er at gøre det klart, hvor man kan se fodbold i tv el
 
 ## Hvor kan man se fodbold?
 
-man kan se fodbold på TV, men live streaming af fodbold er blevet mere populært de seneste år.
+Man kan se fodbold på TV, men live streaming af fodbold er blevet mere populært de seneste år.
 
 Alle fodboldkampe der bliver vist i TV kan også streames online, hvis du har de rigtig abonnementer og streaming services. Det kigger vi på i denne guide.
 
