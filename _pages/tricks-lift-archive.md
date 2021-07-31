@@ -1,8 +1,7 @@
 ---
 layout: single
 title: &title "Boldløft"
-excerpt: "Et boldløft er en måde at få bolden fra jorden og op i luften på, uden at du
-behøver at samle den op med hænderne."
+excerpt: "Et boldløft er en måde at få bolden fra jorden og op i luften på, uden at du behøver at samle den op med hænderne."
 permalink: /fodboldtricks/boldloft/
 header:
   teaser: /assets/images/books/tricks-2020.png

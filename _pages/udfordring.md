@@ -7,7 +7,6 @@ permalink: /udfordring/
 redirect_from:
   - /blog/hvad-er-fodboldens-udfordring
   - /hvad-er-fodboldens-udfordring/
-excerpt: "Et sjovt fodboldspil for to med sjove kort"
 author_profile: true
 toc: true
 header:
