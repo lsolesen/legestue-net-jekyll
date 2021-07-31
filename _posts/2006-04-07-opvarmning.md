@@ -16,6 +16,7 @@ tags:
   - Veje til udvikling
   - Børnetræningsmanual 2006
   - opvarmning
+  - featured
 last_modified_at: 2021-04-10T15:16:02Z
 feature_row:
   - image_path: https://images-na.ssl-images-amazon.com/images/I/51ePj6gMC8L._SX313_BO1,204,203,200_.jpg

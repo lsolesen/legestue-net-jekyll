@@ -17,6 +17,7 @@ language: da
 tags:
   - styrketræning
   - eksplosivitet
+  - featured
 categories:
   - Fodboldtræning
 ---

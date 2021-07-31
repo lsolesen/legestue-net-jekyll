@@ -7,7 +7,7 @@ header:
   teaser: https://images.unsplash.com/photo-1587384474964-3a06ce1ce699?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
   caption: *title
 categories:
-  - Fodbold
+  - Fodboldregler
 tags:
   - indendørs fodbold
 last_modified_at: 2021-06-20T10:33:33Z

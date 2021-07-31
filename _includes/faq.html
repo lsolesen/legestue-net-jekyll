@@ -1,0 +1,4 @@
+{% for item in page.faq %}
+<h3>{{ item.question }}</h3>
+{{ item.answer | markdownify}}
+{% endfor %}

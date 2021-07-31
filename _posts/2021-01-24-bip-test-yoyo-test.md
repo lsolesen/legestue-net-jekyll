@@ -10,6 +10,7 @@ categories:
   - Fodboldtræning
 tags:
   - udstrækning
+  - featured
 last_modified_at: 2021-01-17T10:33:33Z
 ---
 
