@@ -1,5 +1,6 @@
 ---
 title: "Kenya"
+seo_title: "Kenya | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/kenya
 language: da
 video:

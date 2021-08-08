@@ -1,5 +1,6 @@
 ---
 title: "Gambia"
+seo_title: "Gambia | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/gambia
 language: da
 video:

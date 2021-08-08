@@ -1,5 +1,6 @@
 ---
 title: "Burundi"
+seo_title: "Burundi | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/burundi
 language: da
 video:

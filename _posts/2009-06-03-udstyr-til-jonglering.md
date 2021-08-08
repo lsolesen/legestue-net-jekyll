@@ -1,7 +1,8 @@
 ---
 title: "Udstyr til jonglering med fodbold - 4 forslag til fodbolde"
 permalink: /udstyr-til-jonglering/
-redirect_from: /content/udstyr-til-jonglering
+redirect_from:
+  - /content/udstyr-til-jonglering
 header:
   teaser: /assets/images/hvad-er-fodboldens-udfordring.jpg
 language: da
@@ -10,7 +11,7 @@ categories:
 tags:
   - anmeldelse
   - udstyr
-last_modified_at: 2009-06-03T13:29:00Z
+last_modified_at: 2021-08-01T13:29:00Z
 ---
 
 Når du gerne vil jonglere med en fodbold, så behøver du bare en bold. Vi vil dog gerne give et par gode råd, som vi selv nyder rigtig godt af, når vi kaster os ud i jonglering med fodbold.
@@ -54,3 +55,9 @@ Jonglering 10 Fiksering 8 Pris 5
 ## Hvilket udstyr bruger du til at jonglere med fodbold?
 
 Vi er meget interesseret i, hvilket udstyr du bruger til jonglerering med fodbold? Skriv endelig til {{ site.email }}, hvis du vil hjælpe med at opdatere denne guide, så den kan blive endnu mere hjælpsom.
+
+## Pannabolde: Fodbolde til Panna
+
+_Dronningen af Panna_ skal i denne video optage reklame sammen med Nadia Nadim. Anusha Samia foreslår fx [Monta Freestyler fodbold](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=9397&htmlurl=https://www.billigsport24.dk/monta-freestyler-fodbold){: rel="sponsored nofollow noopener" } i denne DR-dokumentar, som du kan se på Youtube.
+
+{% include video provider="youtube" id="oVi5ghHF94A" %}

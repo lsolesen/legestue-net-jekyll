@@ -17,7 +17,6 @@ feature_row:
     #url: "#"
     #btn_label: "Læs mere"
     #btn_class: "btn--success"
-toc: false
 ---
 
 {{ page.excerpt }}

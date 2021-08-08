@@ -1,5 +1,6 @@
 ---
 title: "Rottefælden"
+seo_title: "Rottefælden | Fodboldtricks"
 redirect_from: /activity/rottef-lden
 language: da
 video:

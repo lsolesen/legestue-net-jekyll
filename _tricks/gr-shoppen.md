@@ -1,5 +1,6 @@
 ---
 title: "Græshoppen"
+seo_title: "Græshoppen | Fodboldtricks"
 redirect_from: /activity/gr-shoppen
 language: da
 video:

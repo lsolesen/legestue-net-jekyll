@@ -1,5 +1,6 @@
 ---
 title: "Mosambique"
+seo_title: "Mosambique | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/mosambique
 language: da
 video:

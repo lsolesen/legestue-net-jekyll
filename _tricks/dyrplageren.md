@@ -1,5 +1,6 @@
 ---
 title: "Dyrplageren"
+seo_title: "Dyrplageren | Fodboldtricks"
 redirect_from: /activity/dyrplageren
 language: da
 video:

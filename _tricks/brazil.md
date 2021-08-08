@@ -1,5 +1,6 @@
 ---
 title: "Brazil"
+seo_title: "Brazil | Fodboldtricks"
 redirect_from: /activity/brazil
 language: da
 video:

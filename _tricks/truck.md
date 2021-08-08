@@ -1,5 +1,6 @@
 ---
 title: "Truck"
+seo_title: "Truck | Fodboldtricks"
 redirect_from: /activity/truck
 language: da
 video:

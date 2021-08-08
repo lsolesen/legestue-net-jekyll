@@ -1,5 +1,6 @@
 ---
 title: "Rundt om"
+seo_title: "Rundt om | Fodboldtricks"
 redirect_from: /activity/rundt-om
 language: da
 video:

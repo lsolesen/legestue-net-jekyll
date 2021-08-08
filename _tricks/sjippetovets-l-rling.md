@@ -1,5 +1,6 @@
 ---
 title: "Sjippetovets lærling"
+seo_title: "Sjippetovets lærling | Fodboldtricks"
 redirect_from: /activity/sjippetovets-l-rling
 language: da
 video:

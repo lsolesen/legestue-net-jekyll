@@ -1,5 +1,6 @@
 ---
 title: "Mens du sætter dig"
+seo_title: "Mens du sætter dig | Fodboldtricks"
 redirect_from: /activity/mens-du-s-tter-dig
 language: da
 video:

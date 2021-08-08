@@ -1,5 +1,6 @@
 ---
 title: "Katapult"
+seo_title: "Katapult | Fodboldtricks"
 redirect_from: /activity/katapult
 language: da
 video:

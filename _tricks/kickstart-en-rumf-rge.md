@@ -1,5 +1,6 @@
 ---
 title: "Kickstart en rumfærge"
+seo_title: "Kickstart en rumfærge | Fodboldtricks"
 redirect_from: /activity/kickstart-en-rumf-rge
 language: da
 video:

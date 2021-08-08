@@ -1,5 +1,6 @@
 ---
 title: "Namibia"
+seo_title: "Namibia | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/namibia
 language: da
 video:

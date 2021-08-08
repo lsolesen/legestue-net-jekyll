@@ -1,5 +1,6 @@
 ---
 title: "Basketkurven"
+seo_title: "Basketkurven | Fodboldtricks"
 redirect_from: /activity/basketkurven
 language: da
 video:

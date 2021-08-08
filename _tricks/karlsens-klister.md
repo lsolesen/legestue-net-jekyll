@@ -1,5 +1,6 @@
 ---
 title: "Karlsens klister"
+seo_title: "Karlsens Klister | Fodboldtricks"
 redirect_from: /activity/karlsens-klister
 language: da
 video:

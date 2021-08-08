@@ -1,5 +1,6 @@
 ---
 title: "Regnbuen light"
+seo_title: "Regnbuen light | Fodboldtricks"
 redirect_from: /activity/regnbuen-light
 language: da
 video:

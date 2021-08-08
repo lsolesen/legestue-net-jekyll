@@ -1,5 +1,6 @@
 ---
 title: "Snurretur"
+seo_title: "Snurretur | Fodboldtricks"
 redirect_from: /activity/snurretur
 language: da
 video:

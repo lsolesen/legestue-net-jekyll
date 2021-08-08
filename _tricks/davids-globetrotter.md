@@ -1,5 +1,6 @@
 ---
 title: "Davids Globetrotter"
+seo_title: "Davids Globetrotter | Fodboldtricks"
 redirect_from: /activity/davids-globetrotter
 language: da
 video:

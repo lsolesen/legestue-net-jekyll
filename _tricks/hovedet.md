@@ -1,5 +1,6 @@
 ---
 title: "Hovedet"
+seo_title: "Hovedet | Fodboldtricks"
 redirect_from: /activity/hovedet
 language: da
 video:

@@ -1,5 +1,6 @@
 ---
 title: "Bryst til nakke"
+seo_title: "Bryst til nakke | Fodboldtricks"
 redirect_from: /activity/bryst-til-nakke
 language: da
 video:

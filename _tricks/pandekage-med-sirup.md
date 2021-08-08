@@ -1,5 +1,6 @@
 ---
 title: "Pandekage med sirup"
+seo_title: "Pandekage med sirup | Fodboldtricks"
 redirect_from: /activity/pandekage-med-sirup
 language: da
 video:

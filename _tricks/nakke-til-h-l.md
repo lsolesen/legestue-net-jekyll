@@ -1,5 +1,6 @@
 ---
 title: "Nakke til hæl"
+seo_title: "Nakke til hæl | Fodboldtricks"
 redirect_from: /activity/nakke-til-h-l
 language: da
 video:

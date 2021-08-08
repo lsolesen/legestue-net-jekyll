@@ -1,5 +1,6 @@
 ---
 title: "Soldatervip"
+seo_title: "Soldatervip | Fodboldtricks"
 redirect_from: /activity/soldatervip
 language: da
 video:

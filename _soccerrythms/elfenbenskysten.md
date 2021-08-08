@@ -1,5 +1,6 @@
 ---
 title: "Elfenbenskysten"
+seo_title: "Elfenbenskysten | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/elfenbenskysten
 language: da
 video:

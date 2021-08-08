@@ -1,5 +1,6 @@
 ---
 title: "Pandekage"
+seo_title: "Pandekage | Fodboldtricks"
 redirect_from: /activity/pandekage
 language: da
 video:

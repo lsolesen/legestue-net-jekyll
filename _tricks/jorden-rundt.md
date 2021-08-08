@@ -1,5 +1,6 @@
 ---
 title: "Jorden rundt"
+seo_title: "Jorden rundt | Fodboldtricks"
 redirect_from: /activity/jorden-rundt
 language: da
 video:

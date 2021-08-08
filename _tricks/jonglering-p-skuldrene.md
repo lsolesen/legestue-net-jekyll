@@ -1,5 +1,6 @@
 ---
 title: "Jonglering på skuldrene"
+seo_title: "Jonglering på skuldrene | Fodboldtricks"
 redirect_from: /activity/jonglering-p-skuldrene
 language: da
 video:

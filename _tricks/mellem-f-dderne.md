@@ -1,5 +1,6 @@
 ---
 title: "Mellem fødderne"
+seo_title: "Mellem fødderne | Fodboldtricks"
 redirect_from: /activity/mellem-f-dderne
 language: da
 video:

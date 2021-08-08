@@ -1,5 +1,6 @@
 ---
 title: "Babyens Redningsnet"
+seo_title: "Babyens Redningsnet | Fodboldtricks"
 redirect_from: /activity/babyens-redningsnet
 language: da
 video:

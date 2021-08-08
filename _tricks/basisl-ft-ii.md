@@ -1,5 +1,6 @@
 ---
 title: "Basisløft II"
+seo_title: "Basisløft II | Fodboldtricks"
 redirect_from: /activity/basisl-ft-ii
 language: da
 video:

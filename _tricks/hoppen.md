@@ -1,5 +1,6 @@
 ---
 title: "Hoppen"
+seo_title: "Hoppen | Fodboldtricks"
 redirect_from: /activity/hoppen
 language: da
 video:

@@ -1,5 +1,6 @@
 ---
 title: "Fortuna"
+seo_title: "Amerikansk Pandekage | Fodboldtricks"
 redirect_from: /activity/fortuna
 language: da
 video:

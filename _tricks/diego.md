@@ -1,5 +1,6 @@
 ---
 title: "Diego"
+seo_title: "Diego | Fodboldtricks"
 redirect_from: /activity/diego
 language: da
 video:

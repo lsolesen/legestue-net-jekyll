@@ -1,5 +1,6 @@
 ---
 title: "Hutelihut"
+seo_title: "Huteliut | Fodboldtricks"
 redirect_from: /activity/hutelihut
 language: da
 video:

@@ -1,5 +1,6 @@
 ---
 title: "Amerikansk pandekage"
+seo_title: "Amerikansk pandekage | Fodboldtricks"
 redirect_from: /activity/amerikansk-pandekage
 language: da
 video:

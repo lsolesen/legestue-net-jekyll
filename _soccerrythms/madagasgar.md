@@ -1,5 +1,6 @@
 ---
 title: "Madagasgar"
+seo_title: "Madagasgar | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/madagasgar
 language: da
 video:

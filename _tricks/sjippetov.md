@@ -1,5 +1,6 @@
 ---
 title: "Sjippetov"
+seo_title: "Sjippetov | Fodboldtricks"
 redirect_from: /activity/sjippetov
 language: da
 video:

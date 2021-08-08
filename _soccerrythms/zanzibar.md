@@ -1,5 +1,6 @@
 ---
 title: "Zanzibar"
+seo_title: "Zanzibar | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/zanzibar
 language: da
 video:

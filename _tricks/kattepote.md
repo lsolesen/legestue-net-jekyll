@@ -1,5 +1,6 @@
 ---
 title: "Kattepote"
+seo_title: "Kattepote | Fodboldtricks"
 redirect_from: /activity/kattepote
 language: da
 video:

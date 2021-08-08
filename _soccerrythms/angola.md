@@ -1,5 +1,6 @@
 ---
 title: "Angola"
+seo_title: "Angola | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/angola
 language: da
 video:

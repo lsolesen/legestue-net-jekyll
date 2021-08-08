@@ -1,5 +1,6 @@
 ---
 title: "Burkino Faso"
+seo_title: "Burkino Faso | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/burkino-faso
 language: da
 video:

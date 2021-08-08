@@ -1,5 +1,6 @@
 ---
 title: "Balance på brystet"
+seo_title: "Balance på Brystet | Fodboldtricks"
 redirect_from: /activity/balance-p-brystet
 language: da
 video:

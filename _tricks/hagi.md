@@ -1,5 +1,6 @@
 ---
 title: "Hagi"
+seo_title: "Hagi | Fodboldtricks"
 redirect_from: /activity/hagi
 language: da
 video:

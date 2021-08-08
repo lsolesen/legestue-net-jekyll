@@ -1,5 +1,6 @@
 ---
 title: "Benin"
+seo_title: "Benin | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/benin
 language: da
 video:

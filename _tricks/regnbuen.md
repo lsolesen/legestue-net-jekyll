@@ -1,5 +1,6 @@
 ---
 title: "Regnbuen"
+seo_title: "Regnbuen | Fodboldtricks"
 redirect_from: /activity/regnbuen
 language: da
 video:

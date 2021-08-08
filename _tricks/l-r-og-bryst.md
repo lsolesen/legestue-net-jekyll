@@ -1,5 +1,6 @@
 ---
 title: "Lår og bryst"
+seo_title: "Lår og bryst | Fodboldtricks"
 redirect_from: /activity/l-r-og-bryst
 language: da
 video:

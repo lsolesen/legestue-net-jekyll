@@ -1,5 +1,6 @@
 ---
 title: "Babyens Paradis"
+seo_title: "Babyens Paradis | Fodboldtricks"
 redirect_from: /activity/babyens-paradis
 language: da
 video:

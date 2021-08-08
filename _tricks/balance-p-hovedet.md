@@ -1,5 +1,6 @@
 ---
 title: "Balance på hovedet"
+seo_title: "Balance på Hovedet | Fodboldtricks"
 redirect_from: /activity/balance-p-hovedet
 language: da
 video:

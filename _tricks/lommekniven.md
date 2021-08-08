@@ -1,5 +1,6 @@
 ---
 title: "Lommekniven"
+seo_title: "Lommekniven | Fodboldtricks"
 redirect_from: /activity/lommekniven
 language: da
 video:

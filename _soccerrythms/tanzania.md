@@ -1,5 +1,6 @@
 ---
 title: "Tanzania"
+seo_title: "Tanzania | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/tanzania
 language: da
 video:

@@ -1,5 +1,6 @@
 ---
 title: "Balletløft"
+seo_title: "Balletløft | Fodboldtricks"
 redirect_from: /activity/balletl-ft
 language: da
 video:

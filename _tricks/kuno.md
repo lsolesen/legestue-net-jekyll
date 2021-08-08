@@ -1,5 +1,6 @@
 ---
 title: "Kuno"
+seo_title: "Kuno | Fodboldtricks"
 redirect_from: /activity/kuno
 language: da
 video:

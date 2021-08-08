@@ -1,5 +1,6 @@
 ---
 title: "Mellem knæene"
+seo_title: "Mellem knæene | Fodboldtricks"
 redirect_from: /activity/mellem-kn-ene
 language: da
 video:

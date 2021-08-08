@@ -1,5 +1,6 @@
 ---
 title: "Frøen"
+seo_title: "Frøen | Fodboldtricks"
 redirect_from: /activity/fr-en
 language: da
 video:

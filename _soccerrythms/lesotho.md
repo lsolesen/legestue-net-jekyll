@@ -1,5 +1,6 @@
 ---
 title: "Lesotho"
+seo_title: "Lesotho | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/lesotho
 language: da
 video:

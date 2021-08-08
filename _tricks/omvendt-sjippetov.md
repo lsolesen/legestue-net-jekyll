@@ -1,5 +1,6 @@
 ---
 title: "Omvendt sjippetov"
+seo_title: "Omvendt sjippetov | Fodboldtricks"
 redirect_from: /activity/omvendt-sjippetov
 language: da
 video:

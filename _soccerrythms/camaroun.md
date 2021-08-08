@@ -1,5 +1,6 @@
 ---
 title: "Camaroun"
+seo_title: "Camaroun | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/camaroun
 language: da
 video:

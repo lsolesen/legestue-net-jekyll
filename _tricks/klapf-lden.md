@@ -1,5 +1,6 @@
 ---
 title: "Klapfælden"
+seo_title: "Klapfælden | Fodboldtricks"
 redirect_from: /activity/klapf-lden
 language: da
 video:

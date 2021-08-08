@@ -1,5 +1,6 @@
 ---
 title: "Senegal"
+seo_title: "Senegal | Fodboldrytmer | Opvarmningsøvelse"
 redirect_from: /content/senegal
 language: da
 video:

@@ -1,5 +1,6 @@
 ---
 title: "Skovgaard"
+seo_title: "Skovgaard | Fodboldtricks"
 redirect_from: /activity/skovgaard
 language: da
 video:

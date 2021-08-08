@@ -1,5 +1,6 @@
 ---
 title: "Dana II"
+seo_title: "Dana II | Fodboldtricks"
 redirect_from: /activity/dana-ii
 language: da
 video:

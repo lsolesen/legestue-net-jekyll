@@ -1,5 +1,6 @@
 ---
 title: "Udvidet basisløft I"
+seo_title: "Udvidet Basisløft I | Fodboldtricks"
 redirect_from: /activity/udvidet-basisl-ft-i
 language: da
 video:

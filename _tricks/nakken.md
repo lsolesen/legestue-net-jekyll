@@ -1,5 +1,6 @@
 ---
 title: "Nakken"
+seo_title: "Nakken | Fodboldtricks"
 redirect_from: /activity/nakken
 language: da
 video:

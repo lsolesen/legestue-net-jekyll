@@ -1,5 +1,6 @@
 ---
 title: "Danseren"
+seo_title: "Danseren | Fodboldtricks"
 redirect_from: /activity/danseren
 language: da
 video:

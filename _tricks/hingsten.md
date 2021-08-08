@@ -1,5 +1,6 @@
 ---
 title: "Hingsten"
+seo_title: "Hingsten | Fodboldtricks"
 redirect_from: /activity/hingsten
 language: da
 video:

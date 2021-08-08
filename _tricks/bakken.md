@@ -1,5 +1,6 @@
 ---
 title: "Bakken"
+seo_title: "Bakken | Fodboldtricks"
 redirect_from: /activity/bakken
 language: da
 video:

@@ -1,5 +1,6 @@
 ---
 title: "Matti"
+seo_title: "Matti | Fodboldtricks"
 redirect_from: /activity/matti
 language: da
 video:
