@@ -11,11 +11,10 @@ RUN apt-get update && \
     build-essential \
     ca-certificates \
     curl \
-    libffi6 \
     make \
     shellcheck \
     libgsl-dev \
-    libffi6 \
+    libffi-dev \
     git-all \
     && gem install bundler:2.1.4 \
     && bundle config --global silence_root_warning 1
