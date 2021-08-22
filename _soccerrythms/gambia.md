@@ -8,6 +8,9 @@ video:
   id: oftk-Cr-Bz4
 tags:
 last_modified_at: 2013-02-15T09:47:03Z
+category:
+  - Opvarmningsøvelser
+  - Fodboldrytmer
 ---
 
 Hop frem med samlede fødder. Drej højre fod udad. Klap på højre yderside.

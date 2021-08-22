@@ -8,6 +8,9 @@ video:
   id: YJNvw5g2AJE
 tags:
 last_modified_at: 2014-04-08T06:53:20Z
+category:
+  - Opvarmningsøvelser
+  - Fodboldrytmer
 ---
 
 Før højre knæ lige frem og drej benet udad i hoften. Lav et chassé

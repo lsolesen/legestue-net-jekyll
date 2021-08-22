@@ -8,6 +8,9 @@ video:
   id: sVHxHWTZKAM
 tags:
 last_modified_at: 2014-04-08T06:51:56Z
+category:
+  - Opvarmningsøvelser
+  - Fodboldrytmer
 ---
 
 Små gadedrengehop fremad. Start den ene hånd lige ud foran dig og den

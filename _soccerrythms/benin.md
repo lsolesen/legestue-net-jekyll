@@ -8,6 +8,9 @@ video:
   id: c_vUmFkFoXo
 tags:
 last_modified_at: 2014-04-08T06:45:25Z
+category:
+  - Opvarmningsøvelser
+  - Fodboldrytmer
 ---
 
 Lav to hop fremad med samlet afsæt. Klap to gange på skinnebenet. To klap

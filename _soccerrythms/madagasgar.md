@@ -8,6 +8,9 @@ video:
   id: lbDotEaeL0E
 tags:
 last_modified_at: 2013-02-15T09:48:05Z
+category:
+  - Opvarmningsøvelser
+  - Fodboldrytmer
 ---
 
 Almindelig løb fremad. Klask på højre yderside; klask på venstre yderside

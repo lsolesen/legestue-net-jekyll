@@ -25,7 +25,7 @@ url                      : "https://www.legestue.net" # "https://www.legestue.ne
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/legestue-net-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -344,6 +344,8 @@ defaults:
       share: true
       related: true
       author: lsolesen
+      category:
+        - Fodboldtricks
 # _redirects
   - scope:
       path: ""
