@@ -378,7 +378,8 @@ Vi er enige i, at vi ikke under indledningen skal stille "de største krav til o
 
 - Hansen, Poul (2000): Fra Ulkebøl til Superligaen, Aschehoug
 - Montanus, Steno (1986): "Min favorittræning", i: Fodboldtræning
-- Sejerup, Karsten: Løbeskoling og koordinationstræning, Forlaget Boldleg \* Dyrhre-Poulsen, Poul (1985): "Koordination udvikles ved alsidige bevægelseserfaringer", i: Tidsskrift for Idræt, nr. 2
+- Sejerup, Karsten: Løbeskoling og koordinationstræning, Forlaget Boldleg
+- Dyrhre-Poulsen, Poul (1985): "Koordination udvikles ved alsidige bevægelseserfaringer", i: Tidsskrift for Idræt, nr. 2
 - Per Nielsen: Foredrag på "Det Fynske Fodbolduniversitet" 1999. Upubliceret.
 - Rasmussen, Steen Eiler: "Michelangelo og fodbold", i: Essays gennem mange Aar, Gyldendal
 - Fredens, Kjeld (1989): "Bevægelse, musikalitet og rytmesans: grundlaget for vores udvikling", i: Krop og Sjæl, Mosegård
