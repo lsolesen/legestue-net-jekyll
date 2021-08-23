@@ -45,7 +45,7 @@ Vi ser klart de største muligheder for målet hos de yngre spillere, hvor vi ti
 
 Målet ville også med fordel kunne bruges til spiludvikling, hvor de unge virkelig kan få lov at bruge hele deres kreativitet og forsøge at se muligheder i et anderledes redskab.
 
-## [Global Goal](https://www.manager-shoppen.dk/shop/145-global-goal-/2562-global-goal---model-new-home/)
+## [Global Goal](https://www.manager-shoppen.dk/shop/198-trampolin-amp-rebounder/2562-global-goal-rebounder----model-new-home/)
 
 Du kan se mere om målets anvendelsesmuligheder på deres ganske informative hjemmeside, som endda har et layout som rammer målgruppen ganske godt.
 

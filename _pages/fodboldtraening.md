@@ -23,7 +23,7 @@ Opvarmning er en vigtig del af fodbold. Du kan varme op på flere måder. Vi har
 
 ## Fodboldlege
 
-Fodboldens Lege indeholder alle mulige fodboldlege for flere, når I vil selvtræne. Her får du et udpluk af alle de lege og spil, jeg synes allerbedst om. Tjek alle vores [fodboldlege](/fodboldlege/).
+Fodboldens Lege indeholder alle mulige fodboldlege for flere, når I vil selvtræne. Her får du et udpluk af alle de lege og spil, jeg synes allerbedst om. Tjek alle vores [fodboldlege](/lege/).
 
 ## Fodboldtricks
 

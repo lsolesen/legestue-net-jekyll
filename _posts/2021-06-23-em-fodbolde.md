@@ -132,7 +132,7 @@ Den officielle bold til EURO 2020 og 2021 hedder Uniforia og er lavet af Adidas.
 
 Slutrunden i 2021 var helt særlig, fordi den blev afholdt med 11 lande som arrangør. Bl.a. blev slutrunden afholdt i Danmark, og Danmark fik lov at spille på hjemmebane i Parken i de indledende kampe.
 
-Det er ikke en billig bold. Du kan [tjekke prisen her](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16532&htmlurl=https://www.billigsport24.dk/adidas-euro-2020-uniforia-pro-fodbold){: rel='sponsored nofollow noopener' }.
+Det er ikke en billig bold. Du kan [tjekke prisen her](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=16532&htmlurl=https://www.billigsport24.dk/fodbold/fodboldudstyr/fodbolde){: rel='sponsored nofollow noopener' }.
 
 Du kan se en Youtube-video om lanceringen af EM-bolden fra 2020/2021.
 
