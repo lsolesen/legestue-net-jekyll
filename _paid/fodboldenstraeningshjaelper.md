@@ -9,7 +9,7 @@ feature_row:
     alt: "Fodboldens Træningshjælper"
     title: "Fodboldens Træningshjælper"
     excerpt: "Fodboldens Træningshjælper hjælper med at realisere fodbolddrømmen gennem målsætninger og træningsråd."
-    url: https://drive.google.com/file/d/1z4i3Fmt83_5ipDyr8XglnTruSwuU22b-/view?usp=sharing
+    url: https://drive.google.com/file/d/1jGwAygFJG9j_XNyEUlEaUS05SY0nfjF9/view?usp=sharing
     btn_label: "Download Træningshjælperen"
     btn_class: "btn--success"
     rel: "nofollow"

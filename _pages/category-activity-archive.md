@@ -1,5 +1,5 @@
 ---
-layout: categories-activity
+layout: activity-category
 permalink: /aktivitetskategori/
 title: "Tricks efter kategori"
 excerpt: "Fodboldtricks efter kategori"
