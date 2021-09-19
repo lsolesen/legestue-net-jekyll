@@ -6,7 +6,7 @@ language: da
 video:
   provider: youtube
   id: c_vUmFkFoXo
-tags:
+tags: []
 last_modified_at: 2014-04-08T06:45:25Z
 category:
   - Opvarmningsøvelser

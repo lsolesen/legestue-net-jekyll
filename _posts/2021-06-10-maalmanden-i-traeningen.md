@@ -144,7 +144,7 @@ dene 2:1 hhv. 1:2. Der må gerne afleveres gennem
 midterområdet, men der bliver kun scoret, hvis den
 kommer igennem målet.
 
-![](/assets/images/oevelse/maalmandsspil.png)
+![](/assets/images/oevelser/maalmandsspil.png)
 
 6. Intervalspil. Der spilles på en kort bane med mange
 afslutninger. Målmanden hele tiden aktiv. Spillerne

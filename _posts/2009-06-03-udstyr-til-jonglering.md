@@ -58,6 +58,6 @@ Vi er meget interesseret i, hvilket udstyr du bruger til jonglerering med fodbol
 
 ## Pannabolde: Fodbolde til Panna
 
-_Dronningen af Panna_ skal i denne video optage reklame sammen med Nadia Nadim. Anusha Samia foreslår fx [Monta Freestyler fodbold](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=9397&htmlurl=https://www.billigsport24.dk/monta-freestyler-fodbold){: rel="sponsored nofollow noopener" } i denne DR-dokumentar, som du kan se på Youtube.
+_Dronningen af Panna_ skal i denne video optage reklame sammen med Nadia Nadim. Anusha Samia foreslår fx [Monta Freestyler fodbold](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=9397&htmlurl=https://www.billigsport24.dk/fodbold/fodboldudstyr/fodbolde){: rel="sponsored nofollow noopener" } i denne DR-dokumentar, som du kan se på Youtube.
 
 {% include video provider="youtube" id="oVi5ghHF94A" %}

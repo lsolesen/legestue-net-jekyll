@@ -67,4 +67,4 @@ Træningen bør ikke starte alt for tidligt, alt for kedeligt. Det kan være en 
 
 ## Referencer
 
-Bangsbo, Jens: ”Vedligeholdelse af fysisk form til trods for reduceret træningsmængde”, i Puls 1, 1996.
+- Bangsbo, Jens: ”Vedligeholdelse af fysisk form til trods for reduceret træningsmængde”, i Puls 1, 1996.

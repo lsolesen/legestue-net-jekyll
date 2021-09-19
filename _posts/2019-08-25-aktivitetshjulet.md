@@ -53,9 +53,9 @@ Spilhjulet og aktivitetscirklen har ikke energi med som et grundlæggende parame
 
 Aktivitetshjulet er lavet af Mads Hovgaard for at kunne planlægge og tilpasse aktiviteter.
 
-Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfolder den i bogen [Aktivitetsudvikling i Idrætten\*](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742){: rel="sponsored nofollow noopener" }:
+Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfolder den i bogen [Aktivitetsudvikling i Idrætten](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742){: rel="sponsored nofollow noopener" }:
 
-{% include figure image_path="/assets/images/posts/aktivitetshjulet.png" caption="Aktivitetshjulet fra [Aktivitetsudvikling\*](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742){: rel='sponsored nofollow noopener' }" %}
+{% include figure image_path="/assets/images/posts/aktivitetshjulet.png" caption="Aktivitetshjulet fra [Aktivitetsudvikling](https://www.saxo.com/dk/aktivitetsudvikling-i-idraet_mads-hovgaard_paperback_9788759325742){: rel='sponsored nofollow noopener' }" %}
 
 ## Hvad bruges aktivitetshjulet til?
 
