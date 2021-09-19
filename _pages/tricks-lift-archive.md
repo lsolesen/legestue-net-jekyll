@@ -1,6 +1,7 @@
 ---
 layout: single
 title: &title "Boldløft"
+seo_title: "Boldløft | Sådan får du bolden op i luften i fodbold"
 excerpt: "Et boldløft er en måde at få bolden fra jorden og op i luften på, uden at du behøver at samle den op med hænderne."
 permalink: /fodboldtricks/boldloft/
 header:

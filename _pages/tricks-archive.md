@@ -1,6 +1,7 @@
 ---
 layout: collection
 title: &title Fodboldtricks
+seo_title: "Fodboldtricks | Sådan laver du tricks i fodbold"
 excerpt: "Fodboldens Legestue har en ambition om at samle alle fodboldtricks i verden. Jeg skrev mit første hæfte tricks med en fodbold til DBUs Fodboldskole i 1997, og i 2003 samlede jeg både fodboldtricks, driblinger, finter og finurlige spark i et hæfte."
 permalink: /fodboldtricks/
 header:
