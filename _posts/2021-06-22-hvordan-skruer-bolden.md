@@ -1,5 +1,6 @@
 ---
-title: &title "Hvordan kan bolden skrue?"
+title: &title "Hvordan kan du få bolden til at skrue?"
+seo_title: "Hvordan får du en fodbold til at skrue?"
 permalink: /hvordan-skruer-fodbold/
 redirect_from:
   - /tricks/skrue.asp
