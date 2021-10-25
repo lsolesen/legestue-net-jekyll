@@ -1,5 +1,6 @@
 ---
 title: &title "Hvor stor er en fodbold og hvad vejer den?"
+seo_title: "Boldstørrelse fodbold: Vægt og størrelse af en fodbold?"
 excerpt: "Jeg har her kigget på størrelsen af en fodbold, og hvad en fodbold vejer? Du har sikkert kigget på en fodbold og tænkt, hvor stor er den?"
 permalink: /hvor-stor-og-hvad-vejer-en-fodbold/
 language: da
@@ -40,7 +41,7 @@ soccer_sizes:
 
 En fodbold er ikke bare en fodbold. En fodbold kan have forskellige størrelser, og den kan veje noget forskelligt. Jeg har her kigget på, hvad en fodbold vejer og hvor stor den er?
 
-Der er forskel på størrelse og vægten af en fodbold, afhængig af hvor gammel man er og hvilket materiale, der er brugt til at lave fodbolden?
+Der er forskel på størrelse og vægten af den fodbold, man skal bruge afhængig af, hvor gammel man er og hvilket materiale, der er brugt til at lave fodbolden?
 
 Der er sket en kæmpe udvikling inden for fodbold fra de tidligste fodbold til de kampbolde, der nu spilles med i officielle turneringer rundt omkring i verden.
 
@@ -48,7 +49,7 @@ Men der er mange forskellige størrelser fodbold, som bruges til forskellige ald
 
 Her får du et overblik over fodboldens vægt og størrelse til forskellige aldersgrupper, så du nemt og hurtigt kan få svaret på, hvor meget en fodbold vejer, og hvilken størrelse en fodbold har?
 
-## Fodboldens mål og vægt
+## Fodbold boldstørrelse i mål og vægt
 
 Vægten på en fodbold afhænger naturligvis af fodboldens størrelse, men vægten afhænger også af det materiale fodbolden er lavet af.
 
@@ -74,7 +75,7 @@ En fodbold skal også have en mærkning som godkendelse af dens kvalitet. Der er
 - FIFA Quality
 - IMS - International Match Standard
 
-## Fodboldenes vægt og størrelse
+## Fodbold vægt og størrelse
 
 Der findes fem standardstørrelser af fodbolde. Du kan se alle de officielle størrelser på fodbolde i denne tabel.
 
