@@ -44,6 +44,8 @@ layout: default
         {% endif %}
         {% if page.video %}
           {% include video provider=page.video.provider id=page.video.id %}
+
+          <span id="ezoic-pub-video-placeholder-1"></span>
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
