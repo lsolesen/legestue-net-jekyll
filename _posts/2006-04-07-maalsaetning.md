@@ -38,6 +38,8 @@ Spillerne skal først vurdere hvilke styrker og svagheder, de har. En målsætni
 
 Når målsætningen er lavet, skal spilleren naturligvis tage konsekvensen af det, og gøre det vedkommende har sat sig for. Spilleren skal engang imellem overveje om målsætningen skal justeres – enten op eller ned – hvis den viser sig at være for svær eller for let. Spillerne bør altid følge op på målsætningen og skrive i hvor høj grad vedkommende opnåede målsætning, og spilleren kan tænke på, hvad næste målsætning kan være.
 
+Du kan læse mere om [målsætning efter SMART-modellen](https://www.motionsplan.dk/smart/).
+
 ## Fodboldens Træningshjælper
 
 I [Fodboldens Træningshjælper](/hjaelper/) kan du få endnu flere gode råd til, hvordan du kan arbejde med målsætning i fodbold.
