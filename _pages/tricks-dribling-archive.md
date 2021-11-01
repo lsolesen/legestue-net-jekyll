@@ -1,6 +1,7 @@
 ---
 layout: single
 title: &title "Dribling"
+seo_title: "Dribling | Sådan dribler du i fodbold"
 excerpt: "Dribling er en udfordrende del af fodboldspillet. For at blive en god dribler, må du have fantasi og kreativitet. Men kreativiteten kræver et fundament, som træneren skal rejse i samarbejde med spillerne."
 permalink: /driblinger/
 header:

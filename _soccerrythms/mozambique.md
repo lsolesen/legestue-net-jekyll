@@ -1,7 +1,9 @@
 ---
-title: "Mosambique"
-seo_title: "Mosambique | Fodboldrytmer | Opvarmningsøvelse"
-redirect_from: /content/mosambique
+title: "Mozambique"
+seo_title: "Mozambique | Fodboldrytmer | Opvarmningsøvelse"
+redirect_from:
+  - /content/mosambique
+  - /fodboldrytmer/mozambique/
 language: da
 video:
   provider: youtube

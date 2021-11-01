@@ -1,6 +1,7 @@
 ---
 layout: single
-title: &title "Foboldjonglering"
+title: &title "Fodboldjonglering"
+seo_title: "Jonglering i fodbold: Sådan laver du fodboldjonglering"
 excerpt: "Det er ret grundlæggende i jonglering med fodbold, at man kan holde bolden i luften. I dette afsnit beskrives en masse måder at lave fodboldjonglering."
 permalink: /fodboldtricks/jonglering/
 header:

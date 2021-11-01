@@ -1,7 +1,9 @@
 ---
-title: "Camaroun"
+title: "Cameroun"
 seo_title: "Camaroun | Fodboldrytmer | Opvarmningsøvelse"
-redirect_from: /content/camaroun
+redirect_from:
+  - /content/camaroun
+  - /fodboldrytmer/camaroun/
 language: da
 video:
   provider: youtube

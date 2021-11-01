@@ -221,6 +221,8 @@ Her har jeg samlet alle de citater om fodbold, jeg har fundet interessante. Der 
 
 Har du et godt citat om fodbold, du synes skal med på listen over fodboldcitater, så del dem endelig med mig, så smider jeg dem på listen.
 
+Du kan også lade dig inspirere af [flere citater på motionsplan.dk](https://www.motionsplan.dk/citater-om-at-kaempe/).
+
 Jeg har også lavet et [Pinterest Board](https://pin.it/2Fp5YsQ), som jeg synes du skal skynde dig ind og følge med gode fodboldcitater.
 
 {% include feature_row type="left" %}
