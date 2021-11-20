@@ -46,6 +46,8 @@ Der er ingen særlige krav til påklædningen til fodboldjonglering. Tøjet skal
 i og ikke være alt for glat. Fodtøjet bør hverken have for høj vrist eller for
 store flapper.
 
+<span id="ezoic-pub-video-placeholder-12"></span>
+
 ## Køb Fodboldens Tricks som PDF
 
 {% include paypal id="MP55TM3U696BW" cta="Køb Fodboldens Tricks 25 DKK" %}

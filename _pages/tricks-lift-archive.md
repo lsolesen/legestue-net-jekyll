@@ -24,6 +24,8 @@ feature_row:
 Et boldløft er en måde at få bolden fra jorden og op i luften på, uden at du
 behøver at samle den op med hænderne.
 
+<span id="ezoic-pub-video-placeholder-9"></span>
+
 ## Køb Fodboldens Tricks som PDF
 
 {% include paypal id="MP55TM3U696BW" cta="Køb Fodboldens Tricks 25 DKK" %}
