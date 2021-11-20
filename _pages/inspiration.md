@@ -28,7 +28,7 @@ gallery:
     title: "DBU Aldersrelateret træning"
     alt: "DBU Aldersrelateret træning"
     rel: nofollow
-  - url: https://www.dbu.dk/media/2660/dbu-boernetraenermanua-optl.pdf
+  - url: https://www.aabk.dk/media/1294/dbu-boernetrarnermanual.pdf
     image_path: /assets/images/covers/dbu-boernetraening.jpg
     title: "DBU Børnetræning"
     alt: "DBU Børnetræning"

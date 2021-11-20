@@ -32,7 +32,7 @@ Tjek artikeloversigten nedenunder.
 
 {% assign site_posts = site.posts | where: "tags", "Børnetræningsmanual 2006" | sort: "date" %}
 
-<div class="grid__wrapper">
+<div class="feature__wrapper">
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
     {% include archive-single.html type="grid" %}
