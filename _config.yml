@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 ads: true
@@ -227,6 +227,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-gzip
+  - jekyll-brotli
 
 
 # mimic GitHub Pages with --safe
