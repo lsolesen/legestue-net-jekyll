@@ -9,11 +9,22 @@ jobs:
   jekyll:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
+      - name: 🛎 Checkout master
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
 #      - uses: helaili/jekyll-action@2.0.0
 #        env:
 #          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-      - uses: ./.github/actions/build-dist-site
+      - name: 🚀 Cache deps
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: 🔨 Build site
+        uses: ./.github/actions/build-dist-site
         env:
           # Now make sure you add this environment variable.
           # This token will allow us to push to github directly
@@ -22,3 +33,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+      - name: 📉 Check HTML
+        uses: chabad360/htmlproofer@master
+        with:
+          directory: "./_site"
+          # The directory to scan
+          arguments: --only-4xx --assume-extension --check-favicon --check-html --check_opengraph --http-status-ignore "400, 403, 409, 429" --allow-hash-href --empty_alt_ignore
+          # The arguments to pass to HTMLProofer
