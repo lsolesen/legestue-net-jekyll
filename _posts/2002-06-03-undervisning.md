@@ -4,8 +4,8 @@ permalink: /undervisning/
 redirect_from: /blog/undervisning-hokus-pokus/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=2255&q=80
-  teaser: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=2255&q=5
+  teaser: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=400&q=5
 categories:
   - Fodboldtræning
 tags:

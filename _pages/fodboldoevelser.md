@@ -5,8 +5,8 @@ permalink: /fodboldoevelser/
 excerpt: "Jeg har samlet en masse rigtig gode fodboldøvelser og træningsøvelser, som du kan bruge til fodboldtræning med børn og unge. Øvelserne passer til U6, U7, U8, U9, U10, U11, U12, U13 og U14, så du kan altså både finde øvelser til de yngste og de ældste børn."
 author_profile: true
 header:
-  teaser: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  overlay_image: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80
+  teaser: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=5
   caption: *title
 toc: true
 feature_row:

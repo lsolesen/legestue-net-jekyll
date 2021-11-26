@@ -4,8 +4,8 @@ seo_title: "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-nu [Videoer]"
 permalink: /officielle-vm-slutrunde-sange/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1509473383868-b934025a9bc3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80
-  teaser: https://images.unsplash.com/photo-1509473383868-b934025a9bc3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1509473383868-b934025a9bc3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=5
+  teaser: https://images.unsplash.com/photo-1509473383868-b934025a9bc3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: *title
 categories:
   - Fodboldrytmer

@@ -4,8 +4,8 @@ seo_title: "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2021 »"
 permalink: /officielle-em-slutrunde-sange/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1556816214-fda351e4a7fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80
-  teaser: https://images.unsplash.com/photo-1556816214-fda351e4a7fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1556816214-fda351e4a7fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
+  teaser: https://images.unsplash.com/photo-1556816214-fda351e4a7fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: *title
 categories:
   - Fodboldrytmer

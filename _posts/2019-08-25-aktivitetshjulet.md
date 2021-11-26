@@ -6,8 +6,8 @@ redirect_from: /blog/aktivitetshjulet
 excerpt: Aktivitetshjulet kan bruges til aktivitetsudvikling og øvelsesudvikling i idræt og fodbold. Modellen er udviklet af Mads Hovgaard.
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1559505217-233575ca3bb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
-  teaser: https://images.unsplash.com/photo-1559505217-233575ca3bb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1559505217-233575ca3bb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=5
+  teaser: https://images.unsplash.com/photo-1559505217-233575ca3bb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   alt: Photo by Jeffrey F Lin on Unsplash
   caption: *title
 categories:
