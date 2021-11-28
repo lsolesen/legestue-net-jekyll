@@ -46,12 +46,12 @@ jobs:
       - name: 🔨 Build site
         run: |
           JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi
-      - name: Deploy
+      - name: GoStatic
         id: gostatic
         uses: DigitalSVN/GoStatic@v1.1
         with:
           api-token: ${{ secrets.GOSTATIC_API_TOKEN }}
-          source-dir: '_site'
+          source-dir: './_site'
       - name: Output the deployment URL in a comment on the pull request
         uses: actions/github-script@0.3.0
         if: github.event_name == 'pull_request'
