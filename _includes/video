@@ -1,5 +1,5 @@
 {% assign ezoic = include.ezoic | default: '' %}
-{% if jekyll.environment == 'production' AND ezoic != '' %}
+{% if jekyll.environment == 'production' and ezoic != '' %}
   <span id="{{ ezoic }}"></span>
 {% else %}
 
@@ -24,7 +24,7 @@
 <!-- Courtesy of embedresponsively.com -->
 {% unless video_src == "" %}
   <div class="responsive-video-container">
-    <iframe src="{{ video_src }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="{{ video_src }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen loading="lazy"></iframe>
   </div>
 {% endunless %}
 

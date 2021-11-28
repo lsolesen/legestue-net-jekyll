@@ -15,7 +15,7 @@
 
 <figure class="{{ include.class }}{% if include.hidden == "true" %} hidden{% endif %}">
   <img src="{{ image_path | relative_url }}"
-       alt="{% if include.alt %}{{ include.alt }}{% endif %}"
+       alt="{% if include.alt %}{{ include.alt }}{% endif %}" loading="lazy"
        {% if data_pin_media %}data-pin-media="{{ data_pin_media | absolute_url }}"{% endif %}
        {% if data_pin_description %}data-pin-description="{{ data_pin_description }}"{% endif %}
        {% if data_pin_id %}data-pin-id="{{ data_pin_id }}"{% endif %}>
