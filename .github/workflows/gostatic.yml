@@ -47,7 +47,7 @@ jobs:
         run: |
           JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi
       - name: GoStatic
-        id: gostatic
+        id: gostaticapp
         uses: DigitalSVN/GoStatic@v1.1
         with:
           api-token: ${{ secrets.GOSTATIC_API_TOKEN }}
@@ -59,7 +59,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
-            github.issues.createComment({ issue_number, owner, repo, body: 'URL ready: ${{ steps.gostatic.outputs.url }}' });
+            github.issues.createComment({ issue_number, owner, repo, body: 'URL ready: ${{ steps.gostaticapp.outputs.url }}' });
       - name: Lighthouse
         uses: foo-software/lighthouse-check-action@master
         with:
