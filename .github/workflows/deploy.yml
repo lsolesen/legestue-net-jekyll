@@ -1,0 +1,75 @@
+# This is the name of our workflow.
+# Github will show it on its Website UI
+name: deploy
+# This configures our workflow to be triggered
+# only when we push to the master branch
+on:
+  push:
+    branches:
+      - master
+
+# Here is where we define our jobs.
+# Which means the tasks we want Github to execute
+jobs:
+  build:
+    name: deploy
+    # Here we specify in whith OS we want it to run
+    runs-on: ubuntu-latest
+    # Now we define which actions will take place.
+    # One after another
+    steps:
+      # This is the first action. It will make sure that we have
+      # all the necessary files from our repo, including our custom actions
+      # This action here is actually from a remote repo available from Githup itself
+      - name: 🛎 Checkout master
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: ⚡️ Install dependencies
+        run: |
+          sudo apt-get update 
+          sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev
+          sudo gem install bundler:2.2.7
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6 # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      - name: ⚡️ Get cached gems
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: ⚡️ Setting up dependencies
+        run: |
+          bundle install
+      - name: Checking Jekyll configuration
+        run: bundle exec jekyll doctor
+      - name: 🔨 Build site
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi
+      - name: 🎉 Deploy to GitHub Pages 🎊
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: _site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: ⚡️ Cache HTMLProofer
+        id: cache-htmlproofer
+        uses: actions/cache@v2
+        with:
+          path: tmp/.htmlproofer
+          key: ${{ runner.os }}-htmlproofer
+      - name: 📉 Check HTML
+        uses: chabad360/htmlproofer@master
+        continue-on-error: true
+        with:
+          directory: "./_site"
+          # The directory to scan
+          arguments: --only-4xx --assume-extension --check-favicon --check-html --check_opengraph --http-status-ignore "400, 403, 409, 429" --allow-hash-href --empty_alt_ignore --timeframe "1w"
+          # The arguments to pass to HTMLProofer
+      - name: ☁️ Cleaning up
+        run: bundle exec jekyll clean

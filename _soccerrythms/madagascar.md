@@ -1,7 +1,10 @@
 ---
-title: "Madagasgar"
-seo_title: "Madagasgar | Fodboldrytmer | Opvarmningsøvelse"
-redirect_from: /content/madagasgar
+title: "Madagascar"
+seo_title: "Madagascar | Fodboldrytmer | Opvarmningsøvelse"
+permalink: /fodboldrytmer/madagascar/
+redirect_from: 
+  - /content/madagasgar
+  - /fodboldrytmer/madagasgar/
 language: da
 video:
   provider: youtube

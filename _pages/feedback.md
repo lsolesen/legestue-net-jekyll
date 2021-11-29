@@ -9,7 +9,7 @@ entries_layout: list # grid
 classes: wide
 author_profile: true
 header:
-  overlay_image: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1915&q=80
+  overlay_image: https://images.unsplash.com/photo-1526232761682-d26e03ac148e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1915&q=5
   teaser: /assets/images/cover.jpg
   caption: Photo by Adrià Crehuet Cano on Unsplash
 feature_row_thesis:

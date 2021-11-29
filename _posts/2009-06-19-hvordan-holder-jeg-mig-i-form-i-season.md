@@ -2,7 +2,7 @@
 title: "Vintertræning i fodbold: Hold jer i form under træningspausen i off-season?"
 permalink: /fodboldspiller-hold-form-off-season/
 header:
-  teaser: https://images.unsplash.com/photo-1466065665758-d473db752253?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  teaser: https://images.unsplash.com/photo-1466065665758-d473db752253?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
 redirect_from:
   - /hold-jer-i-form/
   - /blog/hvordan-holder-jeg-mig-i-form-i-season

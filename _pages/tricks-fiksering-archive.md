@@ -27,6 +27,8 @@ Efter fikseringerne er der nogle forslag til, hvordan du kan fortsætte jongleri
 
 Brug ikke alt for glat tøj til disse øvelser.
 
+<span id="ezoic-pub-video-placeholder-11"></span>
+
 ## Køb Fodboldens Tricks som PDF
 
 {% include paypal id="MP55TM3U696BW" cta="Køb Fodboldens Tricks 25 DKK" %}

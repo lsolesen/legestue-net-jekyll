@@ -31,6 +31,8 @@ Det er en god ide at begynde med at lægge bolden der, hvor du vil balancere med
 
 ## Balancetricks i fodbold
 
+<span id="ezoic-pub-video-placeholder-10"></span>
+
 ### Armstrækning med bold på nakken
 
 Med bolden liggende på nakken sætter du dig først ned på knæ og sætter armene i jorden. Derefter strækker du benene, så du kommer til at hvile kun på armene og fødderne. Prøv at tage et par armstrækninger.

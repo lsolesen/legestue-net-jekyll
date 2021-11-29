@@ -163,7 +163,11 @@ Grib bolden på nakken. Som tryllekunstneren tager dugen af bordet med al servic
 
 ### Pandekagen
 
-Bolden sparkes op i luften lidt ud til den ene side. Lige før bolden rammer jorden, lægger du foden sidelæns ned på græsset ved siden af kroppen, og lader bolden ramme ydersiden, således at den springer op igen. OBS! Foden skal være helt i jorden, ellers tages farten af bolden. Se oven over. Nummeret kan også laves med indersiden foran kroppen. Når du har øvet med ydersiden og indersiden kan du måske sammensætte det, så du først laver pandekagen med indersiden og umiddelbart efter laver den med ydersiden, inden du jonglerer videre... eller vristen benyttes for samme effekt. Det kræver en høj serv for at få kraft nok til opspringet, og bolden vil ofte springe lidt frem. OBS! Træd det forreste af foden i jorden først! Kan benyttes til at redde en lav bold fra en du jonglerer sammen med, og det ser faktisk ganske imponerende ud, hvis det lykkes... eller du kan krydse benene enten foran eller bagom og igen benytte indersiden til pandekagen.
+Bolden sparkes op i luften lidt ud til den ene side. Lige før bolden rammer jorden, lægger du foden sidelæns ned på græsset ved siden af kroppen, og lader bolden ramme ydersiden, således at den springer op igen.
+
+OBS! Foden skal være helt i jorden, ellers tages farten af bolden. Se oven over. Nummeret kan også laves med indersiden foran kroppen. Når du har øvet med ydersiden og indersiden kan du måske sammensætte det, så du først laver pandekagen med indersiden og umiddelbart efter laver den med ydersiden, inden du jonglerer videre... eller vristen benyttes for samme effekt.
+
+Det kræver en høj serv for at få kraft nok til opspringet, og bolden vil ofte springe lidt frem. OBS! Træd det forreste af foden i jorden først! Kan benyttes til at redde en lav bold fra en du jonglerer sammen med, og det ser faktisk ganske imponerende ud, hvis det lykkes... eller du kan krydse benene enten foran eller bagom og igen benytte indersiden til pandekagen.
 
 ### Rørstrømsk
 
@@ -193,13 +197,13 @@ Spark bolden lidt op i luften foran dig. Med den ene fod sparker du over bolden.
 
 Her har jeg et par eksempler på videoerne fra Fodboldens Tricks.
 
-{% include video provider="youtube" id="5HvybyJd7zM" %}
+{% include video provider="youtube" id="5HvybyJd7zM" ezoic="ezoic-pub-video-placeholder-5" %}
 
-{% include video provider="youtube" id="diO2KMLGk3A" %}
+{% include video provider="youtube" id="diO2KMLGk3A" ezoic="ezoic-pub-video-placeholder-6" %}
 
-{% include video provider="youtube" id="6TL0tc2nVbw" %}
+{% include video provider="youtube" id="6TL0tc2nVbw" ezoic="ezoic-pub-video-placeholder-7" %}
 
-{% include video provider="youtube" id="MX3P8JCNxAE" %}
+{% include video provider="youtube" id="MX3P8JCNxAE" ezoic="ezoic-pub-video-placeholder-8" %}
 
 ## Til spilleren: Hvorfor skal du øve fodboldtricks?
 

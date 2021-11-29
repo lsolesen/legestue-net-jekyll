@@ -14,8 +14,8 @@ tags:
   - Veje til Udvikling
 last_modified_at: 2021-03-02T13:43:18Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1520621547148-caeb79466a2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80
-  teaser: https://images.unsplash.com/photo-1520621547148-caeb79466a2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1520621547148-caeb79466a2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=5
+  teaser: https://images.unsplash.com/photo-1520621547148-caeb79466a2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: *title
   alt: Photo by cesar marquez on Unsplash
 ---

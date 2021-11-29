@@ -3,8 +3,8 @@ title: &title "Afslutningstræning: Øvelser til afslutninger i fodbold"
 permalink: /afslutninger-fodbold/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1529884473405-cc8f6392dd38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
-  teaser: https://images.unsplash.com/photo-1529884473405-cc8f6392dd38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1529884473405-cc8f6392dd38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=5
+  teaser: https://images.unsplash.com/photo-1529884473405-cc8f6392dd38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
   caption: *title
 categories:
   - Fodboldøvelser

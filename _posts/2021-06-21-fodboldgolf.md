@@ -1,5 +1,6 @@
 ---
 title: &title "Fodboldgolf: Regler og 65 fodboldgolfbaner du kan prøve!"
+seo_title: "Fodboldgolf | De 65 bedste fodboldgolfbaner i Danmark"
 description: Prøv vores gratis oversigt over samtlige fodboldgolfbaner i Danmark, og lær hvordan du spiller fodboldgolf.
 permalink: /fodboldgolf-og-fodboldgolfbaner/
 redirect_from:
@@ -13,7 +14,15 @@ categories:
   - Fodboldlege
 tags:
   - fodboldgolf
-last_modified_at: 2021-06-18T10:33:33Z
+  - fodboldgolfbaner
+last_modified_at: 2021-11-18T10:33:33Z
+faq:
+  - question: Hvor lang tid tager en runde fodboldgolf?
+    answer: |
+      Alt efter antallet af spillere og kunnen, tager en runde fodboldgolf ca. 1-1,5 timer.
+  - question: Kan man gå til fodboldgolf?
+    answer: |
+      Fodboldgolf er noget alle mennesker kan finde ud af, uanset om man kan spille fodbold eller ej. Derudover er det også en del nemmere at komme i gang med, end f. eks. golf, hvorfor alle mere eller mindre, kan komme i gang lynhurtigt.
 ---
 
 Fodboldgolf er en blanding mellem golf, minigolf og fodbold. Vi har lavet en oversigt over samtlige fodboldgolfbaner i Danmark.
@@ -26,6 +35,7 @@ I dette indlæg kan du få svar på følgende:
 
 - Hvilke fodboldgolfbaner findes der i Danmark?
 - Hvilken teknik bruger man i fodboldgolf?
+- Hvad er reglerne til fodboldgolf?
 
 {% include figure image_path="https://filskovkrofodboldgolf.dk/CustomerData/Files/Images/Gallery/galleri-forside_14435/randi_hul_12_968.jpg" caption="Stemningsbillede fra fodboldgolf på [Filskov Kro Fodboldgolf](https://filskovkrofodboldgolf.dk)." %}
 
@@ -134,6 +144,10 @@ Jeg har både prøvet at spille i almindelige sportssko, fodboldstøvler og grus
 Verdensmester, Anders Bollerup, forklarer i denne Youtube-video, hvordan man spiller fodboldgolf, og hvilke regler du skal være opmærksom på?
 
 {% include video provider="youtube" id="fgd0hOxd2f0" %}
+
+## Ofte stillede spørgsmål om fodboldgolf
+
+{% include faq.html %}
 
 ## Fodboldgolf regler
 

@@ -10,8 +10,8 @@ description: Vil du være hurtigere og stærkere i fodbold? Med eksplosiv
   styrketræning kan du træne som atleterne, og her giver vi dig øvelserne til at
   komme i gang.
 header:
-  overlay_image: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
-  teaser: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=5
+  teaser: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
   caption: "Eksplosivitet: Eksplosiv styrketræning for fodboldspillere"
 language: da
 tags:
