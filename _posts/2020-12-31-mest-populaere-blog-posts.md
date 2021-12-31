@@ -1,5 +1,5 @@
 ---
-title: &title "De mest populære blog posts på Fodboldens Legestue i 2020"
+title: &title "De mest populære blog posts på Fodboldens Legestue i 2021"
 permalink: /mest-populaere-blog-posts/
 redirect_from:
   - /blog/5-mest-l-ste-artikler-i-2014
@@ -13,8 +13,19 @@ categories:
   - Om
 tags:
   - webclips
-last_modified_at: 2020-12-31T16:18:40Z
-popular_posts:
+last_modified_at: 2021-12-31T16:18:40Z
+popular_posts_2021:
+  - /hvem-opfandt-fodbolden/
+  - /opvarmning/
+  - /lege/
+  - /eksplosiv-styrke/
+  - /fodboldoevelser/
+  - /verdens-storste-fodboldstadion/
+  - /fodboldovelser-12-15-aar/
+  - /fodboldovelser-8-10-aar/
+  - /aktivitetshjulet/
+  - /opvarmningslege-fodbold/
+popular_posts_2020:
   - /hvem-opfandt-fodbolden/
   - /aktivitetshjulet/
   - /synet/
@@ -31,13 +42,13 @@ Vi har kigget lidt på statistikken over hvilke artikler der har været de mest 
 
 Der er kommet lidt liv i Fodboldens Legestue igen. Vi er get i gang med at skrive nye blog posts og har opdateret gamle blog posts. 
 
-Her samler vi op på de mest populære blog posts i løbet af 2020. Der er nogle ældre blog posts på {{ page.popular_posts.size }} listen, men der er også nogle nye der har sneget sig ind på listen over populære blog posts.
+Her samler vi op på de mest populære blog posts i løbet af 2020. Der er nogle ældre blog posts på {{ page.popular_posts_2021.size }} listen, men der er også nogle nye der har sneget sig ind på listen over populære blog posts.
 
 Tak til alle dem, der læser med, hvad vil I så gerne læse mere om i fremtiden?
 
-## De {{ page.popular_posts.size }} mest populære blog posts i løbet af 2020
+## De {{ page.popular_posts_2021.size }} mest populære blog posts i løbet af 2021
 
-{% for permalink in page.popular_posts %}
+{% for permalink in page.popular_posts_2021 %}
 
 {% assign site_posts = site.posts | where: "permalink", permalink %}
 
@@ -49,10 +60,24 @@ Tak til alle dem, der læser med, hvad vil I så gerne læse mere om i fremtiden
 
 {% endfor %}
 
-## Blog posts skrevet i 2020
+## De {{ page.popular_posts_2020.size }} mest populære blog posts i løbet af 2020
+
+{% for permalink in page.popular_posts_2020 %}
+
+{% assign site_posts = site.posts | where: "permalink", permalink %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+{% endfor %}
+
+## Blog posts skrevet i 2020-2021
 
 {% assign date_from = '2020-01-01' | date: '%s' %}
-{% assign date_to = '2020-12-31' | date: '%s' %}
+{% assign date_to = '2021-12-31' | date: '%s' %}
 
 {% assign site_posts = site.posts | where_exp: "post", "post.url != page.url" | sort: "last_modified_at" %}
 
