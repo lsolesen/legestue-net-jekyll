@@ -4,8 +4,8 @@ redirect_from: /blog/liverpool-youll-never-walk-alone
 language: da
 author: mads.davidsen
 header:
-  overlay_image: /assets/images/liverpool-youll-never-walk-alone.png
-  teaser: /assets/images/liverpool-youll-never-walk-alone.png
+  overlay_image: /assets/images/liverpool-youll-never-walk-alone.jpg
+  teaser: /assets/images/liverpool-youll-never-walk-alone.jpg
 categories:
   - Anmeldelse
 tags:
