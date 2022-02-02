@@ -15,7 +15,7 @@ categories:
 tags:
   - fodboldgolf
   - fodboldgolfbaner
-last_modified_at: 2021-11-18T10:33:33Z
+last_modified_at: 2022-01-20T10:33:33Z
 faq:
   - question: Hvor lang tid tager en runde fodboldgolf?
     answer: |
@@ -131,9 +131,9 @@ Når du har betalt for at spille på en bane, så får du udleveret det udstyr, 
 
 Du skal bruge en fodbold for at spille fodboldgolf, men den udleveres typisk ved banen. Desuden skal du bruge en blok for at notere scoren ned.
 
-Det kan spille i det fodtøj, du gerne vil sparke til en bold med. Hvis du skal sparke langt, så kan det være rart, at man står godt fast.
+En del fodboldgolfbaner tillader ikke, at du spiller i fodboldstøvler. Ellers kan du vælge det fodtøj, du gerne vil sparke til en bold med. Hvis du skal sparke langt, så kan det være rart, at man står godt fast.
 
-Jeg har både prøvet at spille i almindelige sportssko, fodboldstøvler og grusbanestøvler. Du skal vælge det fodtøj, du synes er rart at spille i.
+Jeg fortrækker at spille i grusbanestøvler, hvor der er lidt mere greb, men du kan også sagtens klare dig med almindelige sportssko. Det er lettest at spark vristspark, hvis snuden på skoene ikke er alt for høj. Vælg nogle sko, som er rare at spille i, og som må blive snavsede. Det er hårdt for skoene at sparke til bolden, så de må også gerne være lidt holdbare.
 
 ## Hvordan spiller man fodboldgolf?
 
