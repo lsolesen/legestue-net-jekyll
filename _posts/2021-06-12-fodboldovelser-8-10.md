@@ -110,6 +110,7 @@ ramme de andres bolde med ens egen. Hvem ram-
 mer flest på 1 minut?
 
 ### Fodboldgolf
+
 Placer kegler rundt om på fodboldbanen. Spillerne
 sammen 2 og 2 med en bold. Spillerne sparker på
 skift til næste kegle. Hvor mange spark bruger I
@@ -117,6 +118,8 @@ til at ramme alle kegler? Spillerne starter ved
 hver sin kegle eller sendes af sted på skift. Ved
 gode spillere kan keglerne placeres på en måde, så
 de er lidt sværere at ramme.
+
+Hvis du gerne vil spille rigtig fodboldgolf, så tjek nogle af de mange [fodboldgolfbaner i Danmark](/fodboldgolf-og-fodboldgolfbaner/).
 
 ## Øvelser til lodret vristspark
 
