@@ -41,7 +41,7 @@ Men udnyttes restitutionstiden bedst ved at lade kroppen hvile efter træning, e
 
 ## Hvad er restitution?
 
-Restitution betyder genoprettelse eller helbredelse, og det er præcis hvad det handler om når det kommer til restitution efter træning, uanset om man er fodboldspiller, styrketræner eller cykler.
+[Restitution](https://www.motionsplan.dk/restitution/) betyder genoprettelse eller helbredelse, og det er præcis hvad det handler om når det kommer til restitution efter træning, uanset om man er fodboldspiller, styrketræner eller cykler.
 
 Restitution er kroppens måde at “reparere” sig selv på efter hård fysisk aktivitet, og det er essentielt at inkorporere i sin træning hvis man vil se positiv udvikling i sin egen fysiske formåen. Mange oplever at de i deres træning når et punkt hvorfra resultaterne begynder at udeblive, og særligt her skal man begynde at tænke mere holistisk på sin træning frem for blot de aktive minutter. Tillader man ikke sin krop at restituere vil man, groft sagt, ødelægge den i det lange løb, og det er netop derfor det er så vigtigt at holde for øje og holde fast i.
 
@@ -63,9 +63,15 @@ Med restitutionstræning handler det om at træne med ømme muskler og aktivt f�
 
 Løb er måske den mest fremtrædende træningsform, men man kan overveje om det ikke er at spilde en chance for fx at forbedre sine tekniske evner på banen samtidig med man restituerer?
 
-[Restitution og restitutionstræning](https://www.motionsplan.dk/artikel/restitution-hvordan-bliver-jeg-hurtigst-klar-igen/) er altså et spørgsmål om, at sænke din [restitutionstid](https://www.motionsplan.dk/restitutionstid-og-alder/), så du er klar til at træne igen.
+[Restitutionstræning](https://www.motionsplan.dk/restitutionstraening/) er altså et spørgsmål om, at sænke din [restitutionstid](https://www.motionsplan.dk/restitutionstid/), så du er klar til at træne igen.
 
-Der findes mange forskellige tricks til at sænke restitutionstiden: Nogle foreslår [kompressionsstrømper](https://www.motionsplan.dk/kompressionsstroemper-restitution-praestation-bivirkninger/), [sportsmassage](https://www.motionsplan.dk/massage/), [isbad og kryoterapi](https://www.motionsplan.dk/isbad-og-kryoterapi/), [recovery boots og vakuum bukser](https://www.motionsplan.dk/recovery-boots-restitution/) eller [åndedrætstræning og vejrtrækningsøvelser](https://www.motionsplan.dk/aandedraetstraening-forbedrer-udholdenheden/).
+Der findes mange forskellige tricks til at sænke restitutionstiden. Nogle foreslår:
+
+- [kompressionsstrømper](https://www.motionsplan.dk/kompressionsstroemper-restitution-praestation-bivirkninger/)
+- [sportsmassage](https://www.motionsplan.dk/massage/)
+- [isbad og kryoterapi](https://www.motionsplan.dk/isbad-og-kryoterapi/)
+- [recovery boots og vakuum bukser](https://www.motionsplan.dk/recovery-boots-restitution/)
+- [åndedrætstræning og vejrtrækningsøvelser](https://www.motionsplan.dk/aandedraetstraening-forbedrer-udholdenheden/)
 
 Mange fodboldspillere er begyndt at bruge forskellige gadgets for at forbedre deres restitution. Men her kigger jeg mere på, hvad du lave i forbindelse med fodboldtræningen.
 
