@@ -5,14 +5,14 @@ seo_title: "Jonglering i fodbold: Sådan laver du fodboldjonglering"
 excerpt: "Det er ret grundlæggende i jonglering med fodbold, at man kan holde bolden i luften. I dette afsnit beskrives en masse måder at lave fodboldjonglering."
 permalink: /fodboldtricks/jonglering/
 header:
-  teaser: /assets/images/books/tricks-2020.png
+  teaser: /assets/images/books/tricks-2020.jpg
   overlay_image: /assets/images/fodboldens-tricks.jpg
   caption: *title
 comments: false
 classes: wide
 author_profile: true
 feature_row:
-  - image_path: /assets/images/books/tricks-2020.png
+  - image_path: /assets/images/books/tricks-2020.jpg
     alt: "Fodboldens Tricks"
     title: "Fodboldens Tricks"
     excerpt: "Ambitionen i Fodboldens Tricks har været at samle så mange tricks, driblinger, finter, finurlige spark som overhovedet muligt. Der er masser at gå i gang med."

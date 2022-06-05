@@ -6,11 +6,11 @@ excerpt: "Her beskriver vi afrikansk opvarmning, rytmisk opvarmning og fodboldry
 permalink: /fodboldrytmer/
 comments: false
 header:
-  teaser: /assets/images/books/fodboldrytmer-2005.png
+  teaser: /assets/images/books/fodboldrytmer-2005.jpg
 toc: true
 author_profile: true
 feature_row:
-  - image_path: /assets/images/books/fodboldrytmer-2005.png
+  - image_path: /assets/images/books/fodboldrytmer-2005.jpg
     alt: "Fodboldrytmer"
     title: "Fodboldrytmer"
     excerpt: "Fodboldrytmer giver dig inspiration til at implementere rytmer i din træning. Hvordan kan du bruge afrikansk opvarmning og brasiliansk samba som inspiration?"

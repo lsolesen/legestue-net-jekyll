@@ -5,14 +5,14 @@ seo_title: "Finter | Sådan snyder du modstanderen i fodbold"
 excerpt: "Den anden fase i en dribling i fodbold er en finte. En finte er en manøvre, som du kan benytte dig af for at snyde modstanderen og gøre dig fri til aflevering eller skud."
 permalink: /finter/
 header:
-  teaser: /assets/images/books/tricks-2020.png
+  teaser: /assets/images/books/tricks-2020.jpg
   overlay_image: /assets/images/fodboldens-tricks.jpg
   caption: *title
 comments: false
 classes: wide
 author_profile: true
 feature_row:
-  - image_path: /assets/images/books/tricks-2020.png
+  - image_path: /assets/images/books/tricks-2020.jpg
     alt: "Fodboldens Tricks"
     title: "Fodboldens Tricks"
     excerpt: "Ambitionen i Fodboldens Tricks har været at samle så mange tricks, driblinger, finter, finurlige spark som overhovedet muligt. Der er masser at gå i gang med."

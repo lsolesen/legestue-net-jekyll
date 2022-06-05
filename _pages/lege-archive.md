@@ -13,7 +13,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1519823038424-f8dbabca95f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHNvY2NlciUyMHBsYXl8ZW58MHx8MHx8&auto=format&fit=crop&w=1900&q=60
   caption: *title
 feature_row:
-  - image_path: /assets/images/books/lege-2020.png
+  - image_path: /assets/images/books/lege-2020.jpg
     alt: "Fodboldens Lege"
     title: "Fodboldens Lege"
     excerpt: "I Fodboldens Lege kan du finde fodboldlege, som du kan lege alene eller sammen med vennerne."

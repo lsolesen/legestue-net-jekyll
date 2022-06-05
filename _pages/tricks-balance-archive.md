@@ -5,14 +5,14 @@ seo_title: "Balance og balanceøvelser i fodbold og fodboldtricks"
 excerpt: "I en balance ligger bolden på en kropsdel. Balancerne giver en god fornemmelse for, hvad det vil sige at tæmme en bold. Balancerne kræver også, at du hele tiden justerer din kropsstilling, så bolden ikke ryger ned, og de kan derfor være et godt supplement til balancetræning i opvarmningen."
 permalink: /fodboldtricks/balance/
 header:
-  teaser: /assets/images/books/tricks-2020.png
+  teaser: /assets/images/books/tricks-2020.jpg
   overlay_image: /assets/images/fodboldens-tricks.jpg
   caption: *title
 comments: false
 classes: wide
 author_profile: true
 feature_row:
-  - image_path: /assets/images/books/tricks-2020.png
+  - image_path: /assets/images/books/tricks-2020.jpg
     alt: "Fodboldens Tricks"
     title: "Fodboldens Tricks"
     excerpt: "Ambitionen i Fodboldens Tricks har været at samle så mange tricks, driblinger, finter, finurlige spark som overhovedet muligt. Der er masser at gå i gang med."

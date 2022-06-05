@@ -5,7 +5,7 @@ disallow: true
 search: false
 sitemap: false
 feature_row:
-  - image_path: /assets/images/books/bornetraeningsmanual-2006.png
+  - image_path: /assets/images/books/bornetraeningsmanual-2006.jpg
     alt: "Børnetræningsmanualen"
     title: "Børnetræningsmanualen"
     excerpt: "Børnetræningsmanualen er et godt sted at starte, hvis du vil have nogle gode grundlæggende øvelser til din fodboldtræning for børn mellem 6-14 år."

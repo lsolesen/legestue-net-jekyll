@@ -6,11 +6,11 @@ redirect_from:
   - /fodboldkoerekort/
 excerpt: "Fodboldens Minihjælper."
 header:
-  teaser: /assets/images/books/minihjaelper-2020.png
+  teaser: /assets/images/books/minihjaelper-2020.jpg
 author_profile: true
 toc: true
 feature_row:
-  - image_path: /assets/images/books/minihjaelper-2020.png
+  - image_path: /assets/images/books/minihjaelper-2020.jpg
     alt: "Fodboldens Minihjælper"
     title: "Fodboldens Minihjælper"
     excerpt: "Fodboldens Minihjælper er et lille hæfte med lidt fodboldøvelser til dig og din kammerat. Hæftet viser også, hvordan du kan lave dit eget fodboldkørekort og skrive ned, hvordan din fremgang er."

@@ -5,7 +5,7 @@ disallow: true
 search: false
 sitemap: false
 feature_row:
-  - image_path: /assets/images/books/lege-2020.png
+  - image_path: /assets/images/books/lege-2020.jpg
     alt: "Fodboldens Lege"
     title: "Fodboldens Lege"
     excerpt: "I Fodboldens Lege kan du finde fodboldlege, som du kan lege alene eller sammen med vennerne."

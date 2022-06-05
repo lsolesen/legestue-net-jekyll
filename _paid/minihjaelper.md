@@ -5,7 +5,7 @@ disallow: true
 search: false
 sitemap: false
 feature_row:
-  - image_path: /assets/images/books/minihjaelper-2020.png
+  - image_path: /assets/images/books/minihjaelper-2020.jpg
     alt: "Fodboldens Minihjælper"
     title: "Fodboldens Minihjælper"
     excerpt: "Fodboldens Minihjælper er et lille hæfte med lidt fodboldøvelser til dig og din kammerat. Hæftet viser også, hvordan du kan lave dit eget fodboldkørekort og skrive ned, hvordan din fremgang er."

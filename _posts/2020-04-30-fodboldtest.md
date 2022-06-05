@@ -18,7 +18,7 @@ feature_row:
     url: "/hemmeligt-v-ben-fodboldspillere/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-  - image_path: /assets/images/books/minihjaelper-2020.png
+  - image_path: /assets/images/books/minihjaelper-2020.jpg
     alt: "Fodboldens Minihjælper"
     title: "Fodboldens Minihjælper"
     excerpt: "Fodboldens Minihjælper er et lille hæfte med lidt fodboldøvelser til dig og din kammerat. Hæftet viser også, hvordan du kan lave dit eget fodboldkørekort og skrive ned, hvordan din fremgang er."

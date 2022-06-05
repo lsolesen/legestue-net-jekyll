@@ -25,7 +25,7 @@ balls:
     event: EM Belgien
     title: Telstar Durlast
     excerpt: Turneringsbolden til slutrunden i Belgien var en opdatering af bolden fra fire år tidligere. Telstar Durlast indeholdt en ny belægning, som gjorde bolden mere modstandsdygtighed over for vand.
-    image_path: /assets/images/balls/em-adidas-1972-durlast.png
+    image_path: /assets/images/balls/em-adidas-1972-durlast.jpg
   - year: 1976
     event: EM Jugoslavien
     title: Telstar Durlast
@@ -38,7 +38,7 @@ balls:
     title: Tango Mundial
     event: EM i Frankrig
     excerpt: Til Danmarks første EM-deltagelse var det første gang, man spillede med en fodbold, som ikke var lavet af læder. Det virkede som om Platini var rigtig godt tilfreds med det. Dette var også første gang man havde lavet en officiel kampbold med et særligt design til EM-slutrunden. Det nye materiale havde et forbedret lagsystem og en forstærkning af polstringen på bolden.
-    image_path: /assets/images/balls/em-adidas-1984-tango.png
+    image_path: /assets/images/balls/em-adidas-1984-tango.jpg
   - year: 1988
     event: EM Vesttyskland
     title: Tango Europa
@@ -55,7 +55,7 @@ balls:
     title: Terrestra Silverstream
     event: EM Belgien og Holland
     excerpt: Titlen og designet på denne bold er inspireret af værtslandene Belgien og Holland. Igen har Adidas udviklet bolden. Den har fået et nyt ydre lag, der gør bolden blødere at røre ved, lettere at kontrollere og mere præcis.
-    image_path: /assets/images/balls/em-adidas-2000-terrestra.png
+    image_path: /assets/images/balls/em-adidas-2000-terrestra.jpg
   - year: 2004
     event: EM Portugal
     title: Roteiro
@@ -68,7 +68,7 @@ balls:
     title: Tango 12
     event: EM Polen og Ukraine
     excerpt: UEFA EURO 2012-matchbolddesignet signalerede tilbagevenden til Tango-serien i 1980'erne. Farverne var inspireret af flagene fra værter Polen og Ukraine. Indgraveret i Tango-designet var tre skræddersyede grafikker, der fejrede den dekorative papirskæringskunst, som var en tradition i landdistrikterne i begge værtslande.
-    image_path: /assets/images/balls/em-adidas-2012-tango-12.png
+    image_path: /assets/images/balls/em-adidas-2012-tango-12.jpg
   - year: 2016
     title: Beau Jeu
     event: EM Frankrig
@@ -77,7 +77,7 @@ balls:
     event: EURO 2020/2021
     title: Uniforia
     excerpt: Uniforia var Adidas bud på kampbolden til Euro 2020. Bolden blev afsløret i november 2019 og er opkaldt efter både den samhørighed og eufori en slutrunde fra øverste hylde medfører. EURO 2020 finder sted i 11 europæiske lande, og Uniforia er designet til at fejre denne inklusivitet.
-    image_path: /assets/images/balls/em-adidas-2020-uniforia.png
+    image_path: /assets/images/balls/em-adidas-2020-uniforia.jpg
   - year: 2024
     event: EM Tyskland
     title: Ukendt

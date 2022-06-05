@@ -6,7 +6,7 @@ permalink: /champions-league/
 comments: false
 author_profile: true
 feature_row:
-  - image_path: /assets/images/books/championsleague.png
+  - image_path: /assets/images/books/championsleague.jpg
     alt: "Champions League"
     title: "Champions League"
     excerpt: "Champions League er et managerspil, som du kan spille med levende brikker."
@@ -15,7 +15,7 @@ feature_row:
     #btn_class: "btn--success"
 header:
   overlay_image: https://bettingfamily.com/da/media/champions-league.jpg
-  teaser: /assets/images/books/championsleague.png
+  teaser: /assets/images/books/championsleague.jpg
   actions:
     - label: "Læs mere om spillet"
       url: "/champions-league-levende-brikker/"

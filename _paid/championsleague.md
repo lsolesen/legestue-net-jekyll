@@ -5,7 +5,7 @@ disallow: true
 search: false
 sitemap: false
 feature_row:
-  - image_path: /assets/images/books/championsleague.png
+  - image_path: /assets/images/books/championsleague.jpg
     alt: "Champions League"
     title: "Champions League"
     excerpt: "Champions League er et managerspil, som du kan spille med levende brikker."

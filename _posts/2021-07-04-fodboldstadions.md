@@ -102,7 +102,7 @@ Ens hjemmebane i fodbold betyder virkelig noget. Vi kan sikkert alle stadig husk
 
 Det er en af grundene til, at fodboldekspert, Morten Bruun, startede sit virale hit med [#herermitstadion](https://twitter.com/search?q=%23herermitstadion) på sin Twitter-profil [@Bruun6eren](https://twitter.com/Bruun6eren).
 
-{% include figure image_path="/assets/images/posts/herermitstadion-morten-bruun.png" caption="Morten Bruuns #herermitstadion blev et viralt hit. Kilde: [nordjyske.dk](https://nordjyske.dk/nyheder/sport/viralt-hit-er-blevet-morten-bruuns-hjertebarn-herermitstadion/fd1df9a1-a1c1-4d47-b29e-7b3e8557d71f)" alt="morten bruun herermitstadion" %}
+{% include figure image_path="/assets/images/posts/herermitstadion-morten-bruun.jpg" caption="Morten Bruuns #herermitstadion blev et viralt hit. Kilde: [nordjyske.dk](https://nordjyske.dk/nyheder/sport/viralt-hit-er-blevet-morten-bruuns-hjertebarn-herermitstadion/fd1df9a1-a1c1-4d47-b29e-7b3e8557d71f)" alt="morten bruun herermitstadion" %}
 
 Morten Bruuns interesse for fodbold og stadions har i øvrigt kastet et par bøger af sig.
 
@@ -114,7 +114,7 @@ Særligt har engelsk fodbold en plads i hans hjerte, og han skrev [Match Day](ht
 
 Den bog blev en stor succes, så han skrev en opfølger om de danske stadions, som han kaldte [Kampdag](https://www.gucca.dk/kampdag-turen-gaar-til-dansk-fodbold-bog-p526591){: rel="sponsored nofollow noopener" }.
 
-{% include figure image_path="/assets/images/posts/morten-bruun-aarhus-stadion.png" caption="Morten Bruuns foran Ceres Park. Kilde: [stiften.dk](https://stiften.dk/artikel/morten-bruun-skriver-bog-om-danske-stadions-et-storsl%C3%A5et-syn-i-aarhus)" alt="morten bruun foran Ceres Park Århus Stadion" %}
+{% include figure image_path="/assets/images/posts/morten-bruun-aarhus-stadion.jpg" caption="Morten Bruuns foran Ceres Park. Kilde: [stiften.dk](https://stiften.dk/artikel/morten-bruun-skriver-bog-om-danske-stadions-et-storsl%C3%A5et-syn-i-aarhus)" alt="morten bruun foran Ceres Park Århus Stadion" %}
 
 ## Konklusion
 

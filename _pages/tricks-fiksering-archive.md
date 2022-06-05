@@ -5,14 +5,14 @@ seo_title: "Fiksering | Fede fodboldtricks hvor griber bolden"
 excerpt: "En fiksering er at gribe bolden mellem forskellige dele af kroppen. Ligesom ved balancerne er det en god ide at begynde med at tage bolden med hænderne og lægge bolden de pågældende steder for at få fornemmelsen for balance og teknik, inden du begynder at øve dig på at gribe bolden."
 permalink: /fodboldtricks/fiksering/
 header:
-  teaser: /assets/images/books/tricks-2020.png
+  teaser: /assets/images/books/tricks-2020.jpg
   overlay_image: /assets/images/fodboldens-tricks.jpg
   caption: *title
 comments: false
 classes: wide
 author_profile: true
 feature_row:
-  - image_path: /assets/images/books/tricks-2020.png
+  - image_path: /assets/images/books/tricks-2020.jpg
     alt: "Fodboldens Tricks"
     title: "Fodboldens Tricks"
     excerpt: "Ambitionen i Fodboldens Tricks har været at samle så mange tricks, driblinger, finter, finurlige spark som overhovedet muligt. Der er masser at gå i gang med."
