@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Fodboldlege
-seo_title: &title "10 sjove fodboldlege til børn og unge voksne »"
+seo_title: &title "12 sjove fodboldlege til børn og unge voksne »"
 permalink: /lege/
 excerpt: "Jeg har samlet en masse sjove fodboldlege til børn og unge voksne, som du kan lave i friheden, skolegården, haven eller på fodboldbanen til træning. Der er masser af inspiration til lege og spil, du kan lave med vennerne og en fodbold."
 description: "Fodboldens Lege samler alle de sjove fodboldlege til børn og unge voksne. Leg i skolegården, på fodboldbanen eller i haven med vennerne og en fodbold."
@@ -10,7 +10,6 @@ last_modified_at: 2021-06-04T15:16:02Z
 toc: true
 header:
   teaser: https://images.unsplash.com/photo-1519823038424-f8dbabca95f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHNvY2NlciUyMHBsYXl8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60
-  overlay_image: https://images.unsplash.com/photo-1519823038424-f8dbabca95f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHNvY2NlciUyMHBsYXl8ZW58MHx8MHx8&auto=format&fit=crop&w=1900&q=60
   caption: *title
 feature_row:
   - image_path: /assets/images/books/lege-2020.jpg
@@ -25,7 +24,7 @@ Fodboldens Lege indeholder alle mulige fodboldlege for flere, når I vil selvtr�
 
 Jeg har spillet fodbold i rigtig mange år, og her er nogle af de fodboldlege, jeg synes var allersjovest, da jeg var barn.
 
-## Borup
+## 1. Borup
 
 {% include figure image_path="/assets/images/fodboldlege/borup.png" caption="" alt="borup" %}
 
@@ -45,7 +44,7 @@ Aftal hvor mange point I spiller til.
 
 - Spil med en målmand.
 
-## Brazil eller vip
+## 2. Brazil eller vip
 
 {% include figure image_path="/assets/images/fodboldlege/brazil.png" caption="" alt="brazil eller vip" %}
 
@@ -63,7 +62,7 @@ Målmanden får -1 point hver gang der scores på ham, mens målscoreren får +1
 
 - Spilleområdet kan begrænses lidt for at gøre det lettere for målmanden og sværere for markspillerne.
 
-## Gris eller fjols
+## 3. Gris eller fjols
 
 {% include figure image_path="/assets/images/fodboldlege/gris.png" caption="" alt="gris eller fjols" %}
 
@@ -80,7 +79,7 @@ Spillet er klart sjovest når I forsøger at holde bolden i luften så længe so
 - Bolden må kun spilles videre med en bestemt kropsdel.
 - I må højst bruge fx tre berøringer.
 
-## Italia eller Engangs
+## 4. Italia eller Engangs
 
 {% include figure image_path="/assets/images/fodboldlege/italia.png" caption="" alt="italia" %}
 
@@ -98,7 +97,7 @@ Målmanden får -1 point hver gang der scores på ham, mens målscoreren får +1
 
 - Spilleområdet kan begrænses lidt for at gøre det lettere for målmanden og sværere for markspillerne.
 
-## Tyskeren
+## 5. Tyskeren
 
 {% include figure image_path="/assets/images/fodboldlege/tyskeren.png" caption="" alt="tyskeren" %}
 
@@ -115,7 +114,7 @@ Der tælles point ligesom i bordtennis. Hvert hold har fem server i træk hvoref
 - I kan spille en mod en.
 - Det forsvarende hold må tage bolden med hænderne. Hvis bolden er grebet skal den trilles til medspilleren som så sparker for at score.
 
-## Ostespillet eller ostefodtennis
+## 6. Ostespillet eller ostefodtennis
 
 {% include figure image_path="/assets/images/fodboldlege/ostespillet.png" caption="" alt="ostespillet eller ostefodtennis" %}
 
@@ -133,7 +132,7 @@ Hvis bolden rører ens felt to gange, eller man sparker bolden ud, ryger man ud 
 - Bolden må ikke spilles tilbage til det felt bolden kom fra.
 - I kan spille flere sammen i hvert felt.
 
-## Carlos
+## 7. Carlos
 
 {% include figure image_path="/assets/images/fodboldlege/carlos.png" caption="" alt="carlos" %}
 
@@ -148,7 +147,7 @@ Husk at aftale hvor langt frem I må gå, inden I skal sparke.
 - I kan gøre legen lidt mere udfordrende hvis I aftaler, hvordan I skal sparke. I kan fx sparke flugtere eller halvflugtere, frispark eller på en rullende bold, med vristen eller med indersiden.
 - Ved at spille med to berøringer får I mere flow i spillet. Målmanden må kun parere og skal forsøge afslutning i næste berøring. Det er tilladt at bryde den  andens angreb hvis vedkommende laver en dårlig tæmning eller parering.
 
-## Driblekongen
+## 8. Driblekongen
 
 {% include figure image_path="/assets/images/fodboldlege/driblekongen.png" caption="" alt="driblekongen" %}
 
@@ -158,7 +157,7 @@ Sæt et lille jernmål op. En står på mål mens resten efter tur forsøger at 
 
 Den der scorer færrest mål efter fem forsøg, bytter med målmanden, og I kan starte forfra.
 
-## Shuffle
+## 9. Shuffle
 
 {% include figure image_path="/assets/images/fodboldlege/shuffle.png" caption="" alt="shuffle" %}
 
@@ -175,7 +174,7 @@ I har lige mange bolde. Alle boldene skal sparkes mod pointområdet i hver omgan
 
 Det kan måske være en god ide at forsøge at placere en bold der blokerer for den andens scoringsmuligheder (en guard).
 
-## Sol og skralde - lort og lagkage - himmel og helvede
+## 10. Sol og skralde - lort og lagkage - himmel og helvede
 
 {% include figure image_path="/assets/images/fodboldlege/solskralde.png" caption="" alt="sol og skralde" %}
 
@@ -193,7 +192,7 @@ Når alle spillerne er blevet enten »sol« eller »skralde«, spiller vinderne 
 
 Du kan bruge dette spil i en justeret udgave til træning. Del tre hold. To hold starter på banen mens et hold starter uden for. Alle kampe spilles til én.  Vinderholdet bliver altid på banen (himlen) mens taberholdet bytter med det ventende hold (helvede).
 
-## Fodboldkroket
+## 11. Fodboldkroket
 
 Til fodboldkroket skal du bruge 22 kegler og en bold til hver spiller. Banen er fx 60-70 meter lang og 30-40 meter bred.
 
@@ -243,7 +242,7 @@ holde styr på.
 
 Du kan jo også altid spille lidt [fodboldgolf på en af de mange fodboldgolfbaner]({% link _posts/2021-06-21-fodboldgolf.md %}) eller lave din egen fodboldgolfbane.
 
-## Fodboldboccia
+## 12. Fodboldboccia
 
 Spillet består af 2 hold med hver 2 spillere. Anføreren
 på det ene hold kaster JACK-bolden ca. 10 -15 meter
