@@ -9,7 +9,7 @@
     {%- for category in page.categories -%}
       {% assign i = i | plus: 1 %}
       {%- assign crumb = site.data.breadcrumbs[category] -%}
-      {%- if crumb -%}
+      {%- if crumb and page.url != crumb.url -%}
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
           <a href="{{ crumb.url | relative_url }}" itemprop="item"><span itemprop="name">{{ crumb.title }}</span></a>
           <meta itemprop="position" content="{{ i }}" />
