@@ -11,6 +11,10 @@
   content: "*";
 }
 
+.btn--bmc {
+  background-color:hsl(51, 100%, 50%);
+}
+
 figure {
   &.quarter {
     > a,
