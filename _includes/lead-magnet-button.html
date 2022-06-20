@@ -1,4 +1,5 @@
-{% assign title= include.title | default: 'Hold dig opdateret om træning' %}
-{% assign element = include.element | default: 'sender-main-popup' %}
+{% assign title = include.title | default: 'Hold dig opdateret om træning' %}
+{% assign id = include.id | default: '' %}
+{% assign class = include.class | default: 'sender-main-popup' %}
 
-<button type="button" class="btn btn--large btn--lead {{ element }}">{{ title }} »</button>
+<button type="button" class="btn btn--large btn--lead {{ class }}"{% if id != '' %} id="{{ id }}"{% endif %}>{{ title }} »</button>

@@ -54,6 +54,8 @@ I hæftet kan du bl.a. læse om:
 
 {% include paypal id="MP55TM3U696BW" cta="Køb Fodboldens Tricks 25 DKK" %}
 
+{% include lead-magnet-button.html title="Download Fodboldens Tricks" class="lead-fodboldens-tricks" %}
+
 ## Inspiration til træner og spiller
 
 Indholdet her på Fodboldens Legestue skulle gerne inspirere spillerne til at tage en times tid i selskab med

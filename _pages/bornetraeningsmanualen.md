@@ -24,6 +24,8 @@ Tjek artikeloversigten nedenunder.
 
 {% include feature_row type="left" %}
 
+{% include lead-magnet.html id="241399fa72b63c24eRC" %}
+
 ## Køb Børnetræningsmanualen som PDF
 
 {% include paypal id="5X7F4MRTK7F2C" cta="Køb Børnetræningsmanualen 25 DKK" %}

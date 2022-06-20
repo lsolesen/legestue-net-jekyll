@@ -7,12 +7,22 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-[rel~=sponsored]:after {
+a[rel~=sponsored]:after {
   content: "*";
+}
+
+.btn[rel~=sponsored] {
+  @extend .btn--danger;
 }
 
 .btn--bmc {
   background-color:hsl(51, 100%, 50%);
+}
+
+.btn--lead {
+  @extend .btn;
+  @extend .btn--large;
+  @extend .btn--danger;
 }
 
 figure {
