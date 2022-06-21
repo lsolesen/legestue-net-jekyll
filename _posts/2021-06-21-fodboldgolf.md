@@ -7,7 +7,7 @@ redirect_from:
   - /fodboldgolf/
 language: da
 header:
-  overlay_image: http://gludstedfodboldgolf.dk/wp-content/uploads/2017/12/Header-slider-1.jpg
+  overlay_image: https://gludstedfodboldgolf.dk/wp-content/uploads/2017/12/Header-slider-1.jpg
   teaser: https://filskovkrofodboldgolf.dk/CustomerData/Files/Images/Gallery/galleri-forside_14435/randi_hul_12_968.jpg
   caption: *title
 categories:
