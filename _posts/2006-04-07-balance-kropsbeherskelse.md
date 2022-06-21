@@ -2,8 +2,8 @@
 title: &title "Balance, balancetræning og kropsbeherskelse i fodbold"
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=5
-  teaser: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1553778562-8121e4c332a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   alt: "Photo by Jannik Skorna on Unsplash"
 categories:
@@ -34,7 +34,7 @@ Spilleren skal have magt over balancen og kunne kontrollere vægtoverførslen fr
 
 - **Stillingssansen (kinæstesisansen).** Stillingssansen registrerer spænding i muskel, sener og led. Det er stillingssansen som gør at bevægelserne kan blive præcise, og at man kan lære noget. Uden stillingssansen ville man ikke få tilbagemelding på, hvordan bevægelsen var forløbet. Stillingssansen er afhængig af ligevægtssansen og følesansen. Stillingssansen er med til at rette kroppen op igen, når man har været ude af balance, fx efter et skulderskub.
 
-- **Synet.** Synet orienterer om rumforholdene, og hvad der er lodret og vandret. Dette har også en stor betydning for den samlede balance, og ofte vil øjnenes evne til at arbejde sammen forbedres, når de andre sanser fungerer optimalt. Det kan imidlertid være gavnligt at træne synet yderligere i forbindelse med afstandsbedømmelse, udholdenhed og koncentration (se mere i artiklen [Synstræning: Træn dit syn og bliv en bedre fodboldspiller 👀]({% link _posts/2006-04-07-synet.md %})). Selve synsevnen kan ikke trænes. 
+- **Synet.** Synet orienterer om rumforholdene, og hvad der er lodret og vandret. Dette har også en stor betydning for den samlede balance, og ofte vil øjnenes evne til at arbejde sammen forbedres, når de andre sanser fungerer optimalt. Det kan imidlertid være gavnligt at træne synet yderligere i forbindelse med afstandsbedømmelse, udholdenhed og koncentration (se mere i artiklen [Synstræning: Træn dit syn og bliv en bedre fodboldspiller 👀]({% link _posts/2006-04-07-synet.md %})). Selve synsevnen kan ikke trænes.
 
 Hvis et barn har problemer med balancen, bliver det også usikkert, når det bevæger sig. Barnet bliver let svimmel og køresyg, men heldigvis er det ikke så svært at træne balancen – og det er aldrig spildt at arbejde med balancen, fordi balancen eller evnen til at genvinde den er grundlaget for alle bevægelser.
 

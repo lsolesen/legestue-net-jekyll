@@ -4,8 +4,8 @@ seo_title: "Styrketræning i fodbold: Hvordan bliver du stærkere?"
 permalink: /styrketraening-fodboldspillere/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1579267329327-2370366d7f20?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=5
-  teaser: https://images.unsplash.com/photo-1579267329327-2370366d7f20?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1579267329327-2370366d7f20?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1579267329327-2370366d7f20?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Fodboldtræning
@@ -25,8 +25,8 @@ En muskel deles op i mindre muskelbundter adskilt af bindevævsstrøg. Muskelbun
 
 Der findes tre forskellige muskelfibertyper, type 1, type 2a og type 2b.
 
-- Kort beskrevet er **type 1-fibre** de langsomme, dvs. dem som trækker sig langsomt sammen. Til gengæld har de en stor udholdenhed. Marathon-løbere har mange type 1-fibre. 
-- **Type 2-fibre** er til gengæld hurtige i deres kontraktion, men derimod også lav udholdenhed, ihvertfald når det gælder type 2b. Idrætsgrene som sprint og diskos kræver megen kraft og har overvejende type 2b-fibre. Type 2a-fibre lægger sig sådan nogenlunde imellem. 
+- Kort beskrevet er **type 1-fibre** de langsomme, dvs. dem som trækker sig langsomt sammen. Til gengæld har de en stor udholdenhed. Marathon-løbere har mange type 1-fibre.
+- **Type 2-fibre** er til gengæld hurtige i deres kontraktion, men derimod også lav udholdenhed, ihvertfald når det gælder type 2b. Idrætsgrene som sprint og diskos kræver megen kraft og har overvejende type 2b-fibre. Type 2a-fibre lægger sig sådan nogenlunde imellem.
 
 ## Fodboldspillerens fibertypesammensætning
 
@@ -52,7 +52,7 @@ Når man styrketræner sker styrkefremgangen primært pga:
 
 - **superkræfter**, i de tilfælde hvor vi bliver udsat for fare eller chok kan vi I nogle tilfælde mobilisere nærmest overnaturlige kræfter. Den logiske forklaring er, at vi mod hvad der er normalt kan mobilisere alle motorunits (beskeden til alle muskelfibre om at trække sig sammen.
 - **neurale adaptioner**, inden for de første 8 uger af et styrketræningsforløb vil styrkefremgangen være pga. forbedret teknik, koordination og flere motorunits.
-- **hypertrofi**, muskelforøgelse sker efter 8 ugers styrketræning, den enkelte muskelfiber bliver større. Man kan derimod ikke få flere muskelfibre. 
+- **hypertrofi**, muskelforøgelse sker efter 8 ugers styrketræning, den enkelte muskelfiber bliver større. Man kan derimod ikke få flere muskelfibre.
 
 ## Hvordan skal en fodboldspiller styrketræne?
 
@@ -61,7 +61,7 @@ Ved belastning arbejde man altid ud fra ens egen 1RM (one-repetition-maximum), d
 | 70% | 80% | 85-90% | 90-95% |
 |-|-|-|-|
 | 8 gent. | 6 gent. | 4 gent. | 2 gentagelser |
- 
+
 Intensiteten, dvs. hurtigheden af bevægelsen, bør som hovedregel altid vær maksimal i den koncentriske fase og kontrolleret i den ekcentriske fase.
 
 Når man skal planlægge et optimalt styrketræningsprogram er der 4 programmer man skal køre igennem.
@@ -81,15 +81,15 @@ Når man så har opnået det ønskede, skal man vedligeholde sit niveau. Det gø
 
 ## Funktionel træning og funktionel styrketræning
 
-Ved siden af den specifikke styrketræning skal man træne funktionelt. Dvs. man skal overfører sit styrkeniveau til selve fodboldspillet. Alene ved styrketræning kommer man ikke til at hoppe højere eller løbe hurtigere. 
+Ved siden af den specifikke styrketræning skal man træne funktionelt. Dvs. man skal overfører sit styrkeniveau til selve fodboldspillet. Alene ved styrketræning kommer man ikke til at hoppe højere eller løbe hurtigere.
 
 Funktionel træning er bl.a. sprinttræning og hoppetræning, al mulige forskellige atletikøvelser som skal laves samtidig med eller lige umiddelbart efter styrketræningen.
 
 ## Træningsredskaber til styrketræning for fodboldspillere
 
-Vægttræningsmaskiner er et udmærket valg i starten af en træningsperiode, i hvert fald for begyndere. Ved brug af maskiner trænes oftest kun én muskelgruppe af gangen. Man bør derfor efterhånden som man bliver fortrolig med vægttræning, arbejde sig hen imod frie vægte. Fordelene ved frie vægte er at man træner flere muskelgrupper samtidig, man skal nemlig også bruge muskelkraft for at holde balancen af vægtstangen. 
+Vægttræningsmaskiner er et udmærket valg i starten af en træningsperiode, i hvert fald for begyndere. Ved brug af maskiner trænes oftest kun én muskelgruppe af gangen. Man bør derfor efterhånden som man bliver fortrolig med vægttræning, arbejde sig hen imod frie vægte. Fordelene ved frie vægte er at man træner flere muskelgrupper samtidig, man skal nemlig også bruge muskelkraft for at holde balancen af vægtstangen.
 
-Ved frie vægte skal man være opmærksom på at det kræver lang tids løfte-tekniktræning, dvs. træning uden de store belastninger. 
+Ved frie vægte skal man være opmærksom på at det kræver lang tids løfte-tekniktræning, dvs. træning uden de store belastninger.
 
 ## Konklusion
 

@@ -4,8 +4,8 @@ excerpt: "Jeg har her kigget på størrelsen af en fodboldbane og et fodboldbane
 permalink: /hvor-stor-er-en-fodboldbane/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1546717003-caee5f93a9db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1546717003-caee5f93a9db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1546717003-caee5f93a9db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1546717003-caee5f93a9db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Viden om
@@ -98,8 +98,8 @@ Banen er delt i to halvdele af midterlinjen, som går helt ud til sidelinjerne.
 
 På en 11-mandsbane er der fra banens centrum en midtercirkel på 9,15 meter i radius.
 
-**Målfeltet** er det mindste felt lige omkring målet. Det har en bredde på 5,5 meter fra indersiden af hver målstolpe. Linjerne er 5,5 meter lange. 
- 
+**Målfeltet** er det mindste felt lige omkring målet. Det har en bredde på 5,5 meter fra indersiden af hver målstolpe. Linjerne er 5,5 meter lange.
+
 **Straffesparksfeltet** er det store felt, hvor målmanden må tage med hænder. Fra indersiden af hver målstolpe er der 16,5 til siderne af straffesparksfeltet. Linjerne er også 16,5 meter lange.
 
 **Straffesparkspletten** eller **straffesparksmærket** er 11 meter fra mållinjen. Straffesparkspletten er 22 cm i diameter. Der laves en cirkelbue med en radius på 9,15 meter fra straffesparkspletten.

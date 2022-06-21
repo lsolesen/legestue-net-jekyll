@@ -5,8 +5,8 @@ seo_title: "Dribling | Sådan dribler du i fodbold"
 excerpt: "Dribling er en udfordrende del af fodboldspillet. For at blive en god dribler, må du have fantasi og kreativitet. Men kreativiteten kræver et fundament, som træneren skal rejse i samarbejde med spillerne."
 permalink: /driblinger/
 header:
-  teaser: https://images.unsplash.com/photo-1600077063877-22118d6290eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=5
-  overlay_image: https://images.unsplash.com/photo-1600077063877-22118d6290eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  teaser: https://images.unsplash.com/photo-1600077063877-22118d6290eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  overlay_image: https://images.unsplash.com/photo-1600077063877-22118d6290eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 comments: false
 toc: true
@@ -77,7 +77,7 @@ Mange spillere har et ben, de stolt refererer til som støttebenet, men selv st�
 
 Fodbold er mere end blot et spil, men derfor er det stadig et enkelt spil. ”Lad bolden gøre arbejdet. Den bliver jo aldrig træt. Det gør du, hvis du bliver ved med at løbe rundt med den i stedet for at aflevere!", forklarede Søren Lerby i sin storhedstid en dribleivrig holdkammerat.
 
-Når dette er sagt må en af konklusionerne i bogen Direkte spil også fremhæves. I angrebszonen er det ”... i orden, at en dribling mislykkes, men det er ikke i orden ikke at forsøge at drible.” 
+Når dette er sagt må en af konklusionerne i bogen Direkte spil også fremhæves. I angrebszonen er det ”... i orden, at en dribling mislykkes, men det er ikke i orden ikke at forsøge at drible.”
 
 Kapitlet er altså ikke blot til sjov og spas, men som nedenstående tekstboks viser, er driblinger afgørende elementer i op mod en tredjedel af de scorede mål i Direkte Spil-analyserne. Sidegevinsten i form af frispark er heller ikke at fornægte.
 

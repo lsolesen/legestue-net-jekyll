@@ -3,8 +3,8 @@ title: &title "Fodboldøvelser for børn: Øvelser til 8-10 årige (U8, U9, U10,
 permalink: /fodboldovelser-8-10-aar/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1611812695990-512dbc41cea2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1611812695990-512dbc41cea2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1611812695990-512dbc41cea2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1611812695990-512dbc41cea2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Fodboldøvelser

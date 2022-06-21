@@ -10,8 +10,8 @@ description: Vil du være hurtigere og stærkere i fodbold? Med eksplosiv
   styrketræning kan du træne som atleterne, og her giver vi dig øvelserne til at
   komme i gang.
 header:
-  overlay_image: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=5
-  teaser: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1517963879433-6ad2b056d712?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: "Eksplosivitet: Eksplosiv styrketræning for fodboldspillere"
 language: da
 tags:
@@ -38,9 +38,9 @@ Ved at træne eksplosiv styrke med tunge vægte tvinges nervesystemet til at sen
 
 ## Udholdenhed og eksplosiv træning
 
-Hvis vi får hypertrofi kan styrketræning hæmme udholdenheden, bl.a. fordi de hurtige type II-fibre vokser mere end de langsomme og mere udholdende type I-fibre. Samtidig går det ud over løbeøkonomien, hvis fx lægmusklerne bliver for store. 
+Hvis vi får hypertrofi kan styrketræning hæmme udholdenheden, bl.a. fordi de hurtige type II-fibre vokser mere end de langsomme og mere udholdende type I-fibre. Samtidig går det ud over løbeøkonomien, hvis fx lægmusklerne bliver for store.
 
-Det er praktisk talt spild af tid at træne udholdenhedsstyrketræning for benene; altså mange gentagelser med lav vægt. Det kan være en ide for lyskemuskulaturen, som ikke fra naturens hånd er lavet til at lave indersidespark. Det program vi har udleveret er baseret på at øge tiden, inden musklerne udtrættes, og derved mindske risikoen for overbelastningsskader. 
+Det er praktisk talt spild af tid at træne udholdenhedsstyrketræning for benene; altså mange gentagelser med lav vægt. Det kan være en ide for lyskemuskulaturen, som ikke fra naturens hånd er lavet til at lave indersidespark. Det program vi har udleveret er baseret på at øge tiden, inden musklerne udtrættes, og derved mindske risikoen for overbelastningsskader.
 
 Lidt overraskende har undersøgelser vist, at udholdenheden øges med 11-47 % med tung styrketræning i en periode på 12 uger. Forklaringen skal findes i, at nervesystemet er blevet tunet. Kristian har kigget på sin Puch Maxi, og han er blevet lidt utilfreds med hvordan den fungerer. Han skynder sig at finde sit svensknøglesæt og skruer lidt på nogle skruer, og pludselig er den blevet tunet. Det samme med udholdenheden: forbedringen af nerve-muskelsamarbejdet gør, at man arbejder med en relativt mindre belastning ift. ens maksimale ydeevne.
 
@@ -48,12 +48,12 @@ Det har også vist sig, at løbeøkonomien (iltoptagelse på bestemt hastighed) 
 
 Disse forsøg er vel at mærke med i forvejen veltrænede atleter. Det er vanskeligt helt at sige, hvordan forbedringerne vil være utrænede.
 
-Det bedste ved de tunge vægte er, at der ingen ulemper er. Musklernes tværsnitsareal øges ikke og den maksimale iltoptagelse falder ikke, da der ikke er nogen hypertrofi. 
+Det bedste ved de tunge vægte er, at der ingen ulemper er. Musklernes tværsnitsareal øges ikke og den maksimale iltoptagelse falder ikke, da der ikke er nogen hypertrofi.
 
 **Gendrivelse af myte 2:** Tung styrketræning ødelægger altså ikke vores udholdenhed. Den forbedrer den i værste fald, fordi musklerne kommer til at arbejde med en relativt lavere belastning.
 {: .notice .notice--info }
 
-## Program og øvelser til eksplosiv styrketræning 
+## Program og øvelser til eksplosiv styrketræning
 
 ### Faseopdeling
 
@@ -101,7 +101,7 @@ Du skal sænke vægten langsomt. Lige når du begynder at løfte vægten igen sk
 
 ### Antal reps og sæt
 
-Du skal køre med få repetitioner og lange pauser mellem sættene. Sættene skal ikke køres til udmattelse i eksplosiv styrketræning. 
+Du skal køre med få repetitioner og lange pauser mellem sættene. Sættene skal ikke køres til udmattelse i eksplosiv styrketræning.
 
 ## Det optimale ultrakorte program til eksplosiv styrketræning
 
@@ -151,7 +151,7 @@ En hurtig opsamling på  på eksplosivitet og hvordan vi bedst træner musklerne
 5. Træn eksplosivt. Hurtigt op – langsomt ned.
 6. Kombiner styrketræningen med funktionel træning. Fx squat og spring med vægt.
 7. Varier din træning. Selv verdens bedste træningsprogram skal skiftes ud en gang i mellem.
-8. Træn generelt med fuldt bevægelsesudslag i øvelserne. 
+8. Træn generelt med fuldt bevægelsesudslag i øvelserne.
 9. Tjek din teknik i et spejl. Øvelser med håndvægte og frie stænger kan man komme til at udføre skævt, hvis man ikke passer på.
 10. Træn med en makker. Det er godt for motivationen og man kan hjælpe hinanden med teknik samt spotte når vægten bliver for tung.
 11.Husk at lave ordentlig træning for mavemusklerne og ryggen.
@@ -164,8 +164,8 @@ På [motionsplan.dk](https://www.motionsplan.dk) finder du også et stort øvels
 
 ## Konklusion
 
-> ”Folk sagde, at mit største temposkift  
-> var, når jeg skulle i bad.” 
+> ”Folk sagde, at mit største temposkift
+> var, når jeg skulle i bad.”
 
 --- <cite>Tommy Troelsen</cite>
 
@@ -173,7 +173,7 @@ Styrketræning kan være anvendeligt i træningen, hvis træneren har gjort sig 
 
 Spillere med stor muskelstyrke har færre skader end spillere med lille muskelstyrke (Bangsbo: 52).
 
-Træningen skal tilrettelægges vidt forskelligt, om der er tale om at øge muskeludholdenheden, den eksplosive styrke eller muskelstyrken. 
+Træningen skal tilrettelægges vidt forskelligt, om der er tale om at øge muskeludholdenheden, den eksplosive styrke eller muskelstyrken.
 
 Med en begrænset tidshorisont for øje er træning af armens bøjemuskulatur (m. biceps brachii) måske også mindre væsentlig end træning af afsætsmuskulaturen i benene, og den eksplosive træning kan gøre dig endnu mere klar til fodboldkampene.
 

@@ -4,8 +4,8 @@ seo_title: "Verdens hårdeste spark i fodbold i 2022"
 permalink: /verdens-haardeste-spark-fodbold/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Alt om fodbold
@@ -64,21 +64,21 @@ A A
   0
 Top 10 hurtigste skud i fodboldhistorien
 
- 
 
- 
 
- 
-Fodbold, der er en fysisk sport, henter stor styrke. Spillere har været kendt for at slå bolden virkelig hårdt og krydse let 100 km / t. Lange ranger skud taget pludseligt imellem kampen fortryller ofte seerne. Faktisk har deres superkraftige hits, der drejer bolden med lysets hastighed, magten til at slå dig ud i en brøkdel af et sekund. Disse skud er virkelig hurtige, derfor effektive og dødbringende, når de udføres med den største præcision. 
+
+
+
+Fodbold, der er en fysisk sport, henter stor styrke. Spillere har været kendt for at slå bolden virkelig hårdt og krydse let 100 km / t. Lange ranger skud taget pludseligt imellem kampen fortryller ofte seerne. Faktisk har deres superkraftige hits, der drejer bolden med lysets hastighed, magten til at slå dig ud i en brøkdel af et sekund. Disse skud er virkelig hurtige, derfor effektive og dødbringende, når de udføres med den største præcision.
 
 Her er de top 10 hurtigste skud i fodboldhistorien.
 
 
- 
+
 Rang
 Player
 
- 
+
 Match	År
 Skudhastighed
 1.
@@ -88,7 +88,7 @@ Ronny Heberson
 Sporting Lissabon mod Associacao Naval de Maio
 
 
- 
+
 2006
 
 210.8 km / t
@@ -98,7 +98,7 @@ Sporting Lissabon mod Associacao Naval de Maio
 Arjen Robben
 
 
- 
+
 Bayern München mod Borussia Dortmund
 
 2009
@@ -112,7 +112,7 @@ Steven reid
 Blackburn Rovers mod Wigan Athletic
 
 
- 
+
 2005
 
 188.9 km / t
@@ -122,31 +122,31 @@ Blackburn Rovers mod Wigan Athletic
 Ronald Koeman
 
 
- 
+
 Barcelona mod Sampdoria
 
 1992
 
-188.0 km / t 
+188.0 km / t
 
 5.
 
-David Hirst 
+David Hirst
 
 Sheffield Wednesday mod Arsenal
 
 
- 
+
 1996
 
 183.5 km / t
 
 6.
 
-David Beckham 
+David Beckham
 
 
- 
+
 Manchester United mod Chelsea
 
 1997
@@ -160,17 +160,17 @@ David Trezeguet
 AS Monaco mod Manchester United
 
 
- 
+
 1998
 
 154.5 km / t
 
 8.
 
-Ritchie Humphreys 
+Ritchie Humphreys
 
 
- 
+
 Sheffield Wednesday mod Aston Villa
 
 1996
@@ -184,17 +184,17 @@ Tony Yeboah
 Leeds United mod Wimbledon
 
 
- 
+
 1995
 
 154.0 km / t
 
 10.
 
-Zlatan Ibrahimovic 
+Zlatan Ibrahimovic
 
 
- 
+
 PSG mod Anderlecht
 
 2016

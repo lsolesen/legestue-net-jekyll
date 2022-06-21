@@ -9,8 +9,8 @@ seo_title: Restitutionstræning og optimering af kroppen
 description: Med restitutionstræning og nedvarmning holdes ømme muskler i gang samtidig med du
   forbedrer din fysik. Læs hvorfor det er vigtigt og hvordan det kan gøres her.
 header:
-  overlay_image: https://images.unsplash.com/photo-1544221479-296b71ce53c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=5
-  teaser: https://images.unsplash.com/photo-1544221479-296b71ce53c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1544221479-296b71ce53c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1544221479-296b71ce53c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   alt: Photo by Baylee Gramling on Unsplash
 categories:

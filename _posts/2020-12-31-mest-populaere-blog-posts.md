@@ -6,8 +6,8 @@ redirect_from:
   - /5-mest-l-ste-artikler-i-2014/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1508780709619-79562169bc64?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=5
-  teaser: https://images.unsplash.com/photo-1508780709619-79562169bc64?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1508780709619-79562169bc64?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1508780709619-79562169bc64?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Om
@@ -40,7 +40,7 @@ popular_posts_2020:
 
 Vi har kigget lidt på statistikken over hvilke artikler der har været de mest læste i 2020. Her er de 5 mest læste artikler. Nogle af artiklerne er lidt overraskende.
 
-Der er kommet lidt liv i Fodboldens Legestue igen. Vi er get i gang med at skrive nye blog posts og har opdateret gamle blog posts. 
+Der er kommet lidt liv i Fodboldens Legestue igen. Vi er get i gang med at skrive nye blog posts og har opdateret gamle blog posts.
 
 Her samler vi op på de mest populære blog posts i løbet af 2020. Der er nogle ældre blog posts på {{ page.popular_posts_2021.size }} listen, men der er også nogle nye der har sneget sig ind på listen over populære blog posts.
 

@@ -4,8 +4,8 @@ seo_title: "Verdens hurtigste fodboldspiller med og uden bold i 2022"
 permalink: /hurtigste-fodboldspiller/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Alt om fodbold
@@ -87,7 +87,7 @@ Foto: Ritzau Scanpix
 Kylian Mbappé
 Målt topfart: 36 km/h
 Angriber for Paris Saint-Germain og Frankrig
- 
+
 Den 21-årige franskmand er hurtigere på en fodboldbane, end en ninja turtle er til at fortære et pizzaslice.
 
 Ved flere lejligheder har han sprintet fra sin direkte modstander - både på landsholdet og i ligaen for Paris Saint-Germain.
@@ -98,7 +98,7 @@ Foto: Ritzau Scanpix
 Iñaki Williams
 Målt topfart: 35,7 km/h
 Angriber for Athletic Club
- 
+
 - Williams trækker i sin superhelte-kappe.
 
 Sådan beskrev den store spanske avis Marca den fænomenale fart, som den spanske angriber viste ved en scoring mod Sevilla i sidste sæson. 70 meter på omkring otte sekunder tilbagelagde Williams, der af andre medier er beskrevet som 'et lyn', 'en raket' og 'en gazelle'.
@@ -111,7 +111,7 @@ Foto: Ritzau Scanpix
 Pierre-Emerick Aubameyang
 Målt topfart: 35,5 km/h
 Angriber for Arsenal og Gabon
- 
+
 Arsenal-spilleren kan formentlig tilbagelægge det meste af en fodboldbanehalvdel, før man kan nå at udtale hans fulde navn.
 
 Pierre-Emerick Emiliano François Aubameyang var spået en stor fremtid, da han som 18-årig rykkede fra fødelandet Frankrig til mægtige AC Milan i Italien.
@@ -123,8 +123,8 @@ Karim Bellarabi
 Foto: Ritzau Scanpix
 Karim Bellarabi
 Målt topfart: 35,27 km/h
-Kantspiller for Bayer Leverkusen 
- 
+Kantspiller for Bayer Leverkusen
+
 Tæt efter finder vi listens første kantspiller. 30-årige Karim Bellarabi har i efterhånden en del år drevet gæk med diverse backs i Bundesligaen. Ikke mindst takket være et aldeles anstændigt antrit.
 
 Som søn af en marokkansk far og en tysk mor havde han flere landsholdsmæssige muligheder, men valgte i en tidlig alder hjemlandet. Udover forskellige ungdomslandshold har Bellarabi fået 11 landskampe for Tysklands A-landshold, hvor det er blevet til en enkelt scoring.
@@ -135,7 +135,7 @@ Foto: Ritzau Scanpix
 Kyle Walker
 Målt topfart: 35,21 km/h
 Back for Manchester City og England
- 
+
 For at holde styr på de hurtige offensive spillere er der jo også nødt til at være forsvarsspillere med masser af fart.
 
 Én af dem - ifølge Le Figaro den hurtigste - er engelske Kyle Walker. Hos Manchester City kan han til træning teste sin hastighed mod hurtige holdkammerater som Leroy Sané, Sergio Aguero og Raheem Sterling.
@@ -148,7 +148,7 @@ Foto: Ritzau Scanpix
 Leroy Sané
 Målt topfart: 35,04 km/h
 Kant for Manchester City og Tyskland
- 
+
 Som skrevet er der flere hurtige spillere hos de engelske mestre. Deriblandt Leroy Sané.
 
 Tyskeren har ikke blot en af Premier Leagues hurtigste frisurer, men også ligaens tredjehøjest målte topfart. Manchester City har nu ikke fået meget glæde af Sanés hurtighed i denne sæson, hvor den 24-årige spiller har siddet ude med en korsbåndsskade.
@@ -161,7 +161,7 @@ Foto: Ritzau Scanpix
 Mohamed Salah
 Målt topfart: 35 km/h
 Angriber/kant for Liverpool og Egypten
- 
+
 Vi bliver i Premier League, men smutter vest på til Liverpool. I Beatles-byen råder de over en af ligaens bedste - og hurtigste spillere - i Mohamed Salah.
 
 Egypteren kan være særdeles svær at fange for både forsvarsspillere og fotografer (se blot billedet), når han sætter i spurt. Farten er en af Salahs mange forcer, som ikke så få gange har sendt ham forbi forbavsede modstandere.
@@ -174,7 +174,7 @@ Foto: Ritzau Scanpix
 Kingsley Coman
 Målt topfart: 35 km/h
 Kant for Bayern München og Frankrig
- 
+
 Syvendepladsen deles mellem Salah og 23-årige Kingsley Coman, der begge har løbet hurtigere end man må køre i centrum af mange danske byer.
 
 Trods den unge alder, så har franskmanden ret hurtigt fået sig et heftigt CV med seniorkampe for de tronende klubber i både Frankrig, Italien og nu Tyskland (Paris Saint-Germain, Juventus og Bayern München).
@@ -185,7 +185,7 @@ Foto: Ritzau Scanpix
 Álvaro Odriozola
 Målt topfart: 34,99 km/h
 Back for Bayern München
- 
+
 På træningsbanen i den tyske klub er en holdkammerat, der er marginalt langsommere. Spanske Álvaro Odriozola har dog ikke fået mange kampe for Bayern München, hvortil han er udlejet fra Real Madrid.
 
 Den 24-årige basker fik gennembrud hos barndomsklubben Real Sociedad i 2017 og skiftede året efter til den royale hovedstadsklub, men siden da har karrieren lidt tabt fart, og det er ikke blevet til kontinuerlig spilletid for Odriozola.
@@ -196,12 +196,12 @@ Foto: Ritzau Scanpix
 Nacho Fernández​
 Målt topfart: 34,62 km/h
 Forsvarsspiller for Real Madrid
- 
+
 Én af de spillere, som Odriozola tidligere har kæmpet med spilletiden om hos Real Madrid, er landsmanden Nacho.
 
 Den 30-årige forsvarsspiller har i denne sæson heller ikke fået meget spilletid for kongeklubben med bare fem optrædener i La Liga. I høj grad på grund af skadesproblemer. Men når Nacho er fit for fight, så skyder han altså stadig en fremragende fart.
 
-Kilder: Le Figaro og Transfermarkt. 
+Kilder: Le Figaro og Transfermarkt.
 
 
 ## Verdens hurtigste fodboldspiller med bold?

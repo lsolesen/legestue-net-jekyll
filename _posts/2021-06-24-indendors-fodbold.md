@@ -3,8 +3,8 @@ title: &title "Indendørs fodbold: Bliver det overtaget af Futsal?"
 permalink: /indendors-fodbold-eller-futsal/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1587384474964-3a06ce1ce699?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1587384474964-3a06ce1ce699?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1587384474964-3a06ce1ce699?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1587384474964-3a06ce1ce699?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Fodboldregler
@@ -35,7 +35,7 @@ Tiden for de enkelte kampe fastsættes af turneringsledelsen. Da reglerne varier
 
 Når du skal spille fodbold indendørs, så er der større vægt på tekniske færdigheder, da du ikke må tackle eller have kropskontakt. Det gør indendørs fodbold til et meget teknisk spil.
 
-Da der er færre spiller på banen, k an du også bruge det til taktisk træning. Du kan arbejde med vinkler og løbebaner, men spillets taktiske elementer er naturligvis noget anderledes end udendørs fodbold. 
+Da der er færre spiller på banen, k an du også bruge det til taktisk træning. Du kan arbejde med vinkler og løbebaner, men spillets taktiske elementer er naturligvis noget anderledes end udendørs fodbold.
 
 Jeg er selv vokset op med indefodbold hver eneste vinter, og jeg har mange rigtig gode minder fra de forskellige turneringer.
 
@@ -48,7 +48,7 @@ Rundt om banen i **indendørs fodbold** er der en bande på 1 meter høj. På hv
 
 I **Futsal** er der ingen bander. Hvis bolden ryger ud af banen sættes spillet i gang med et indspark. Der er 4 markspillere og 1 målmand på banen. I Futsal spiller man også længere tid end i indendørs fodbold. I Futsal spiller man også med en bold, der er mindre og hopper mindre. Det gør bolden lettere at kontrollere, og gør det mere naturligt at spille teknisk langs jorden.
 
-Den største **forskel mellem indendørs fodbold og Futsal** er i min optik bolden og banderne. 
+Den største **forskel mellem indendørs fodbold og Futsal** er i min optik bolden og banderne.
 
 Bolden gør, at spillerne i mindre grad fristes til lange afleveringer. Men manglen på bander gør i min optik også, at det er et spil der i højere grad træner en til udfordringerne, som findes i det almindelige fodboldspil. Spillerne skal gøre sig mere umage for ikke at få bolden ud af spil.
 

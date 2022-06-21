@@ -3,8 +3,8 @@ title: &title "Hvor lang tid varer en halvleg i fodbold?"
 permalink: /halvleg-fodbold/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1607627000458-210e8d2bdb1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1607627000458-210e8d2bdb1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1607627000458-210e8d2bdb1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1607627000458-210e8d2bdb1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Viden om
@@ -50,7 +50,7 @@ Det er godt at vide, når vi skal besvare hvor lang tid en halvleg varer i fodbo
 
 ## Hvor længe varer en halvleg i fodbold?
 
-I fodbold spilles der typisk to lige lange spilleperioder. Der spilles en første halvleg og en anden halvleg. I seniorkampe spilles der 45 minutter i hver halvleg i 11-mandsfodbold, og pausen ved halvlegen er 15 minutter lang. 
+I fodbold spilles der typisk to lige lange spilleperioder. Der spilles en første halvleg og en anden halvleg. I seniorkampe spilles der 45 minutter i hver halvleg i 11-mandsfodbold, og pausen ved halvlegen er 15 minutter lang.
 
 Spilleperioderne foregår typisk uden afbrydelser. I dag bruger man tillægstid i fodbold, så i forbindelse med fx skader og udskiftninger lægges der tid til. En halvleg kan derfor ofte tage 45 minutter plus tre til seks minutter, fordi dommeren skal kompensere for al den tid, som ikke er effektiv spilletid.
 

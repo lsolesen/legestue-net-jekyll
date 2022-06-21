@@ -4,8 +4,8 @@ seo_title: "Verdens længste indkast i fodbold i 2022"
 permalink: /verdens-laengeste-indkast-fodbold/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Alt om fodbold
@@ -84,7 +84,7 @@ https://youtu.be/lO2s4iHyFb8
 
 https://acefootball.com/da/fodboldnyheder/verdens-laengste-indkast-laver-salto-og-kaster-halv-banelaengde/
 
- 
+
 Iranske Nader Mohammadi må være en alvorlig bejler til rekorden for de længste indkast i fodboldens verden
 Specialisering i indkast er blevet mere og mere moderne i de senere år, hvor klubberne for alvor har fået øjnene op for mulighederne, et langt kast kan give.
 

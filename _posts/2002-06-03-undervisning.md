@@ -4,8 +4,8 @@ permalink: /undervisning/
 redirect_from: /blog/undervisning-hokus-pokus/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=2255&q=5
-  teaser: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1490108474814-221f6198acc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&h=300&w=400&q=10
 categories:
   - Fodboldtræning
 tags:
@@ -33,7 +33,7 @@ Det samme er tilfældet med mange trænere, som ikke inden træningen gør sig t
 
 Flere prominente trænere har været efter det tekniske niveau i dansk fodbold, og deres løsning er mere teknisk træning.
 
-> ”Der er nogle kloge hoveder, der mener, at man skal træne 25 timer om ugen. Men da jeg spillede i Barcelona trænede vi seks gange fem kvarter om ugen. Det giver cirka syv timer totalt, og vi spillede da meget godt fodbold, så jeg tror ikke på kvantiteten af træning som det altafgørende. Det må være kvaliteten, det handler om, og det kan altså lade sig gøre at kombinere fysisk træning med bold.”[^note5] 
+> ”Der er nogle kloge hoveder, der mener, at man skal træne 25 timer om ugen. Men da jeg spillede i Barcelona trænede vi seks gange fem kvarter om ugen. Det giver cirka syv timer totalt, og vi spillede da meget godt fodbold, så jeg tror ikke på kvantiteten af træning som det altafgørende. Det må være kvaliteten, det handler om, og det kan altså lade sig gøre at kombinere fysisk træning med bold.”[^note5]
 
 --- <cite>Michael Laudrup</cite>
 
@@ -54,7 +54,7 @@ Realistisk træningsomfang for de fleste ungdomsspillere er to gange om ugen og 
 
 Nervesystemet **modnes** med tiden, men forskelligt fra person til person. Derfor kan alle aldersgrupper ikke kan sættes til det samme, hvilket dog ikke betyder, at læringen af en aktivitet ikke kan påbegyndes tidligt blot under tilpassede omstændigheder. Som træner kan du være med til at sætte en udvikling i gang; bevægelse er med til at modne nervesystemet (Gjerset et al 1996: 66ff).
 
-Den motoriske **udvikling** skærpes, når vi tilpasser vores handlinger til de stillede krav. Keld Fredens (1993) karakteriserer denne form for udvikling som psykomotorik, fordi den også fordrer et mentalt aspekt (kognitivt niveau), hvilket han begrunder i den måde hjernen lærer en bevægelse på. En grundigere redegørelse for dette er uden for denne teksts rammer. 
+Den motoriske **udvikling** skærpes, når vi tilpasser vores handlinger til de stillede krav. Keld Fredens (1993) karakteriserer denne form for udvikling som psykomotorik, fordi den også fordrer et mentalt aspekt (kognitivt niveau), hvilket han begrunder i den måde hjernen lærer en bevægelse på. En grundigere redegørelse for dette er uden for denne teksts rammer.
 
 {% comment %}
 maximum certainty of goal achivement – minimal energy expenditure – minimum movement time
@@ -149,7 +149,7 @@ I det indre øre sidder det vestibulære system, som registrerer hovedets positi
 
 I synet skelner man mellem det fokuserede syn og det perifære syn. Ved at lade færdighederne indgå i lidt mere komplekse sammenhænge, hvor spilleren skal vurdere andre spilleres bevægelse og acceleration, tvinges spilleren til at orientere sig og udnytte det perifære syn (split-vision), som det især beskrives af Christer Bjürwill (1981).
 
-Det fokuserede syn er langsommere end det perifære syn, fordi det hele sker bevidst (consciously). Derfor bør man som træner ikke instruere en flugtende spiller i at ramme bolden, når den har passeret et nærmere defineret sted i svævefasen. Det er bedre at instruere udøveren i at sparke efter bolden, når det føles rigtigt.[^note10] 
+Det fokuserede syn er langsommere end det perifære syn, fordi det hele sker bevidst (consciously). Derfor bør man som træner ikke instruere en flugtende spiller i at ramme bolden, når den har passeret et nærmere defineret sted i svævefasen. Det er bedre at instruere udøveren i at sparke efter bolden, når det føles rigtigt.[^note10]
 
 En instruktion som i nogens ører måske lyder lidt for vag, men her må spilleren selv løse den problematiske situation. Du kan i stedet koncentrere dig om at fastholde spilleren i den mest hensigtsmæssige teknik til flugtningen.
 
@@ -222,7 +222,7 @@ Teknikken bliver i det endelige spil altid et spørgsmål om at optimere sin pr�
 
 ## Hvordan lærer man en ny færdighed?
 
-Øvelse gør mester er en velkendt vending, og den forstås ofte som: mange gentagelser er nødvendige, selvom det kan virke lidt kedeligt.[^note12] Men det er afgørende, 
+Øvelse gør mester er en velkendt vending, og den forstås ofte som: mange gentagelser er nødvendige, selvom det kan virke lidt kedeligt.[^note12] Men det er afgørende,
 
 > ”at det ikke bare handler om at, men også om hvordan; ikke bare at man øver sig, men hvordan man gør det.”
 

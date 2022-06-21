@@ -14,25 +14,25 @@ tags:
   - Veje til Udvikling
 last_modified_at: 2021-03-02T13:43:18Z
 header:
-  overlay_image: https://images.unsplash.com/photo-1520621547148-caeb79466a2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=5
-  teaser: https://images.unsplash.com/photo-1520621547148-caeb79466a2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1520621547148-caeb79466a2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1520621547148-caeb79466a2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
   alt: Photo by cesar marquez on Unsplash
 ---
 
 Vi har tidligere kigget lidt på den kompetetive arbejdsform og kompetetiv træning. Her kigger vi på straf, konsekvens og kompetetiv træning og giver nogle forslag til øvelser.
 
-I stedet for overhovedet at bruge begrebet straf i træningen, er det måske en ide at omformulere det, så vi i stedet bruger ordet konsekvens. Jens Bay behandler kløgtigt konsekvenspædagogikken i sin kronik ”Konsekvens og Straf” i Politiken fra den 26. august 2003. Ordet konsekvens handler ikke om at sanktionere og være konsekvent. 
+I stedet for overhovedet at bruge begrebet straf i træningen, er det måske en ide at omformulere det, så vi i stedet bruger ordet konsekvens. Jens Bay behandler kløgtigt konsekvenspædagogikken i sin kronik ”Konsekvens og Straf” i Politiken fra den 26. august 2003. Ordet konsekvens handler ikke om at sanktionere og være konsekvent.
 
 Konsekvens skal ikke gøres til noget negativt og knyttes sammen med trusler og straf, hvis en person ikke handler, som omgivelserne forventer, skriver Bay.
 
-Jens Bay mener, at konsekvensbegrebet er en 
+Jens Bay mener, at konsekvensbegrebet er en
 
 > ”logisk følge af den grundopfattelse, at mennesket er handlende, og at handlingerne altid indeholder en risiko for en åbning for noget nyt som følge af deres konsekvenser, og det er det, der både går handling og konsekvenser interessant og vedkommende for pædagogikken. Det er gennem handlingens konsekvenser, at det tænkte bliver til virkelighed, og det er gennem handlingen, det enkelte individ viser, hvad det ønsker, vil og kan i den konkrete situation.”
 
-Efter min opfattelse er dette et godt og brugbart udgangspunkt at have som træner. Konsekvenspædagogikken som Bay formulerer den kræver, at der skal være en 
+Efter min opfattelse er dette et godt og brugbart udgangspunkt at have som træner. Konsekvenspædagogikken som Bay formulerer den kræver, at der skal være en
 
-> ”klar sammenhæng mellem de handlinger, som mennesker udføre og de efterfølgende konsekvenser.” 
+> ”klar sammenhæng mellem de handlinger, som mennesker udføre og de efterfølgende konsekvenser.”
 
 Dette er ikke et urimeligt krav. En fodboldspiller leverer netop masser af handlinger, og disse handlinger udspiller sig altid i et kompetetivt miljø. Ofte laves den kompetetive træning som straf-træning.
 

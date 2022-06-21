@@ -2,8 +2,8 @@
 title: "Fodboldtest - hvad skal vi teste?"
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1587329311101-e21a731a0305?ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=5
-  teaser: https://images.unsplash.com/photo-1587329311101-e21a731a0305?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1587329311101-e21a731a0305?ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1587329311101-e21a731a0305?ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: Photo by Chaos Soccer Gear on Unsplash
 categories:
   - Fodboldtræning

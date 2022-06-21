@@ -9,7 +9,7 @@ author_profile: true
 last_modified_at: 2021-06-04T15:16:02Z
 toc: true
 header:
-  teaser: https://images.unsplash.com/photo-1519823038424-f8dbabca95f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHNvY2NlciUyMHBsYXl8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60
+  teaser: https://images.unsplash.com/photo-1519823038424-f8dbabca95f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fHNvY2NlciUyMHBsYXl8ZW58MHx8MHx8&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 feature_row:
   - image_path: /assets/images/books/lege-2020.jpg

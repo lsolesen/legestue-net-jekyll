@@ -4,8 +4,8 @@ seo_title: "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2021 »"
 permalink: /officielle-em-slutrunde-sange/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1556816214-fda351e4a7fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=5
-  teaser: https://images.unsplash.com/photo-1556816214-fda351e4a7fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=5
+  overlay_image: https://images.unsplash.com/photo-1556816214-fda351e4a7fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=600&w=1200&q=10
+  teaser: https://images.unsplash.com/photo-1556816214-fda351e4a7fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=300&w=400&q=10
   caption: *title
 categories:
   - Fodboldrytmer
@@ -192,7 +192,7 @@ Martin Garrix, Bono og The Edge har skrevet den officielle fodboldsang til EM 20
 
 Det er let at finde EM-sange til EM-slutrunderne for herrer, men ikke helt så let for kvinderne. Jeg har dog fundet nogle af sangene.
 
-Til EM i Holland 2017 skrev komiker og sanger, Molly Thornhill, sangen Røde Strømper, som skulle hjælpe kvindelandsholdet til sejr. [DBU](https://www.dbu.dk/nyheder/2017/juni/hoer-kvindelandsholdets-nye-em-sang/) har udgivet den på deres Youtube-kanal. 
+Til EM i Holland 2017 skrev komiker og sanger, Molly Thornhill, sangen Røde Strømper, som skulle hjælpe kvindelandsholdet til sejr. [DBU](https://www.dbu.dk/nyheder/2017/juni/hoer-kvindelandsholdets-nye-em-sang/) har udgivet den på deres Youtube-kanal.
 
 {% include video provider="youtube" id="ZWkiQBZVmDA" %}
 
