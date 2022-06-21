@@ -1,0 +1,28 @@
+{% if jekyll.environment == 'production' and site.ads == true %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9993815627805299"
+     crossorigin="anonymous"></script>
+<script>
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+if (getCookie('Ads') !== 0) {
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9993815627805299",
+          enable_page_level_ads: true
+     });
+}
+</script>
+{% endif %}

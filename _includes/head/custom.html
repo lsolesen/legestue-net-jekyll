@@ -2,10 +2,7 @@
   <meta name="robots" content="noindex, nofollow">
 {% endif %}
 
-{% if jekyll.environment == 'production' AND site.ads == 'true' %}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9993815627805299"
-     crossorigin="anonymous"></script>
-{% endif %}
+{% include adsense.html %}
 
 {% if page.sitemap == false or page.robots %}
   <meta name="robots" content="{{ page.robots | default: "noindex" }}">
