@@ -1,6 +1,4 @@
-{% if jekyll.environment == 'production' and site.ads == true %}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9993815627805299"
-     crossorigin="anonymous"></script>
+{% if jekyll.environment == 'production' and site.ads == true and page.url != '/ads/off/' %}
 <script>
 function getCookie(cname) {
   var name = cname + "=";
@@ -17,11 +15,15 @@ function getCookie(cname) {
   }
   return "";
 }
-if (getCookie('Ads') !== 0) {
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-9993815627805299",
-          enable_page_level_ads: true
-     });
+
+let ads = getCookie('Ads');
+if (ads != 0) {
+  console.log( + ' adding adsense');
+  let s = document.createElement('script');
+  s.setAttribute('src', 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9993815627805299');
+  s.setAttribute('async', 'async');
+  s.setAttribute('crossorigin', 'anonymous');
+  document.head.appendChild(s);
 }
 </script>
 {% endif %}
