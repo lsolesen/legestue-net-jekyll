@@ -1,6 +1,6 @@
 ---
-title: &title "Danske fodboldsange fra 1984-2021. Den er bedst!"
-seo_title: "Danske fodboldsange fra 1984-2021. Komplet liste! »"
+title: &title "Danske fodboldsange fra 1984-2022. Den er bedst!"
+seo_title: "Danske fodboldsange fra 1984-2022. Komplet liste! »"
 permalink: /danske-fodboldsange-og-kampsange/
 language: da
 header:
@@ -237,6 +237,10 @@ Kvindelandsholdet har også fået udgivet nogle gode landsholdssange.
 - Molly Thornhill (EM Holland 2017): Røde Strømper. [DBU](https://www.dbu.dk/nyheder/2017/juni/hoer-kvindelandsholdets-nye-em-sang/).
 
 {% include video provider="youtube" id="ZWkiQBZVmDA" %}
+
+- Lidt til Lægterne (EM 2022): ’Vi (k)vinder EM’
+
+{% include video provider="youtube" id="6ra3TfG31Tk" %}
 
 Du kan også se en [playliste på Youtube](https://www.youtube.com/playlist?list=PLNkD7iq9OqKgtLkbSR62ISBUHgo_gtQJE).
 

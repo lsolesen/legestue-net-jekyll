@@ -1,6 +1,6 @@
 ---
-title: &title "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2021"
-seo_title: "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2021 »"
+title: &title "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2022"
+seo_title: "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2022"
 permalink: /officielle-em-slutrunde-sange/
 language: da
 header:
@@ -192,9 +192,23 @@ Martin Garrix, Bono og The Edge har skrevet den officielle fodboldsang til EM 20
 
 Det er let at finde EM-sange til EM-slutrunderne for herrer, men ikke helt så let for kvinderne. Jeg har dog fundet nogle af sangene.
 
+### EM 2017 Holland
+
 Til EM i Holland 2017 skrev komiker og sanger, Molly Thornhill, sangen Røde Strømper, som skulle hjælpe kvindelandsholdet til sejr. [DBU](https://www.dbu.dk/nyheder/2017/juni/hoer-kvindelandsholdets-nye-em-sang/) har udgivet den på deres Youtube-kanal.
 
 {% include video provider="youtube" id="ZWkiQBZVmDA" %}
+
+### EM 2022
+
+’Vi (k)vinder EM’ lyder titlen på kvindelandsholdets officielle EM-sang, som Lidt Til Lægterne står bag.
+
+I 2021 udgav Lidt Til Lægterne den uofficielle EM-slagsang ’Kå Så Danmark’, men i år står de altså bag på den officielle slutrundesang. Den er skrevet i samarbejde med duoens følgere på sociale medier.
+
+> Vi opfordrede danskerne til at komme med idéer til sangen, og vi tog alle de knivskarpe indspark med på turen og fik sendt den helt i mål. Tusind tak.
+
+--- <cite>[Mads Bo Iversen](https://sport.tv2.dk/fodbold/2022-06-24-vi-fleggaard-tysken-i-lysken-her-er-danmarks-em-sang), Lidt Til Lægterne og forsanger i Phlake</cite>
+
+{% include video provider="youtube" id="6ra3TfG31Tk" %}
 
 ## Liste over danske EM-sange
 
