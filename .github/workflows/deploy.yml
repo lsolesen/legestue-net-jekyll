@@ -70,11 +70,11 @@ jobs:
           directory: "./_site"
           # The directory to scan
           arguments:
-            --only-4xx
-            --assume-extension
+            --only-4xx true
+            --assume-extension ".html"
             --ignore-status-codes "400,403,409,429"
-            --allow-hash-href
-            --ignore-empty-alt
+            --allow-hash-href true
+            --ignore-empty-alt true
             --cache '{ "timeframe": { "external": "7d" } }'
           # The arguments to pass to HTMLProofer
       - name: ☁️ Cleaning up
