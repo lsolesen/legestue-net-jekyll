@@ -7,6 +7,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.greedy-nav {
+  height: $nav-height;
+  max-height: $nav-height;
+}
+
 [rel~=sponsored]:after {
   content: "*";
 }
