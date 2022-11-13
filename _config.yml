@@ -8,10 +8,10 @@
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-ads: true
+ads: 'ezoic'
 
 # Jekyll specific
-future                   : true
+future                   : false
 
 # Site Settings
 locale                   : "da"
@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # "ifire"
 staticman:
@@ -36,6 +36,11 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+signup:
+  enabled: true
+  provider: mailchimp # false
+  url: https://legestue.us1.list-manage.com/subscribe/post?u=0e768d72de9dc35f20ab9159e&amp;id=54536f96cf&amp;f_id=00ca78e2f0
+  recaptcha: b_0e768d72de9dc35f20ab9159e_54536f96cf
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
