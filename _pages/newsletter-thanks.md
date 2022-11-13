@@ -9,6 +9,6 @@ search: false
 sitemap: false
 ---
 
-Tak for din interesse i nyhedsbrevet. Jeg er rigtig glad for, at du gerne vil følge.
+Tak for din interesse i nyhedsbrevet. Jeg er rigtig glad for, at du gerne vil følge med.
 
 {% include buymeacoffee.html %}

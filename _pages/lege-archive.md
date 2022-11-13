@@ -240,7 +240,7 @@ holde styr på.
 9. Spil bolden ind i ringen.
 10. Spil bolden i sandgryden.
 
-Du kan jo også altid spille lidt [fodboldgolf på en af de mange fodboldgolfbaner]({% link _posts/2021-06-21-fodboldgolf.md %}) eller lave din egen fodboldgolfbane.
+Du kan jo også altid spille lidt [fodboldgolf på en af de mange fodboldgolfbaner](/fodboldgolf-og-fodboldgolfbaner/) eller lave din egen fodboldgolfbane.
 
 ## 12. Fodboldboccia
 

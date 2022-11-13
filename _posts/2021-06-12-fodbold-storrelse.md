@@ -99,7 +99,7 @@ En bold må dog ikke absorbere alt for meget vand.
 
 I fodboldsportens første år kunne en læderbold veje op til 1.100 gram, og der var det for alvor slemt, hvis bolden samtidig sugede lidt vand.
 
-Jeg har skrevet mere om [hvem der opfandt fodbold og fodboldens historie her]({% link _posts/2009-06-02-hvem-opfandt-fodbolden.md %}).
+Jeg har skrevet mere om [hvem der opfandt fodbold og fodboldens historie her](/hvem-opfandt-fodbolden/).
 
 ## Hvorfor varierer boldens størrelse?
 

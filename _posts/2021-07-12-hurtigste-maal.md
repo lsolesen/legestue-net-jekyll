@@ -14,7 +14,7 @@ last_modified_at: 2021-07-03T10:33:33Z
 
 Nogle gange er 90 minutter ikke nok. Andre gange tager det sekunder at score et mål i fodbold. Vi kigger her på, hvor hurtigt det er lykkes at score mål på topniveau i fodbold.
 
-Statisik er en spændende del af [fodboldhistorien]({% link _posts/2009-06-02-hvem-opfandt-fodbolden.md %}). Lige siden den første fodboldkamp er blevet spillet, så har fodboldspillere jagtet mål.
+Statisik er en spændende del af [fodboldhistorien](/hvem-opfandt-fodbolden/). Lige siden den første fodboldkamp er blevet spillet, så har fodboldspillere jagtet mål.
 
 Der findes flere lister over, hvor hurtigt det er lykkes at score et mål i betydningsfulde kampe i fodbold, men her har jeg kun medtaget de hurtigst scorede mål fra de største ligaer og slutrunder. Du kan se en liste, hvor alle ligaer og aldersgrupper er medtaget på [Wikipedia](https://en.wikipedia.org/wiki/Fastest_goals_in_association_football).
 

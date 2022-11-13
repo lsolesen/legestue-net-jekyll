@@ -86,4 +86,4 @@ Men fodbold er ikke kun internationale fodboldkampe. Fodbold spilles i alle alde
 
 Hvis du vil se en mere komplet liste, så kan du finde en i dommerinformation for [8-mandskampe](https://www.dbusjaelland.dk/dommere/dommerens-abc/information-til-dommere/8-mands-spilletid-og-dommerinfo/) og [11 mandskampe](https://www.dbusjaelland.dk/dommere/dommerens-abc/information-til-dommere/11-mands-spilletid-og-dommerinfo/). Du skal altid lige tjekke spilletiden med det forbund, der arrangerer kampen.
 
-I [indendørs fodbold]({% link _posts/2021-06-24-indendors-fodbold.md %}) spiller man kun en tidsperiode, så der kan man vist ikke tale om halvleg.
+I [indendørs fodbold](/indendors-fodbold-eller-futsal/) spiller man kun en tidsperiode, så der kan man vist ikke tale om halvleg.

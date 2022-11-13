@@ -29,31 +29,31 @@ Opvarmning er en vigtig del af fodbold. Du kan varme op på flere måder. Vi har
 
 Disse øvelser er særligt udvalgt til at passe til de 8-10 årige. Fodboldøvelserne passer rigtig godt til aldersgruppen, men de kan også sagtens bruges til U6, U7, hvis du tilretter øvelserne lidt.
 
-[Find fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %})
+[Find fodboldøvelser for U8, U9 og U10](/fodboldovelser-8-10-aar/)
 
 ## Træningsøvelser for 11-12 årige (U11, U12, U13)
 
 Disse øvelser er særligt udvalgt til at passe til de 11-12 årige. Fodboldøvelserne passer rigtig godt til aldersgruppen, men de kan også sagtens bruges til de lidt yngre U10-spillere og de ældre U14, U15 og U16, hvis du tilretter øvelserne lidt, så de passer til aldersgruppen.
 
-[Find fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %})
+[Find fodboldøvelser for U11, U12 og U13](/fodboldovelser-10-12-aar/)
 
 ## Fodboldøvelser for 13-15 årige (U14, U15 og U16)
 
 Disse øvelser er særligt udvalgt til at passe til de 13-14 årige U14, U15 og U16-spillere. Fodboldøvelserne passer rigtig godt til aldersgruppen, men de kan også sagtens bruges til de lidt yngre U12 og U13-spillere, hvis du tilretter øvelserne lidt, så de passer til aldersgruppen.
 
-[Find fodboldøvelser for U14, U15 og U16]({% link _posts/2021-06-12-fodboldovelser-13-15.md %})
+[Find fodboldøvelser for U14, U15 og U16](/fodboldovelser-12-15-aar/)
 
 ## Fodboldøvelser skudtræning og afslutningstræning
 
 Jeg har udvalgt en række øvelser, som du kan bruge til at træne skudtræning. Det er vigtigt at træne afslutninger, så dit hold kan komme til at score nogle mål. Det er også utrolig sjovt at lave afslutningstræning og juble efterfølgende, når netmaskerne blafrer.
 
-[Find øvelser til skudtræning og afslutningstræning]({% link _posts/2021-06-15-skudtraening-fodbold.md %})
+[Find øvelser til skudtræning og afslutningstræning](/skudtraening-afslutningstraening-fodbold/)
 
 ## Træningsøvelser i fodbold med forsvar og forsvarsspil
 
 Jeg har udvalgt en række fodboldøvelser, som du kan bruge til at træne forsvar og forsvarsspil. Det er vigtigt rigtig vigtigt at træne både forsvar og bolderobring, så dit hold kan få fat i bolden igen. Det er i forsvarsspillet, man virkelig kan arbejde med, at spillerne arbejder for hinanden.
 
-[Find øvelser til forsvar og forsvarsspil]({% link _posts/2021-06-15-forsvarsovelser.md %})
+[Find øvelser til forsvar og forsvarsspil](/forsvarsoevelser-fodbold/)
 
 ## Artikler med fodboldøvelser og fodboldtræning til børn
 
