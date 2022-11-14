@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : disqus # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : custom # disqus # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : "legestue"
 staticman:
