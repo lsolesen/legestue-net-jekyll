@@ -32,7 +32,7 @@ comments:
   disqus:
     shortname            : "legestue"
   graphcomment:
-    id:                  : "legestue"
+    id                   : "legestue"
 staticman:
   branch                 : "master"
 atom_feed:
