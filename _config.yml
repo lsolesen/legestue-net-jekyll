@@ -31,6 +31,8 @@ comments:
   provider               : custom # disqus # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : "legestue"
+  graphcomment:
+    id:                  : "legestue"
 staticman:
   branch                 : "master"
 atom_feed:
