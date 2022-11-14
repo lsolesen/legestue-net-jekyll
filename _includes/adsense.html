@@ -17,8 +17,8 @@ function getCookie(cname) {
 }
 
 let ads = getCookie('Ads');
-if (ads != 0) {
-  console.log( + ' adding adsense');
+if (ads == "" || ads != 0) {
+  console.log('adding adsense');
   let s = document.createElement('script');
   s.setAttribute('src', 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9993815627805299');
   s.setAttribute('async', 'async');

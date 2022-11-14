@@ -17,7 +17,7 @@ future                   : true
 locale                   : "da"
 title                    : "Fodboldens Legestue"
 title_separator          : false # "-"
-subtitle                 : "Fodboldtricks, fodboldrytmer, fodboldlege og fodboldøvelser"
+subtitle                 : "Om fodbold og fodboldtræning"
 logo                     : "/android-chrome-192x192.png"
 name                     : "Fodboldens Legestue"
 description              : "Fodboldtricks, fodboldrytmer, fodboldlege og fodboldøvelser. Søger du inspiration til tricks, lege og øvelser til fodbold?"
@@ -28,9 +28,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : disqus # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # "ifire"
+    shortname            : "legestue"
 staticman:
   branch                 : "master"
 atom_feed:
