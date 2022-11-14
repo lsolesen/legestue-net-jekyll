@@ -23,7 +23,7 @@ Når du har valgt en øvelse, så kan det sagtens være, at du skal tilrette den
 
 Her kommer en langliste med fodboldøvelser og til mange forskellige tekniske færdigheder inden for fodbold.
 
-Hvis du er på udkig efter øvelser til lidt ældre spillere, så har jeg også skrevet følgende indlæg. [Find fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}) og [fodboldøvelser for U14, U15 og U16]({% link _posts/2021-06-12-fodboldovelser-13-15.md %}).
+Hvis du er på udkig efter øvelser til lidt ældre spillere, så har jeg også skrevet følgende indlæg. [Find fodboldøvelser for U11, U12 og U13](/fodboldovelser-10-12-aar/) og [fodboldøvelser for U14, U15 og U16](/fodboldovelser-12-15-aar/).
 
 ## Øvelser til indersidespark
 
@@ -535,6 +535,6 @@ ene hold har ’scoret’ 25 lave 1. berøringer. Der kan spilles med forskellig
 
 Når du skal vælge fodboldøvelser til denne aldersgruppe, så husk at kigge på, hvad formålet med øvelsen er som det allerførste.
 
-Hvis du er på udkig efter øvelser til lidt ældre spillere, så har jeg også skrevet følgende indlæg. [Find fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}) og [fodboldøvelser for U14, U15 og U16]({% link _posts/2021-06-12-fodboldovelser-13-15.md %}).
+Hvis du er på udkig efter øvelser til lidt ældre spillere, så har jeg også skrevet følgende indlæg. [Find fodboldøvelser for U11, U12 og U13](/fodboldovelser-10-12-aar/) og [fodboldøvelser for U14, U15 og U16](/fodboldovelser-12-15-aar/).
 
 Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).

@@ -117,7 +117,7 @@ Stomp bliver ofte lavet med basketbolde, men du kan lave nogle af de samme ting 
 
 Det var nogle forslag til, hvordan du kan bruge stomp i fodbold. Jeg har skrevet endnu mere om [fodboldrytmer](/fodboldrytmer/), hvis du vil have mere inspiration til rytme i fodboldtræningen.
 
-Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).
+Du kan også finde [fodboldøvelser for U8, U9 og U10](/fodboldovelser-8-10-aar/) eller [fodboldøvelser for U11, U12 og U13](/fodboldovelser-10-12-aar/).
 
 Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).
 

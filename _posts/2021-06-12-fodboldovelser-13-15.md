@@ -34,7 +34,7 @@ enkle øvelser, hvor alle kan være med. Senere kan du
 så ’bygge’ på så sværhedsgraden stiger i takt med at
 spillerne bliver i stand til at udføre færdigheden.
 
-Du kan hente inspiration til [fodboldøvelser til teknisk træning hos 11-12 årige]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}), når du tilretter det til denne aldersgruppe.
+Du kan hente inspiration til [fodboldøvelser til teknisk træning hos 11-12 årige](/fodboldovelser-10-12-aar/), når du tilretter det til denne aldersgruppe.
 
 ## Taktisk træning
 
@@ -795,6 +795,6 @@ tæller selvfølgelig også – men kun enkelt.
 
 Når du skal vælge fodboldøvelser til denne aldersgruppe, så husk at kigge på, hvad formålet med øvelsen er som det allerførste.
 
-Du kan også finde [fodboldøvelser for U8, U9 og U10]({% link _posts/2021-06-12-fodboldovelser-8-10.md %}) eller [fodboldøvelser for U11, U12 og U13]({% link _posts/2021-06-12-fodboldovelser-10-12.md %}).
+Du kan også finde [fodboldøvelser for U8, U9 og U10](/fodboldovelser-8-10-aar/) eller [fodboldøvelser for U11, U12 og U13](/fodboldovelser-10-12-aar/).
 
 Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).
