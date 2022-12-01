@@ -6,6 +6,7 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "signup";
 
 .sidebar {
   position: relative;
@@ -15,51 +16,6 @@
        viewport height - nav height - masthead x-padding
     */
     max-height: 100%;
-  }
-}
-
-#mc_embed_signup {
-
-  form#mc-embedded-subscribe-form {
-    background: white;
-    margin-left: 0;
-    padding-left: 0;
-  }
-
-  form#mc-embedded-subscribe-form p.newsletter__title {
-    font-size: 1em;
-    font-weight: bold;
-    margin-bottom: 0;
-    padding-bottom: 0;
-    margin-block-start: 0em;
-    margin-block-end: 0.25em;
-    line-height: 1em;
-  }
-  form#mc-embedded-subscribe-form p {
-    font-size: 0.8em;
-    margin-top: 0;
-    padding-top: 0;
-    margin-block-start: 0em;
-    margin-block-end: 0.5em;
-    line-height: 1em;
-  }
-
-  form#mc-embedded-subscribe-form {
-    background: white;
-  }
-
-  fieldset {
-    border: none;
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-    margin: 0;
-    padding: 1em;
-  }
-
-  .input-medium {
-    width: 250px;
-    border: 1px solid #ccc;
-    font-size: 0.9em;
   }
 }
 
