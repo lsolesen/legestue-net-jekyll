@@ -1,6 +1,6 @@
 ---
-title: &title "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-nu [Videoer]"
-seo_title: "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-nu [Videoer]"
+title: &title "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-2022 [Videoer]"
+seo_title: "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-2022 [Videoer]"
 permalink: /officielle-vm-slutrunde-sange/
 language: da
 header:
@@ -57,6 +57,14 @@ songs_danish:
     video:
       provider: youtube
       id: -5bF5AW5fYg
+  - title: Skulder ved Skulder
+    artist: Burhan G, Ankerstjerne, Nicolai Seebach, Jarl Friis Mikkelsen
+    year: 2022
+    event: VM i Qatar
+    description: "Danmarks officielle fodboldsang er skrevet af Burhan G, Ankerstjerne, Nicolai Seebach, Jarl Friis-Mikkelsen og er kommet til verden med inputs fra alle jer danskere."
+    video:
+      provider: youtube
+      id: xHoqqJgx5Xg
 songs:
   - title: "El Rock del Mundial"
     artist: Los Ramblers
@@ -170,6 +178,14 @@ songs:
     video:
       provider: youtube
       id: V15BYnSr0P8
+  - title: "Hayya Hayya (Better Together)"
+    artist: Trinidad Cardona, Davido and Aisha
+    year: 2022
+    event: VM i Qatar
+    description: "Hayya Hayya (Better Together) er den første single fra albummet FIFA World Cup Qatar 2022™ Official Soundtrack."
+    video:
+      provider: youtube
+      id: vyDjFVZgJoo
 ---
 
 FIFA har siden 1962 udgivet en officiel sang til hver VM-slutrunde. Jeg har her samlet de internationale VM-sange i en komplet liste, og du får også en liste over de danske sange fra VM.
@@ -222,7 +238,9 @@ I 1994 dannede Queens legendariske hit: "We are the Champions" også et lydbagt�
 
 ## Hvad er den officielle fodboldsang for VM 2022?
 
-Man har endnu ikke valgt en officiel sang til den næste VM-slutrunde. Jeg opdaterer siden, så snart jeg ved mere.
+Den officielle sang til VM-slutrunden 2022 er Hayya Hayya (Better Together), som du kan høre her:
+
+{% include video provider="youtube" id="vyDjFVZgJoo" %}
 
 ## Hvor er VM-sangene fra FIFA til kvindefodbold?
 

@@ -143,6 +143,14 @@ songs:
     video:
       provider: youtube
       id: tQe7QF2SpNM
+  - title: Skulder ved Skulder
+    artist: Burhan G, Ankerstjerne, Nicolai Seebach, Jarl Friis Mikkelsen
+    year: 2022
+    event: VM i Qatar
+    description: "Danmarks officielle fodboldsang er skrevet af Burhan G, Ankerstjerne, Nicolai Seebach, Jarl Friis-Mikkelsen og er kommet til verden med inputs fra alle jer danskere."
+    video:
+      provider: youtube
+      id: xHoqqJgx5Xg
 ---
 
 Jeg har samlet alle de danske fodboldsange, så du kan komme i stemning til at se landsholdet spille landskamp. Der er mange mindeværdige kampsange, og mange af disse landsholdssange har været en del af soundtracket til min barndom.
