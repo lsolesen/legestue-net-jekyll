@@ -1,6 +1,6 @@
 ---
-title: &title "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2022"
-seo_title: "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2022"
+title: &title "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2023"
+seo_title: "Officielle EM-sange: EM-slutrunde sange fra 1992 til 2023"
 permalink: /officielle-em-slutrunde-sange/
 language: da
 header:

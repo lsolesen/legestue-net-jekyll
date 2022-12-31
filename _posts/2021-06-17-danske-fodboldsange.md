@@ -1,6 +1,6 @@
 ---
-title: &title "Danske fodboldsange fra 1984-2022. Den er bedst!"
-seo_title: "Danske fodboldsange fra 1984-2022. Komplet liste! »"
+title: &title "Danske fodboldsange fra 1984-2023. Den er bedst!"
+seo_title: "Danske fodboldsange fra 1984-2023. Komplet liste! »"
 permalink: /danske-fodboldsange-og-kampsange/
 language: da
 header:

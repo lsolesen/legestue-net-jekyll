@@ -1,6 +1,6 @@
 ---
-title: &title "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-2022 [Videoer]"
-seo_title: "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-2022 [Videoer]"
+title: &title "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-2023 (Videoer)"
+seo_title: "VM-sange: Alle FIFAs VM-slutrundesange fra 1962-2023 (Videoer)"
 permalink: /officielle-vm-slutrunde-sange/
 language: da
 header:
