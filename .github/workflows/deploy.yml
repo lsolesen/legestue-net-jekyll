@@ -7,6 +7,12 @@ on:
   push:
     branches:
       - master
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+    branches:
+      - master
+
+  workflow_dispatch:
 
 env:
   RUBY_VERSION: "3.1.2"
@@ -16,7 +22,7 @@ env:
 # Which means the tasks we want Github to execute
 jobs:
   build:
-    name: deploy
+    name: build
     # Here we specify in whith OS we want it to run
     runs-on: ubuntu-latest
     # Now we define which actions will take place.
@@ -32,27 +38,40 @@ jobs:
       - name: ⚡️ Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev
-          sudo gem install bundler::${{ env.BUNDLER_VERSION }}
-      - uses: ruby/setup-ruby@v1
+          sudo apt-get install -y --no-install-recommends bats build-essential ca-certificates curl make shellcheck libgsl-dev libffi-dev minify
+          sudo gem install bundler:${{ env.BUNDLER_VERSION }}
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - name: ⚡️ Get cached gems
-        uses: actions/cache@v2
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
       - name: ⚡️ Setting up dependencies
         run: |
           bundle install
+      - name: Cache jekyll
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
       - name: Checking Jekyll configuration
         run: bundle exec jekyll doctor
       - name: 🔨 Build site
         run: |
           JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi
+      - name: Optimize
+        run: |
+          minify -r -o _site/ --html-keep-document-tags --html-keep-end-tags --html-keep-default-attrvals --html-keep-whitespace --verbose _site
+  deploy:
+    if: github.event_name == 'push'
+    name: deploy
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
       - name: 🎉 Deploy to GitHub Pages 🎊
         if: success()
         uses: crazy-max/ghaction-github-pages@v2
@@ -61,6 +80,15 @@ jobs:
           build_dir: _site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
       - name: ⚡️ Cache HTMLProofer
         id: cache-htmlproofer
         uses: actions/cache@v2
@@ -69,7 +97,6 @@ jobs:
           key: ${{ runner.os }}-htmlproofer
       - name: 📉 Check HTML
         uses: chabad360/htmlproofer@master
-        continue-on-error: true
         with:
           directory: "./_site"
           # The directory to scan
@@ -80,5 +107,15 @@ jobs:
             --allow-hash-href true
             --ignore-empty-alt true
             --cache '{ "timeframe": { "external": "7d" } }'
+          # The arguments to pass to HTMLProofer
+  clean:
+    needs: [build,deploy,test]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use cache
+        uses: actions/cache@v3
+        with:
+          path: "_site/"
+          key: ${{ runner.os }}-${{ github.sha }}
       - name: ☁️ Cleaning up
         run: bundle exec jekyll clean
