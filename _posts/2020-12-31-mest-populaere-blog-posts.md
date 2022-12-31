@@ -1,5 +1,5 @@
 ---
-title: &title "De mest populære blog posts på Fodboldens Legestue i 2021"
+title: &title "De mest populære blog posts på Fodboldens Legestue i 2022"
 permalink: /mest-populaere-blog-posts/
 redirect_from:
   - /blog/5-mest-l-ste-artikler-i-2014
@@ -13,7 +13,18 @@ categories:
   - Om
 tags:
   - webclips
-last_modified_at: 2021-12-31T16:18:40Z
+last_modified_at: 2022-12-31T16:18:40Z
+popular_posts_2022:
+  - /danske-fodboldsange-og-kampsange/
+  - /opvarmning/
+  - /lege/
+  - /fodboldoevelser/
+  - /fodboldovelser-8-10-aar/
+  - /opvarmningslege-fodbold/
+  - /fodboldovelser-12-15-aar/
+  - /fodboldovelser-10-12-aar/
+  - /hvem-opfandt-fodbolden/
+  - /verdens-storste-fodboldstadion/
 popular_posts_2021:
   - /hvem-opfandt-fodbolden/
   - /opvarmning/
@@ -38,13 +49,27 @@ popular_posts_2020:
   - /den-indre-dialog/
 ---
 
-Vi har kigget lidt på statistikken over hvilke artikler der har været de mest læste i 2020. Her er de 5 mest læste artikler. Nogle af artiklerne er lidt overraskende.
+Vi har kigget lidt på statistikken over hvilke artikler der har været de mest læste i år. Nogle af artiklerne er lidt overraskende.
 
-Der er kommet lidt liv i Fodboldens Legestue igen. Vi er get i gang med at skrive nye blog posts og har opdateret gamle blog posts.
-
-Her samler vi op på de mest populære blog posts i løbet af 2020. Der er nogle ældre blog posts på {{ page.popular_posts_2021.size }} listen, men der er også nogle nye der har sneget sig ind på listen over populære blog posts.
+Her samler vi op på de mest populære blog posts i løbet af i år. Der er nogle ældre blog posts på {{ page.popular_posts_2022.size }} listen, men der er også nogle nye der har sneget sig ind på listen over populære blog posts.
 
 Tak til alle dem, der læser med, hvad vil I så gerne læse mere om i fremtiden?
+
+## De {{ page.popular_posts_2022.size }} mest populære blog posts i løbet af 2022
+
+{% for permalink in page.popular_posts_2022 %}
+
+{% assign site_posts = site.posts | where: "permalink", permalink %}
+{% assign site_pages = site.pages | where: "permalink", permalink %}
+{% assign site_posts = site_posts | concat: site_pages %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+{% endfor %}
 
 ## De {{ page.popular_posts_2021.size }} mest populære blog posts i løbet af 2021
 
@@ -73,23 +98,3 @@ Tak til alle dem, der læser med, hvad vil I så gerne læse mere om i fremtiden
 {% endif %}
 
 {% endfor %}
-
-## Blog posts skrevet i 2020-2021
-
-{% assign date_from = '2020-01-01' | date: '%s' %}
-{% assign date_to = '2021-12-31' | date: '%s' %}
-
-{% assign site_posts = site.posts | where_exp: "post", "post.url != page.url" | sort: "last_modified_at" %}
-
-<div class="feature__wrapper">
-
-{% if site_posts.size > 0 %}
-  {% for post in site_posts %}
-    {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% if current_year == '2020' %}
-      {% include archive-single.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-</div>
