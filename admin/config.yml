@@ -83,6 +83,14 @@ collections:
           - {label: "Alt", name: "alt", widget: "string"}
           - {label: "Image", name: "image_path", widget: "string"}
           - {label: "Url", name: "url", widget: "string"}
+      - label: Frequently Asked Questions
+        name: faq
+        widget: list
+        collapsed: true
+        required: false
+        fields:
+          - {label: "Question", name: "question", widget: "string", required: false}
+          - {label: "Answer", name: "answer", widget: "text", required: false}
       - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Sider" # Used in the UI
@@ -100,9 +108,9 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: "Overlay Image", name: "overlay_image", widget: "string"}
-          - {label: "Teaser Image", name: "teaser", widget: "string"}
-          - {label: "Caption", name: "caption", widget: "string"}
+          - {label: "Overlay Image", name: "overlay_image", widget: "string", required: false}
+          - {label: "Teaser Image", name: "teaser", widget: "string", required: false}
+          - {label: "Caption", name: "caption", widget: "string", required: false}
           - label: Actions
             name: actions
             widget: list
@@ -133,10 +141,18 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Alt", name: "alt", widget: "string"}
-          - {label: "Image", name: "image_path", widget: "string"}
-          - {label: "Url", name: "url", widget: "string"}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Alt", name: "alt", widget: "string", required: false}
+          - {label: "Image", name: "image_path", widget: "string", required: false}
+          - {label: "Url", name: "url", widget: "string", required: false}
+      - label: Frequently Asked Questions
+        name: faq
+        widget: list
+        collapsed: true
+        required: false
+        fields:
+          - {label: "Question", name: "question", widget: "string", required: false}
+          - {label: "Answer", name: "answer", widget: "text", required: false}
       - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
   - name: "tricks" # Used in routes, e.g., /admin/collections/blog
     label: "Tricks" # Used in the UI
@@ -158,9 +174,9 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: "Overlay Image", name: "overlay_image", widget: "string"}
-          - {label: "Teaser Image", name: "teaser", widget: "string"}
-          - {label: "Caption", name: "caption", widget: "string"}
+          - {label: "Overlay Image", name: "overlay_image", widget: "string", required: false}
+          - {label: "Teaser Image", name: "teaser", widget: "string", required: false}
+          - {label: "Caption", name: "caption", widget: "string", required: false}
           - label: Actions
             name: actions
             widget: list
@@ -246,10 +262,18 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Alt", name: "alt", widget: "string"}
-          - {label: "Image", name: "image_path", widget: "string"}
-          - {label: "Url", name: "url", widget: "string"}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Alt", name: "alt", widget: "string", required: false}
+          - {label: "Image", name: "image_path", widget: "string", required: false}
+          - {label: "Url", name: "url", widget: "string", required: false}
+      - label: Frequently Asked Questions
+        name: faq
+        widget: list
+        collapsed: true
+        required: false
+        fields:
+          - {label: "Question", name: "question", widget: "string", required: false}
+          - {label: "Answer", name: "answer", widget: "text", required: false}
       - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
   - label: "Site options"
     name: "settings"
