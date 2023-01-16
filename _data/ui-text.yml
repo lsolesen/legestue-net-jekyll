@@ -852,7 +852,7 @@ da: &DEFAULT_DA
   page                       : "Side"
   pagination_previous        : "Forrige"
   pagination_next            : "Næste"
-  breadcrumb_home_label      : "<i class='fas fa-home'></i>"
+  breadcrumb_home_label      : "<i class='fas fa-home'></i> <span class='hidden'>Forsiden</span>"
   breadcrumb_separator       : ">"
   menu_label                 : "Vis/skjul menu"
   toc_label                  : "På denne side"
