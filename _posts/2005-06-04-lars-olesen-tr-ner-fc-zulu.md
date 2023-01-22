@@ -12,7 +12,7 @@ tags:
 last_modified_at: 2013-02-20T10:32:16Z
 ---
 
-Ejeren af Fodboldens Legestue, Lars Olesen, underviste i Episode XI Danmarks dårligste tophold, [FC Zulu](http://fcz.dk/). Holdet skulle optræde i Cirkus Benneweis som fodboldkunstnere.
+Ejeren af Fodboldens Legestue, Lars Olesen, underviste i Episode XI Danmarks dårligste tophold, [FC Zulu](https://fcz.dk/). Holdet skulle optræde i Cirkus Benneweis som fodboldkunstnere.
 
 Træningen startede med afrikansk opvarmning, inden den hardcore fodboldtricks træning startede. Der blev øvet rundt-om, kattepote, bold på nakken og mange andre tricks. Og mange af trickene lykkedes også.
 

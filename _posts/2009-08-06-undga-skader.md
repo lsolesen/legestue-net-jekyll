@@ -33,7 +33,7 @@ Lad os dykke ned i, hvad der kan forebygge skader i fodbold.
 
 Opvarmningen er en af de væsentligste faktorerer for at forebygge skader.
 
-Center for Idrettsskadeforskning har på [Klok Av Skade](http://www.klokavskade.no) har lavet et opvarmningsprogram, som er [virkningsfuldt ift. at undgå skader](http://bjsm.bmj.com/content/44/11/787). De har samtidig lavet noget rigtig godt materiale, så det er let at implementere opvarmningsprogrammet i ens egen træning. Du finder det på [SPILLEKLAR! - et komplett oppvarmingsprogram for unge fotballspillere](http://www.skadefri.no/idretter/fotball/), og du skal bare lige læse det på norsk.
+Center for Idrettsskadeforskning har på [Klok Av Skade](https://www.klokavskade.no) har lavet et opvarmningsprogram, som er [virkningsfuldt ift. at undgå skader](https://bjsm.bmj.com/content/44/11/787). De har samtidig lavet noget rigtig godt materiale, så det er let at implementere opvarmningsprogrammet i ens egen træning. Du finder det på [SPILLEKLAR! - et komplett oppvarmingsprogram for unge fotballspillere](https://www.skadefri.no/idretter/fotball/), og du skal bare lige læse det på norsk.
 
 ## Styrketræningsøvelser forebygger skader i fodbold
 

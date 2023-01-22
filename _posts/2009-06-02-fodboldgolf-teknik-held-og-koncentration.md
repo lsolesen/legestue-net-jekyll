@@ -37,7 +37,7 @@ Hasse, som ejeren hedder, gik med ud på banen og forklarede os reglerne inden k
 
 Priserne er virkelig acceptable, vi betalte 135 pr. person for at spille på begge baner og i en varighed af fem timer. Herefter stillede stedet en grill til rådighed og vi sad i deres hyggelige udhus og grillede inden turen gik mod København. Man kan både betale med svenske og danske kroner og de har også en kiosk, hvor den værste tørst og sult kan ordnes.
 
-Man skal tids bestille og nummeret samt andre oplysninger kan man finde på hjemmesiden: [www.fotbollsgolf.nu](http://www.fotbollsgolf.nu/).
+Man skal tids bestille og nummeret samt andre oplysninger kan man finde på hjemmesiden: [www.fotbollsgolf.nu](https://www.fotbollsgolf.nu/).
 
 ## Konklusion
 

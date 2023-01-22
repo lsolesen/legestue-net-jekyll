@@ -43,7 +43,7 @@ Du kan fange bolden på brystet. Det gør du ved at sparke bolden op til brysth�
 
 ### Bryst til nakke
 
-Balancer med bolden på brystet. Få bolden til at rulle op på skulderen og derfra over på nakken. Billeder fra http://www.69a.com/
+Balancer med bolden på brystet. Få bolden til at rulle op på skulderen og derfra over på nakken. Billeder fra https://www.69a.com/
 
 ### Hold i nakken
 

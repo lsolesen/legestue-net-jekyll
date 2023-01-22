@@ -79,7 +79,7 @@ I Danmark er der i dag mere end 350.000 der spiller fodbold på landsplan.
 
 ## Kilder
 
-- Fodbold og dens fascinerende historie kan findes mange steder, men jeg vil anbefale FIFA’s hjemmeside, hvor en detaljeret engelsk artikel fortæller om [fødslen af verdens bedste spil](http://www.fifa.com/).
+- Fodbold og dens fascinerende historie kan findes mange steder, men jeg vil anbefale FIFA’s hjemmeside, hvor en detaljeret engelsk artikel fortæller om [fødslen af verdens bedste spil](https://www.fifa.com/).
 - DBU har også deres egen historie om fodbold, men her er der mest fokus på den danske historie og udviklingen herhjemme.
 - Den store danske Encyklopædi (leksikon fra Gyldendal) har også et par glimrende uddybende sider om fodbold.
 - [Football History](https://www.footballhistory.org/)

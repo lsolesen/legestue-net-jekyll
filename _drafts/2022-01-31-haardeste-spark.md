@@ -204,4 +204,4 @@ PSG mod Anderlecht
 
 ***
 
-http://www.fodboldhistorik.dk/Fodbold-historik/kaaring/ths/kaaring.htm
+https://www.fodboldhistorik.dk/Fodbold-historik/kaaring/ths/kaaring.htm

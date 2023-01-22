@@ -93,7 +93,7 @@ Med en god humoristisk indgangsvinkel til mange af tilværelsens spørgsmål –
 
 Betragtninger der er væsentlige i vores daglige arbejde med fodboldpigerne og -drengene i klubben.
 
-Du kan læse mere om Arne Nielssons tanker på [www.foqus-management.dk](http://www.foqus-management.dk) og om Henrik Meng på [www.meng.dk](http://www.meng.dk/).
+Du kan læse mere om Arne Nielssons tanker på [www.foqus-management.dk](https://www.foqus-management.dk) og om Henrik Meng på [www.meng.dk](https://www.meng.dk/).
 {: .notice .notice--success }
 
 > ’Sig ’det bli’r svært’ – og du får ret. Sig ’Selvfølgelig kan jeg det, jeg har bare ikke lært det endnu’ – og du får ret. Hvad vil du helst have ret i?’

@@ -27,6 +27,7 @@
   },
   "scripts": {
     "start": "bundle exec jekyll server --port 8080 --incremental",
+    "test:html": "bundle exec htmlproofer --only-4xx --assume-extension \".html\" --ignore-status-codes \"400,403,409,429\" --allow-hash-href --ignore-empty-alt --cache '{ \"timeframe\": { \"external\": \"7d\" } }' _site/",
     "generate-image": "node _scripts/generate-image.js",
     "og-image": "npm run generate-image -- type:og",
     "og-images": "npm run generate-image -- type:og path:_posts/",

@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
 gallery:
-  - url: http://www.asv-fodbold.dk/media/1639/aldersrelateret-traening-forsvarlig-og-maalrettet-traening-af-boern-og-unge.pdf
+  - url: https://www.asv-fodbold.dk/media/1639/aldersrelateret-traening-forsvarlig-og-maalrettet-traening-af-boern-og-unge.pdf
     image_path: /assets/images/covers/aldersrelateret-traening.jpg
     title: "DBU Aldersrelateret træning"
     alt: "DBU Aldersrelateret træning"
@@ -33,17 +33,17 @@ gallery:
     title: "DBU Børnetræning"
     alt: "DBU Børnetræning"
     rel: nofollow
-  - url: http://www.asv-fodbold.dk/media/1794/talentmanual-2014-final-web.pdf
+  - url: https://www.asv-fodbold.dk/media/1794/talentmanual-2014-final-web.pdf
     image_path: /assets/images/covers/talentmanual.jpg
     title: "DBU Talentmanual"
     alt: "DBU Talentmanual"
     rel: nofollow
-  - url: http://www.asv-fodbold.dk/media/1795/den-roede-traad-m-oevelser-web.pdf
+  - url: https://www.asv-fodbold.dk/media/1795/den-roede-traad-m-oevelser-web.pdf
     image_path: /assets/images/covers/den-roede-traad.jpg
     title: "DBU Den røde tråd"
     alt: "DBU Den røde tråd"
     rel: nofollow
-  - url: http://www.asv-fodbold.dk/media/1793/holdningshaefte_2012.pdf
+  - url: https://www.asv-fodbold.dk/media/1793/holdningshaefte_2012.pdf
     image_path: /assets/images/covers/holdninger-og-handlinger.jpg
     title: "DBU Holdninger og Handlinger"
     alt: "DBU Holdninger og Handlinger"
@@ -52,32 +52,32 @@ gallery:
     image_path: /assets/images/books/bornetraeningsmanual-2006.jpg
     title: "DBU Børnetræningsmanualen 2006"
     alt: "DBU Børnetræningsmanualen 2006"
-  - url: http://www.asv-fodbold.dk/media/1798/ungdomshaandbog.pdf
+  - url: https://www.asv-fodbold.dk/media/1798/ungdomshaandbog.pdf
     image_path: /assets/images/covers/ungdomstraening.jpg
     title: "DBU Ungdomstræning"
     alt: "DBU Ungdomstræning"
     rel: nofollow
-  - url: http://www.asv-fodbold.dk/media/1828/dbu-traenerstart-bolden-i-centrum.pdf
+  - url: https://www.asv-fodbold.dk/media/1828/dbu-traenerstart-bolden-i-centrum.pdf
     image_path: /assets/images/covers/traenerstart-med-bolden-i-centrum.jpg
     title: "Trænerstart - med bolden i centrum"
     alt: "Trænerstart - med bolden i centrum"
     rel: nofollow
-  - url: http://www.asv-fodbold.dk/media/1829/dbu-paa-banen-med-bolden.pdf
+  - url: https://www.asv-fodbold.dk/media/1829/dbu-paa-banen-med-bolden.pdf
     image_path: /assets/images/covers/paa-banen-med-bolden.jpg
     title: "På banen med bolden"
     alt: "På banen med bolden"
     rel: nofollow
-  - url: http://www.asv-fodbold.dk/media/1825/dgi-gamle-lege-og-boldspil.pdf
+  - url: https://www.asv-fodbold.dk/media/1825/dgi-gamle-lege-og-boldspil.pdf
     image_path: /assets/images/covers/gamle-lege-og-boldspil.jpg
     title: "DGI Gamle lege og boldspil"
     alt: "DGI Gamle lege og boldspil"
     rel: nofollow
-  - url: http://www.asv-fodbold.dk/media/1826/dgi-ideer-paa-spil.pdf
+  - url: https://www.asv-fodbold.dk/media/1826/dgi-ideer-paa-spil.pdf
     image_path: /assets/images/covers/ideer-paa-spil.jpg
     title: "DGI Ideer på spil"
     alt: "DGI Ideer på spil"
     rel: nofollow
-  - url: http://www.asv-fodbold.dk/media/1824/dgi-flere-ideer-paa-spil.pdf
+  - url: https://www.asv-fodbold.dk/media/1824/dgi-flere-ideer-paa-spil.pdf
     image_path: /assets/images/covers/flere-ideer-paa-spil.jpg
     title: "DGI Flere ideer på spil"
     alt: "DGI Flere ideer på spil"
@@ -116,7 +116,7 @@ gallery_legestue:
     alt: "Fodboldrytmer"
     title: "Fodboldrytmer"
 gallery_ads:
-  - url: http://sportmaster.dk
+  - url: https://sportmaster.dk
     image_path: https://track.adtraction.com/t/t?a=1140875995&as=1484571947&t=1&tk=1&i=1
     alt: Sportmaster
     title: Sportmaster
@@ -127,7 +127,7 @@ gallery_ads:
     title: A-puls
     rel: sponsored
   - image_path: https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=51749
-    url: http://www.saxo.com/
+    url: https://www.saxo.com/
     alt: Saxo
     title: Saxo
     rel: sponsored

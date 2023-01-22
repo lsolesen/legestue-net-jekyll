@@ -29,7 +29,7 @@ Hjulbenet bliver defineret i Den Store Danske på følgende måde.
 
 > **hjulben**, _genu varum_, øget afstand mellem knæene pga. deforme lårben, knæ eller underben. Tilstanden er sædvanlig under det normale barns tidlige udvikling, men afløses i 2-3-års-alderen af kalveknæ, som igen er aftaget ved 6-8-års-alderen. Hos børn sås hjulben tidligere oftest i forbindelse med engelsk syge. Hos voksne kan det opstå i forbindelse med knæslidgigt eller efter knoglebrud, der er lægt med fejlstilling. I udtalte tilfælde kan der udføres ortopædkirurgisk korrektion.
 
---- <cite>[Gyldendal. Den Store Danske](http://denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Ortop%C3%A6disk_kirurgi/hjulben)</cite>
+--- <cite>[Gyldendal. Den Store Danske](https://denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Ortop%C3%A6disk_kirurgi/hjulben)</cite>
 
 Det at være hjulebenet er altså en del af opvæksten, men studier peger altså på, at der er en større forekomst af hjulbenede hos fodboldspillere, end der er i befolkningen generelt.
 

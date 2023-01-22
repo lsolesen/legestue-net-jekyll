@@ -35,7 +35,7 @@ Selvom dart er et dejligt spil, så er det trods alt en af de mindre sportsgrene
 
 ## Hvad er så Danmarks nationalsport?
 
-Hvis man skal tro [Statsbogerskabstesten](http://statsborgerskabstest.dk/sport-i-danmark/), så er det helt sikkert fodbold, der er Danmarks nationalsport. Også selvom [B.T.](https://www.bt.dk/sport/fodbold-eller-haandbold-som-nationalsport-her-er-den-helt-taette-afgoerelse-fra) foreslår, at håndbold skulle have overhalet fodbold.
+Hvis man skal tro [Statsbogerskabstesten](https://statsborgerskabstest.dk/sport-i-danmark/), så er det helt sikkert fodbold, der er Danmarks nationalsport. Også selvom [B.T.](https://www.bt.dk/sport/fodbold-eller-haandbold-som-nationalsport-her-er-den-helt-taette-afgoerelse-fra) foreslår, at håndbold skulle have overhalet fodbold.
 
 ## Fodbold er den mest populære idrætsgren i Danmark
 

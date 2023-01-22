@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2010-07-24T12:57:24Z
 ---
 
-Det ser ud til at være en god ide, at spillerne får energidrik, når de spiller. [elitesoccerconditioning.com](http://elitesoccerconditioning.com) præsenterer et studium af [Carbohydrate ingestion during game](http://elitesoccerconditioning.com/ScienceofSoccer/carbohydratesforsoccer.htm), og det ser ud til at spillere, der har fået energidrik, mens de spiller både præsterer og restituerer bedre.
+Det ser ud til at være en god ide, at spillerne får energidrik, når de spiller. [elitesoccerconditioning.com](https://elitesoccerconditioning.com) præsenterer et studium af [Carbohydrate ingestion during game](https://elitesoccerconditioning.com/ScienceofSoccer/carbohydratesforsoccer.htm), og det ser ud til at spillere, der har fået energidrik, mens de spiller både præsterer og restituerer bedre.
 
 22 frivillige, mandlige fodboldspillere deltog i studiet. De blev delt i to sammenlignelige grupper. Den ene gruppe fik en energidrik med salte, mens den anden gruppe drak en placebodrik. De spillede en fodboldkamp på 90 minutter, og bagefter lavede de fodboldrelevante tests og fik målt deres blodglukose.
 

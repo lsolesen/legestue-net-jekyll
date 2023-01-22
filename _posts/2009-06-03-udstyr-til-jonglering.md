@@ -26,7 +26,7 @@ Vi har prøvet 4 forskellige jongleringsbolde til fodbold. Hvis du vil hjælpe m
 
 ## Fodbolde til jonglering
 
-Boldene må ikke være alt for hårde. Fodboldens Legestue har prøvet rigtig mange bolde, men er især blevet glade for at jonglere med disse boldtyper fra Select (du kan læse mere om boldene på [www.select.dk](http://www.select.dk/)). Der gives point fra 1-10, hvor 10 er det bedste.
+Boldene må ikke være alt for hårde. Fodboldens Legestue har prøvet rigtig mange bolde, men er især blevet glade for at jonglere med disse boldtyper fra Select (du kan læse mere om boldene på [www.select.dk](https://www.select.dk/)). Der gives point fra 1-10, hvor 10 er det bedste.
 
 ### Select Indoor Speed
 

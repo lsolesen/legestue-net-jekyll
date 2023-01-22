@@ -38,7 +38,7 @@ Ifølge [Wikipedias](https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity)
 
 ## Liste over verdens største stadions
 
-[worldstadiums.com](http://www.worldstadiums.com/) er også en rigtig fin kilde til hjemmebaner rundt omkring i verden. De har endda en dedikeret side om Danmark, men det er lidt lettere at få overblik over store fodboldstadions i listen, jeg har samlet nedenunder.
+[worldstadiums.com](https://www.worldstadiums.com/) er også en rigtig fin kilde til hjemmebaner rundt omkring i verden. De har endda en dedikeret side om Danmark, men det er lidt lettere at få overblik over store fodboldstadions i listen, jeg har samlet nedenunder.
 
 På min liste her har jeg kun medtaget stadions, hvor der stadig bliver spillet fodbold regelmæssigt. Det er altså ikke nok, at der engang er blevet spillet fodboldkampe.
 
@@ -90,7 +90,7 @@ I **2020** vinder vi igen over England på Wembley i Nations League Cup med 0-1.
 
 Du lagde måske mærke til, at der ikke var nogen danske fodboldstadions på listen. Derfor har jeg samlet en liste over de største danske fodboldstadions også.
 
-Den mest omfattende oversigt over danske stadions, kan du finde på [stadions.dk](http://www.stadions.dk/), som siden kunne nu godt trænge til en opdatering, og ellers kan du finde en liste på [Wikipedia](https://da.wikipedia.org/wiki/Fodboldstadioner_i_Danmark).
+Den mest omfattende oversigt over danske stadions, kan du finde på [stadions.dk](https://www.stadions.dk/), som siden kunne nu godt trænge til en opdatering, og ellers kan du finde en liste på [Wikipedia](https://da.wikipedia.org/wiki/Fodboldstadioner_i_Danmark).
 
 Du kan få en overskuelig oversigt over de danske stadions her:
 

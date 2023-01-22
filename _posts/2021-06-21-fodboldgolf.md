@@ -67,7 +67,7 @@ Der er god tid til at snakke sammen, mens man går rundt og spiller. Derfor kan 
 
 Alle fodboldgolfbaner har rammer til hyggelige timer for større og mindre grupper. Du kan på langt de fleste baner selv medbringe mad og drikke. De fleste steder er der opstillet borde og bænke - og nogle steder kan du endda selv grille dit medbragte mad.
 
-{% include figure image_path="http://gludstedfodboldgolf.dk/wp-content/uploads/2017/12/Header-slider-1.jpg" caption="Fodboldgolfbanen ved [Gludsted Fodboldgolf](http://gludstedfodboldgolf.dk/)." alt="fodboldgolfbane vejle fodboldgolf" %}
+{% include figure image_path="https://gludstedfodboldgolf.dk/wp-content/uploads/2017/12/Header-slider-1.jpg" caption="Fodboldgolfbanen ved [Gludsted Fodboldgolf](https://gludstedfodboldgolf.dk/)." alt="fodboldgolfbane vejle fodboldgolf" %}
 
 ## Hvor kan du spille fodboldgolf?
 
@@ -96,18 +96,18 @@ Vi har samlet en liste over steder, hvor man kan spille med kontaktinformationer
 - [Frey's Fodboldgolf](https://www.freysplanteskole.dk/freys-fodboldgolf)
 - [Hejnsvig Fodboldgolf](https://www.hejnsvig-fodboldgolf.dk/)
 - [Himmerland Fodboldgolf](https://himmerland-fodboldgolf.dk/)
-- [Jammerbugtens Fodboldgolf](http://www.jbfodboldgolf.dk/)
+- [Jammerbugtens Fodboldgolf](https://www.jbfodboldgolf.dk/)
 - [Løkken Fodboldgolf](https://www.loekkenfodboldgolf.dk/fo/)
 - [Nordjysk Fodboldgolf](https://nordjyskfodboldgolf.dk/)
-- [Odsherreds Fodboldgolf](http://www.odsherred-fodboldgolf.dk/)
+- [Odsherreds Fodboldgolf](https://www.odsherred-fodboldgolf.dk/)
 - [Soccer World](https://www.soccerworld.dk/)
 - [Sunds Fodboldgolf](https://www.herningfodboldgolf.dk/)
-- [Sørvad Fodboldgolf/Fonagergaard](http://fonagergaard.dk/)
+- [Sørvad Fodboldgolf/Fonagergaard](https://fonagergaard.dk/)
 - [Uge Lystfiskeri/Fodboldgolf](https://uge-lystfiskeri.dk/fodboldgolf/)
 - [Ulbjerg Fodboldgolf](https://ulbjerg-fodboldgolf.dk/)
-- [Vejle Fodboldgolf](http://vejlefodboldgolf.dk/)
-- [Vendsyssel Fodboldgolf](http://www.18spark.dk/)
-- [Vestbjerg Fodboldgolf](http://vestbjergfodboldgolf.com/)
+- [Vejle Fodboldgolf](https://vejlefodboldgolf.dk/)
+- [Vendsyssel Fodboldgolf](https://www.18spark.dk/)
+- [Vestbjerg Fodboldgolf](https://vestbjergfodboldgolf.com/)
 - [Vestfyns Fodboldgolf](https://vestfyns-fodboldgolf.dk/)
 {% endcomment %}
 

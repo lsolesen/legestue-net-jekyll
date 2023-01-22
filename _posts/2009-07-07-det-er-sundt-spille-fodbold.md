@@ -20,7 +20,7 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Det er efterhånden ved at være gamle nyheder, men det er alligevel værd at nævne igen. Det er sundt at spille fodbold. [Institut for Idræt i København har undersøgt motionsfodbolds effekt på sundheden](http://www.ifi.ku.dk/)
+Det er efterhånden ved at være gamle nyheder, men det er alligevel værd at nævne igen. Det er sundt at spille fodbold. [Institut for Idræt i København har undersøgt motionsfodbolds effekt på sundheden](https://www.ifi.ku.dk/)
 
 14 utrænede mænd mellem 20 og 40 år trænede to-tre gange om ugen i tre måneder. I den periode fik de målt nogle sundhedsindikatorer, som fx kondital, styrke, muskelmasse, fedtprocent, kolesterol, insulinfølsomhed og balanceevne. Efter træningsforløbet var alt hvad forskerne målte på blevet bedre.
 
@@ -32,10 +32,10 @@ Det er sandsynligvis de alsidige bevægelsesformer i fodbold, der gør udslaget.
 
 --- <cite>[Peter Krustrup fra Institut for Idræt](https://www.folkeskolen.dk/48376/fodbold-er-sundere-end-loebetraening)</cite>
 
-Hvis fodboldspillerne i stedet var blevet sammenlignet med folk, der lavede noget mere udfordrende [løbetræning](http://motionsplan.dk/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb) eller noget [træning hvor man kombinerer løb og styrketræning](https://www.motionsplan.dk/artikel/bedste-kombination-af-loeb-og-styrketraening/) i samme træningsmængde, havde resultaterne nok ikke været så meget bedre.
+Hvis fodboldspillerne i stedet var blevet sammenlignet med folk, der lavede noget mere udfordrende [løbetræning](https://motionsplan.dk/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb) eller noget [træning hvor man kombinerer løb og styrketræning](https://www.motionsplan.dk/artikel/bedste-kombination-af-loeb-og-styrketraening/) i samme træningsmængde, havde resultaterne nok ikke været så meget bedre.
 
 {% include feature_row type="left" %}
 
 ## Referencer
 
-- [Fodbold sundere end løb](http://www.kropogfysik.dk/Default.aspx?ID=143&M=News&PID=257&NewsID=3656)
+- [Fodbold sundere end løb](https://www.kropogfysik.dk/Default.aspx?ID=143&M=News&PID=257&NewsID=3656)

@@ -1,34 +1,34 @@
 /*!
  * jQuery throttle / debounce - v1.1 - 3/7/2010
- * http://benalman.com/projects/jquery-throttle-debounce-plugin/
+ * https://benalman.com/projects/jquery-throttle-debounce-plugin/
  * 
  * Copyright (c) 2010 "Cowboy" Ben Alman
  * Dual licensed under the MIT and GPL licenses.
- * http://benalman.com/about/license/
+ * https://benalman.com/about/license/
  */
 
 // Script: jQuery throttle / debounce: Sometimes, less is more!
 //
 // *Version: 1.1, Last updated: 3/7/2010*
 // 
-// Project Home - http://benalman.com/projects/jquery-throttle-debounce-plugin/
-// GitHub       - http://github.com/cowboy/jquery-throttle-debounce/
-// Source       - http://github.com/cowboy/jquery-throttle-debounce/raw/master/jquery.ba-throttle-debounce.js
-// (Minified)   - http://github.com/cowboy/jquery-throttle-debounce/raw/master/jquery.ba-throttle-debounce.min.js (0.7kb)
+// Project Home - https://benalman.com/projects/jquery-throttle-debounce-plugin/
+// GitHub       - https://github.com/cowboy/jquery-throttle-debounce/
+// Source       - https://github.com/cowboy/jquery-throttle-debounce/raw/master/jquery.ba-throttle-debounce.js
+// (Minified)   - https://github.com/cowboy/jquery-throttle-debounce/raw/master/jquery.ba-throttle-debounce.min.js (0.7kb)
 // 
 // About: License
 // 
 // Copyright (c) 2010 "Cowboy" Ben Alman,
 // Dual licensed under the MIT and GPL licenses.
-// http://benalman.com/about/license/
+// https://benalman.com/about/license/
 // 
 // About: Examples
 // 
 // These working examples, complete with fully commented code, illustrate a few
 // ways in which this plugin can be used.
 // 
-// Throttle - http://benalman.com/code/projects/jquery-throttle-debounce/examples/throttle/
-// Debounce - http://benalman.com/code/projects/jquery-throttle-debounce/examples/debounce/
+// Throttle - https://benalman.com/code/projects/jquery-throttle-debounce/examples/throttle/
+// Debounce - https://benalman.com/code/projects/jquery-throttle-debounce/examples/debounce/
 // 
 // About: Support and Testing
 // 
@@ -38,7 +38,7 @@
 // 
 // jQuery Versions - none, 1.3.2, 1.4.2
 // Browsers Tested - Internet Explorer 6-8, Firefox 2-3.6, Safari 3-4, Chrome 4-5, Opera 9.6-10.1.
-// Unit Tests      - http://benalman.com/code/projects/jquery-throttle-debounce/unit/
+// Unit Tests      - https://benalman.com/code/projects/jquery-throttle-debounce/unit/
 // 
 // About: Release History
 // 

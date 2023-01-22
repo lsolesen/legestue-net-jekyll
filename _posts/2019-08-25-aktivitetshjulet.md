@@ -61,7 +61,7 @@ Siden videoen er modellen blevet ændret en lille smule, og Mads Hovgaard udfold
 
 Aktivitetshjulet benyttes til at lave forskellige former for tilpasninger – både i tilrettelæggelsen og under udførelsen af den konkrete aktivitet. Til det formål er Aktivitetshjulet et brugbart redskab.
 
-{% include figure image_path="http://tibis.dk/wp-content/uploads/2019/08/Aktivitethjulet.png" caption="Aktivitetshjulet og alle kategorierne" alt="aktivitetshjulet" %}
+{% include figure image_path="https://tibis.dk/wp-content/uploads/2019/08/Aktivitethjulet.png" caption="Aktivitetshjulet og alle kategorierne" alt="aktivitetshjulet" %}
 
 ## Konklusion
 
@@ -70,7 +70,7 @@ God fornøjelse med at prøve aktivitetshjulet i praksis.
 ## Et par referencer om aktivitetshjulet
 
 - [Artikel Aktivitetshjulet](https://docplayer.dk/2522365-Aktivitetshjulet-en-model-til-beskrivelse-analyse-og-udvikling-af-aktiviteter.html)
-- [Idrætsundervisning: Idrætsludo](http://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf)
+- [Idrætsundervisning: Idrætsludo](https://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf)
 
 [Download oversigt](https://skoleidraet.dk/media/505365/Aktivitets-hjulet.pdf){: .btn .btn--large .btn--success }
 

@@ -64,7 +64,7 @@ Jeg bruger selv mental træning og har mærket en stor effekt i mit eget spil. J
 
 Øvelserne er taget fra den danske idrætspsykolog, Jørn Richter, som blandt andet har arbejdet med det danske fodboldlandshold og badminton-spilleren, Peter Gade. Jørn Richter har udgivet flere bøger med hjælp til mental træning.
 
-Det er værd at besøge den verdensberømte amerikanske guru, når det gælder personlig udvikling, Anthony Robbins på [www.anthonyrobbins.com](http://www.anthonyrobbins.com/). Han har arbejdet mentalt med de største stjerner i NBA (amerikansk basketball liga) og golf-ikonet, Tiger Woods.
+Det er værd at besøge den verdensberømte amerikanske guru, når det gælder personlig udvikling, Anthony Robbins på [www.anthonyrobbins.com](https://www.anthonyrobbins.com/). Han har arbejdet mentalt med de største stjerner i NBA (amerikansk basketball liga) og golf-ikonet, Tiger Woods.
 
 Bogen "Viljen til sejr" af Arne Nielsson kan varmt anbefales som et godt værktøj til at blive klogere på mental træning. I bogen fokuseres dog mest på livet som helhed, og ikke specifikt på den mentale del af fodbold.
 

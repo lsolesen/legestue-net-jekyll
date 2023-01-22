@@ -3,7 +3,7 @@
  * Animate scrolling to anchor links
  * (c) 2020 Chris Ferdinandi
  * MIT License
- * http://github.com/cferdinandi/smooth-scroll
+ * https://github.com/cferdinandi/smooth-scroll
  */
 
 (function (root, factory) {
@@ -153,7 +153,7 @@
 					firstCodeUnit === 0x002D
 				)
 			) {
-				// http://dev.w3.org/csswg/cssom/#escape-a-character-as-code-point
+				// https://dev.w3.org/csswg/cssom/#escape-a-character-as-code-point
 				result += '\\' + codeUnit.toString(16) + ' ';
 				continue;
 			}
@@ -176,7 +176,7 @@
 			}
 
 			// Otherwise, the escaped character.
-			// http://dev.w3.org/csswg/cssom/#escape-a-character
+			// https://dev.w3.org/csswg/cssom/#escape-a-character
 			result += '\\' + string.charAt(index);
 
 		}

@@ -20,7 +20,7 @@ Statistikkerne laves ved at der sidder nogle personer og kigger på tv-klip af k
 
 ## Hvad kan statistikken i fodbold bruges til?
 
-Statistik er bare tal, og de skal naturligvis sættes ind i en ramme. Det er uhyre tidskrævende at lave statistikken, men den kan kvalificere trænernes betragtninger. Især når man ved, at trænernes betragtninger er korrekt i mindre end 45% af tilfældene efter at have analyseret 45 minutters fodbold ([Hughes](http://www.coachesinfo.com/index.php?option=com_content&view=article&id=305:analysis-to-coaching&catid=91:general-articles&Itemid=170)).
+Statistik er bare tal, og de skal naturligvis sættes ind i en ramme. Det er uhyre tidskrævende at lave statistikken, men den kan kvalificere trænernes betragtninger. Især når man ved, at trænernes betragtninger er korrekt i mindre end 45% af tilfældene efter at have analyseret 45 minutters fodbold ([Hughes](https://www.coachesinfo.com/index.php?option=com_content&view=article&id=305:analysis-to-coaching&catid=91:general-articles&Itemid=170)).
 
 - **Generel statistik.** Det er muligt at kigge på boldbesiddelse, chancer, områder med mest spil osv. på baggrund af statistikken.
 - **Individuel statistik.** Med programmet er det muligt rigtig hurtigt at se alle indlæg fra spiller nr. 8.

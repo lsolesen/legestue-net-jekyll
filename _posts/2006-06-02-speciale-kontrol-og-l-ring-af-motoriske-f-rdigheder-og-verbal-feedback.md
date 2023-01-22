@@ -76,6 +76,6 @@ For det andet diskuteres hvordan augmented, verbal feedback kan gives for at fre
 
 Konkluderende argumenteres for at constrained action-hypotesen tilsyneladende har den største forklaringskraft, men at det er nødvendigt med mere forskning på området, hvor alle tidligere undersøgelser om motorisk læring og feedback bør diskuteres i forhold til de nyere indsigter.
 
-[Læs mere om specialet](http://larsolesen.dk/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback){: .btn .btn--large .btn--success }
+[Læs mere om specialet](https://larsolesen.dk/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback){: .btn .btn--large .btn--success }
 
 {% include feature_row type="left" %}
