@@ -1,0 +1,18 @@
+<!doctype html><html>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>Legestue.net: Content Manager v. 1.0.1</title>
+<meta name=robots content="noindex, nofollow">
+<link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png>
+<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
+<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
+<link rel=mask-icon href=/safari-pinned-tab.svg color=#5bbad5>
+<meta name=msapplication-TileColor content="#da532c">
+<meta name=theme-color content="#ffffff">
+</head>
+<body>
+<script src=https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js></script>
+<script>CMS.registerEditorComponent({id:"youtube",label:"Youtube",fields:[{name:'id',label:'Youtube Video ID',widget:'string'}],pattern:/^youtube (\S+)$/,fromBlock:function(a){return{id:a[1]}},toBlock:function(a){return'youtube '+a.id},toPreview:function(a){return'{% include video provider="youtube" id="'+a.id+'" %}'}})</script>
+</body>
+</html>
