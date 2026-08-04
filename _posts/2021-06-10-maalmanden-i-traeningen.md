@@ -181,6 +181,6 @@ Sådan kan du sørge for at målmanden føler sig inddraget og taget alvorligt i
 
 Det kræver lidt arbejde som træner, så derfor kan det være rigtig godt, hvis du fx en gang om ugen dedikerer noget af træningen, hvor du holder et særligt øje til målmanden og tilrettelægger træningen, så målmanden er i dit fokus.
 
-Jeg har skrevet et andet indlæg om, hvordan du kan lave [målmandstræning for alle spillerne]({% link _posts/2021-06-10-maalmandstraening-for-alle.md %}), så målmanden ikke altid skal gå til side for at varme op for sig selv.
+Jeg har skrevet et andet indlæg om, hvordan du kan lave [målmandstræning for alle spillerne](/maalmandstraening-for-alle/), så målmanden ikke altid skal gå til side for at varme op for sig selv.
 
 {% include feature_row type="left" %}

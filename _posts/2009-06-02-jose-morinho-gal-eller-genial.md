@@ -44,4 +44,4 @@ Bogen er generelt rigtig lærerig og spændende læsning for den glade fodboldel
 
 [Køb bøger med Jose Mourinho](https://www.saxo.com/dk/products/search?query=jose+mourinho){: .btn .btn--large .btn--danger rel="sponsored nofollow noopener" }
 
-Jeg har skrevet en side med inspiration til andre [fodboldbøger her]({% link _posts/2021-06-05-fodboldboeger.md %}).
+Jeg har skrevet en side med inspiration til andre [fodboldbøger her](/bedste-fodboldboeger/).

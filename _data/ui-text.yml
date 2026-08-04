@@ -70,7 +70,6 @@ es: &DEFAULT_ES
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
   comments_label             : "Comentar"
-  comments_title             :
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
   follow_label               : "Seguir:"
@@ -115,7 +114,6 @@ fr: &DEFAULT_FR
   categories_label           : "Catégories :"
   date_label                 : "Mis à jour :"
   comments_label             : "Laisser un commentaire"
-  comments_title             :
   more_label                 : "Lire plus"
   related_label              : "Vous pourriez aimer aussi"
   follow_label               : "Contact"

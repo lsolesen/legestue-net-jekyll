@@ -141,6 +141,6 @@ Fodbold er nemlig dynamisk, og man kan ikke tænke forsvarsspil uden at tænke o
 
 Det var et eksempel på en del forskellige spillestile og spillesystemer. Du kan lave din egen beskrivelse af din spillestil og spillesystem ved at tage udgangspunkt i spillestilsbolden.
 
-Jeg har lavet et eksempel på, hvorda aftaler kunne se ud for [zoneforsvar for 7/8-mands og 11-mandsfodbold]({% link _posts/2021-06-14-zoneforsvar.md %}).
+Jeg har lavet et eksempel på, hvorda aftaler kunne se ud for [zoneforsvar for 7/8-mands og 11-mandsfodbold](/zoneforsvar/).
 
 Held og lykke med at beskrive din egen spillestil - og når det er gjort så gennem god og veltilrettelagt træning, at få spillerne til at forstå, hvad det er I forsøger at opnå sammen.

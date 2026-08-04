@@ -129,4 +129,4 @@ Størrelserne fodbolde kan altså være følgende:
 - **{{ size.title }}**: Bolden bruges af {{ size.group }}. Boldens omkreds er {{ size.circumference }}, og den vejer {{ size.weight }}.
 {% endfor %}
 
-Jeg har også skrevet lidt om [størrelsen på en fodboldbane og et fodboldmålher]({% link _posts/2021-06-12-fodboldbane-storrelse.md %}).
+Jeg har også skrevet lidt om [størrelsen på en fodboldbane og et fodboldmålher](/hvor-stor-er-en-fodboldbane/).

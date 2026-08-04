@@ -1,5 +1,7 @@
 ---
-title: &title "Verdens største fodboldstadions: Top 100 liste"
+title: &title "Verdens største fodboldstadion: Top 10 liste"
+seo_title: "Verdens største fodboldstadion: Top 10 i verden & Europa"
+excerpt: "Hvad er verdens største fodboldstadion? Rungrado 1st of May Stadium i Nordkorea er verdens største med 114.000 pladser. Se top 10 listen her!"
 permalink: /verdens-storste-fodboldstadion/
 language: da
 header:
@@ -10,114 +12,96 @@ categories:
   - Fodboldhistorie
 tags:
   - fodboldstadions
-last_modified_at: 2021-07-03T10:33:33Z
-feature_row:
-  - image_path: https://content.gucca.dk/covers/big/m/a/matchday_445864.jpg
-    url: https://www.gucca.dk/matchday-turen-gaar-til-engelsk-fodbold-bog-p445864
-    title: "Matchday - Turen Går Til Engelsk Fodbold"
-    excerpt: "Morten Bruun tager læseren med på en passioneret rejse rundt til de største scener i engelsk fodbold. De engelske stadioner har været Mortens arbejdsplads som fodboldkommentator, og her deler han ud af sin facination."
-    btn_class: btn--danger
-    btn_label: Tjek prisen
-    rel: sponsored nofollow noopener
-  - image_path: https://content.gucca.dk/covers/400/k/a/kampdag-turen-gaar-til-dansk-fodbold_526591.jpg
-    url: https://www.gucca.dk/kampdag-turen-gaar-til-dansk-fodbold-bog-p526591
-    title: Kampdag - Turen Går Til Dansk Fodbold
-    excerpt: "Dansk fodbold er Morten Bruuns hjemmebane. Fodboldeksperten og fodboldkommentatoren Morten Bruun fortæller levende historier fra de danske stadioner og at bevæge sig rundt blandt det danske fodboldfolk."
-    btn_class: btn--danger
-    btn_label: Tjek prisen
-    rel: sponsored nofollow noopener
+  - verdens største fodboldstadion
+  - største stadion i verden
+  - største fodboldstadion i europa
+last_modified_at: 2026-08-04T10:33:33Z
+faq:
+  - question: "Hvad er verdens største fodboldstadion?"
+    answer: "Verdens største fodboldstadion er Rungrado 1st of May Stadium i Pyongyang, Nordkorea, med en officiel kapacitet på ca. 114.000 tilskuere."
+  - question: "Hvad er Europas største fodboldstadion?"
+    answer: "Europas største fodboldstadion er (Spotify) Camp Nou i Barcelona, Spanien, med en kapacitet på knap 100.000 tilskuere (under udbygning til 105.000)."
+  - question: "Hvad er Danmarks største fodboldstadion?"
+    answer: "Danmarks største fodboldstadion er Parken i København med plads til ca. 38.000 tilskuere til landskampe og klubkampe."
+  - question: "Hvad er det største stadion nogensinde?"
+    answer: "Det største stadion nogensinde målt på historisk tilskuertal var Strahov Stadion i Prag (220.000 tilskuere) samt Maracanã i Brasilien, som husede næsten 200.000 tilskuere til VM-finalen i 1950."
 ---
 
-Jeg har samlet en liste over verdens største fodboldstadions. Hvis du godt kan lide live fodbold på stadion, så kan du bruge denne liste til at få tjekket af, hvor du skal se fodbold henne.
+> **Hurtigt svar:** Verdens største fodboldstadion er **Rungrado 1st of May Stadium** i Pyongyang, Nordkorea, med en kapacitet på ca. **114.000 tilskuere**. Europas største fodboldstadion er **Camp Nou** i Barcelona, Spanien.
 
-## Verdens største fodboldstadion står færdigt i 2022
+Elsker du atmosfæren på et fyldt stadion? Herunder får du den opdaterede liste over verdens største fodboldstadions målt på officiel tilskuerkapacitet.
 
-I Guangzhou i Kina er de ifølge [ekstrabladet.dk](https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/vild-plan-her-vil-de-bygge-verdens-stoerste-stadion/8097585) i gang med at bygge verdens største fodboldstadion. Der bliver plads til 100.000 tilskuere på Guangzhou Evergrandes nye stadion, der forventes at stå færdigt i slutningen af 2022. Stadionbyggeriet forventes at komme til at koste mere end 11 milliarder danske kroner.
+---
 
-Ifølge [Wikipedias](https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity) liste over verdens største stadions er stadion i Guangzhou dog ikke verdens største fodboldstadion.
+## Top 10: Verdens største fodboldstadions
 
-## Liste over verdens største stadions
+Her er oversigten over de største aktive fodboldstadions i verden, hvor der regelmæssigt afvikles fodboldkampe:
 
-[worldstadiums.com](https://www.worldstadiums.com/) er også en rigtig fin kilde til hjemmebaner rundt omkring i verden. De har endda en dedikeret side om Danmark, men det er lidt lettere at få overblik over store fodboldstadions i listen, jeg har samlet nedenunder.
+| Rangering | Stadion | By / Land | Kapacitet | Hjemmehold |
+|---|---|---|---|---|
+| **1** | **Rungrado 1st of May Stadium** | Pyongyang, Nordkorea | **114.000** | Nordkoreas Landshold |
+| **2** | **Camp Nou** | Barcelona, Spanien | **99.354** | FC Barcelona |
+| **3** | **FNB Stadium (Soccer City)** | Johannesburg, Sydafrika | **94.736** | Sydafrika & Kaizer Chiefs |
+| **4** | **New Administrative Capital Stadium** | Kairo, Egypten | **93.940** | Egyptens Landshold |
+| **5** | **Wembley Stadium** | London, England | **90.000** | Englands Landshold |
+| **6** | **Lusail Iconic Stadium** | Lusail, Qatar | **88.966** | Qatars Landshold |
+| **7** | **Estadio Azteca** | Mexico City, Mexico | **87.523** | Mexico & Club América |
+| **8** | **Bukit Jalil National Stadium** | Kuala Lumpur, Malaysia | **87.411** | Malaysias Landshold |
+| **9** | **Borg El Arab Stadium** | Alexandria, Egypten | **86.000** | Egyptens Landshold |
+| **10** | **Santiago Bernabéu** | Madrid, Spanien | **85.000** | Real Madrid |
 
-På min liste her har jeg kun medtaget stadions, hvor der stadig bliver spillet fodbold regelmæssigt. Det er altså ikke nok, at der engang er blevet spillet fodboldkampe.
+---
 
-Det største stadion hvor der har været spillet fodbold er Strahov Stadion, hvor der kunne være 220.000 tilskuere. Estádio do Maracanã i Brasilien kunne til VM i 1950 til den afgørende kamp, hvor Brasilien blev slået 2-1 af Urugua rumme 199.854 mennesker på lægterne.
+## Dybdegående om de mest ikoniske storbaneanlæg
 
-Men lad os gå direkte til **oversigten over de største fodboldstadions i verden baseret på tilskuertal**.
+### 1. Rungrado 1st of May Stadium (Nordkorea) – 114.000 pladser
+Verdens største stadion ligger i Nordkoreas hovedstad, Pyongyang. Selvom anlægget tidligere blev opgivet til at rumme 150.000 tilskuere, vurderes den reelle siddende kapacitet i dag til at være omkring 114.000. Stadionet benyttes til landskampe og de enorme nationale opvisninger.
 
-## Top 4 over fodboldbaner
+### 2. Camp Nou (Spanien) – Europas største fodboldstadion
+FC Barcelonas hjemmebane, Camp Nou, er det største renlivede fodboldstadion i Europa. Stadionet er under en omfattende modernisering, der vil øge kapaciteten til over 105.000 tilskuere og tilføje et komplet overdækkende tag.
 
-### 1. Rungrado 1st of May Stadium, Pyongyang, Nordkorea
+### 3. FNB Stadium / Soccer City (Sydafrika) – 94.736 pladser
+First National Bank Stadium i Johannesburg blev verdenskendt under VM i 2010. Stadionet er også historisk bemærkelsesværdigt: Det var her, Nelson Mandela holdt sin første store tale efter løsladelsen i 1990, og hvor hans mindehøjtidelighed blev afholdt i 2013.
 
-Verdens største stadion ligger i Nordkoreas hovedstad, Pyongyang. Det er ikke helt let at finde ud af, hvad den faktiske kapacitet på stadion er. Jeg har set tal på alt mellem 114.000 siddende tilskuere til 150.000 tilskuere. Stadion bliver brugt af de nordkoreanske fodboldlandshold og foldboldklubben April 25 Sports Club. Men stadion er først og fremmest kendt for at huse de store tilskuerbegivenheder, der hylder Nordkoreas leder.
+### 4. Wembley Stadium (England) – 90.000 pladser
+Wembley i London er fodboldens vugge. Det nuværende stadion åbnede i 2007 som erstatning for det oprindelige Wembley fra 1923. Det bruges til det engelske landshold, pokalfinaler og Champions League-finaler.
 
-### 2. Camp Nou, Barcelona, Spanien
+Wembley har også en helt særlig plads i **dansk fodboldhistorie**:
+* **1983:** Allan Simonsen scorer på straffespark mod England (1-0), hvilket sikrede Danmark adgang til EM i 1984.
+* **2020:** Christian Eriksen kopierer bedriften 37 år senere og scorer sejrsmålet på straffe i Nations League mod England på samme mål.
 
-Camp Nou i Barcelona er måske det mest legendariske fodboldstadion i verden. Det er samtidig det største i Europa med en kapacitet på 99.354 tilskuere. Stadionrekorden er op mod 120.000 tilskuere, men efter flere ombygninger og nye krav til stadions og sikkerhed, så er den nuværende kpacitet lidt mindre. Der bygges igen på Camp Nou, og kapaciteten skulle i løbet af 2021 stige til 105.000 tilskuere, og stadion skulle få et tag.
+---
 
-### 3. FNB Stadium, Johannesburg, Sydafrika
+## Historiske kæmper: De største stadions nogensinde
 
-First National Bank Stadium blev indviet i 1989. Det blev renoveret og udvidet i forbindelse med VM-slutrunden i 2010. Her hed det officielt Soccer City Stadium, da FIFA ikke tillader, at stadions har reklamenavne. Interessen for sydafrikansk fodbold er imidlertid ikke så overvældende i øjeblikket. Derfor lejer Kaizer Cheifs ofte stadions i nærområdet. FNB Stadium er særlig kendt for at være her, Nelson Mandela for første gang holdt tale efter sin løsladelse i 1990. Stadion blev også brugt til mindehøjtideligheden for Mandela i 2013.
+Før moderne sikkerhedskrav og krav om faste siddepladser blev indført, husede stadions langt større menneskemængder:
 
-### 4. Wembley, England
+* **Strahov Stadion (Prag, Tjekkiet):** Det største stadion, der nogensinde er bygget. Det havde plads til svimlende **220.000 tilskuere**, men bruges i dag primært som træningsanlæg.
+* **Estádio do Maracanã (Rio de Janeiro, Brasilien):** Til den afgørende VM-kamp i 1950 mellem Brasilien og Uruguay var der ifølge officielle skøn **199.854 tilskuere** presset ind på lægterne. I dag er kapaciteten reduceret til ca. 78.000 siddepladser.
 
-Wembley i England er et legendarisk stadion. Men det er faktisk ret nyt. Det nye Wembley blev byget oven på det gamle Wembley i 2002. The FA investerede i alt 8 milliarder i det nye store stadion, som bruges af det engelske landshold og cup-finaler i England. Men Wembley huser også adskillige koncerter og Champions League finaler.
+---
 
-Men Wembley er også en stor del af Danmarks fodboldhistorie. Lad os tage et par højdepunkter.
+## Hvad er Danmarks største fodboldstadion?
 
-Allan Simonsen scorer på straffe i **1983 på Wembley**, hvor vi vinder med 0-1, og så kvalificerede vi os til EM 1984.
-
-{% include video provider="youtube" id="5VyWF5xrdBo" %}
-
-> Sejren over England i 1983 var den aften, vi fik vores gennembrud med landsholdet. Wembley var jo et Fort Knox dengang, hvor det var umuligt at vinde.
-
---- <cite>[Allan Simonsen](https://www.dr.dk/sporten/fodbold/em/allan-simonsen-husker-foelelserne-i-landsholdstroejen-det-er-dit-land-du-har-i-0)</cite>
-
-I **2020** vinder vi igen over England på Wembley i Nations League Cup med 0-1.
-
-> Det sjove er, at vi næsten kopierede landsholdets kamp i 1983 - da vi 37 år senere vandt 1-0 på Wembley sidste efterår. Christian Eriksen scorede et straffespark i det samme mål, som Allan Simonsen gjorde i 1983. Og Kasper Schmeichel havde en sindssyg redning ligesom Ole Kjær havde dengang.
-
---- <cite>[Kasper Hjulmand](https://www.dr.dk/sporten/fodbold/em/allan-simonsen-husker-foelelserne-i-landsholdstroejen-det-er-dit-land-du-har-i-0)</cite>
-
-{% include video provider="youtube" id="EXT3Krf4BAc" %}
-
-## Oversigt over alle de store stadions
-
-{% include table-stadions.html %}
-
-## De største danske fodboldstadions
-
-Du lagde måske mærke til, at der ikke var nogen danske fodboldstadions på listen. Derfor har jeg samlet en liste over de største danske fodboldstadions også.
-
-Den mest omfattende oversigt over danske stadions, kan du finde på [stadions.dk](https://www.stadions.dk/), som siden kunne nu godt trænge til en opdatering, og ellers kan du finde en liste på [Wikipedia](https://da.wikipedia.org/wiki/Fodboldstadioner_i_Danmark).
-
-Du kan få en overskuelig oversigt over de danske stadions her:
+I forhold til verdenseliten er de danske stadions i den mindre ende, men stemningen fejler intet. Her er de største stadions i Danmark:
 
 {% include table-stadions-denmark.html %}
 
-## Hashtag #herermitstadion
+---
 
-Ens hjemmebane i fodbold betyder virkelig noget. Vi kan sikkert alle stadig huske vores egen hjemmebane, eller det stadion hvor vi følger vores yndlingshold.
+## Bøger om de største danske og engelske hjemmebaner
 
-Det er en af grundene til, at fodboldekspert, Morten Bruun, startede sit virale hit med [#herermitstadion](https://twitter.com/search?q=%23herermitstadion) på sin Twitter-profil [@Bruun6eren](https://twitter.com/Bruun6eren).
+Hvis du elsker historierne om stadions og fankultur, har fodboldekspert og kommentator **Morten Bruun** skrevet fantastiske bøger om emnet:
 
-{% include figure image_path="/assets/images/posts/herermitstadion-morten-bruun.jpg" caption="Morten Bruuns #herermitstadion blev et viralt hit. Kilde: [nordjyske.dk](https://nordjyske.dk/nyheder/sport/viralt-hit-er-blevet-morten-bruuns-hjertebarn-herermitstadion/fd1df9a1-a1c1-4d47-b29e-7b3e8557d71f)" alt="morten bruun herermitstadion" %}
+* **[Matchday – Turen går til engelsk fodbold](https://www.gucca.dk/matchday-turen-gaar-til-engelsk-fodbold-bog-p445864){: rel="sponsored nofollow noopener" }:** Morten Bruun tager dig med rundt til de største og mest traditionsrige engelske anlæg.
+* **[Kampdag – Turen går til dansk fodbold](https://www.gucca.dk/kampdag-turen-gaar-til-dansk-fodbold-bog-p526591){: rel="sponsored nofollow noopener" }:** En passioneret gennemgang af de danske hjemmebaner og dansk fankultur.
 
-Morten Bruuns interesse for fodbold og stadions har i øvrigt kastet et par bøger af sig.
+Morten Bruun startede desuden det populære Twitter-hashtag **#herermitstadion**, hvor danske fodboldfans deler billeder fra deres lokale lægter.
 
-## Bøger om de største og mindste danske og engelske hjemmebaner
-
-Fodboldkommentator, Morten Bruun, elsker sit arbejde med fodbold. Han har haft stadions som arbejdsplads i rigtig mange år.
-
-Særligt har engelsk fodbold en plads i hans hjerte, og han skrev [Match Day](https://www.gucca.dk/matchday-turen-gaar-til-engelsk-fodbold-bog-p445864){: rel="sponsored nofollow noopener" } med historier om de engelske sadions.
-
-Den bog blev en stor succes, så han skrev en opfølger om de danske stadions, som han kaldte [Kampdag](https://www.gucca.dk/kampdag-turen-gaar-til-dansk-fodbold-bog-p526591){: rel="sponsored nofollow noopener" }.
-
-{% include figure image_path="/assets/images/posts/morten-bruun-aarhus-stadion.jpg" caption="Morten Bruuns foran Ceres Park. Kilde: [stiften.dk](https://stiften.dk/artikel/morten-bruun-skriver-bog-om-danske-stadions-et-storsl%C3%A5et-syn-i-aarhus)" alt="morten bruun foran Ceres Park Århus Stadion" %}
+---
 
 ## Konklusion
 
-Det største stadion i verden, hvor der spilles fodbold regelmæssigt ligger altså i Pyongyang Nordkorea, selvom det kan være lidt vanskeligt at finde ud af nøjagtigt, hvor mange tilskuerpladser der er plads til.
+Verdens største aktuelt benyttede fodboldstadion er **Rungrado 1st of May Stadium** i Nordkorea, mens **Camp Nou** sidder sikkert på tronen i Europa. 
 
-Hvis du er på jagt efter de fodboldstadions, der har den vildeste placering, så tjek lige denne [opdatering på Twitter](https://twitter.com/JoaquimCampa/status/1411346406497992708).
+Vil du læse mere om fodboldens verden? Se også vores guides til [hvor stor en fodboldbane er](/hvor-stor-er-en-fodboldbane/), [hvem der opfandt fodbolden](/hvem-opfandt-fodbolden/) eller reglerne for [offside](/offside-fodbold/).

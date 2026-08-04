@@ -135,7 +135,7 @@ træner op mod 40 spark om dagen (!), og han kan sparke med mere end 120
 km/t. Det kræver træning og muskler!
 
 **Hvorfor kan bolden skrue?** Her kan du finde en [forklaring på, hvorfor man kan få en fodbold
-til at skrue]({% link _posts/2021-06-22-hvordan-skruer-bolden.md %}).
+til at skrue](/hvordan-skruer-fodbold/).
 {: .notice .notice--info }
 
 ## Skorpionsparket

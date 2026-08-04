@@ -88,7 +88,7 @@ Simpel logik vil sige, at løbene nu bliver lagt til den fysiske kapacitet, mens
 
 ## Forslag til øvelser til konditionstræning i spil
 
-Rigtig mange forskellige spil kan bruges til fysisk træning i fodbold. Du kan bare bruge [aktivitetshjulet]({% link _posts/2019-08-25-aktivitetshjulet.md%}) til at justere øvelserne, så du kommer til at arbejde med de rigtige kvaliteter.
+Rigtig mange forskellige spil kan bruges til fysisk træning i fodbold. Du kan bare bruge [aktivitetshjulet](/aktivitetshjulet/) til at justere øvelserne, så du kommer til at arbejde med de rigtige kvaliteter.
 
 Det er en god ide at holde øje med spillernes puls under spillene.
 

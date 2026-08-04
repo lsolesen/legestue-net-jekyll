@@ -537,4 +537,4 @@ Når du skal vælge fodboldøvelser til denne aldersgruppe, så husk at kigge p�
 
 Hvis du er på udkig efter øvelser til lidt ældre spillere, så har jeg også skrevet følgende indlæg. [Find fodboldøvelser for U11, U12 og U13](/fodboldovelser-10-12-aar/) og [fodboldøvelser for U14, U15 og U16](/fodboldovelser-12-15-aar/).
 
-Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).
+Du kan også tjekke alle vores [fodboldøvelser](/fodboldoevelser/).

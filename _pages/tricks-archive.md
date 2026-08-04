@@ -242,7 +242,7 @@ sætte dig et mål for, hvad du gerne vil lære. Så går du i gang med at øve
 dig.
 
 Du kan læse mere om at lave din egen [målsætning i Fodboldens
-Træningshjælper]({% link _pages/traeningshjaelper.md %}).
+Træningshjælper](/hjaelper/).
 
 Du skal altid sørge for at øve dig i det, du er god til. Samtidig er det dog
 en god ide, at du forsøger at træne nogle af de ting, du er knap så god til.
@@ -309,7 +309,7 @@ dig, bliver de endnu mere interesserede i at lære noget.
 
 Det er op til trænerens fantasi og opfindsomhed, hvordan mulighederne
 inddrages i træningen. Det kan være som udfordringer ved op- eller
-nedvarmningen eller som adspredelse i træningen. Du kan finde [træningsøvelser til driblinger under fodboldøvelser]({% link _pages/fodboldoevelser.md %}).
+nedvarmningen eller som adspredelse i træningen. Du kan finde [træningsøvelser til driblinger under fodboldøvelser](/fodboldoevelser/).
 
 Bliver de tekniske finurligheder i hæftet en integreret del af træningen – og
 tør trænerne at give spillerne lov til at bruge dem – så tror jeg, at kampene

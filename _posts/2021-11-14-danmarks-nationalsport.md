@@ -1,6 +1,7 @@
 ---
-title: &title "Hvad er Danmarks Nationalsport? Få det rigtige svar!"
-seo_title: "Danmarks Nationalsport? Hvad er det og hvorfor?"
+title: &title "Hvad er Danmarks nationalsport? (Svaret er IKKE dart!)"
+seo_title: "Hvad er Danmarks nationalsport? Fodbold, håndbold eller dart?"
+excerpt: "Hvad er Danmarks nationalsport? Fodbold er Danmarks uofficielle nationalsport med over 350.000 spillere. Læs om myten om dart og se top 10 sportsgrene her!"
 permalink: /danmarks-nationalsport/
 language: da
 header:
@@ -11,51 +12,83 @@ categories:
   - Alt om fodbold
 tags:
   - fodbold
-last_modified_at: 2021-07-03T10:33:33Z
+  - danmarks nationalsport
+  - hvad er danmarks nationalsport
+  - nationalsport i danmark
+last_modified_at: 2026-08-04T10:33:33Z
 faq:
-  - question: "Er Danmarks nationalsport dart?"
-    answer: "Nej! Dansk Dart Union skrev i 2017 1. april, at Danmarks Idræts-Forbund havde udnævnt dart til Danmarks Nationalsport. Siden har flere ukritisk lavet en Google-søgning og gentaget denne aprilsnar som om det var sandt!"
-  - question: "Er fodbold Danmarks nationalsport?"
-    answer: "Ja! Fodbold er den mest populære idræt i Danmark. Derfor er det Danmarks nationalsport."
+  - question: "Hvad er Danmarks nationalsport?"
+    answer: "Fodbold betragtes som Danmarks uofficielle nationalsport. Det er landets absolut mest populære sport målt på medlemstal (over 350.000 aktive), økonomi, mediedækning og tilskuere."
+  - question: "Er dart Danmarks nationalsport?"
+    answer: "Nej! At dart skulle være Danmarks officielle nationalsport var en aprilsnar fra Dansk Dart Union i 2017. Desværre har Google og flere hjemmesider ved en fejl gentaget aprilsnaren som fakta."
+  - question: "Er håndbold Danmarks nationalsport?"
+    answer: "Håndbold omtales ofte som Danmarks 'anden nationalsport' på grund af landsholdenes store internationale succes, men fodbold har over tre gange så mange aktive medlemmer."
 ---
 
-Flere er blevet narret af en aprilsnar til at forstå, hvad Danmarks Nationalsport er. Fodbold er Danmarks mest populære idrætsgren, men alligevel bliver en anden idrætsgren nævnt som nationalsporten. Læs her hvorfor det er forkert.
+> **Hurtigt svar:** Danmarks uofficielle nationalsport er **fodbold**. Danmark har ikke lovmæssigt vedtaget en officiel nationalsport, men fodbold er med sine mere end 350.000 aktive medlemmer, enorme tilskuertal og historiske forankring landets ubestridte nationalsport.
 
-Jeg ved ikke om det er officielt udmeldt, at Danmark har en nationalsport. Men fodbold er den mest populære idrætsgren i Danmark, både målt på aktive udøvere og hvor mange penge, der bruges på fodbold.
+Mange bliver dog overraskede, når de søger på Google efter *"Danmarks nationalsport"* og ser sporten **dart** dukke op. 
 
-## Dart som nationalsport? Nej!
+Herunder får du forklaringen på den berømte aprilsnar og det fulde overblik over Danmarks mest populære sportsgrene.
 
-Det er meget underholdende, at når søger efter "Danmarks nationalsport" på [Google](https://www.google.com/search?q=danmarks+nationalsport), så kommer følgende skærmbillede frem:
+---
 
-{% include figure image_path="/assets/images/posts/dart-nationalsport-google.png" caption="Google kender åbenbart ikke helt forskel på en Aprilsnar og folk, der bliver ved med at gentage en aprilsnar som sandheden? I de første to resultater nævnes dart som nationalsporten." %}
+## Er dart Danmarks nationalsport? (Myten om aprilsnaren)
 
-Det skyldes at [Dartunionen](https://www.dart-ddu.dk/dart-nyheder/dif-dart-udnaevnt-til-danmarks-officielle-nationalsport/) i en Aprilsnar i 2017 erklærede at Dart var blevet udnævnt som Danmarks nationalsport af DIF med flere overbevisende grunde.
+Hvis du har søgt på Google og set dart beskrevet som Danmarks nationalsport, er du blevet narret af en af nyere tids mest vellykkede aprilsnarre!
 
-Selvom dart er et dejligt spil, så er det trods alt en af de mindre sportsgrene under Dansk Idrætsforbund.
+{% include figure image_path="/assets/images/posts/dart-nationalsport-google.png" caption="Googles søgeresultater har i årevis fejlagtigt fremhævet dart som nationalsport på grund af en gammel aprilsnar." alt="Google søgeresultat der viser dart som Danmarks nationalsport" %}
 
-## Hvad er så Danmarks nationalsport?
+Den 1. april 2017 udgav Dansk Dart Union en pressemeddelelse om, at Danmarks Idrætsforbund (DIF) officielt havde udnævnt dart til Danmarks nationalsport. 
 
-Hvis man skal tro [Statsbogerskabstesten](https://statsborgerskabstest.dk/sport-i-danmark/), så er det helt sikkert fodbold, der er Danmarks nationalsport. Også selvom [B.T.](https://www.bt.dk/sport/fodbold-eller-haandbold-som-nationalsport-her-er-den-helt-taette-afgoerelse-fra) foreslår, at håndbold skulle have overhalet fodbold.
+Nyheden var en **spøg**, men fordi flere hjemmesider ukritisk kopierede teksten, begyndte Googles søgealgoritme at tro, at det var sandt. Selvom dart er en fantastisk sport, er det altså **ikke** Danmarks nationalsport.
 
-## Fodbold er den mest populære idrætsgren i Danmark
+---
 
-Målt på antallet af medlemmer, så er fodbold landets absolutte nationalsport. Tal fra både Dansk Idrætsforening og Danske Gymnastik- og Idrætsforeninger leverer klokkeklare tal. Danmark har nemlig knap 330.000 fodboldspillende medlemmer.
+## Fodbold vs. Håndbold: Hvilken er den rigtige nationalsport?
 
-## Største idrætsgrene i Danmark?
+I Danmark opfattes to sportsgrene som fundamentet i den danske sportskultur:
 
-Lad os kigge på alle de andre kandidater til at være en fremtidig nationalsport herhjemme, hvis fodbold en gang skal vippes af pinden. Jeg har fundet tallene på [denne liste over sportsgrene](https://www.motionsplan.dk/sportsgrene-liste/).
+1. **Fodbold (Landets største sport):** Målt på antallet af udøvere, økonomi, medieomtale og udbredelse i hele landet er fodbold nr. 1.
+2. **Håndbold (Folkesporten):** Håndbold blev opfundet i Danmark i slutningen af 1800-tallet. På grund af håndboldherrenes og -kvindernes store triumfer ved EM, VM og OL omtales håndbold ofte som Danmarks "anden nationalsport".
 
-1. Fodbold med 330.000 medlemmer.
-2. Gymnastik har omtrent 200.000 aktive medlemmer.
-3. Svømning har ca. 190.000 svømmere.
-4. Golf er en favorit med ca. 148.000 medlemmer.
-5. Håndbold har omkring 105.000 registrerede spillere.
-6. Badminton har 92.000 spillere på landsplan.
-7. Ridning i Danmark er ligeledes populært, og måske møder du ofte en af landets knap 64.000 medlemmer på dine gåture.
-8. Tennis fortjener med ca. 58.000 spillere bestemt også en plads på denne liste.
-9. Sejlads har faktisk hele 53.000 medlemmer herhjemme.
-10. Atletik kan også være en mulig fremtidig nationalsport. I dag tæller atletik lidt over 40.000 aktive udøvere.
+Ser man nøgternt på medlemstallene fra DIF og DGI, er der dog ingen tvivl: Fodbold overgår håndbold med mere end 200.000 aktive udøvere.
 
-## Ofte stillede spørgsmål om Damarks nationalsport
+---
 
-{% include faq.html %}
+## De 10 største sportsgrene i Danmark (Medlemstal)
+
+Her er overblikket over de mest populære sportsgrene i Danmark målt på aktive registrerede medlemmer hos specialforbundene:
+
+| Rangering | Sportsgren | Ca. antal aktive medlemmer |
+|---|---|---|
+| **1** | **Fodbold** | **350.000+** |
+| **2** | Gymnastik | 200.000 |
+| **3** | Svømning | 190.000 |
+| **4** | Golf | 148.000 |
+| **5** | **Håndbold** | **105.000** |
+| **6** | Badminton | 92.000 |
+| **7** | Ridning | 64.000 |
+| **8** | Tennis | 58.000 |
+| **9** | Sejlads | 53.000 |
+| **10** | Atletik | 40.000 |
+
+*Kilde: Medlemstal baseret på seneste opgørelser fra Dansk Idrætsforbund (DIF) og DGI.*
+
+---
+
+## Ofte stillede spørgsmål om Danmarks nationalsport
+
+### Har Danmark en officielt vedtaget nationalsport?
+Nej, den danske stat eller Kulturministeriet har aldrig juridisk eller officielt kåret én enkelt sport som nationalsport. Fodbold har titlen som *de facto* nationalsport på grund af sin enorme folkelige opbakning.
+
+### Hvor mange spiler fodbold i Danmark?
+Der er over 350.000 organiserede fodboldspillere i de danske klubber under DBU, hvilket gør det til den overlegent største idrætsgren i landet.
+
+---
+
+## Konklusion
+
+Lad dig ikke narre af gamle aprilsnarre på internettet: **Fodbold er Danmarks nationalsport**, tæt fulgt af gymnastik, svømning og håndbold i folkelig udbredelse.
+
+Vil du vide mere om fodboldens verden? Læs også om [hvem der opfandt fodbolden](/hvem-opfandt-fodbolden/), [hvor stor en fodboldbane er](/hvor-stor-er-en-fodboldbane/) eller dyk ned i reglerne for [offside i fodbold](/offside-fodbold/).

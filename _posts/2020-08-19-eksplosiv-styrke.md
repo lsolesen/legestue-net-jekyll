@@ -177,7 +177,7 @@ Træningen skal tilrettelægges vidt forskelligt, om der er tale om at øge musk
 
 Med en begrænset tidshorisont for øje er træning af armens bøjemuskulatur (m. biceps brachii) måske også mindre væsentlig end træning af afsætsmuskulaturen i benene, og den eksplosive træning kan gøre dig endnu mere klar til fodboldkampene.
 
-Styrketræning kan også være meget anvendelig til at [forebygge skader for fodboldspillere]({% link _posts/2009-08-06-undga-skader.md %}).
+Styrketræning kan også være meget anvendelig til at [forebygge skader for fodboldspillere](/skadesforebyggelse-undgaa-skader-i-fodbold/).
 
 ## Noter
 

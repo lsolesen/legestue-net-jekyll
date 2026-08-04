@@ -354,4 +354,4 @@ kan eventuelt starte med at anvende plasticbolde.
 
 ## Andre fodboldlege
 
-Jeg har også samlet andre [fodboldlege her]({% link _pages/lege-archive.md %}).
+Jeg har også samlet andre [fodboldlege her](/lege/).

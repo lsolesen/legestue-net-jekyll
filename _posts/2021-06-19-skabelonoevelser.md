@@ -18,7 +18,7 @@ last_modified_at: 2021-06-11T10:33:33Z
 
 Skabelonøvelser i fodbold kan være en god måde at lave taktisk træning på. I opspilsøvelser får du stillet spillerne op på faste positioner og kan arbejde med løbemønstre i jeres opspil.
 
-Jeg har her skitseret nogle forskellige skabelonøvelser, men det er vigtigt, at du vælger en skabelonøvelse, der passer til dit [spillesystem og spillestil]({% link _posts/2021-06-15-spillesystmer-spillestile.md %}) og naturligvis dine spilleres fysiske og mentale udviklingstrin.
+Jeg har her skitseret nogle forskellige skabelonøvelser, men det er vigtigt, at du vælger en skabelonøvelse, der passer til dit [spillesystem og spillestil](/spillesystemer-og-spillestile-fodbold/) og naturligvis dine spilleres fysiske og mentale udviklingstrin.
 
 ## Skabelon øvelser og opspilsøvelser til fodbold
 
@@ -78,4 +78,4 @@ Der kan spilles fire minutter med et minuts pause med fx fire sæt.
 
 Du kan også finde [fodboldøvelser for U8, U9 og U10](/fodboldovelser-8-10-aar/) eller [fodboldøvelser for U11, U12 og U13](/fodboldovelser-10-12-aar/).
 
-Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).
+Du kan også tjekke alle vores [fodboldøvelser](/fodboldoevelser/).

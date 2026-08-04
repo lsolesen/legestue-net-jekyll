@@ -90,7 +90,7 @@ Den første kendte EM-fodboldbold er Adidas Telstar Elast i 1968, og til EM-slut
 
 De første to EM-slutrunder i 1960 og 1964 har end ikke [UEFA](https://www.uefa.com/uefaeuro-2020/news/025e-0fc6971c8220-0ceba795a115-1000--every-euro-match-ball/) nogen registrering af den officielle kampbold.
 
-Hvis du er på udkig efter at læse mere om [VM-fodbolden så tjek her]({% link _posts/2021-06-23-vm-fodbolde.md %}).
+Hvis du er på udkig efter at læse mere om [VM-fodbolden så tjek her](/vm-fodbolde/).
 
 Derfor starter den officielle historie over matchbolde til EM-turneringerne her i 1968.
 
@@ -138,4 +138,4 @@ Du kan se en Youtube-video om lanceringen af EM-bolden fra 2020/2021.
 
 {% include video provider="youtube" id="vznT3ibsWqs" %}
 
-Husk også at tjekke vores gennemgang af [VM fodbolde her]({% link _posts/2021-06-23-vm-fodbolde.md %}).
+Husk også at tjekke vores gennemgang af [VM fodbolde her](/vm-fodbolde/).

@@ -201,4 +201,4 @@ Det var nogle ideer til skudtræningen og afslutningstræningen. Øvelserne kan 
 
 Du kan også finde [fodboldøvelser for U8, U9 og U10](/fodboldovelser-8-10-aar/) eller [fodboldøvelser for U11, U12 og U13](/fodboldovelser-10-12-aar/).
 
-Du kan også tjekke alle vores [fodboldøvelser]({% link _pages/fodboldoevelser.md %}).
+Du kan også tjekke alle vores [fodboldøvelser](/fodboldoevelser/).

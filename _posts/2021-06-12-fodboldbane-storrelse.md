@@ -1,6 +1,6 @@
 ---
-title: &title "Hvor stor er en fodboldbane og et fodboldmål?"
-excerpt: "Jeg har her kigget på størrelsen af en fodboldbane og et fodboldbane. De fleste har sikkert stået i midtercirklen og tænkt på, hvor store de er? Her får du svaret!"
+title: &title "Hvor stor er en fodboldbane? Se mål og størrelser (11-, 8-, 5- & 3-mands)"
+excerpt: "Hvor stor er en fodboldbane? En standard 11-mands bane er 105 x 68 meter (7.140 m²). Få det komplette overblik over længde, bredde og mål på baner her!"
 permalink: /hvor-stor-er-en-fodboldbane/
 language: da
 header:
@@ -12,106 +12,103 @@ categories:
   - Fodboldregler
 tags:
   - fodboldbane
+  - fodboldbane størrelse
+  - mål fodboldbane
   - fodboldregler
-last_modified_at: 2021-06-05T10:33:33Z
+last_modified_at: 2026-08-04T10:33:33Z
+faq:
+  - question: "Hvor stor er en standard 11-mands fodboldbane?"
+    answer: "En standard 11-mands fodboldbane er 105 meter lang og 68 meter bred, hvilket svarer til et samlet areal på 7.140 m²."
+  - question: "Hvor stort er et 11-mands fodboldmål?"
+    answer: "Et officielt 11-mands fodboldmål er 7,32 meter bredt og 2,44 meter højt."
+  - question: "Hvor stort er straffesparksfeltet på en 11-mandsbane?"
+    answer: "På en 11-mandsbane er straffesparksfeltet 40,32 meter langt (langs mållinjen) og 16,5 meter bredt (ind på banen)."
+  - question: "Hvor stor er en 7/8-mands fodboldbane?"
+    answer: "En 7/8-mands fodboldbane er 68 meter lang og 52,5 meter bred, hvilket svarer til et areal på 3.570 m²."
 ---
 
-Jeg har her kigget på størrelsen af en fodboldbane. De fleste har sikkert stået i midtercirklen og tænkt på, hvor stor en fodboldbane er?
+> **Hurtigt svar:** En standard 11-mands fodboldbane er **105 meter lang** og **68 meter bred**, hvilket giver et samlet areal på **7.140 m²**. Størrelsen varierer dog afhængigt af, om der spilles 11-mands, 7/8-mands, 5-mands eller 3-mandsfodbold.
 
-Det kan også være godt at vide nogenlunde, da mange ofte vil kvantificere et område ved at sige noget i stil med "Det svarer til X antal fodboldbaner". Når du kender de lidt mere præcise mål på en fodboldbane, så kan du omregne det til metersystemet.
+De fleste har stået på banen og tænkt: *Hvor stor er en fodboldbane egentlig?* 
 
-Men svaret på hvor stor en fodboldbane er, er faktisk ikke så ligetil. Fodboldbaner har nemlig forskellige størrelser alt efter, hvor mange der skal spille på banerne. Banen skal altså enten passe til 11-mandsfodbold, 7/8-mandsfodbold, 5-mandsfodbold eller 3-mandsfodbold.
+Begrebet "på størrelse med en fodboldbane" bruges ofte til at sammenligne arealer i hverdagen. Men for at omregne det præcist til metersystemet, er det godt at kende de officielle mål. 
 
-Nedenunder har jeg skrevet, hvor store de forskellige baner er. Jeg har beskrevet længden, bredden, arealet i m2, midtercirklen, straffesparksfeltet, målfeltet og målet.
+Størrelsen på en fodboldbane afhænger af aldersgruppe og antallet af spillere. Herunder får du det fulde overblik over længde, bredde, areal, straffesparksfelter og størrelsen på fodboldmål ifølge DBU's regler.
 
-Du får i dette indlæg svar på
+---
 
-- Hvor stor er en fodboldbane til 11-mandsfodbold, 7/8-mandsfodbold, 5-mandsfodbold eller 3-mandsfodbold
-- Hvor stort er målet i fodbold?
+## Fodboldbane størrelse: Sammenligningstabel
 
-Lad os dykke ned i de kolde facts.
+I denne tabel kan du hurtigt sammenligne mål og areal (i meter) for de forskellige typer fodboldbaner:
 
-## Hvor stor er en fodboldbane?
+| Banetype | Længde | Bredde | Areal (m²) | Midtercirkel (radius) | Straffesparksfelt (L x B) | Målfelt (L x B) | Straffesparksplet | Mål (B x H) |
+|---|---|---|---|---|---|---|---|---|
+| **11-mandsbane** | 105 m | 68 m | 7.140 m² | 9,15 m | 40,32 x 16,5 m | 18,32 x 5,5 m | 11 m | 7,32 x 2,44 m |
+| **7/8-mandsbane** | 68 m | 52,5 m | 3.570 m² | Ingen | 25 x 8 m | Ingen | 8 m | 5,00 x 2,00 m |
+| **5-mandsbane** | 40 m | 30 m | 1.200 m² | Ingen | 13 x 5 m | Ingen | 5 m | 3,50 x 1,50 m |
+| **3-mandsbane** | 21 m | 13 m | 273 m² | Ingen | Ingen | Ingen | Ingen | 1,50 x 1,00 m |
 
-I denne tabel har jeg samlet de forskellige størrelser på en fodboldbane, så du let kan sammenligne. Alle tallene er i meter. I tabellen kan du også se nogle af de andre optegninger, du ser på en fodboldbane og størrelsen på målene.
-
-|               | Banen  | Banen  | Banen       | Midtercirkel | Straffesparksfelt |        | Målfelt |        | Straffesparksplet | Mål    |  Mål     |
-|               | Længde | Bredde | Areal (m2) | Radius       | Længde            | Bredde | Længde  | Bredde | Afstand           | Bredde | Højde |
-|---------------|--------|--------|-------|--------------|-------------------|--------|---------|--------|-------------------|--------|-------|
-| 11-mandsbane  | 105    | 68     | 7140  | 9,15         | 40,32             | 16,5   | 18,32   | 5,5    | 11                | 7,32   | 2,44  |
-| 7/8-mandsbane | 68     | 52,5   | 3570  | Ingen        | 25                | 8      | Ingen   |        | 8                 | 5      | 2     |
-| 5-mandsbane   | 40     | 30     | 1200  | Ingen        | 13                | 5      | Ingen   |        | 5                 | 3,5    | 1,5   |
-| 3-mandsbane   | 21     | 13     | 273   | Ingen        | Ingen             |        | Ingen   |        | Ingen             | 1,5    | 1     |
-
-Baner, der er anlagt før 2012, bliver også godkendt af DBU i størrelsen 102 m x 65 m. Derudover kan baner i København få dispensation på op til 10% af banens samlede areal, hvis der ansøges til DBU København.
 {: .notice .notice--info }
+**Bemærk:** Baner anlagt før 2012 godkendes også af DBU i størrelsen 102 x 65 meter. Derudover kan baner i København få dispensation på op til 10% af banens samlede areal ved ansøgning til DBU København.
+
+---
 
 ## Hvor stort er et fodboldmål?
 
-Her har jeg samlet en oversigt over, hvor stort et fodboldmål er. Igen afhænger det af, hvor mange spillere der er på banen til de forskellige kampe.
+Målet skal passe til banens og spillernes størrelse. Her er de officielle mål på et fodboldmål:
 
-|               | Bredde (m) | Højde (m)  |
-|---------------|--------|--------|
-| 11-mandsbane  | 7,32   | 2,44   |
-| 7/8-mandsbane | 5      | 2      |
-| 5-mandsbane   | 3,5    | 1,5    |
-| 3-mandsbane   | 1,5    | 1      |
+* **11-mands mål:** 7,32 meter bredt og 2,44 meter højt.
+* **7/8-mands mål:** 5,00 meter bredt og 2,00 meter højt.
+* **5-mands mål:** 3,50 meter bredt og 1,50 meter højt.
+* **3-mands mål:** 1,50 meter bredt og 1,00 meter højt.
 
-## Hvor stort er straffesparksfeltet i fodbold?
+---
 
-I denne tabel kan du se, hvor stort straffesparksfeltet er i fodbold. Der er et straffesparksfelt for 11-mands, 7/8-mands og 5-mands. Der er ikke et straffesparksfelt på en 3-mandsbane.
+## Hvor stort er straffesparksfeltet og målfeltet?
 
-|               | Længde            | Bredde |
-|---------------|-------------------|--------|
-| 11-mandsbane  | 40,32             | 16,5   |
-| 7/8-mandsbane | 25                | 8      |
-| 5-mandsbane   | 13                | 5      |
-| 3-mandsbane   | Ingen             | Ingen  |
+Straffesparksfeltet varierer i størrelse alt efter banetype, mens målfeltet kun findes på 11-mandsbanen:
 
-Måske kan du også være interesseret i, hvor stort et målfelt er? Det er det lille felt inden i straffesparksfeltet på en 11-mandsbane. Et målfelt er 18,32 cm langt og 5,5 meter bredt. Der er ikke et målfelt på de mindre baner.
+* **11-mandsbane:** Straffesparksfeltet er 40,32 meter langt (langs mållinjen) og 16,5 meter bredt (ind på banen). 
+* **Målfeltet (11-mands):** Det lille felt inden i straffesparksfeltet er **18,32 meter langt** og **5,5 meter bredt**.
+* **7/8-mandsbane:** Straffesparksfeltet måler 25 x 8 meter.
+* **5-mandsbane:** Straffesparksfeltet måler 13 x 5 meter.
+* **3-mandsbane:** Har intet straffesparksfelt eller målfelt.
 
-## Hvor stor er en 11-mandsbane i fodbold?
+---
 
-Størrelsen på en 11-mandsbane er faktisk ikke helt så nøjagtige som man skulle tro. Både længden og bredden kan variere:
+## Hvor lang og bred er en 11-mands fodboldbane?
 
-- **Længde (sidelinjer)**: Minimum 90 meter - Maksimum 120 meter
-- **Bredde (mållinjer)**: Minimum 45 meter - Maksimum 90 meter
+Størrelsen på en 11-mandsbane er faktisk mere fleksibel, end mange tror. DBU og FIFA tillader spænd i intervallerne:
 
-Linjerne på en fodboldbane skal være 10 cm brede, og de skal være vide.
+### Standard nationale kampe:
+* **Længde (sidelinjer):** Minimum 90 meter – Maksimum 120 meter
+* **Bredde (mållinjer):** Minimum 45 meter – Maksimum 90 meter
 
-I **internationale kampe** er der lidt mere snævre grænser for, hvor stor fodboldbanen skal være:
+### Internationale kampe (UEFA / FIFA):
+* **Længde (sidelinjer):** Minimum 100 meter – Maksimum 110 meter
+* **Bredde (mållinjer):** Minimum 64 meter – Maksimum 75 meter
 
-- **Længde (sidelinjer)**: Minimum 100 meter - Maksimum 110 meter
-- **Bredde (mållinjer)**: Minimum 64 meter - Maksimum 75 meter
+Den **mest anvendte standardstørrelse** på elitniveau er dog præcis **105 x 68 meter**. Alle afmærkningslinjer på banen skal i øvrigt være 10 cm brede og malet hvide.
 
-Den **mest anvendte størrelse** på en fodboldbane er imidlertid 105 x 68 meter, som er de mål, jeg har skrevet ovenfor.
+---
 
-De indvendige mål for et fodboldmål er 7,32 og 2,44.
+## Yderligere fakta om fodboldbanens afmærkninger
 
-## Yderligere informationer om fodboldbanen
+* **Form:** Banen skal være rektangulær (længden skal være større end bredden).
+* **Midtercirkel:** På en 11-mandsbane har midtercirklen en radius på 9,15 meter fra banens midterpunkt.
+* **Straffesparksplet:** Placeres nøjagtigt 11 meter fra mållinjen og har en diameter på 22 cm. Cirkelbuen uden for feltet har en radius på 9,15 meter fra pletten.
+* **Hjørneflag & kvartcirkel:** Hjørneflag skal være mindst 1,5 meter høje. Ved hvert hjørneafmærkning er der en kvartcirkel med en radius på 1 meter.
 
-En fodboldbane skal være rektangulær (længden skal være større end bredden), og den skal være afmærket med linjer. Linjerne hører med til banen.
+{% include figure image_path="/assets/images/posts/fodboldbanestorrelse-11.png" caption="Oversigt over de officielle mål på en 11-mands fodboldbane" alt="Fodboldbane størrelse og mål i meter" %}
 
-Banen har sidelinjer og baglinjerne hedder i virkeligheden mållinjer.
-
-Banen er delt i to halvdele af midterlinjen, som går helt ud til sidelinjerne.
-
-På en 11-mandsbane er der fra banens centrum en midtercirkel på 9,15 meter i radius.
-
-**Målfeltet** er det mindste felt lige omkring målet. Det har en bredde på 5,5 meter fra indersiden af hver målstolpe. Linjerne er 5,5 meter lange.
-
-**Straffesparksfeltet** er det store felt, hvor målmanden må tage med hænder. Fra indersiden af hver målstolpe er der 16,5 til siderne af straffesparksfeltet. Linjerne er også 16,5 meter lange.
-
-**Straffesparkspletten** eller **straffesparksmærket** er 11 meter fra mållinjen. Straffesparkspletten er 22 cm i diameter. Der laves en cirkelbue med en radius på 9,15 meter fra straffesparkspletten.
-
-**Hjørneflagene** står i hver hjørne af af banen. Hjørneflagne skal være mindst 1,5 meter høje og have et flag på den.
-
-Ved hjørneflagene er der en kvartcirkel, der har en radius på 1 meter.
-
-{% include figure image_path="/assets/images/posts/fodboldbanestorrelse-11.png" caption="Her kan du se målene på en fodboldbane til 11-mands" alt="størrelse fodboldbane" %}
+---
 
 ## Konklusion
 
-Fodboldbaner kommer altså i mange forskellige størrelser. Jeg har kigget på de officielle retningslinjer fra [DBU](https://www.dbu.dk/turneringer-og-resultater/kampe-og-baner/banestoerrelser/) for at finde banestørrelserne.
+En fodboldbanes størrelse afhænger i høj grad af aldersgruppen og kampformen. Alt data i denne artikel er baseret på de officielle retningslinjer fra [DBU](https://www.dbu.dk/turneringer-og-resultater/kampe-og-baner/banestoerrelser/).
 
-Jeg har også skrevet lidt om [størrelsen på en fodbold og hvor meget den vejer her]({% link _posts/2021-06-12-fodbold-storrelse.md %}).
+Vil du vide mere om udstyret? Læs også vores guide om [hvor meget en fodbold vejer og dens størrelse her](/hvor-stor-og-hvad-vejer-en-fodbold/).
+
+## Ofte stillede spørgsmål
+
+{% include faq.html %}

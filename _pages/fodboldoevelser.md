@@ -71,6 +71,6 @@ Jeg har udvalgt en række fodboldøvelser, som du kan bruge til at træne forsva
 
 Jeg har samlet en masse fodboldøvelser og træningsøvelser til fodbold, som du kan bruge  til de unge årgange. Så uanset om du træner U8, U9, U10, U11, U12, U13 eller U14 kan du finde inspiration i her på siden.
 
-Jeg har været med til at skrive Børnetræningsmanualen, hvor du kan lære mere om at træne børn i alderen 6-14 år. Der er masser af rigtig god information i hæftet. Du kan læse mere om [Børnetræningsmanualen her]({% link _pages/bornetraeningsmanualen.md %}).
+Jeg har været med til at skrive Børnetræningsmanualen, hvor du kan lære mere om at træne børn i alderen 6-14 år. Der er masser af rigtig god information i hæftet. Du kan læse mere om [Børnetræningsmanualen her](/bornetraeningsmanualen/).
 
 {% include feature_row type="left" %}

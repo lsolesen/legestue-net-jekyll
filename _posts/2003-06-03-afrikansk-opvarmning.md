@@ -100,4 +100,4 @@ i afrikansk opvarmning.
 
 ## Lav selv afrikansk opvarmning
 
-Jeg har skrevet mere om [udstrækning på afrikansk]({% link _posts/2003-06-03-udsp-nding-p-sydafrikansk-n-r-det-t-rre-bliver-sjovt.md %}), men jeg har også skrevet meget mere om [fodboldrytmer](/fodboldrytmer/), som bl.a. tager udgangspunkt i mine oplevelser med afrikansk opvarmning, mens jeg var i Sydafrika tidligere. Det blev bl.a. også temaet på DBUs Fodboldskole.
+Jeg har skrevet mere om [udstrækning på afrikansk](/udsp-nding-p-sydafrikansk-n-r-det-t-rre-bliver-sjovt/), men jeg har også skrevet meget mere om [fodboldrytmer](/fodboldrytmer/), som bl.a. tager udgangspunkt i mine oplevelser med afrikansk opvarmning, mens jeg var i Sydafrika tidligere. Det blev bl.a. også temaet på DBUs Fodboldskole.

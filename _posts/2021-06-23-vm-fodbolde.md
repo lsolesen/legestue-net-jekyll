@@ -173,7 +173,7 @@ Den første kendte VM-bold er helt tilbage fra det første VM i Uruguay. Histori
 
 Fra 1970 er det Adidas der har produceret VM-fodbolden startende med den ikoniske Telstar-bold af læder.
 
-Hvis du er på udkig efter at læse mere om [EM-fodbolden så tjek her]({% link _posts/2021-06-23-em-fodbolde.md %}).
+Hvis du er på udkig efter at læse mere om [EM-fodbolden så tjek her](/em-fodbolde/).
 
 Husk at læse helt til enden af artiklen, hvor der er en video som giver et rigtig godt overblik over fodboldens udvikling.
 
@@ -219,4 +219,4 @@ Du vil helt sikkert være interesseret i at kigge lidt på fodboldens udvikling,
 
 {% include video provider="youtube" id="ZB5s_Mzc_Qw" %}
 
-Husk også at tjekke vores gennemgang af [EM fodbolde her]({% link _posts/2021-06-23-em-fodbolde.md %}).
+Husk også at tjekke vores gennemgang af [EM fodbolde her](/em-fodbolde/).

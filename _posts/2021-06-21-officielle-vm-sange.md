@@ -192,7 +192,7 @@ FIFA har siden 1962 udgivet en officiel sang til hver VM-slutrunde. Jeg har her 
 
 Det gør FIFA hver eneste år der er verdensmesterskaber. Kunstnerne til VM-sangene er nogle store kunstere, og de kan ofte blive sunget på flere sprog.
 
-Jeg har lavet en komplet liste over [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}) og du kan se de [officielle EM-sange fra UEFA her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
+Jeg har lavet en komplet liste over [danske fodboldsange og landsholdssange her](/danske-fodboldsange-og-kampsange/) og du kan se de [officielle EM-sange fra UEFA her](/officielle-em-slutrunde-sange/).
 
 Det fede ved at se **musikvideoerne til de officielle VM-sange** er, at de er fyldt med rigtig lækre fodboldbilleder og nostalgi.
 
@@ -258,7 +258,7 @@ Her har du en hurtig oversigt over de forskellige fodboldsange, der er lavet til
 | {{ song.title }} | {{ song.year }} | {{ song.event }} | {{ song.artist }} |
 {%- endfor %}
 
-Tjek alle de [danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}).
+Tjek alle de [danske fodboldsange og landsholdssange her](/danske-fodboldsange-og-kampsange/).
 
 ## Playliste med officielle sange fra FIFA
 
@@ -272,4 +272,4 @@ Så nu skal du egentlig bare have valgt den bedste VM-sang. Her har du lige den 
 - {{ song.artist }}: {{ song.title }} --- {{ song.year }}, {{ song.event }}
 {%- endfor %}
 
-Rigtig god fornøjelse med at nyde VM-slutrunderne. Husk at tjekke den [komplette liste over danske fodboldsange og landsholdssange her]({% link _posts/2021-06-17-danske-fodboldsange.md %}) og de [officielle EM-sange fra UEFA her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
+Rigtig god fornøjelse med at nyde VM-slutrunderne. Husk at tjekke den [komplette liste over danske fodboldsange og landsholdssange her](/danske-fodboldsange-og-kampsange/) og de [officielle EM-sange fra UEFA her](/officielle-em-slutrunde-sange/).

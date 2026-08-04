@@ -56,7 +56,7 @@ Fejlene skal ikke ligge som en konstant påmindelse. Det væsentlige er, at du h
 
 Dette har nogle implikationer for den måde træning skal organiseres på. Flere trænere forsøger med kompetetiv træning at gøre træningen mere lig kamp. Det gør de ved at sætte noget på spil, fx kan det koste armstrækninger at sparke over mål. Lad os tage et øjeblik, hvor vi tænker over den ramme træneren her får sat op.
 
-Jeg har skrevet et andet indlæg, der handler om [kompetetiv træning]({% link _posts/2009-06-03-kompetetiv-traening-revisited.md %}) og [kompetetive arbejdsform]({% link _posts/2003-01-06-kompetetive-arbejdsform.md %}).
+Jeg har skrevet et andet indlæg, der handler om [kompetetiv træning](/kompetetiv-traening-revisited/) og [kompetetive arbejdsform](/kompetetive-arbejdsform/).
 
 ## Den forkerte fremgangsmåde
 
@@ -86,4 +86,4 @@ Reedswain Inc 612, Pughtown Road, Spring City, Pennsylvania, 19475 USA, www.reed
 
 {% include feature_row type="left" %}
 
-Jeg har skrevet en side med inspiration til andre [fodboldbøger her]({% link _posts/2021-06-05-fodboldboeger.md %}).
+Jeg har skrevet en side med inspiration til andre [fodboldbøger her](/bedste-fodboldboeger/).

@@ -224,7 +224,7 @@ Den sidste på listen er naturligvis ikke en dansk fodboldsang, men derfor kan d
 
 {% include video provider="youtube" id="kGT73GcwhCU" %}
 
-Jeg har lavet en [komplet liste over de officielle EM-sange her]({% link _posts/2021-06-17-officielle-em-sange.md %}).
+Jeg har lavet en [komplet liste over de officielle EM-sange her](/officielle-em-slutrunde-sange/).
 
 Men hvorfor bruger vi så egentlig ikke bare Re-Sepp-Ten hvert år? [Politiken.dk](https://politiken.dk/podcast/dulyttertilpolitiken/art8241432/Fodboldsange-Hvorfor-bruger-de-ikke-bare-Re-Sepp-ten-hvert-%C3%A5r) har lavet en glimrende podcast om de danske fodboldsange.
 
@@ -275,4 +275,4 @@ Så nu skal du egentlig bare have valgt den bedste fodboldslagsang. Her har du l
 
 Rigtig god fornøjelse med at nyde Herrelandsholdet og Kvindelandsholdet, når de tørner ud for Danmark.
 
-Husk at tjekke den [komplette liste over de officielle EM-sange her]({% link _posts/2021-06-17-officielle-em-sange.md %}) og [listen over VM-sange]({% link _posts/2021-06-21-officielle-vm-sange.md %}).
+Husk at tjekke den [komplette liste over de officielle EM-sange her](/officielle-em-slutrunde-sange/) og [listen over VM-sange](/officielle-vm-slutrunde-sange/).

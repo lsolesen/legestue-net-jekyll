@@ -34,4 +34,4 @@ Coerver Coaching kan dog sagtens bruges i træningen. Det er fint som opvarmning
 
 Det er en god allround bog, når fodbold skal introduceres til yngre spillere. Den har masser af holdning og brugbare træningsøvelser.
 
-Jeg har skrevet en side med inspiration til andre [fodboldbøger her]({% link _posts/2021-06-05-fodboldboeger.md %}).
+Jeg har skrevet en side med inspiration til andre [fodboldbøger her](/bedste-fodboldboeger/).

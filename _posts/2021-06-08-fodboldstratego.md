@@ -110,4 +110,4 @@ har erobret ind i deres ’hjemland’
 
 ## Andre fodboldlege
 
-Jeg har også samlet andre [fodboldlege her]({% link _pages/lege-archive.md %}).
+Jeg har også samlet andre [fodboldlege her](/lege/).

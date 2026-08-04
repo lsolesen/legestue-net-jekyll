@@ -93,4 +93,4 @@ Ved frie vægte skal man være opmærksom på at det kræver lang tids løfte-te
 
 ## Konklusion
 
-Jeg har skrevet et andet indlæg, der handler om [eksplosiv styrketræning for fodboldspillere]({% link _posts/2020-08-19-eksplosiv-styrke.md %}) og om hvordan [styrketræning kan forebygge skader for fodboldspillere]({% link _posts/2009-08-06-undga-skader.md %}).
+Jeg har skrevet et andet indlæg, der handler om [eksplosiv styrketræning for fodboldspillere](/eksplosiv-styrke/) og om hvordan [styrketræning kan forebygge skader for fodboldspillere](/skadesforebyggelse-undgaa-skader-i-fodbold/).

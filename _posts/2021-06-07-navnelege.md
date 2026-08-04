@@ -55,4 +55,4 @@ I det efterfølgende har vi givet et par bud på, hvordan man kan lære og lagre
 
 Hvis du kender andre gode navnelege til fodbold, så send dem endelig. Så forbedrer jeg denne side med det samme.
 
-Jeg har også samlet andre [fodboldlege her]({% link _pages/lege-archive.md %}).
+Jeg har også samlet andre [fodboldlege her](/lege/).

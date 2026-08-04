@@ -81,4 +81,4 @@ Når træneren planlægger, er det en god ide at have samme øvelse som sidste �
 
 ## Andre fodboldlege
 
-Jeg har også samlet andre [fodboldlege her]({% link _pages/lege-archive.md %}).
+Jeg har også samlet andre [fodboldlege her](/lege/).
