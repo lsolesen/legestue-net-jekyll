@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/pdf/
+Disallow: /detroitchicago/
+Disallow: /porpoiseant/
+Disallow: /beardeddragon/
+Disallow: /tardisrocinante/
+Disallow: /parsonsmaize/
+Disallow: /edomontonalberta/
+Disallow: /ezais/
+Sitemap: https://www.legestue.net/sitemap.xml
